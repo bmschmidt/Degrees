@@ -1,0 +1,921 @@
+"year"	"gender"	"field"	"count"	"total"
+"1966"	"Female"	"Agriculture"	0	675
+"1966"	"Male"	"Vocational Studies and Home Economics"	0	675
+"1966"	"Female"	"Physical Sciences"	0	675
+"1966"	"Male"	"Social Sciences, Other"	0	675
+"1966"	"Male"	"Business"	0	675
+"1966"	"Female"	"Life Sciences"	56	675
+"1966"	"Male"	"Agriculture"	0	675
+"1966"	"Male"	"Life Sciences"	616	675
+"1966"	"Female"	"Engineering"	0	675
+"1966"	"Male"	"Other/Unknown"	0	675
+"1966"	"Female"	"Social Sciences, Other"	0	675
+"1966"	"Male"	"Psychology"	0	675
+"1966"	"Female"	"Business"	0	675
+"1966"	"Female"	"Psychology"	0	675
+"1966"	"Male"	"Engineering"	0	675
+"1966"	"Female"	"Computer Science"	0	675
+"1966"	"Male"	"Computer Science"	0	675
+"1966"	"Female"	"Other/Unknown"	0	675
+"1966"	"Female"	"Vocational Studies and Home Economics"	0	675
+"1966"	"Male"	"Physical Sciences"	3	675
+"1967"	"Male"	"Computer Science"	0	773
+"1967"	"Male"	"Agriculture"	0	773
+"1967"	"Male"	"Psychology"	0	773
+"1967"	"Male"	"Engineering"	0	773
+"1967"	"Female"	"Life Sciences"	120	773
+"1967"	"Female"	"Social Sciences, Other"	0	773
+"1967"	"Female"	"Business"	0	773
+"1967"	"Female"	"Agriculture"	0	773
+"1967"	"Female"	"Computer Science"	0	773
+"1967"	"Male"	"Vocational Studies and Home Economics"	0	773
+"1967"	"Female"	"Physical Sciences"	2	773
+"1967"	"Male"	"Business"	0	773
+"1967"	"Female"	"Psychology"	0	773
+"1967"	"Male"	"Other/Unknown"	0	773
+"1967"	"Female"	"Vocational Studies and Home Economics"	0	773
+"1967"	"Female"	"Engineering"	17	773
+"1967"	"Female"	"Other/Unknown"	0	773
+"1967"	"Male"	"Social Sciences, Other"	0	773
+"1967"	"Male"	"Life Sciences"	625	773
+"1967"	"Male"	"Physical Sciences"	9	773
+"1968"	"Male"	"Agriculture"	0	768
+"1968"	"Female"	"Business"	0	768
+"1968"	"Male"	"Engineering"	0	768
+"1968"	"Female"	"Life Sciences"	143	768
+"1968"	"Male"	"Computer Science"	0	768
+"1968"	"Female"	"Other/Unknown"	0	768
+"1968"	"Male"	"Social Sciences, Other"	0	768
+"1968"	"Female"	"Computer Science"	0	768
+"1968"	"Male"	"Psychology"	0	768
+"1968"	"Female"	"Agriculture"	0	768
+"1968"	"Male"	"Physical Sciences"	7	768
+"1968"	"Female"	"Psychology"	0	768
+"1968"	"Female"	"Vocational Studies and Home Economics"	0	768
+"1968"	"Male"	"Life Sciences"	595	768
+"1968"	"Male"	"Business"	0	768
+"1968"	"Male"	"Other/Unknown"	0	768
+"1968"	"Female"	"Physical Sciences"	1	768
+"1968"	"Female"	"Engineering"	22	768
+"1968"	"Female"	"Social Sciences, Other"	0	768
+"1968"	"Male"	"Vocational Studies and Home Economics"	0	768
+"1969"	"Male"	"Engineering"	0	803
+"1969"	"Male"	"Business"	0	803
+"1969"	"Female"	"Psychology"	0	803
+"1969"	"Male"	"Agriculture"	0	803
+"1969"	"Female"	"Engineering"	35	803
+"1969"	"Female"	"Other/Unknown"	0	803
+"1969"	"Female"	"Computer Science"	0	803
+"1969"	"Male"	"Life Sciences"	563	803
+"1969"	"Female"	"Agriculture"	0	803
+"1969"	"Male"	"Social Sciences, Other"	0	803
+"1969"	"Female"	"Business"	0	803
+"1969"	"Male"	"Computer Science"	0	803
+"1969"	"Female"	"Social Sciences, Other"	0	803
+"1969"	"Male"	"Physical Sciences"	13	803
+"1969"	"Female"	"Life Sciences"	190	803
+"1969"	"Male"	"Psychology"	0	803
+"1969"	"Female"	"Physical Sciences"	2	803
+"1969"	"Male"	"Vocational Studies and Home Economics"	0	803
+"1969"	"Male"	"Other/Unknown"	0	803
+"1969"	"Female"	"Vocational Studies and Home Economics"	0	803
+"1970"	"Male"	"Computer Science"	0	827
+"1970"	"Female"	"Agriculture"	0	827
+"1970"	"Female"	"Business"	0	827
+"1970"	"Male"	"Engineering"	0	827
+"1970"	"Male"	"Agriculture"	0	827
+"1970"	"Male"	"Life Sciences"	597	827
+"1970"	"Male"	"Business"	0	827
+"1970"	"Female"	"Other/Unknown"	0	827
+"1970"	"Female"	"Life Sciences"	175	827
+"1970"	"Female"	"Physical Sciences"	0	827
+"1970"	"Female"	"Engineering"	43	827
+"1970"	"Male"	"Physical Sciences"	12	827
+"1970"	"Male"	"Other/Unknown"	0	827
+"1970"	"Male"	"Psychology"	0	827
+"1970"	"Female"	"Social Sciences, Other"	0	827
+"1970"	"Female"	"Psychology"	0	827
+"1970"	"Female"	"Computer Science"	0	827
+"1970"	"Male"	"Vocational Studies and Home Economics"	0	827
+"1970"	"Male"	"Social Sciences, Other"	0	827
+"1970"	"Female"	"Vocational Studies and Home Economics"	0	827
+"1971"	"Female"	"Social Sciences, Other"	0	889
+"1971"	"Female"	"Physical Sciences"	2	889
+"1971"	"Male"	"Social Sciences, Other"	0	889
+"1971"	"Male"	"Psychology"	0	889
+"1971"	"Female"	"Life Sciences"	221	889
+"1971"	"Male"	"Physical Sciences"	12	889
+"1971"	"Male"	"Computer Science"	0	889
+"1971"	"Female"	"Vocational Studies and Home Economics"	0	889
+"1971"	"Male"	"Other/Unknown"	0	889
+"1971"	"Female"	"Agriculture"	0	889
+"1971"	"Female"	"Psychology"	0	889
+"1971"	"Male"	"Life Sciences"	605	889
+"1971"	"Male"	"Vocational Studies and Home Economics"	0	889
+"1971"	"Male"	"Business"	0	889
+"1971"	"Male"	"Engineering"	1	889
+"1971"	"Male"	"Agriculture"	0	889
+"1971"	"Female"	"Engineering"	48	889
+"1971"	"Female"	"Business"	0	889
+"1971"	"Female"	"Other/Unknown"	0	889
+"1971"	"Female"	"Computer Science"	0	889
+"1972"	"Male"	"Computer Science"	0	1111
+"1972"	"Female"	"Social Sciences, Other"	0	1111
+"1972"	"Female"	"Vocational Studies and Home Economics"	0	1111
+"1972"	"Male"	"Social Sciences, Other"	0	1111
+"1972"	"Female"	"Psychology"	0	1111
+"1972"	"Female"	"Engineering"	57	1111
+"1972"	"Male"	"Vocational Studies and Home Economics"	0	1111
+"1972"	"Female"	"Physical Sciences"	2	1111
+"1972"	"Male"	"Engineering"	1	1111
+"1972"	"Male"	"Agriculture"	0	1111
+"1972"	"Male"	"Physical Sciences"	11	1111
+"1972"	"Male"	"Psychology"	0	1111
+"1972"	"Female"	"Other/Unknown"	0	1111
+"1972"	"Female"	"Computer Science"	0	1111
+"1972"	"Female"	"Life Sciences"	257	1111
+"1972"	"Female"	"Business"	0	1111
+"1972"	"Female"	"Agriculture"	0	1111
+"1972"	"Male"	"Other/Unknown"	0	1111
+"1972"	"Male"	"Business"	0	1111
+"1972"	"Male"	"Life Sciences"	783	1111
+"1973"	"Female"	"Physical Sciences"	1	926
+"1973"	"Female"	"Engineering"	62	926
+"1973"	"Female"	"Agriculture"	0	926
+"1973"	"Male"	"Computer Science"	0	926
+"1973"	"Male"	"Vocational Studies and Home Economics"	0	926
+"1973"	"Male"	"Business"	0	926
+"1973"	"Female"	"Computer Science"	0	926
+"1973"	"Male"	"Agriculture"	0	926
+"1973"	"Male"	"Physical Sciences"	6	926
+"1973"	"Female"	"Business"	0	926
+"1973"	"Male"	"Engineering"	2	926
+"1973"	"Male"	"Other/Unknown"	0	926
+"1973"	"Female"	"Life Sciences"	287	926
+"1973"	"Male"	"Psychology"	0	926
+"1973"	"Male"	"Life Sciences"	568	926
+"1973"	"Female"	"Psychology"	0	926
+"1973"	"Male"	"Social Sciences, Other"	0	926
+"1973"	"Female"	"Vocational Studies and Home Economics"	0	926
+"1973"	"Female"	"Other/Unknown"	0	926
+"1973"	"Female"	"Social Sciences, Other"	0	926
+"1974"	"Female"	"Business"	0	1415
+"1974"	"Female"	"Engineering"	59	1415
+"1974"	"Male"	"Physical Sciences"	154	1415
+"1974"	"Male"	"Psychology"	0	1415
+"1974"	"Female"	"Physical Sciences"	10	1415
+"1974"	"Male"	"Computer Science"	0	1415
+"1974"	"Male"	"Vocational Studies and Home Economics"	0	1415
+"1974"	"Male"	"Life Sciences"	615	1415
+"1974"	"Female"	"Agriculture"	0	1415
+"1974"	"Male"	"Engineering"	2	1415
+"1974"	"Male"	"Agriculture"	0	1415
+"1974"	"Female"	"Life Sciences"	575	1415
+"1974"	"Female"	"Social Sciences, Other"	0	1415
+"1974"	"Female"	"Other/Unknown"	0	1415
+"1974"	"Female"	"Computer Science"	0	1415
+"1974"	"Male"	"Other/Unknown"	0	1415
+"1974"	"Female"	"Vocational Studies and Home Economics"	0	1415
+"1974"	"Male"	"Business"	0	1415
+"1974"	"Female"	"Psychology"	0	1415
+"1974"	"Male"	"Social Sciences, Other"	0	1415
+"1975"	"Female"	"Engineering"	51	1624
+"1975"	"Male"	"Physical Sciences"	128	1624
+"1975"	"Female"	"Business"	0	1624
+"1975"	"Male"	"Vocational Studies and Home Economics"	0	1624
+"1975"	"Female"	"Life Sciences"	702	1624
+"1975"	"Male"	"Psychology"	0	1624
+"1975"	"Male"	"Computer Science"	0	1624
+"1975"	"Male"	"Agriculture"	0	1624
+"1975"	"Male"	"Engineering"	2	1624
+"1975"	"Female"	"Vocational Studies and Home Economics"	0	1624
+"1975"	"Male"	"Life Sciences"	731	1624
+"1975"	"Female"	"Physical Sciences"	10	1624
+"1975"	"Female"	"Other/Unknown"	0	1624
+"1975"	"Female"	"Computer Science"	0	1624
+"1975"	"Male"	"Other/Unknown"	0	1624
+"1975"	"Female"	"Agriculture"	0	1624
+"1975"	"Female"	"Psychology"	0	1624
+"1975"	"Male"	"Business"	0	1624
+"1975"	"Male"	"Social Sciences, Other"	0	1624
+"1975"	"Female"	"Social Sciences, Other"	0	1624
+"1976"	"Female"	"Engineering"	55	1992
+"1976"	"Male"	"Psychology"	0	1992
+"1976"	"Female"	"Physical Sciences"	10	1992
+"1976"	"Male"	"Vocational Studies and Home Economics"	0	1992
+"1976"	"Male"	"Life Sciences"	873	1992
+"1976"	"Male"	"Physical Sciences"	128	1992
+"1976"	"Female"	"Life Sciences"	926	1992
+"1976"	"Male"	"Business"	0	1992
+"1976"	"Female"	"Agriculture"	0	1992
+"1976"	"Male"	"Engineering"	0	1992
+"1976"	"Female"	"Computer Science"	0	1992
+"1976"	"Male"	"Other/Unknown"	0	1992
+"1976"	"Female"	"Vocational Studies and Home Economics"	0	1992
+"1976"	"Female"	"Other/Unknown"	0	1992
+"1976"	"Female"	"Psychology"	0	1992
+"1976"	"Male"	"Agriculture"	0	1992
+"1976"	"Female"	"Social Sciences, Other"	0	1992
+"1976"	"Male"	"Social Sciences, Other"	0	1992
+"1976"	"Female"	"Business"	0	1992
+"1976"	"Male"	"Computer Science"	0	1992
+"1977"	"Female"	"Physical Sciences"	15	1322
+"1977"	"Male"	"Social Sciences, Other"	0	1322
+"1977"	"Male"	"Physical Sciences"	107	1322
+"1977"	"Male"	"Life Sciences"	899	1322
+"1977"	"Female"	"Life Sciences"	226	1322
+"1977"	"Male"	"Psychology"	0	1322
+"1977"	"Female"	"Social Sciences, Other"	0	1322
+"1977"	"Male"	"Computer Science"	0	1322
+"1977"	"Female"	"Psychology"	0	1322
+"1977"	"Male"	"Other/Unknown"	0	1322
+"1977"	"Female"	"Other/Unknown"	0	1322
+"1977"	"Male"	"Business"	0	1322
+"1977"	"Female"	"Agriculture"	0	1322
+"1977"	"Female"	"Engineering"	75	1322
+"1977"	"Female"	"Vocational Studies and Home Economics"	0	1322
+"1977"	"Female"	"Computer Science"	0	1322
+"1977"	"Female"	"Business"	0	1322
+"1977"	"Male"	"Vocational Studies and Home Economics"	0	1322
+"1977"	"Male"	"Engineering"	0	1322
+"1977"	"Male"	"Agriculture"	0	1322
+"1978"	"Male"	"Vocational Studies and Home Economics"	0	1391
+"1978"	"Male"	"Computer Science"	0	1391
+"1978"	"Male"	"Other/Unknown"	0	1391
+"1978"	"Male"	"Physical Sciences"	120	1391
+"1978"	"Female"	"Computer Science"	0	1391
+"1978"	"Female"	"Physical Sciences"	29	1391
+"1978"	"Male"	"Engineering"	2	1391
+"1978"	"Female"	"Vocational Studies and Home Economics"	0	1391
+"1978"	"Female"	"Engineering"	48	1391
+"1978"	"Female"	"Business"	0	1391
+"1978"	"Female"	"Agriculture"	0	1391
+"1978"	"Female"	"Other/Unknown"	0	1391
+"1978"	"Male"	"Agriculture"	0	1391
+"1978"	"Male"	"Psychology"	0	1391
+"1978"	"Male"	"Business"	0	1391
+"1978"	"Female"	"Psychology"	0	1391
+"1978"	"Female"	"Social Sciences, Other"	0	1391
+"1978"	"Male"	"Life Sciences"	907	1391
+"1978"	"Male"	"Social Sciences, Other"	0	1391
+"1978"	"Female"	"Life Sciences"	285	1391
+"1979"	"Male"	"Engineering"	0	1235
+"1979"	"Male"	"Other/Unknown"	0	1235
+"1979"	"Female"	"Computer Science"	0	1235
+"1979"	"Male"	"Vocational Studies and Home Economics"	0	1235
+"1979"	"Female"	"Physical Sciences"	20	1235
+"1979"	"Female"	"Engineering"	48	1235
+"1979"	"Male"	"Physical Sciences"	119	1235
+"1979"	"Male"	"Computer Science"	0	1235
+"1979"	"Male"	"Business"	0	1235
+"1979"	"Female"	"Psychology"	0	1235
+"1979"	"Male"	"Agriculture"	0	1235
+"1979"	"Male"	"Psychology"	0	1235
+"1979"	"Female"	"Business"	0	1235
+"1979"	"Female"	"Agriculture"	0	1235
+"1979"	"Female"	"Vocational Studies and Home Economics"	0	1235
+"1979"	"Female"	"Life Sciences"	268	1235
+"1979"	"Male"	"Life Sciences"	780	1235
+"1979"	"Female"	"Other/Unknown"	0	1235
+"1979"	"Male"	"Social Sciences, Other"	0	1235
+"1979"	"Female"	"Social Sciences, Other"	0	1235
+"1980"	"Male"	"Vocational Studies and Home Economics"	0	1470
+"1980"	"Male"	"Physical Sciences"	133	1470
+"1980"	"Male"	"Engineering"	0	1470
+"1980"	"Female"	"Engineering"	45	1470
+"1980"	"Male"	"Agriculture"	0	1470
+"1980"	"Female"	"Computer Science"	0	1470
+"1980"	"Female"	"Psychology"	0	1470
+"1980"	"Female"	"Vocational Studies and Home Economics"	0	1470
+"1980"	"Female"	"Other/Unknown"	0	1470
+"1980"	"Male"	"Psychology"	0	1470
+"1980"	"Male"	"Computer Science"	0	1470
+"1980"	"Male"	"Other/Unknown"	0	1470
+"1980"	"Female"	"Agriculture"	0	1470
+"1980"	"Female"	"Life Sciences"	343	1470
+"1980"	"Female"	"Business"	0	1470
+"1980"	"Female"	"Physical Sciences"	28	1470
+"1980"	"Male"	"Business"	0	1470
+"1980"	"Male"	"Social Sciences, Other"	0	1470
+"1980"	"Male"	"Life Sciences"	921	1470
+"1980"	"Female"	"Social Sciences, Other"	0	1470
+"1981"	"Female"	"Engineering"	54	1461
+"1981"	"Male"	"Engineering"	0	1461
+"1981"	"Male"	"Agriculture"	0	1461
+"1981"	"Male"	"Computer Science"	0	1461
+"1981"	"Male"	"Vocational Studies and Home Economics"	0	1461
+"1981"	"Female"	"Agriculture"	0	1461
+"1981"	"Female"	"Psychology"	0	1461
+"1981"	"Male"	"Physical Sciences"	123	1461
+"1981"	"Male"	"Other/Unknown"	0	1461
+"1981"	"Male"	"Life Sciences"	882	1461
+"1981"	"Female"	"Other/Unknown"	0	1461
+"1981"	"Female"	"Life Sciences"	374	1461
+"1981"	"Female"	"Physical Sciences"	28	1461
+"1981"	"Female"	"Business"	0	1461
+"1981"	"Female"	"Vocational Studies and Home Economics"	0	1461
+"1981"	"Female"	"Computer Science"	0	1461
+"1981"	"Male"	"Business"	0	1461
+"1981"	"Male"	"Social Sciences, Other"	0	1461
+"1981"	"Male"	"Psychology"	0	1461
+"1981"	"Female"	"Social Sciences, Other"	0	1461
+"1982"	"Male"	"Computer Science"	0	1443
+"1982"	"Female"	"Computer Science"	0	1443
+"1982"	"Male"	"Physical Sciences"	114	1443
+"1982"	"Female"	"Agriculture"	0	1443
+"1982"	"Female"	"Psychology"	0	1443
+"1982"	"Male"	"Engineering"	1	1443
+"1982"	"Male"	"Vocational Studies and Home Economics"	0	1443
+"1982"	"Female"	"Physical Sciences"	42	1443
+"1982"	"Female"	"Other/Unknown"	0	1443
+"1982"	"Female"	"Life Sciences"	402	1443
+"1982"	"Female"	"Engineering"	42	1443
+"1982"	"Male"	"Agriculture"	0	1443
+"1982"	"Male"	"Other/Unknown"	0	1443
+"1982"	"Female"	"Vocational Studies and Home Economics"	0	1443
+"1982"	"Male"	"Psychology"	0	1443
+"1982"	"Female"	"Social Sciences, Other"	0	1443
+"1982"	"Male"	"Life Sciences"	842	1443
+"1982"	"Female"	"Business"	0	1443
+"1982"	"Male"	"Business"	0	1443
+"1982"	"Male"	"Social Sciences, Other"	0	1443
+"1983"	"Male"	"Vocational Studies and Home Economics"	0	1305
+"1983"	"Female"	"Physical Sciences"	3	1305
+"1983"	"Male"	"Social Sciences, Other"	0	1305
+"1983"	"Female"	"Vocational Studies and Home Economics"	0	1305
+"1983"	"Male"	"Business"	0	1305
+"1983"	"Female"	"Other/Unknown"	0	1305
+"1983"	"Male"	"Physical Sciences"	2	1305
+"1983"	"Female"	"Social Sciences, Other"	0	1305
+"1983"	"Female"	"Computer Science"	0	1305
+"1983"	"Male"	"Other/Unknown"	0	1305
+"1983"	"Male"	"Computer Science"	0	1305
+"1983"	"Male"	"Engineering"	1	1305
+"1983"	"Male"	"Life Sciences"	810	1305
+"1983"	"Female"	"Psychology"	0	1305
+"1983"	"Female"	"Business"	0	1305
+"1983"	"Female"	"Life Sciences"	448	1305
+"1983"	"Male"	"Agriculture"	0	1305
+"1983"	"Female"	"Engineering"	41	1305
+"1983"	"Female"	"Agriculture"	0	1305
+"1983"	"Male"	"Psychology"	0	1305
+"1984"	"Male"	"Other/Unknown"	0	1274
+"1984"	"Male"	"Engineering"	1	1274
+"1984"	"Male"	"Business"	0	1274
+"1984"	"Male"	"Social Sciences, Other"	0	1274
+"1984"	"Male"	"Computer Science"	0	1274
+"1984"	"Female"	"Psychology"	0	1274
+"1984"	"Female"	"Computer Science"	0	1274
+"1984"	"Female"	"Vocational Studies and Home Economics"	0	1274
+"1984"	"Female"	"Other/Unknown"	0	1274
+"1984"	"Female"	"Physical Sciences"	5	1274
+"1984"	"Male"	"Agriculture"	0	1274
+"1984"	"Female"	"Engineering"	43	1274
+"1984"	"Female"	"Business"	0	1274
+"1984"	"Male"	"Life Sciences"	785	1274
+"1984"	"Female"	"Agriculture"	0	1274
+"1984"	"Male"	"Vocational Studies and Home Economics"	0	1274
+"1984"	"Male"	"Physical Sciences"	5	1274
+"1984"	"Male"	"Psychology"	0	1274
+"1984"	"Female"	"Life Sciences"	435	1274
+"1984"	"Female"	"Social Sciences, Other"	0	1274
+"1985"	"Male"	"Engineering"	1	1531
+"1985"	"Male"	"Vocational Studies and Home Economics"	0	1531
+"1985"	"Male"	"Computer Science"	0	1531
+"1985"	"Female"	"Psychology"	0	1531
+"1985"	"Male"	"Other/Unknown"	0	1531
+"1985"	"Female"	"Vocational Studies and Home Economics"	0	1531
+"1985"	"Female"	"Other/Unknown"	0	1531
+"1985"	"Female"	"Physical Sciences"	66	1531
+"1985"	"Female"	"Computer Science"	0	1531
+"1985"	"Male"	"Business"	0	1531
+"1985"	"Male"	"Social Sciences, Other"	0	1531
+"1985"	"Female"	"Business"	0	1531
+"1985"	"Female"	"Agriculture"	0	1531
+"1985"	"Female"	"Engineering"	40	1531
+"1985"	"Male"	"Physical Sciences"	97	1531
+"1985"	"Male"	"Psychology"	0	1531
+"1985"	"Male"	"Life Sciences"	733	1531
+"1985"	"Female"	"Social Sciences, Other"	0	1531
+"1985"	"Male"	"Agriculture"	0	1531
+"1985"	"Female"	"Life Sciences"	594	1531
+"1986"	"Male"	"Engineering"	1	1661
+"1986"	"Male"	"Other/Unknown"	0	1661
+"1986"	"Female"	"Vocational Studies and Home Economics"	0	1661
+"1986"	"Male"	"Vocational Studies and Home Economics"	0	1661
+"1986"	"Male"	"Computer Science"	0	1661
+"1986"	"Female"	"Psychology"	0	1661
+"1986"	"Female"	"Computer Science"	0	1661
+"1986"	"Male"	"Business"	0	1661
+"1986"	"Female"	"Other/Unknown"	0	1661
+"1986"	"Female"	"Physical Sciences"	54	1661
+"1986"	"Female"	"Agriculture"	0	1661
+"1986"	"Female"	"Engineering"	34	1661
+"1986"	"Male"	"Social Sciences, Other"	0	1661
+"1986"	"Female"	"Business"	0	1661
+"1986"	"Male"	"Life Sciences"	772	1661
+"1986"	"Female"	"Social Sciences, Other"	0	1661
+"1986"	"Male"	"Physical Sciences"	81	1661
+"1986"	"Male"	"Psychology"	0	1661
+"1986"	"Male"	"Agriculture"	0	1661
+"1986"	"Female"	"Life Sciences"	719	1661
+"1987"	"Male"	"Computer Science"	0	1621
+"1987"	"Female"	"Computer Science"	0	1621
+"1987"	"Female"	"Vocational Studies and Home Economics"	4	1621
+"1987"	"Male"	"Vocational Studies and Home Economics"	2	1621
+"1987"	"Female"	"Engineering"	32	1621
+"1987"	"Male"	"Other/Unknown"	0	1621
+"1987"	"Male"	"Social Sciences, Other"	0	1621
+"1987"	"Female"	"Physical Sciences"	4	1621
+"1987"	"Male"	"Engineering"	2	1621
+"1987"	"Male"	"Business"	0	1621
+"1987"	"Male"	"Agriculture"	0	1621
+"1987"	"Female"	"Business"	0	1621
+"1987"	"Female"	"Agriculture"	0	1621
+"1987"	"Male"	"Physical Sciences"	23	1621
+"1987"	"Female"	"Life Sciences"	801	1621
+"1987"	"Male"	"Psychology"	0	1621
+"1987"	"Female"	"Other/Unknown"	0	1621
+"1987"	"Female"	"Psychology"	0	1621
+"1987"	"Male"	"Life Sciences"	753	1621
+"1987"	"Female"	"Social Sciences, Other"	0	1621
+"1988"	"Male"	"Other/Unknown"	0	1736
+"1988"	"Female"	"Vocational Studies and Home Economics"	4	1736
+"1988"	"Female"	"Psychology"	0	1736
+"1988"	"Male"	"Physical Sciences"	139	1736
+"1988"	"Female"	"Life Sciences"	838	1736
+"1988"	"Male"	"Vocational Studies and Home Economics"	2	1736
+"1988"	"Female"	"Physical Sciences"	77	1736
+"1988"	"Female"	"Business"	0	1736
+"1988"	"Male"	"Psychology"	0	1736
+"1988"	"Male"	"Life Sciences"	647	1736
+"1988"	"Male"	"Computer Science"	0	1736
+"1988"	"Female"	"Other/Unknown"	0	1736
+"1988"	"Male"	"Business"	0	1736
+"1988"	"Male"	"Social Sciences, Other"	0	1736
+"1988"	"Female"	"Social Sciences, Other"	0	1736
+"1988"	"Female"	"Agriculture"	0	1736
+"1988"	"Female"	"Computer Science"	0	1736
+"1988"	"Male"	"Agriculture"	0	1736
+"1988"	"Female"	"Engineering"	28	1736
+"1988"	"Male"	"Engineering"	1	1736
+"1989"	"Female"	"Physical Sciences"	99	2080
+"1989"	"Male"	"Physical Sciences"	149	2080
+"1989"	"Female"	"Vocational Studies and Home Economics"	0	2080
+"1989"	"Male"	"Psychology"	0	2080
+"1989"	"Male"	"Vocational Studies and Home Economics"	0	2080
+"1989"	"Male"	"Business"	0	2080
+"1989"	"Female"	"Business"	0	2080
+"1989"	"Female"	"Social Sciences, Other"	0	2080
+"1989"	"Male"	"Life Sciences"	765	2080
+"1989"	"Female"	"Psychology"	0	2080
+"1989"	"Female"	"Other/Unknown"	10	2080
+"1989"	"Female"	"Computer Science"	0	2080
+"1989"	"Male"	"Social Sciences, Other"	0	2080
+"1989"	"Male"	"Engineering"	8	2080
+"1989"	"Female"	"Agriculture"	0	2080
+"1989"	"Male"	"Other/Unknown"	40	2080
+"1989"	"Female"	"Engineering"	35	2080
+"1989"	"Male"	"Computer Science"	0	2080
+"1989"	"Male"	"Agriculture"	0	2080
+"1989"	"Female"	"Life Sciences"	974	2080
+"1990"	"Male"	"Business"	0	2101
+"1990"	"Female"	"Other/Unknown"	10	2101
+"1990"	"Male"	"Computer Science"	0	2101
+"1990"	"Male"	"Life Sciences"	760	2101
+"1990"	"Female"	"Computer Science"	0	2101
+"1990"	"Male"	"Other/Unknown"	40	2101
+"1990"	"Female"	"Engineering"	33	2101
+"1990"	"Male"	"Vocational Studies and Home Economics"	0	2101
+"1990"	"Male"	"Social Sciences, Other"	0	2101
+"1990"	"Female"	"Vocational Studies and Home Economics"	0	2101
+"1990"	"Female"	"Social Sciences, Other"	0	2101
+"1990"	"Female"	"Physical Sciences"	92	2101
+"1990"	"Male"	"Engineering"	8	2101
+"1990"	"Female"	"Business"	0	2101
+"1990"	"Female"	"Life Sciences"	1039	2101
+"1990"	"Male"	"Physical Sciences"	119	2101
+"1990"	"Female"	"Agriculture"	0	2101
+"1990"	"Male"	"Agriculture"	0	2101
+"1990"	"Male"	"Psychology"	0	2101
+"1990"	"Female"	"Psychology"	0	2101
+"1991"	"Male"	"Other/Unknown"	11	2212
+"1991"	"Female"	"Vocational Studies and Home Economics"	0	2212
+"1991"	"Female"	"Computer Science"	0	2212
+"1991"	"Female"	"Engineering"	19	2212
+"1991"	"Male"	"Business"	0	2212
+"1991"	"Female"	"Other/Unknown"	13	2212
+"1991"	"Male"	"Social Sciences, Other"	0	2212
+"1991"	"Female"	"Business"	0	2212
+"1991"	"Male"	"Physical Sciences"	163	2212
+"1991"	"Male"	"Vocational Studies and Home Economics"	0	2212
+"1991"	"Male"	"Engineering"	2	2212
+"1991"	"Male"	"Life Sciences"	736	2212
+"1991"	"Female"	"Social Sciences, Other"	0	2212
+"1991"	"Male"	"Psychology"	0	2212
+"1991"	"Male"	"Computer Science"	0	2212
+"1991"	"Female"	"Psychology"	0	2212
+"1991"	"Female"	"Agriculture"	0	2212
+"1991"	"Male"	"Agriculture"	0	2212
+"1991"	"Female"	"Life Sciences"	1171	2212
+"1991"	"Female"	"Physical Sciences"	97	2212
+"1992"	"Male"	"Other/Unknown"	0	2231
+"1992"	"Female"	"Vocational Studies and Home Economics"	0	2231
+"1992"	"Male"	"Business"	0	2231
+"1992"	"Female"	"Other/Unknown"	0	2231
+"1992"	"Female"	"Computer Science"	0	2231
+"1992"	"Female"	"Engineering"	97	2231
+"1992"	"Male"	"Physical Sciences"	163	2231
+"1992"	"Male"	"Vocational Studies and Home Economics"	0	2231
+"1992"	"Male"	"Social Sciences, Other"	0	2231
+"1992"	"Female"	"Business"	0	2231
+"1992"	"Female"	"Social Sciences, Other"	0	2231
+"1992"	"Male"	"Psychology"	0	2231
+"1992"	"Male"	"Engineering"	104	2231
+"1992"	"Male"	"Life Sciences"	559	2231
+"1992"	"Male"	"Agriculture"	0	2231
+"1992"	"Female"	"Life Sciences"	1207	2231
+"1992"	"Male"	"Computer Science"	0	2231
+"1992"	"Female"	"Psychology"	0	2231
+"1992"	"Female"	"Agriculture"	0	2231
+"1992"	"Female"	"Physical Sciences"	101	2231
+"1993"	"Male"	"Business"	1	2314
+"1993"	"Male"	"Other/Unknown"	0	2314
+"1993"	"Female"	"Computer Science"	0	2314
+"1993"	"Female"	"Engineering"	80	2314
+"1993"	"Female"	"Agriculture"	0	2314
+"1993"	"Male"	"Vocational Studies and Home Economics"	0	2314
+"1993"	"Female"	"Other/Unknown"	0	2314
+"1993"	"Male"	"Social Sciences, Other"	0	2314
+"1993"	"Male"	"Physical Sciences"	151	2314
+"1993"	"Female"	"Vocational Studies and Home Economics"	0	2314
+"1993"	"Male"	"Engineering"	109	2314
+"1993"	"Male"	"Life Sciences"	598	2314
+"1993"	"Male"	"Agriculture"	0	2314
+"1993"	"Male"	"Psychology"	0	2314
+"1993"	"Male"	"Computer Science"	0	2314
+"1993"	"Female"	"Psychology"	0	2314
+"1993"	"Female"	"Business"	0	2314
+"1993"	"Female"	"Social Sciences, Other"	0	2314
+"1993"	"Female"	"Physical Sciences"	146	2314
+"1993"	"Female"	"Life Sciences"	1229	2314
+"1994"	"Female"	"Computer Science"	0	2742
+"1994"	"Male"	"Vocational Studies and Home Economics"	0	2742
+"1994"	"Male"	"Physical Sciences"	155	2742
+"1994"	"Female"	"Vocational Studies and Home Economics"	0	2742
+"1994"	"Male"	"Other/Unknown"	0	2742
+"1994"	"Male"	"Social Sciences, Other"	0	2742
+"1994"	"Male"	"Computer Science"	0	2742
+"1994"	"Female"	"Other/Unknown"	0	2742
+"1994"	"Female"	"Physical Sciences"	125	2742
+"1994"	"Female"	"Psychology"	0	2742
+"1994"	"Female"	"Life Sciences"	1599	2742
+"1994"	"Male"	"Psychology"	0	2742
+"1994"	"Male"	"Business"	5	2742
+"1994"	"Female"	"Engineering"	119	2742
+"1994"	"Male"	"Life Sciences"	606	2742
+"1994"	"Female"	"Social Sciences, Other"	0	2742
+"1994"	"Male"	"Agriculture"	0	2742
+"1994"	"Female"	"Business"	2	2742
+"1994"	"Male"	"Engineering"	131	2742
+"1994"	"Female"	"Agriculture"	0	2742
+"1995"	"Female"	"Business"	9	2979
+"1995"	"Female"	"Social Sciences, Other"	0	2979
+"1995"	"Male"	"Social Sciences, Other"	0	2979
+"1995"	"Female"	"Other/Unknown"	0	2979
+"1995"	"Male"	"Business"	1	2979
+"1995"	"Female"	"Computer Science"	0	2979
+"1995"	"Male"	"Agriculture"	0	2979
+"1995"	"Female"	"Life Sciences"	1789	2979
+"1995"	"Female"	"Vocational Studies and Home Economics"	0	2979
+"1995"	"Male"	"Physical Sciences"	159	2979
+"1995"	"Male"	"Other/Unknown"	0	2979
+"1995"	"Male"	"Life Sciences"	678	2979
+"1995"	"Male"	"Engineering"	104	2979
+"1995"	"Female"	"Agriculture"	0	2979
+"1995"	"Female"	"Physical Sciences"	137	2979
+"1995"	"Male"	"Computer Science"	0	2979
+"1995"	"Male"	"Vocational Studies and Home Economics"	0	2979
+"1995"	"Female"	"Engineering"	102	2979
+"1995"	"Male"	"Psychology"	0	2979
+"1995"	"Female"	"Psychology"	0	2979
+"1996"	"Male"	"Business"	17	2926
+"1996"	"Female"	"Computer Science"	0	2926
+"1996"	"Female"	"Business"	18	2926
+"1996"	"Female"	"Social Sciences, Other"	0	2926
+"1996"	"Male"	"Psychology"	0	2926
+"1996"	"Male"	"Agriculture"	0	2926
+"1996"	"Male"	"Social Sciences, Other"	0	2926
+"1996"	"Male"	"Engineering"	77	2926
+"1996"	"Male"	"Other/Unknown"	0	2926
+"1996"	"Male"	"Life Sciences"	783	2926
+"1996"	"Female"	"Other/Unknown"	0	2926
+"1996"	"Female"	"Life Sciences"	1656	2926
+"1996"	"Female"	"Engineering"	62	2926
+"1996"	"Male"	"Computer Science"	0	2926
+"1996"	"Male"	"Vocational Studies and Home Economics"	1	2926
+"1996"	"Female"	"Agriculture"	0	2926
+"1996"	"Female"	"Psychology"	0	2926
+"1996"	"Female"	"Vocational Studies and Home Economics"	2	2926
+"1996"	"Female"	"Physical Sciences"	130	2926
+"1996"	"Male"	"Physical Sciences"	180	2926
+"1997"	"Male"	"Business"	13	2707
+"1997"	"Female"	"Other/Unknown"	0	2707
+"1997"	"Female"	"Business"	13	2707
+"1997"	"Female"	"Social Sciences, Other"	0	2707
+"1997"	"Male"	"Engineering"	113	2707
+"1997"	"Male"	"Social Sciences, Other"	0	2707
+"1997"	"Male"	"Other/Unknown"	0	2707
+"1997"	"Male"	"Vocational Studies and Home Economics"	1	2707
+"1997"	"Female"	"Life Sciences"	1363	2707
+"1997"	"Female"	"Psychology"	0	2707
+"1997"	"Female"	"Computer Science"	0	2707
+"1997"	"Male"	"Life Sciences"	739	2707
+"1997"	"Male"	"Agriculture"	0	2707
+"1997"	"Male"	"Computer Science"	0	2707
+"1997"	"Male"	"Psychology"	0	2707
+"1997"	"Female"	"Vocational Studies and Home Economics"	5	2707
+"1997"	"Male"	"Physical Sciences"	215	2707
+"1997"	"Female"	"Physical Sciences"	141	2707
+"1997"	"Female"	"Engineering"	104	2707
+"1997"	"Female"	"Agriculture"	0	2707
+"1998"	"Male"	"Business"	13	2635
+"1998"	"Female"	"Business"	15	2635
+"1998"	"Male"	"Life Sciences"	744	2635
+"1998"	"Female"	"Other/Unknown"	0	2635
+"1998"	"Male"	"Other/Unknown"	0	2635
+"1998"	"Male"	"Agriculture"	0	2635
+"1998"	"Male"	"Vocational Studies and Home Economics"	0	2635
+"1998"	"Male"	"Social Sciences, Other"	0	2635
+"1998"	"Female"	"Computer Science"	0	2635
+"1998"	"Female"	"Vocational Studies and Home Economics"	9	2635
+"1998"	"Male"	"Computer Science"	0	2635
+"1998"	"Female"	"Social Sciences, Other"	0	2635
+"1998"	"Female"	"Psychology"	0	2635
+"1998"	"Female"	"Engineering"	86	2635
+"1998"	"Male"	"Physical Sciences"	191	2635
+"1998"	"Male"	"Engineering"	93	2635
+"1998"	"Female"	"Agriculture"	0	2635
+"1998"	"Male"	"Psychology"	0	2635
+"1998"	"Female"	"Life Sciences"	1347	2635
+"1998"	"Female"	"Physical Sciences"	137	2635
+"1999"	"Male"	"Other/Unknown"	0	2623
+"1999"	"Female"	"Business"	10	2623
+"1999"	"Female"	"Other/Unknown"	0	2623
+"1999"	"Male"	"Business"	9	2623
+"1999"	"Male"	"Computer Science"	0	2623
+"1999"	"Female"	"Social Sciences, Other"	0	2623
+"1999"	"Female"	"Computer Science"	0	2623
+"1999"	"Female"	"Vocational Studies and Home Economics"	11	2623
+"1999"	"Male"	"Life Sciences"	676	2623
+"1999"	"Male"	"Vocational Studies and Home Economics"	0	2623
+"1999"	"Male"	"Social Sciences, Other"	0	2623
+"1999"	"Male"	"Physical Sciences"	184	2623
+"1999"	"Male"	"Agriculture"	0	2623
+"1999"	"Female"	"Physical Sciences"	116	2623
+"1999"	"Male"	"Engineering"	223	2623
+"1999"	"Male"	"Psychology"	0	2623
+"1999"	"Female"	"Engineering"	172	2623
+"1999"	"Female"	"Life Sciences"	1222	2623
+"1999"	"Female"	"Psychology"	0	2623
+"1999"	"Female"	"Agriculture"	0	2623
+"2000"	"Female"	"Vocational Studies and Home Economics"	10	2289
+"2000"	"Female"	"Physical Sciences"	70	2289
+"2000"	"Female"	"Agriculture"	0	2289
+"2000"	"Male"	"Social Sciences, Other"	0	2289
+"2000"	"Male"	"Psychology"	0	2289
+"2000"	"Male"	"Agriculture"	0	2289
+"2000"	"Male"	"Physical Sciences"	169	2289
+"2000"	"Male"	"Vocational Studies and Home Economics"	5	2289
+"2000"	"Female"	"Social Sciences, Other"	0	2289
+"2000"	"Male"	"Life Sciences"	658	2289
+"2000"	"Female"	"Life Sciences"	1148	2289
+"2000"	"Male"	"Computer Science"	0	2289
+"2000"	"Female"	"Psychology"	9	2289
+"2000"	"Male"	"Business"	10	2289
+"2000"	"Female"	"Computer Science"	0	2289
+"2000"	"Male"	"Other/Unknown"	0	2289
+"2000"	"Female"	"Other/Unknown"	0	2289
+"2000"	"Female"	"Engineering"	95	2289
+"2000"	"Female"	"Business"	12	2289
+"2000"	"Male"	"Engineering"	103	2289
+"2001"	"Female"	"Psychology"	16	2311
+"2001"	"Male"	"Social Sciences, Other"	0	2311
+"2001"	"Female"	"Business"	12	2311
+"2001"	"Male"	"Business"	10	2311
+"2001"	"Female"	"Vocational Studies and Home Economics"	5	2311
+"2001"	"Male"	"Computer Science"	0	2311
+"2001"	"Male"	"Life Sciences"	798	2311
+"2001"	"Male"	"Agriculture"	0	2311
+"2001"	"Female"	"Life Sciences"	1169	2311
+"2001"	"Male"	"Psychology"	7	2311
+"2001"	"Female"	"Physical Sciences"	42	2311
+"2001"	"Male"	"Vocational Studies and Home Economics"	1	2311
+"2001"	"Female"	"Social Sciences, Other"	0	2311
+"2001"	"Male"	"Other/Unknown"	0	2311
+"2001"	"Female"	"Engineering"	83	2311
+"2001"	"Female"	"Other/Unknown"	0	2311
+"2001"	"Female"	"Agriculture"	0	2311
+"2001"	"Male"	"Engineering"	86	2311
+"2001"	"Female"	"Computer Science"	0	2311
+"2001"	"Male"	"Physical Sciences"	82	2311
+"2002"	"Male"	"Business"	26	2322
+"2002"	"Female"	"Business"	35	2322
+"2002"	"Female"	"Social Sciences, Other"	0	2322
+"2002"	"Male"	"Computer Science"	0	2322
+"2002"	"Male"	"Vocational Studies and Home Economics"	0	2322
+"2002"	"Female"	"Life Sciences"	1155	2322
+"2002"	"Male"	"Psychology"	1	2322
+"2002"	"Male"	"Life Sciences"	740	2322
+"2002"	"Male"	"Engineering"	38	2322
+"2002"	"Female"	"Other/Unknown"	26	2322
+"2002"	"Male"	"Agriculture"	0	2322
+"2002"	"Female"	"Physical Sciences"	93	2322
+"2002"	"Female"	"Vocational Studies and Home Economics"	3	2322
+"2002"	"Female"	"Psychology"	14	2322
+"2002"	"Female"	"Computer Science"	0	2322
+"2002"	"Male"	"Other/Unknown"	17	2322
+"2002"	"Female"	"Agriculture"	1	2322
+"2002"	"Male"	"Social Sciences, Other"	0	2322
+"2002"	"Female"	"Engineering"	68	2322
+"2002"	"Male"	"Physical Sciences"	105	2322
+"2003"	"Female"	"Business"	39	2249
+"2003"	"Male"	"Computer Science"	0	2249
+"2003"	"Female"	"Social Sciences, Other"	0	2249
+"2003"	"Male"	"Agriculture"	2	2249
+"2003"	"Female"	"Life Sciences"	1303	2249
+"2003"	"Male"	"Psychology"	2	2249
+"2003"	"Male"	"Life Sciences"	533	2249
+"2003"	"Male"	"Business"	16	2249
+"2003"	"Male"	"Other/Unknown"	0	2249
+"2003"	"Female"	"Vocational Studies and Home Economics"	4	2249
+"2003"	"Female"	"Physical Sciences"	100	2249
+"2003"	"Male"	"Vocational Studies and Home Economics"	3	2249
+"2003"	"Female"	"Other/Unknown"	0	2249
+"2003"	"Female"	"Agriculture"	0	2249
+"2003"	"Female"	"Psychology"	14	2249
+"2003"	"Male"	"Engineering"	33	2249
+"2003"	"Female"	"Computer Science"	0	2249
+"2003"	"Female"	"Engineering"	78	2249
+"2003"	"Male"	"Physical Sciences"	122	2249
+"2003"	"Male"	"Social Sciences, Other"	0	2249
+"2004"	"Male"	"Business"	19	2355
+"2004"	"Male"	"Life Sciences"	615	2355
+"2004"	"Male"	"Agriculture"	1	2355
+"2004"	"Female"	"Business"	21	2355
+"2004"	"Male"	"Computer Science"	0	2355
+"2004"	"Female"	"Other/Unknown"	0	2355
+"2004"	"Female"	"Computer Science"	0	2355
+"2004"	"Male"	"Other/Unknown"	0	2355
+"2004"	"Female"	"Life Sciences"	1364	2355
+"2004"	"Female"	"Physical Sciences"	99	2355
+"2004"	"Male"	"Social Sciences, Other"	0	2355
+"2004"	"Female"	"Engineering"	88	2355
+"2004"	"Female"	"Vocational Studies and Home Economics"	0	2355
+"2004"	"Male"	"Psychology"	1	2355
+"2004"	"Female"	"Social Sciences, Other"	6	2355
+"2004"	"Female"	"Agriculture"	0	2355
+"2004"	"Female"	"Psychology"	19	2355
+"2004"	"Male"	"Vocational Studies and Home Economics"	0	2355
+"2004"	"Male"	"Physical Sciences"	90	2355
+"2004"	"Male"	"Engineering"	32	2355
+"2005"	"Female"	"Other/Unknown"	0	2015
+"2005"	"Female"	"Social Sciences, Other"	4	2015
+"2005"	"Female"	"Life Sciences"	1083	2015
+"2005"	"Male"	"Vocational Studies and Home Economics"	0	2015
+"2005"	"Male"	"Social Sciences, Other"	1	2015
+"2005"	"Male"	"Other/Unknown"	0	2015
+"2005"	"Male"	"Psychology"	4	2015
+"2005"	"Male"	"Life Sciences"	516	2015
+"2005"	"Female"	"Computer Science"	1	2015
+"2005"	"Female"	"Engineering"	77	2015
+"2005"	"Female"	"Vocational Studies and Home Economics"	0	2015
+"2005"	"Female"	"Physical Sciences"	117	2015
+"2005"	"Male"	"Engineering"	19	2015
+"2005"	"Female"	"Agriculture"	0	2015
+"2005"	"Male"	"Physical Sciences"	121	2015
+"2005"	"Male"	"Computer Science"	0	2015
+"2005"	"Female"	"Business"	19	2015
+"2005"	"Male"	"Agriculture"	1	2015
+"2005"	"Male"	"Business"	17	2015
+"2005"	"Female"	"Psychology"	35	2015
+"2006"	"Male"	"Psychology"	6	2300
+"2006"	"Male"	"Life Sciences"	553	2300
+"2006"	"Male"	"Social Sciences, Other"	0	2300
+"2006"	"Male"	"Physical Sciences"	99	2300
+"2006"	"Female"	"Vocational Studies and Home Economics"	0	2300
+"2006"	"Female"	"Physical Sciences"	159	2300
+"2006"	"Female"	"Social Sciences, Other"	0	2300
+"2006"	"Female"	"Agriculture"	0	2300
+"2006"	"Female"	"Other/Unknown"	0	2300
+"2006"	"Male"	"Computer Science"	0	2300
+"2006"	"Male"	"Vocational Studies and Home Economics"	0	2300
+"2006"	"Female"	"Life Sciences"	1288	2300
+"2006"	"Male"	"Agriculture"	0	2300
+"2006"	"Female"	"Psychology"	25	2300
+"2006"	"Female"	"Engineering"	113	2300
+"2006"	"Male"	"Other/Unknown"	0	2300
+"2006"	"Female"	"Computer Science"	0	2300
+"2006"	"Female"	"Business"	23	2300
+"2006"	"Male"	"Engineering"	28	2300
+"2006"	"Male"	"Business"	6	2300
+"2007"	"Male"	"Agriculture"	0	2263
+"2007"	"Female"	"Business"	27	2263
+"2007"	"Female"	"Agriculture"	1	2263
+"2007"	"Male"	"Psychology"	8	2263
+"2007"	"Male"	"Computer Science"	0	2263
+"2007"	"Male"	"Business"	18	2263
+"2007"	"Female"	"Computer Science"	0	2263
+"2007"	"Female"	"Life Sciences"	1268	2263
+"2007"	"Female"	"Engineering"	101	2263
+"2007"	"Male"	"Physical Sciences"	85	2263
+"2007"	"Male"	"Engineering"	38	2263
+"2007"	"Male"	"Other/Unknown"	0	2263
+"2007"	"Male"	"Life Sciences"	564	2263
+"2007"	"Female"	"Social Sciences, Other"	1	2263
+"2007"	"Female"	"Other/Unknown"	0	2263
+"2007"	"Female"	"Vocational Studies and Home Economics"	0	2263
+"2007"	"Female"	"Physical Sciences"	122	2263
+"2007"	"Male"	"Social Sciences, Other"	0	2263
+"2007"	"Male"	"Vocational Studies and Home Economics"	0	2263
+"2007"	"Female"	"Psychology"	30	2263
+"2008"	"Male"	"Agriculture"	0	3048
+"2008"	"Female"	"Life Sciences"	1837	3048
+"2008"	"Female"	"Agriculture"	0	3048
+"2008"	"Male"	"Engineering"	42	3048
+"2008"	"Female"	"Computer Science"	0	3048
+"2008"	"Male"	"Other/Unknown"	2	3048
+"2008"	"Female"	"Engineering"	148	3048
+"2008"	"Male"	"Business"	19	3048
+"2008"	"Female"	"Psychology"	21	3048
+"2008"	"Male"	"Social Sciences, Other"	0	3048
+"2008"	"Female"	"Business"	26	3048
+"2008"	"Male"	"Vocational Studies and Home Economics"	0	3048
+"2008"	"Female"	"Other/Unknown"	0	3048
+"2008"	"Male"	"Psychology"	6	3048
+"2008"	"Male"	"Life Sciences"	644	3048
+"2008"	"Male"	"Physical Sciences"	133	3048
+"2008"	"Female"	"Vocational Studies and Home Economics"	0	3048
+"2008"	"Male"	"Computer Science"	4	3048
+"2008"	"Female"	"Social Sciences, Other"	0	3048
+"2008"	"Female"	"Physical Sciences"	166	3048
+"2009"	"Female"	"Agriculture"	0	3592
+"2009"	"Male"	"Business"	17	3592
+"2009"	"Male"	"Physical Sciences"	65	3592
+"2009"	"Male"	"Engineering"	45	3592
+"2009"	"Female"	"Life Sciences"	2505	3592
+"2009"	"Female"	"Social Sciences, Other"	0	3592
+"2009"	"Female"	"Other/Unknown"	1	3592
+"2009"	"Male"	"Agriculture"	0	3592
+"2009"	"Male"	"Computer Science"	2	3592
+"2009"	"Female"	"Engineering"	150	3592
+"2009"	"Male"	"Vocational Studies and Home Economics"	0	3592
+"2009"	"Female"	"Computer Science"	1	3592
+"2009"	"Male"	"Psychology"	5	3592
+"2009"	"Female"	"Business"	21	3592
+"2009"	"Male"	"Life Sciences"	717	3592
+"2009"	"Female"	"Psychology"	20	3592
+"2009"	"Male"	"Other/Unknown"	2	3592
+"2009"	"Female"	"Physical Sciences"	41	3592
+"2009"	"Male"	"Social Sciences, Other"	0	3592
+"2009"	"Female"	"Vocational Studies and Home Economics"	0	3592
+"2010"	"Female"	"Engineering"	147	4607
+"2010"	"Female"	"Other/Unknown"	1	4607
+"2010"	"Female"	"Business"	6	4607
+"2010"	"Male"	"Life Sciences"	935	4607
+"2010"	"Male"	"Physical Sciences"	74	4607
+"2010"	"Male"	"Agriculture"	0	4607
+"2010"	"Female"	"Life Sciences"	3332	4607
+"2010"	"Male"	"Computer Science"	3	4607
+"2010"	"Female"	"Social Sciences, Other"	0	4607
+"2010"	"Male"	"Engineering"	24	4607
+"2010"	"Female"	"Agriculture"	0	4607
+"2010"	"Male"	"Psychology"	8	4607
+"2010"	"Male"	"Vocational Studies and Home Economics"	0	4607
+"2010"	"Male"	"Social Sciences, Other"	0	4607
+"2010"	"Male"	"Business"	4	4607
+"2010"	"Male"	"Other/Unknown"	4	4607
+"2010"	"Female"	"Physical Sciences"	37	4607
+"2010"	"Female"	"Computer Science"	4	4607
+"2010"	"Female"	"Vocational Studies and Home Economics"	0	4607
+"2010"	"Female"	"Psychology"	28	4607
+"2011"	"Female"	"Engineering"	156	3391
+"2011"	"Male"	"Agriculture"	0	3391
+"2011"	"Male"	"Life Sciences"	748	3391
+"2011"	"Female"	"Psychology"	20	3391
+"2011"	"Male"	"Psychology"	9	3391
+"2011"	"Female"	"Physical Sciences"	45	3391
+"2011"	"Male"	"Computer Science"	1	3391
+"2011"	"Male"	"Social Sciences, Other"	0	3391
+"2011"	"Female"	"Computer Science"	3	3391
+"2011"	"Male"	"Business"	3	3391
+"2011"	"Female"	"Life Sciences"	2250	3391
+"2011"	"Male"	"Physical Sciences"	83	3391
+"2011"	"Female"	"Other/Unknown"	13	3391
+"2011"	"Female"	"Vocational Studies and Home Economics"	12	3391
+"2011"	"Male"	"Other/Unknown"	2	3391
+"2011"	"Female"	"Social Sciences, Other"	0	3391
+"2011"	"Female"	"Business"	8	3391
+"2011"	"Male"	"Engineering"	38	3391
+"2011"	"Female"	"Agriculture"	0	3391
+"2011"	"Male"	"Vocational Studies and Home Economics"	0	3391

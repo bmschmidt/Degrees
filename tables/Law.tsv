@@ -1,0 +1,505 @@
+"year"	"gender"	"field"	"count"	"total"
+"1966"	"Female"	"Ball State University"	0	1305
+"1966"	"Male"	"University of California-Berkeley"	0	1305
+"1966"	"Gender"	"Ball State University"	0	1305
+"1966"	"Gender"	"Stanford University"	0	1305
+"1966"	"Male"	"Ball State University"	0	1305
+"1966"	"Female"	"Stanford University"	0	1305
+"1966"	"Male"	"University of Michigan at Ann Arbor"	0	1305
+"1966"	"Female"	"University of Michigan at Ann Arbor"	0	1305
+"1966"	"Gender"	"University of California-Berkeley"	0	1305
+"1966"	"Male"	"Stanford University"	1305	1305
+"1966"	"Female"	"University of California-Berkeley"	0	1305
+"1966"	"Gender"	"University of Michigan at Ann Arbor"	0	1305
+"1968"	"Gender"	"Ball State University"	0	1786
+"1968"	"Gender"	"Stanford University"	0	1786
+"1968"	"Female"	"Ball State University"	0	1786
+"1968"	"Female"	"University of California-Berkeley"	0	1786
+"1968"	"Female"	"University of Michigan at Ann Arbor"	0	1786
+"1968"	"Gender"	"University of California-Berkeley"	0	1786
+"1968"	"Gender"	"University of Michigan at Ann Arbor"	0	1786
+"1968"	"Female"	"Stanford University"	0	1786
+"1968"	"Male"	"University of Michigan at Ann Arbor"	0	1786
+"1968"	"Male"	"University of California-Berkeley"	0	1786
+"1968"	"Male"	"Stanford University"	0	1786
+"1968"	"Male"	"Ball State University"	1786	1786
+"1969"	"Female"	"University of California-Berkeley"	0	1786
+"1969"	"Gender"	"Stanford University"	0	1786
+"1969"	"Male"	"University of Michigan at Ann Arbor"	0	1786
+"1969"	"Male"	"University of California-Berkeley"	0	1786
+"1969"	"Gender"	"Ball State University"	0	1786
+"1969"	"Male"	"Stanford University"	0	1786
+"1969"	"Female"	"Stanford University"	0	1786
+"1969"	"Gender"	"University of California-Berkeley"	0	1786
+"1969"	"Male"	"Ball State University"	1786	1786
+"1969"	"Female"	"Ball State University"	0	1786
+"1969"	"Female"	"University of Michigan at Ann Arbor"	0	1786
+"1969"	"Gender"	"University of Michigan at Ann Arbor"	0	1786
+"1970"	"Female"	"University of California-Berkeley"	0	19489
+"1970"	"Female"	"Stanford University"	1305	19489
+"1970"	"Female"	"University of Michigan at Ann Arbor"	9092	19489
+"1970"	"Female"	"Ball State University"	0	19489
+"1970"	"Male"	"Stanford University"	0	19489
+"1970"	"Male"	"University of Michigan at Ann Arbor"	9092	19489
+"1970"	"Gender"	"University of Michigan at Ann Arbor"	0	19489
+"1970"	"Male"	"Ball State University"	0	19489
+"1970"	"Gender"	"Stanford University"	0	19489
+"1970"	"Gender"	"Ball State University"	0	19489
+"1970"	"Gender"	"University of California-Berkeley"	0	19489
+"1970"	"Male"	"University of California-Berkeley"	0	19489
+"1971"	"Female"	"Stanford University"	0	19489
+"1971"	"Male"	"Stanford University"	1305	19489
+"1971"	"Male"	"Ball State University"	0	19489
+"1971"	"Gender"	"Stanford University"	0	19489
+"1971"	"Male"	"University of Michigan at Ann Arbor"	9092	19489
+"1971"	"Gender"	"University of California-Berkeley"	0	19489
+"1971"	"Female"	"University of California-Berkeley"	0	19489
+"1971"	"Gender"	"Ball State University"	0	19489
+"1971"	"Gender"	"University of Michigan at Ann Arbor"	0	19489
+"1971"	"Female"	"Ball State University"	0	19489
+"1971"	"Male"	"University of California-Berkeley"	0	19489
+"1971"	"Female"	"University of Michigan at Ann Arbor"	9092	19489
+"1972"	"Male"	"University of Michigan at Ann Arbor"	9092	18184
+"1972"	"Gender"	"University of Michigan at Ann Arbor"	0	18184
+"1972"	"Male"	"Stanford University"	0	18184
+"1972"	"Gender"	"Ball State University"	0	18184
+"1972"	"Male"	"Ball State University"	0	18184
+"1972"	"Female"	"Stanford University"	0	18184
+"1972"	"Female"	"University of Michigan at Ann Arbor"	9092	18184
+"1972"	"Male"	"University of California-Berkeley"	0	18184
+"1972"	"Gender"	"Stanford University"	0	18184
+"1972"	"Gender"	"University of California-Berkeley"	0	18184
+"1972"	"Female"	"Ball State University"	0	18184
+"1972"	"Female"	"University of California-Berkeley"	0	18184
+"1973"	"Gender"	"Stanford University"	0	19496
+"1973"	"Female"	"University of California-Berkeley"	0	19496
+"1973"	"Female"	"Stanford University"	0	19496
+"1973"	"Male"	"University of Michigan at Ann Arbor"	9092	19496
+"1973"	"Gender"	"Ball State University"	0	19496
+"1973"	"Male"	"University of California-Berkeley"	1312	19496
+"1973"	"Male"	"Stanford University"	0	19496
+"1973"	"Male"	"Ball State University"	0	19496
+"1973"	"Gender"	"University of Michigan at Ann Arbor"	0	19496
+"1973"	"Female"	"Ball State University"	0	19496
+"1973"	"Female"	"University of Michigan at Ann Arbor"	9092	19496
+"1973"	"Gender"	"University of California-Berkeley"	0	19496
+"1974"	"Gender"	"Ball State University"	0	18184
+"1974"	"Male"	"Stanford University"	0	18184
+"1974"	"Male"	"University of Michigan at Ann Arbor"	9092	18184
+"1974"	"Female"	"Stanford University"	0	18184
+"1974"	"Female"	"Ball State University"	0	18184
+"1974"	"Gender"	"University of Michigan at Ann Arbor"	0	18184
+"1974"	"Male"	"University of California-Berkeley"	0	18184
+"1974"	"Gender"	"University of California-Berkeley"	0	18184
+"1974"	"Male"	"Ball State University"	0	18184
+"1974"	"Female"	"University of Michigan at Ann Arbor"	9092	18184
+"1974"	"Gender"	"Stanford University"	0	18184
+"1974"	"Female"	"University of California-Berkeley"	0	18184
+"1975"	"Male"	"Ball State University"	0	9092
+"1975"	"Male"	"University of Michigan at Ann Arbor"	0	9092
+"1975"	"Female"	"Ball State University"	0	9092
+"1975"	"Gender"	"University of Michigan at Ann Arbor"	0	9092
+"1975"	"Female"	"Stanford University"	0	9092
+"1975"	"Gender"	"Stanford University"	0	9092
+"1975"	"Gender"	"Ball State University"	0	9092
+"1975"	"Male"	"University of California-Berkeley"	0	9092
+"1975"	"Female"	"University of Michigan at Ann Arbor"	9092	9092
+"1975"	"Gender"	"University of California-Berkeley"	0	9092
+"1975"	"Female"	"University of California-Berkeley"	0	9092
+"1975"	"Male"	"Stanford University"	0	9092
+"1976"	"Male"	"University of Michigan at Ann Arbor"	9092	9092
+"1976"	"Female"	"Ball State University"	0	9092
+"1976"	"Male"	"Ball State University"	0	9092
+"1976"	"Gender"	"Ball State University"	0	9092
+"1976"	"Gender"	"University of Michigan at Ann Arbor"	0	9092
+"1976"	"Male"	"University of California-Berkeley"	0	9092
+"1976"	"Gender"	"Stanford University"	0	9092
+"1976"	"Female"	"Stanford University"	0	9092
+"1976"	"Male"	"Stanford University"	0	9092
+"1976"	"Female"	"University of Michigan at Ann Arbor"	0	9092
+"1976"	"Gender"	"University of California-Berkeley"	0	9092
+"1976"	"Female"	"University of California-Berkeley"	0	9092
+"1980"	"Male"	"University of Michigan at Ann Arbor"	0	1786
+"1980"	"Gender"	"Ball State University"	0	1786
+"1980"	"Female"	"Ball State University"	1786	1786
+"1980"	"Male"	"University of California-Berkeley"	0	1786
+"1980"	"Female"	"Stanford University"	0	1786
+"1980"	"Gender"	"University of Michigan at Ann Arbor"	0	1786
+"1980"	"Gender"	"University of California-Berkeley"	0	1786
+"1980"	"Male"	"Stanford University"	0	1786
+"1980"	"Female"	"University of Michigan at Ann Arbor"	0	1786
+"1980"	"Male"	"Ball State University"	0	1786
+"1980"	"Female"	"University of California-Berkeley"	0	1786
+"1980"	"Gender"	"Stanford University"	0	1786
+"1981"	"Gender"	"Ball State University"	0	3098
+"1981"	"Male"	"University of California-Berkeley"	0	3098
+"1981"	"Male"	"University of Michigan at Ann Arbor"	0	3098
+"1981"	"Female"	"Stanford University"	0	3098
+"1981"	"Male"	"Ball State University"	1786	3098
+"1981"	"Gender"	"University of Michigan at Ann Arbor"	0	3098
+"1981"	"Gender"	"University of California-Berkeley"	0	3098
+"1981"	"Male"	"Stanford University"	0	3098
+"1981"	"Female"	"University of Michigan at Ann Arbor"	0	3098
+"1981"	"Female"	"University of California-Berkeley"	1312	3098
+"1981"	"Female"	"Ball State University"	0	3098
+"1981"	"Gender"	"Stanford University"	0	3098
+"1982"	"Male"	"University of Michigan at Ann Arbor"	0	6196
+"1982"	"Gender"	"University of Michigan at Ann Arbor"	0	6196
+"1982"	"Male"	"University of California-Berkeley"	1312	6196
+"1982"	"Gender"	"University of California-Berkeley"	0	6196
+"1982"	"Male"	"Ball State University"	1786	6196
+"1982"	"Gender"	"Ball State University"	0	6196
+"1982"	"Female"	"Ball State University"	1786	6196
+"1982"	"Female"	"University of California-Berkeley"	1312	6196
+"1982"	"Male"	"Stanford University"	0	6196
+"1982"	"Female"	"Stanford University"	0	6196
+"1982"	"Female"	"University of Michigan at Ann Arbor"	0	6196
+"1982"	"Gender"	"Stanford University"	0	6196
+"1983"	"Gender"	"University of Michigan at Ann Arbor"	0	3572
+"1983"	"Male"	"Stanford University"	0	3572
+"1983"	"Female"	"Stanford University"	0	3572
+"1983"	"Female"	"University of Michigan at Ann Arbor"	0	3572
+"1983"	"Male"	"University of Michigan at Ann Arbor"	0	3572
+"1983"	"Gender"	"Ball State University"	0	3572
+"1983"	"Gender"	"Stanford University"	0	3572
+"1983"	"Male"	"Ball State University"	1786	3572
+"1983"	"Male"	"University of California-Berkeley"	0	3572
+"1983"	"Female"	"University of California-Berkeley"	0	3572
+"1983"	"Female"	"Ball State University"	1786	3572
+"1983"	"Gender"	"University of California-Berkeley"	0	3572
+"1984"	"Male"	"University of California-Berkeley"	0	3572
+"1984"	"Female"	"Ball State University"	1786	3572
+"1984"	"Male"	"University of Michigan at Ann Arbor"	0	3572
+"1984"	"Gender"	"University of California-Berkeley"	0	3572
+"1984"	"Male"	"Stanford University"	0	3572
+"1984"	"Gender"	"University of Michigan at Ann Arbor"	0	3572
+"1984"	"Gender"	"Ball State University"	0	3572
+"1984"	"Gender"	"Stanford University"	0	3572
+"1984"	"Female"	"University of Michigan at Ann Arbor"	0	3572
+"1984"	"Female"	"University of California-Berkeley"	0	3572
+"1984"	"Female"	"Stanford University"	0	3572
+"1984"	"Male"	"Ball State University"	1786	3572
+"1985"	"Gender"	"University of California-Berkeley"	0	6196
+"1985"	"Female"	"Ball State University"	1786	6196
+"1985"	"Gender"	"University of Michigan at Ann Arbor"	0	6196
+"1985"	"Male"	"University of Michigan at Ann Arbor"	0	6196
+"1985"	"Female"	"University of California-Berkeley"	1312	6196
+"1985"	"Male"	"Stanford University"	0	6196
+"1985"	"Male"	"Ball State University"	1786	6196
+"1985"	"Male"	"University of California-Berkeley"	1312	6196
+"1985"	"Female"	"Stanford University"	0	6196
+"1985"	"Gender"	"Stanford University"	0	6196
+"1985"	"Female"	"University of Michigan at Ann Arbor"	0	6196
+"1985"	"Gender"	"Ball State University"	0	6196
+"1986"	"Male"	"Stanford University"	0	6196
+"1986"	"Male"	"University of Michigan at Ann Arbor"	0	6196
+"1986"	"Female"	"Ball State University"	1786	6196
+"1986"	"Gender"	"Stanford University"	0	6196
+"1986"	"Gender"	"University of Michigan at Ann Arbor"	0	6196
+"1986"	"Male"	"University of California-Berkeley"	1312	6196
+"1986"	"Female"	"University of California-Berkeley"	1312	6196
+"1986"	"Female"	"Stanford University"	0	6196
+"1986"	"Female"	"University of Michigan at Ann Arbor"	0	6196
+"1986"	"Gender"	"University of California-Berkeley"	0	6196
+"1986"	"Male"	"Ball State University"	1786	6196
+"1986"	"Gender"	"Ball State University"	0	6196
+"1987"	"Male"	"University of Michigan at Ann Arbor"	0	6196
+"1987"	"Male"	"University of California-Berkeley"	1312	6196
+"1987"	"Gender"	"University of Michigan at Ann Arbor"	0	6196
+"1987"	"Gender"	"University of California-Berkeley"	0	6196
+"1987"	"Male"	"Stanford University"	0	6196
+"1987"	"Male"	"Ball State University"	1786	6196
+"1987"	"Female"	"University of Michigan at Ann Arbor"	0	6196
+"1987"	"Female"	"University of California-Berkeley"	1312	6196
+"1987"	"Gender"	"Stanford University"	0	6196
+"1987"	"Female"	"Stanford University"	0	6196
+"1987"	"Female"	"Ball State University"	1786	6196
+"1987"	"Gender"	"Ball State University"	0	6196
+"1988"	"Gender"	"University of Michigan at Ann Arbor"	0	6196
+"1988"	"Male"	"University of Michigan at Ann Arbor"	0	6196
+"1988"	"Gender"	"University of California-Berkeley"	0	6196
+"1988"	"Male"	"Ball State University"	1786	6196
+"1988"	"Male"	"University of California-Berkeley"	1312	6196
+"1988"	"Female"	"University of California-Berkeley"	1312	6196
+"1988"	"Male"	"Stanford University"	0	6196
+"1988"	"Gender"	"Ball State University"	0	6196
+"1988"	"Female"	"University of Michigan at Ann Arbor"	0	6196
+"1988"	"Gender"	"Stanford University"	0	6196
+"1988"	"Female"	"Ball State University"	1786	6196
+"1988"	"Female"	"Stanford University"	0	6196
+"1989"	"Gender"	"University of Michigan at Ann Arbor"	0	6196
+"1989"	"Male"	"Stanford University"	0	6196
+"1989"	"Female"	"University of Michigan at Ann Arbor"	0	6196
+"1989"	"Female"	"University of California-Berkeley"	1312	6196
+"1989"	"Gender"	"Stanford University"	0	6196
+"1989"	"Male"	"Ball State University"	1786	6196
+"1989"	"Male"	"University of Michigan at Ann Arbor"	0	6196
+"1989"	"Female"	"Stanford University"	0	6196
+"1989"	"Gender"	"Ball State University"	0	6196
+"1989"	"Male"	"University of California-Berkeley"	1312	6196
+"1989"	"Female"	"Ball State University"	1786	6196
+"1989"	"Gender"	"University of California-Berkeley"	0	6196
+"1990"	"Male"	"University of Michigan at Ann Arbor"	0	6196
+"1990"	"Gender"	"University of Michigan at Ann Arbor"	0	6196
+"1990"	"Male"	"Stanford University"	0	6196
+"1990"	"Female"	"University of Michigan at Ann Arbor"	0	6196
+"1990"	"Male"	"University of California-Berkeley"	1312	6196
+"1990"	"Gender"	"Stanford University"	0	6196
+"1990"	"Male"	"Ball State University"	1786	6196
+"1990"	"Gender"	"Ball State University"	0	6196
+"1990"	"Gender"	"University of California-Berkeley"	0	6196
+"1990"	"Female"	"Stanford University"	0	6196
+"1990"	"Female"	"University of California-Berkeley"	1312	6196
+"1990"	"Female"	"Ball State University"	1786	6196
+"1991"	"Male"	"University of Michigan at Ann Arbor"	0	6196
+"1991"	"Male"	"Stanford University"	0	6196
+"1991"	"Male"	"University of California-Berkeley"	1312	6196
+"1991"	"Gender"	"Stanford University"	0	6196
+"1991"	"Gender"	"University of Michigan at Ann Arbor"	0	6196
+"1991"	"Female"	"University of Michigan at Ann Arbor"	0	6196
+"1991"	"Gender"	"University of California-Berkeley"	0	6196
+"1991"	"Female"	"Stanford University"	0	6196
+"1991"	"Male"	"Ball State University"	1786	6196
+"1991"	"Female"	"University of California-Berkeley"	1312	6196
+"1991"	"Gender"	"Ball State University"	0	6196
+"1991"	"Female"	"Ball State University"	1786	6196
+"1992"	"Gender"	"Stanford University"	0	6196
+"1992"	"Male"	"University of Michigan at Ann Arbor"	0	6196
+"1992"	"Female"	"Stanford University"	0	6196
+"1992"	"Gender"	"University of Michigan at Ann Arbor"	0	6196
+"1992"	"Male"	"University of California-Berkeley"	1312	6196
+"1992"	"Female"	"Ball State University"	1786	6196
+"1992"	"Female"	"University of Michigan at Ann Arbor"	0	6196
+"1992"	"Gender"	"University of California-Berkeley"	0	6196
+"1992"	"Male"	"Stanford University"	0	6196
+"1992"	"Male"	"Ball State University"	1786	6196
+"1992"	"Female"	"University of California-Berkeley"	1312	6196
+"1992"	"Gender"	"Ball State University"	0	6196
+"1993"	"Male"	"University of California-Berkeley"	1312	6196
+"1993"	"Male"	"University of Michigan at Ann Arbor"	0	6196
+"1993"	"Gender"	"University of California-Berkeley"	0	6196
+"1993"	"Male"	"Ball State University"	1786	6196
+"1993"	"Gender"	"University of Michigan at Ann Arbor"	0	6196
+"1993"	"Female"	"University of California-Berkeley"	1312	6196
+"1993"	"Male"	"Stanford University"	0	6196
+"1993"	"Female"	"Stanford University"	0	6196
+"1993"	"Female"	"University of Michigan at Ann Arbor"	0	6196
+"1993"	"Gender"	"Stanford University"	0	6196
+"1993"	"Female"	"Ball State University"	1786	6196
+"1993"	"Gender"	"Ball State University"	0	6196
+"1994"	"Gender"	"University of Michigan at Ann Arbor"	0	6196
+"1994"	"Male"	"University of Michigan at Ann Arbor"	0	6196
+"1994"	"Male"	"University of California-Berkeley"	1312	6196
+"1994"	"Gender"	"University of California-Berkeley"	0	6196
+"1994"	"Male"	"Stanford University"	0	6196
+"1994"	"Male"	"Ball State University"	1786	6196
+"1994"	"Female"	"University of Michigan at Ann Arbor"	0	6196
+"1994"	"Female"	"University of California-Berkeley"	1312	6196
+"1994"	"Gender"	"Stanford University"	0	6196
+"1994"	"Gender"	"Ball State University"	0	6196
+"1994"	"Female"	"Stanford University"	0	6196
+"1994"	"Female"	"Ball State University"	1786	6196
+"1995"	"Gender"	"University of Michigan at Ann Arbor"	0	6196
+"1995"	"Female"	"University of Michigan at Ann Arbor"	0	6196
+"1995"	"Gender"	"Stanford University"	0	6196
+"1995"	"Male"	"Ball State University"	1786	6196
+"1995"	"Male"	"University of California-Berkeley"	1312	6196
+"1995"	"Male"	"Stanford University"	0	6196
+"1995"	"Female"	"Stanford University"	0	6196
+"1995"	"Gender"	"Ball State University"	0	6196
+"1995"	"Gender"	"University of California-Berkeley"	0	6196
+"1995"	"Male"	"University of Michigan at Ann Arbor"	0	6196
+"1995"	"Female"	"Ball State University"	1786	6196
+"1995"	"Female"	"University of California-Berkeley"	1312	6196
+"1996"	"Gender"	"University of Michigan at Ann Arbor"	0	6196
+"1996"	"Male"	"Ball State University"	1786	6196
+"1996"	"Gender"	"University of California-Berkeley"	0	6196
+"1996"	"Male"	"University of California-Berkeley"	1312	6196
+"1996"	"Female"	"Stanford University"	0	6196
+"1996"	"Female"	"University of Michigan at Ann Arbor"	0	6196
+"1996"	"Female"	"University of California-Berkeley"	1312	6196
+"1996"	"Male"	"Stanford University"	0	6196
+"1996"	"Female"	"Ball State University"	1786	6196
+"1996"	"Gender"	"Ball State University"	0	6196
+"1996"	"Male"	"University of Michigan at Ann Arbor"	0	6196
+"1996"	"Gender"	"Stanford University"	0	6196
+"1997"	"Female"	"University of Michigan at Ann Arbor"	0	6196
+"1997"	"Male"	"University of California-Berkeley"	1312	6196
+"1997"	"Male"	"Stanford University"	0	6196
+"1997"	"Male"	"Ball State University"	1786	6196
+"1997"	"Gender"	"University of California-Berkeley"	0	6196
+"1997"	"Gender"	"University of Michigan at Ann Arbor"	0	6196
+"1997"	"Gender"	"Ball State University"	0	6196
+"1997"	"Female"	"University of California-Berkeley"	1312	6196
+"1997"	"Gender"	"Stanford University"	0	6196
+"1997"	"Female"	"Ball State University"	1786	6196
+"1997"	"Male"	"University of Michigan at Ann Arbor"	0	6196
+"1997"	"Female"	"Stanford University"	0	6196
+"1998"	"Gender"	"Stanford University"	0	6196
+"1998"	"Male"	"University of Michigan at Ann Arbor"	0	6196
+"1998"	"Male"	"Stanford University"	0	6196
+"1998"	"Female"	"Stanford University"	0	6196
+"1998"	"Female"	"University of Michigan at Ann Arbor"	0	6196
+"1998"	"Gender"	"University of California-Berkeley"	0	6196
+"1998"	"Gender"	"University of Michigan at Ann Arbor"	0	6196
+"1998"	"Female"	"Ball State University"	1786	6196
+"1998"	"Male"	"Ball State University"	1786	6196
+"1998"	"Male"	"University of California-Berkeley"	1312	6196
+"1998"	"Female"	"University of California-Berkeley"	1312	6196
+"1998"	"Gender"	"Ball State University"	0	6196
+"1999"	"Gender"	"University of California-Berkeley"	0	6196
+"1999"	"Male"	"Ball State University"	1786	6196
+"1999"	"Male"	"University of California-Berkeley"	1312	6196
+"1999"	"Female"	"University of California-Berkeley"	1312	6196
+"1999"	"Male"	"Stanford University"	0	6196
+"1999"	"Male"	"University of Michigan at Ann Arbor"	0	6196
+"1999"	"Gender"	"University of Michigan at Ann Arbor"	0	6196
+"1999"	"Female"	"University of Michigan at Ann Arbor"	0	6196
+"1999"	"Gender"	"Stanford University"	0	6196
+"1999"	"Female"	"Stanford University"	0	6196
+"1999"	"Gender"	"Ball State University"	0	6196
+"1999"	"Female"	"Ball State University"	1786	6196
+"2000"	"Gender"	"University of California-Berkeley"	0	6196
+"2000"	"Male"	"University of Michigan at Ann Arbor"	0	6196
+"2000"	"Male"	"Stanford University"	0	6196
+"2000"	"Male"	"Ball State University"	1786	6196
+"2000"	"Female"	"University of California-Berkeley"	1312	6196
+"2000"	"Gender"	"Stanford University"	0	6196
+"2000"	"Gender"	"Ball State University"	0	6196
+"2000"	"Female"	"University of Michigan at Ann Arbor"	0	6196
+"2000"	"Male"	"University of California-Berkeley"	1312	6196
+"2000"	"Female"	"Ball State University"	1786	6196
+"2000"	"Female"	"Stanford University"	0	6196
+"2000"	"Gender"	"University of Michigan at Ann Arbor"	0	6196
+"2001"	"Gender"	"University of California-Berkeley"	0	6196
+"2001"	"Male"	"Stanford University"	0	6196
+"2001"	"Female"	"University of Michigan at Ann Arbor"	0	6196
+"2001"	"Male"	"Ball State University"	1786	6196
+"2001"	"Female"	"University of California-Berkeley"	1312	6196
+"2001"	"Gender"	"Stanford University"	0	6196
+"2001"	"Gender"	"Ball State University"	0	6196
+"2001"	"Male"	"University of California-Berkeley"	1312	6196
+"2001"	"Female"	"Stanford University"	0	6196
+"2001"	"Male"	"University of Michigan at Ann Arbor"	0	6196
+"2001"	"Gender"	"University of Michigan at Ann Arbor"	0	6196
+"2001"	"Female"	"Ball State University"	1786	6196
+"2002"	"Male"	"Stanford University"	0	6196
+"2002"	"Gender"	"Stanford University"	0	6196
+"2002"	"Male"	"Ball State University"	1786	6196
+"2002"	"Female"	"University of California-Berkeley"	1312	6196
+"2002"	"Male"	"University of California-Berkeley"	1312	6196
+"2002"	"Gender"	"University of California-Berkeley"	0	6196
+"2002"	"Female"	"Stanford University"	0	6196
+"2002"	"Gender"	"Ball State University"	0	6196
+"2002"	"Gender"	"University of Michigan at Ann Arbor"	0	6196
+"2002"	"Female"	"University of Michigan at Ann Arbor"	0	6196
+"2002"	"Male"	"University of Michigan at Ann Arbor"	0	6196
+"2002"	"Female"	"Ball State University"	1786	6196
+"2003"	"Female"	"University of California-Berkeley"	1312	6196
+"2003"	"Male"	"Stanford University"	0	6196
+"2003"	"Gender"	"Stanford University"	0	6196
+"2003"	"Male"	"Ball State University"	1786	6196
+"2003"	"Female"	"Stanford University"	0	6196
+"2003"	"Gender"	"University of Michigan at Ann Arbor"	0	6196
+"2003"	"Gender"	"University of California-Berkeley"	0	6196
+"2003"	"Male"	"University of California-Berkeley"	1312	6196
+"2003"	"Gender"	"Ball State University"	0	6196
+"2003"	"Male"	"University of Michigan at Ann Arbor"	0	6196
+"2003"	"Female"	"Ball State University"	1786	6196
+"2003"	"Female"	"University of Michigan at Ann Arbor"	0	6196
+"2004"	"Male"	"Stanford University"	0	2624
+"2004"	"Gender"	"University of California-Berkeley"	0	2624
+"2004"	"Male"	"Ball State University"	0	2624
+"2004"	"Female"	"University of Michigan at Ann Arbor"	0	2624
+"2004"	"Gender"	"Stanford University"	0	2624
+"2004"	"Female"	"Stanford University"	0	2624
+"2004"	"Gender"	"Ball State University"	0	2624
+"2004"	"Male"	"University of Michigan at Ann Arbor"	0	2624
+"2004"	"Male"	"University of California-Berkeley"	1312	2624
+"2004"	"Female"	"Ball State University"	0	2624
+"2004"	"Female"	"University of California-Berkeley"	1312	2624
+"2004"	"Gender"	"University of Michigan at Ann Arbor"	0	2624
+"2005"	"Gender"	"Stanford University"	0	2624
+"2005"	"Male"	"Ball State University"	0	2624
+"2005"	"Male"	"University of Michigan at Ann Arbor"	0	2624
+"2005"	"Gender"	"Ball State University"	0	2624
+"2005"	"Female"	"University of Michigan at Ann Arbor"	0	2624
+"2005"	"Female"	"University of California-Berkeley"	1312	2624
+"2005"	"Female"	"Stanford University"	0	2624
+"2005"	"Gender"	"University of Michigan at Ann Arbor"	0	2624
+"2005"	"Female"	"Ball State University"	0	2624
+"2005"	"Male"	"University of California-Berkeley"	1312	2624
+"2005"	"Male"	"Stanford University"	0	2624
+"2005"	"Gender"	"University of California-Berkeley"	0	2624
+"2006"	"Male"	"Stanford University"	0	6196
+"2006"	"Male"	"University of Michigan at Ann Arbor"	0	6196
+"2006"	"Gender"	"Stanford University"	0	6196
+"2006"	"Gender"	"University of California-Berkeley"	0	6196
+"2006"	"Female"	"Stanford University"	0	6196
+"2006"	"Male"	"Ball State University"	1786	6196
+"2006"	"Male"	"University of California-Berkeley"	1312	6196
+"2006"	"Female"	"University of Michigan at Ann Arbor"	0	6196
+"2006"	"Gender"	"University of Michigan at Ann Arbor"	0	6196
+"2006"	"Female"	"University of California-Berkeley"	1312	6196
+"2006"	"Gender"	"Ball State University"	0	6196
+"2006"	"Female"	"Ball State University"	1786	6196
+"2007"	"Male"	"Ball State University"	1786	6196
+"2007"	"Female"	"Stanford University"	0	6196
+"2007"	"Male"	"University of Michigan at Ann Arbor"	0	6196
+"2007"	"Gender"	"Ball State University"	0	6196
+"2007"	"Gender"	"University of Michigan at Ann Arbor"	0	6196
+"2007"	"Male"	"Stanford University"	0	6196
+"2007"	"Gender"	"Stanford University"	0	6196
+"2007"	"Female"	"Ball State University"	1786	6196
+"2007"	"Gender"	"University of California-Berkeley"	0	6196
+"2007"	"Female"	"University of Michigan at Ann Arbor"	0	6196
+"2007"	"Female"	"University of California-Berkeley"	1312	6196
+"2007"	"Male"	"University of California-Berkeley"	1312	6196
+"2008"	"Female"	"Stanford University"	0	6196
+"2008"	"Gender"	"Stanford University"	0	6196
+"2008"	"Gender"	"University of Michigan at Ann Arbor"	0	6196
+"2008"	"Gender"	"University of California-Berkeley"	0	6196
+"2008"	"Female"	"University of Michigan at Ann Arbor"	0	6196
+"2008"	"Gender"	"Ball State University"	0	6196
+"2008"	"Female"	"Ball State University"	1786	6196
+"2008"	"Female"	"University of California-Berkeley"	1312	6196
+"2008"	"Male"	"University of Michigan at Ann Arbor"	0	6196
+"2008"	"Male"	"Ball State University"	1786	6196
+"2008"	"Male"	"University of California-Berkeley"	1312	6196
+"2008"	"Male"	"Stanford University"	0	6196
+"2009"	"Gender"	"Ball State University"	0	6196
+"2009"	"Male"	"Ball State University"	1786	6196
+"2009"	"Male"	"University of Michigan at Ann Arbor"	0	6196
+"2009"	"Female"	"University of Michigan at Ann Arbor"	0	6196
+"2009"	"Gender"	"Stanford University"	0	6196
+"2009"	"Male"	"University of California-Berkeley"	1312	6196
+"2009"	"Female"	"University of California-Berkeley"	1312	6196
+"2009"	"Gender"	"University of Michigan at Ann Arbor"	0	6196
+"2009"	"Female"	"Stanford University"	0	6196
+"2009"	"Female"	"Ball State University"	1786	6196
+"2009"	"Gender"	"University of California-Berkeley"	0	6196
+"2009"	"Male"	"Stanford University"	0	6196
+"2010"	"Female"	"University of Michigan at Ann Arbor"	0	6196
+"2010"	"Female"	"University of California-Berkeley"	1312	6196
+"2010"	"Female"	"Stanford University"	0	6196
+"2010"	"Female"	"Ball State University"	1786	6196
+"2010"	"Male"	"University of California-Berkeley"	1312	6196
+"2010"	"Gender"	"Ball State University"	0	6196
+"2010"	"Gender"	"Stanford University"	0	6196
+"2010"	"Male"	"Ball State University"	1786	6196
+"2010"	"Male"	"Stanford University"	0	6196
+"2010"	"Male"	"University of Michigan at Ann Arbor"	0	6196
+"2010"	"Gender"	"University of California-Berkeley"	0	6196
+"2010"	"Gender"	"University of Michigan at Ann Arbor"	0	6196
+"2011"	"Gender"	"Ball State University"	0	6196
+"2011"	"Male"	"Stanford University"	0	6196
+"2011"	"Female"	"University of California-Berkeley"	1312	6196
+"2011"	"Gender"	"Stanford University"	0	6196
+"2011"	"Male"	"Ball State University"	1786	6196
+"2011"	"Female"	"Ball State University"	1786	6196
+"2011"	"Male"	"University of California-Berkeley"	1312	6196
+"2011"	"Female"	"University of Michigan at Ann Arbor"	0	6196
+"2011"	"Gender"	"University of California-Berkeley"	0	6196
+"2011"	"Gender"	"University of Michigan at Ann Arbor"	0	6196
+"2011"	"Female"	"Stanford University"	0	6196
+"2011"	"Male"	"University of Michigan at Ann Arbor"	0	6196

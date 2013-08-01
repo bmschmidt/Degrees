@@ -1,61 +1,134 @@
 
-<!DOCTYPE html>
+    <!DOCTYPE html>
     <!-- adapted from url=(0040)http://bl.ocks.org/mbostock/raw/3885211/ -->
-     <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta charset="utf-8">
-     <style>
+    <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta charset="utf-8">
+    <style>
 
-     body {
-     font: 11px sans-serif;
+body {
+    font: 11px sans-serif;
 }
 
-     .axis text {font-size: 13pt}
+    .axis text {font-size: 13pt}
 
-     .axis path,
-     .axis line {
-     fill: none;
-     stroke: #000;
-     shape-rendering: crispEdges;
- }
-     .navigation{opacity:0}
-     .story {
-         font-size:20pt
-              }
-     .selector{fill:black;opacity:.35;font-size:14pt}
-     .counttype.selector{font-size:12pt}
-     .intro {
-	 font-size:14pt
-      }
-     path {
-         opacity:.85
-             }
-.highlit {fill:red;font-weight:bold;opacity:1}
+    .axis path,
+    .axis line {
+        fill: none;
+        stroke: #000;
+        shape-rendering: crispEdges;
+    }
+    .navigation{opacity:0}
+    .story {
+        font-size:20pt
+    }
+    .selector{fill:black;opacity:.25;font-size:14pt}
+    .counttype.selector{font-size:12pt}
+    .intro {
+        font-size:14pt
+    }
+path {
+    opacity:.85
+}
+    .highlit {fill:red;opacity:1}
+    .exemplary {opacity:1;font-weight:bolder;font-size-adjust:10pt};
 
 
 </style>
     </head><body>
     <div id = "header">     <h1 font-style="sans-serif">What Do American College Students Major In?</h1></div>
-         <div id="story" style="float:left:width:100%;height:120px">
-         <div id="back" style="width:8%;float:left"><text style="font-size:78px" class="navigation"><</text></div>
-         <div id="storyboard" style="width:84%;float:left;height:120px">
-	 <text id="WhereTheTextForStoriesGoes"></text>
-	 </div>
-         <div id = "next" style="width:8%;float:left"><text class="navigation" style="font-size:78px">></text></div>
-         </div>
-         <div id="chart"></div>
-         <div id="yearButtons"></div>
-         <div id="credits">
-         Source: NCES HEGIS and IPEDS surveys, via <a href=http://webcaspar.nsf.gov>WebCASPAR</a>.
-         <br>
-         <a href=http://bmschmidt.wordpress.com>Ben Schmidt</a>, 2013.
-         </div>
-         <script src="./d3.v3.js"></script>
+    <div id="story" style="float:left:width:100%;height:120px">
+    <div id="back" style="width:8%;float:left"><text style="font-size:78px" class="navigation"><</text></div>
+    <div id="storyboard" style="width:84%;float:left;height:120px">
+    <text id="WhereTheTextForStoriesGoes"></text>
+    </div>
+    <div id = "next" style="width:8%;float:left"><text class="navigation" style="font-size:78px">></text></div>
+    </div>
+    <div id="chart"></div>
+    <div id="yearButtons"></div>
+    <div id="credits">
+
+    <div id="options" style="float:left:width:100%;height:120px">
+    <div id="schools" style="width:33%;float:left"><br></div>
+    <div id="years" style="width:34%;float:left;height:120px"></div>
+    <div id = "blank" style="width:33%;float:left"><text class="navigation" style="font-size:78px">></text></div>
+    </div>
 
 
-         <script>
+Source: NCES HEGIS and IPEDS surveys, via <a href=http://webcaspar.nsf.gov>WebCASPAR</a>.
+    <br>
+    <a href=http://bmschmidt.wordpress.com>Ben Schmidt</a>, 2013.
+    </div>
+    <script src="./d3.v3.js"></script>
+    <script src="./Stories.js"></script>
 
-         var margin = {top: 20, right: 420, bottom: 30, left: 120},
-         width = window.innerWidth - margin.left - margin.right,
-         height = window.innerHeight-250 - margin.top - margin.bottom;
+
+    <script>
+
+var margin = {top: 20, right: 420, bottom: 30, left: 120},
+width = window.innerWidth - margin.left - margin.right,
+height = window.innerHeight-290 - margin.top - margin.bottom;
+
+schoolnames = [
+    "",
+    "data.tsv",
+    "longData",
+    "Boston College","Brown University","Brandeis University","Boston University","Clark University","California State University-Los Angeles","Bowdoin College","California State Polytechnic U-San Luis Obispo","California State University-Fresno","California State University-Fullerton","Bates College","Colby College","College of the Holy Cross","Babson College","California State University-Bakersfield","City University"]
+
+schooltypes = ["","Associate of Arts.Two Year--private.tsv","Associate of Arts.Two Year--public.tsv","Baccalaureate.Liberal Arts I--private.tsv","Baccalaureate.Liberal Arts I--public.tsv","Baccalaureate.Liberal Arts II--private.tsv","Baccalaureate.Liberal Arts II--public.tsv","Doctoral I--private.tsv","Doctoral I--public.tsv","Doctoral II--private.tsv","Doctoral II--public.tsv","Master's.Comprehensive I--private.tsv","Master's.Comprehensive I--public.tsv","Master's.Comprehensive II--private.tsv","Master's.Comprehensive II--public.tsv","Research I--private.tsv","Research I--public.tsv","Research II--private.tsv","Research II--public.tsv"]
+
+schools = d3.select("#schools");
+schools.append("text").text("Limit by specific institution: ")
+options = schools
+    .append("select")
+    .attr("id","schoolChoice")
+    .on("change",function(value) {
+        value = this.options[this.selectedIndex].__data__;
+        changeFile(value);
+        nullify("typeChoice")
+    })
+    .selectAll("option")
+    .data(schoolnames);
+
+options
+    .enter()
+    .append("option")
+    .text(function(d) {return(d)});
+
+
+function nullify(id) {
+    sel = document.getElementById(id);
+    for(var i, j = 0; i = sel.options[j]; j++) {
+        if(i.value == "") {
+            sel.selectedIndex = j;
+            break;
+        }
+    }
+}
+
+schools.append("br");
+schools.append("text").text("Limit by Carnegie Classification: ");
+options = d3.select("#schools").append("select").attr("id","typeChoice").selectAll("option").data(schooltypes);
+options.enter().append("option").attr("value",function(d) {return (d)}).text(function(d) {return(d)});
+d3.select("#typeChoice")
+    .on("change",function(value) {
+        nullify("schoolChoice")
+        value = this.options[this.selectedIndex].__data__;
+        changeFile(value);
+    }
+       );
+
+
+years = d3.select("#years").append("select").attr("id","startYearChoice").selectAll("option").data(d3.range(1946,2012))
+years.enter().append("option").text(function(d) {return(d)});
+d3.select("#startYearChoice")
+    .on("change",function(value) {
+        value = this.options[this.selectedIndex].__data__;
+        state.startyear = value;
+        update()});
+
+
+years = d3.select("#years").append("select").attr("id","endYearChoice").selectAll("option").data(d3.range(1946,2011))
+years.enter().append("option").text(function(d) {return(d)});
+d3.select("#endYearChoice").on("change",function(value) {value = this.options[this.selectedIndex].__data__; state.endyear = value; update()});
 
 
 var state = {}; //Using this to store the state of the graph for reproduction
@@ -69,182 +142,70 @@ var x = d3.scale.linear()
     .range([0, width])
     .domain([state.startyear,state.endyear])
 
-startdate = d3.select("#yearButtons").append("div").attr("id","start-date");
-//startdate.append("text").text("Different government surveys have slightly different data. They're also just useful to differentiate");
-startdate.append("br")
-
-    m = startdate.selectAll("button").data([
-{"year":1947,"text":"Start in 1947: Paper reports"},
-{"year":1966,"text":"Start in 1966: HEGIS"},
-{"year":1986,"text":"Start in 1986: IPEDS"}
-                                           ])
-
-    m.
-    enter()
-    .append("button")
-    .text(function(d) {return(d.text)})
-    .on("click",function(d) {
-            state.startyear = d.year;
-            update()
-        });
-
-var stories = {
-    "Business":[
-{"plotOptions":{
-        "genders":["Male","Female"],
-        "fields":["Business and Management"]},
- "Narrative":
- "Business Degrees have nearly doubled in the last 40 years. In 1966, about 12% of all degrees were in business: in 2011, it was about 21%. That's a lot: more than all the social sciences or humanities put together."
-},
-{
-    "plotOptions":{
-        "genders":["Female"],
-        "fields":["Business and Management"]},
-    "Narrative": "But the rise is entirely because of women. Female business majors were virtually nonexistent in 1970. Now 1 in 10 college students are women majoring in business."},
-{"plotOptions":{
-        "genders":["Male"],
-        "fields":["Business and Management"]
-	    },
-	"Narrative":["Male business majors, on the other hand, are essentially constant as a percentage of all college students. That has strong implications for how we think about changing patterns of majors. If college students were really flocking to majors they thought would get them careers, wouldn't more men be majoring in business?"]
-},
-{"plotOptions":{
-        "genders":["Male","Female"],
-        "fields":["Business and Management"],
-        "startyear":1988
-    },
- "Narrative":
- "But even including women, if you restrict the time period to something that isn't ancient history business majors haven't increased at all."
-}
-                ],
-    "CS": [
-{"plotOptions":{
-        "genders":["Male","Female"],
-        "fields":["Computer Science"]},
- "Narrative":
- "Computer Science is one of those 'practical' degrees lazy writers always trot out as an explanation of where college students have been majoring lately.But while the overall trend for CS has been upwards, the real story is a lot more complex."
-},
-{
-    "plotOptions":{
-	"startyear":1980,"endyear":1998,
-        "genders":["Male","Female"],
-        "fields":["Computer Science"]},
-	"Narrative": "Although computer science has risen, the story is really dominated by two massive peaks.Degrees rose and fell dramatically between 1980 and 1990, leveled off through the 1990s..."},
-{"plotOptions":{
-        "genders":["Male","Female"],
-        "fields":["Computer Science"]
-    },
-    "plotOptions":{
-	"startyear":1997,"endyear":2011,
-        "genders":["Male","Female"],
-        "fields":["Computer Science"]},
- "Narrative": "...and then rose and fell again between 1999 and 2008."},
-{"plotOptions":{
-        "genders":["Male","Female"],
-        "fields":["Computer Science"],
-        "startyear":1984,"endyear":2011
-    },
- "Narrative":
- "America has a lower percentage of computer science majors now than it did when the Apple Macintosh was first introduced. So college students aren't necessarily getting more vocational in their career choices."
-     },
-{"plotOptions":{
-
-        "genders":["Male"],
-        "fields":["Computer Science"],
-        "startyear":1966,"endyear":2011,displayOrder : ["gender","field"]
-    },
- "Narrative":
-	 "The story is different if you look at a particular minority of college students: men. Male college students are more likely to major in CS today than in the past."
-     },
-{"plotOptions":{
-        "genders":["Female"],
-	    "fields":["Computer Science"],
-	    "startyear":1966,"endyear":2011
-	    },
-	"Narrative":
-	 "Female CS majors, on the other hand, peaked in 1986 and have been steadily diminishing since then ."
-	    },
-{"plotOptions":{
-        "genders":["Female"],
-	    "fields":["Computer Science"],
-	    "startyear":1966,"endyear":1986
-	    },
-	"Narrative":
-	    "In the early days of computer science, women seemed poised. (Remember that in the 1940s and 1950s, programming was seen as a feminine form of labor."
-	    },
-{"plotOptions":{
-        "genders":["Female","Male"],
-	    "fields":["Computer Science"],
-	    "startyear":1966,"endyear":1986,"denominator":"local",displayOrder : ["gender","field"]
-	    },
-	"Narrative":
-	    "This is as true looking at women as a percentage of degrees"
-	    }
-]
-	};
 var currentPanel = -1;
 var switchToPane;
 
 tellAStory = function(storyname) {
-    
+
     if (storyname===undefined) {//Here's an example story.
-	storyname = "Business"
+        storyname = "Business"
     }
-    
+
     //push it to and from JSON to get a copy.
 
     panels = JSON.parse(JSON.stringify(stories[storyname]))
-    
+
     panels.map(function(d) {
-	    currentPanel = currentPanel+1;
-	    d.index = currentPanel;
-	});
-	
+        currentPanel = currentPanel+1;
+        d.index = currentPanel;
+    });
+
     switchToPane = function(i) {
-	panel = panels.filter(function(d) {
-		return (d.index==i)
-	    })[0]
-	
-	board = d3.selectAll("#storyboard")
-	offset = window.innerWidth
-	d3.selectAll("#storyboard").selectAll("text").transition().duration(800).style("opacity",0)
-	.attr("class","story")
-	.transition()
-	.duration(1000)
-	.text(panel["Narrative"])
-	.style("opacity",1)
-	
-	
-	d3.keys(panel['plotOptions']).map(function(option) {
-		if (["genders","fields"].indexOf(option) >-1) {state[option] = d3.set(panel["plotOptions"][option])}
-		else {
-		    state[option]  = panel["plotOptions"][option]
-		}
-	    })
-	
-	setTimeout(update,1500)
-	
-	d3.select("#next").on("click",function() {
-		switchToPane(i+1);
-	    })
-	.selectAll("text")
-	.transition()
-	.delay(2000)
-	.duration(2000)
-	.style("opacity",function() {if (i<panels.length) {return 1}})
-	
-	d3.select("#back").on("click",function() {
-		switchToPane(i-1);
-	    })
-	.transition()
-	.delay(2000)
-	.duration(2000)
-	.selectAll("text")
-	.style("opacity",function(){if(i>0){return 1}})
+        panel = panels.filter(function(d) {
+            return (d.index==i)
+        })[0]
+
+        board = d3.selectAll("#storyboard")
+        offset = window.innerWidth
+        d3.selectAll("#storyboard").selectAll("text").transition().duration(800).style("opacity",0)
+            .attr("class","story")
+            .transition()
+            .duration(1000)
+            .text(panel["Narrative"])
+            .style("opacity",1)
+
+
+        d3.keys(panel['plotOptions']).map(function(option) {
+            if (["gender","field"].indexOf(option) >-1) {state[option] = d3.set(panel["plotOptions"][option])}
+            else {
+                state[option]  = panel["plotOptions"][option]
+            }
+        })
+
+        setTimeout(update,1500)
+
+        d3.select("#next").on("click",function() {
+            switchToPane(i+1);
+        })
+            .selectAll("text")
+            .transition()
+            .delay(2000)
+            .duration(2000)
+            .style("opacity",function() {if (i<panels.length) {return 1}})
+
+        d3.select("#back").on("click",function() {
+            switchToPane(i-1);
+        })
+            .transition()
+            .delay(2000)
+            .duration(2000)
+            .selectAll("text")
+            .style("opacity",function(){if(i>0){return 1}})
 
     }
     switchToPane(0);
-    
-}	
+
+}
 
 var y = d3.scale.linear()
     .range([height, 0]);
@@ -259,18 +220,13 @@ var yAxis = d3.svg.axis()
     .scale(y)
     .orient("left")
     .tickFormat(function(n) {
-            if (state.denominator=='dummy') {return d3.format('g')(n)}
-            else {return formatPercent(n)}})
+        if (state.denominator=='dummy') {return d3.format('g')(n)}
+        else {return formatPercent(n)}})
 
- var area = d3.svg.area()
+var area = d3.svg.area()
     .x(function(d) { return x(d.year); })
     .y0(function(d) { return y(d.y0); })
     .y1(function(d) { return y(d.y0 + d.y); });
-
-var areaEntrance = d3.svg.area()
-    .x(function(d) { return x(d.year); })
-    .y0(function(d) { return y(d.y0); })
-    .y1(function(d) { return y(0); });
 
 var stack;
 
@@ -281,9 +237,8 @@ var svg = d3.select("#chart").append("svg")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
 //Keep the plot elements hidden by putting them on an internal svg.
-var chart = 
-	 svg.append("svg").attr("width",width).attr("height",height)
-
+var chart =
+    svg.append("svg").attr("width",width).attr("height",height);
 
 
 
@@ -291,13 +246,13 @@ var numerator = "count";
 state.denominator = "total";
 
 var counttypes = [
-                  {"key":"local","value":"% of displayed","index":1},
-                  {"key":"total","value":"% of All BAs","index":2},
-                  {"key":"Population","value":"% of 23-year-olds","index":3},
-                  {"key":"dummy","value":"Raw Number","index":4}//,
-                  //     {"key":"female","value":"Raw Number","index":5},
-                  //   {"key":"male","value":"Raw Number","index":6}
-                  ];
+    {"key":"local","value":"% of displayed","index":1},
+    {"key":"total","value":"% of All BAs","index":2},
+    {"key":"Population","value":"% of 23-year-olds","index":3},
+    {"key":"dummy","value":"Raw Number","index":4},
+    {"key":"female","value":"% of Female BAs","index":5},
+    {"key":"male","value":"% of Male BAs","index":6}
+];
 
 var countChoices = svg.append("g")
     .attr("id","fieldChoices");
@@ -308,7 +263,7 @@ var countnames = countChoices
 
 var countChoiceScale = {};
 countChoiceScale.x = d3.scale.ordinal().domain(counttypes.map(function(d){return d.key})).rangePoints([height,150]);
-countChoiceScale.y = d3.scale.linear().range([height,150]).domain([0,Math.floor(counttypes.length/2)]);
+countChoiceScale.y = d3.scale.linear().range([height,150]).domain([1,Math.floor(counttypes.length/2)]);
 countChoiceScale.x = d3.scale.linear().range([-margin.left+15,-40]).domain([0,Math.round(counttypes.length/2)]);;
 
 
@@ -321,23 +276,23 @@ countnames
     .attr("class","counttype selector")
     .classed("highlit",function(d) {return d.key==state.denominator})
 
-    countnames.on("click",function(d) {
-            d3.selectAll(".counttype.selector").classed("highlit",false);
-            d3.select(this).classed("highlit",true);
-            if (d.key != "local") {
-                state.denominator = d.key;
-                stack.offset("zero")
-                    }
-	    if (d.key=="local") {
-		state.denominator = "total";
-		stack.offset("expand")
-                    }
-            update();
-        })
+countnames.on("click",function(d) {
+    d3.selectAll(".counttype.selector").classed("highlit",false);
+    d3.select(this).classed("highlit",true);
+    if (d.key != "local") {
+        state.denominator = d.key;
+        stack.offset("zero")
+    }
+    if (d.key=="local") {
+        state.denominator = "local";
+        stack.offset("expand")
+    }
+    update();
+})
 
 
 //debugging
-    var datasplore,disciplines2,mylect;
+var datasplore,disciplines2,mylect;
 
 xaxis = svg.append("g")
     .attr("class", "x axis")
@@ -348,170 +303,287 @@ yaxis = svg.append("g")
     .attr("transform", "translate(0,0)");
 
 var dataPoints;
-var fields,color;
+var field,color,fieldChoiceScale,savedFieldColors;
 
 window.onhashchange = function() {
     tellAStory(window.location.hash.substr(1));
+};
+
+var totals = {};
+
+subtotal = function(data) {
+    var total = {};
+    //given a subset of the data, returns the counts by year.
+    d3.nest()
+        .key(function(d) {return(d.year)})
+        .entries(data)
+        .map(function(d) {
+            total[d.key] = d3.sum(d.values.map(function(d) {
+                return d.count}))
+        })
+    return(total)
 }
 
 
+
+changeFile = function(filename){
+
+    if (filename==="") {//makes dropdown menus prettier
+        filename = "data"
+    }
+
+    d3.tsv("tables/" + filename, function(error, data) {
+        totals['total'] = subtotal(data);
+        totals['male'] = subtotal(data.filter(function(m) {return m.gender=="Male"}));
+        totals['female'] = subtotal(data.filter(function(m) {return m.gender=="Female"}));
+        dataPoints = data;
+        update()
+    })
+}
+
 firstLoad = function() {
-    d3.tsv("data.tsv", function(error, data) {
-            data.map(function(d) {d.dummy=1});
+    Array.prototype.has = function(element) {return this.indexOf(element)>-1}
+    Array.prototype.add = function(element) {this.push(element)}
+    Array.prototype.remove = function(element) {
+        if (this.has(element)) {
+            this.sort(function(a,b){return(a==element)}).pop()
+        }
+    }
 
-            dataPoints = data;
 
-            fields = d3.nest().key(function(x) {return x.field}).entries(data).map(function(d) {return d.key});
-            fields.sort().reverse()
-            state.fields = d3.set(["History", "Foreign Languages", "English and Literature", "Other Humanities", "Religion and Theology", "Area and Ethnic Studies"])
+    d3.tsv("tables/data.tsv", function(error, data) {
+        totals['total'] = subtotal(data);
+        totals['male'] = subtotal(data.filter(function(m) {return m.gender=="Male"}));
+        totals['female'] = subtotal(data.filter(function(m) {return m.gender=="Female"}));
 
-            state.genders = d3.set(["Male","Female"])
-	 state.displayOrder = ["field","gender"]
-	 
-            svg.append("text").text("Male").attr("y",0).attr("x",width-40).attr("class","gender selector").classed("highlit",true)
-            svg.append("text").text("Female").attr("y",0).attr("x",width-110).attr("class","gender selector").classed("highlit",true)
-            svg.append("text").text("Displaying Genders:").attr("y",0).attr("x",width-285).classed("selector",true).style("opacity",1)
+        data.map(function(d) {d.dummy=1});
 
-            d3.selectAll(".gender.selector").on("click",function(d){
-                    me = d3.select(this);
-                    if (me.classed("highlit")) {
-                        state.genders.remove(me.text())
-                            } else {state.genders.add(me.text())}
-                    //toggle highlighting
-                    update()
-                })
-            color = d3.scale.category20().domain(fields);
+        dataPoints = data;
 
-            var fieldChoices = svg.append("g")
+        field = d3.nest().key(function(x) {return x.field}).entries(data).map(function(d) {return d.key});
+        field.add("")
+        field.sort().reverse()
+        state.field = ["History", "Foreign Languages", "English and Literature", "Humanities, Other", "Religion", "Area and Ethnic Studies"]
+
+        state.gender = ["Male","Female"]
+        state.displayOrder = ["field","gender"]
+
+        genders = ["Male","Female"]
+        genderscale = d3.scale.ordinal().domain(["Male","Female"]).range([-40,-110])
+        genderselects = svg.selectAll(".gender.selector").data(genders).enter().append("text").attr("class","gender selector").attr("x",function(d) {console.log(width+genderscale(d)); return(width+ genderscale(d))}).attr("y",0).text(function(d) {return(d)})
+
+        svg.append("text").text("Displaying Gender:").attr("y",0).attr("x",width-285).classed("selector",true).style("opacity",1)
+
+        d3.selectAll(".gender.selector").on("click",function(d){
+            me = d3.select(this);
+            if (me.classed("highlit")) {
+                state.gender.remove(me.text())
+            } else {state.gender.add(me.text())}
+            //toggle highlighting
+            update()
+        })
+        color = d3.scale.category20().domain(field);
+
+        savedFieldColors = d3.scale.ordinal().domain(field).range(color.range())
+
+        var fieldChoices = svg.append("g")
             .attr("id","fieldChoices")
             .attr("transform","translate(" + (width + 40) + ",10)");
 
-            var fieldnames = fieldChoices
+        var fieldnames = fieldChoices
             .selectAll("text")
-            .data(fields);
+            .data(field);
 
-            var fieldChoiceScale = d3.scale.ordinal().domain(fields).rangePoints([height,00]);
+        fieldChoiceScale = d3.scale.ordinal().domain(field).rangePoints([height,0]);
 
-            fieldnames
+        fieldnames
             .enter()
             .append("text")
             .attr("y",function(d) {return fieldChoiceScale(d)})
-            .attr("x",function(d) {return -30*state.fields.has(d)})
+            .attr("x",function(d) {return -30*state.field.has(d)})
             .text(function(d) {return d; console.log(d)})
             .style('fill',function(d) {return(color(d))})
             .attr("class","field selector")
-            .classed("highlit",function(d) {return state.fields.has(d)});
+            .classed("highlit",function(d) {return state.field.has(d)});
+        fieldnames.on("mouseover",function(d) {d3.select(this).classed("exemplary",true)}); //style("font-weight","bolder")})
+        fieldnames.on("mouseout",function(d) {d3.select(this).classed("exemplary",false)});
 
-            fieldnames.on("click",function(d) {
-                    if (state.fields.has(d)) {
-                        state.fields.remove(d)
-                            } else {
-                        state.fields.add(d);
-                    }
-                    update()
-                        });
-	    if (window.location.hash.substr(1)) {
-		tellAStory(window.location.hash.substr(1))
-		    } else {
-		update(150)
-	    }
-        })
+        //.style("font-weight","")})
+        fieldnames.on("click",function(d) {
+            if (state.field.has(d)) {
+                state.field.remove(d)
+            } else {
+                state.field.add(d);
+            }
+            update()
+        });
+        if (window.location.hash.substr(1)) {
+            tellAStory(window.location.hash.substr(1))
+        } else {
+            update(150)
+        }
+    })
 };
 
-var test,d1,n1; //debugging
+var lastElements,currentElements,test,d1,n1; //debugging
 
 var stack = d3.layout.stack().values(function(d) {return d.values});
+var previousOrder = [];
+var update = function(transtime) {
 
-var update = function(transtime,ydomain) {
     if (transtime===undefined) {transtime=4000}
     x.domain([state.startyear,state.endyear]);
 
-    //inelegant, but I want to make sure the color scaling is persistent for fields.
+    //inelegant, but I want to make sure the color scaling is persistent for field.
     if (state.displayOrder[0]=="field") {
-	color.domain(fields);
+        color.domain(field);
+        color.range(field.map(function(d) {return savedFieldColors(d)}))
     } else {
-	color.domain(["Male","Female"])
+        color.domain(["Male","Female"])
+	color.range(["#8c564b","#ff9896"])
     }
-    
+
+
+
+    field = field.sort(function(a,b) {
+        if (state.field.has(a) != state.field.has(b)) {
+            return(state.field.has(a) - state.field.has(b))
+        } else {
+            return(d3.ascending(b,a))
+        }
+    })
+
+    fieldChoiceScale.domain(field)
+
     svg
-    .selectAll(".field.selector")
-    .classed("highlit",function(d) {return (state.fields.has(d))})
-    .transition().duration(transtime/2)
-    .style("fill",function(d) {
-	    if (state.fields.has(d) & state.displayOrder[0]=="field") {
-		return(color(d))
-		    } else {return("")}
-	})
-    .attr("x",function(d) {return -30*state.fields.has(d)});
-    
+        .selectAll(".field.selector")
+        .classed("highlit",function(d) {return (state.field.has(d))})
+        .style("font-size",function() {return (height/(2+field.length)) + "pt"})
+        .style("fill",function(d) {
+            if (state.field.has(d) & state.displayOrder[0]=="field") {
+                return(color(d))
+            } else {return("")}
+        })
+        .transition().duration(transtime/2)
+        .attr("x",function(d) {return -30*state.field.has(d)})
+        .attr("y",function(d) {return(fieldChoiceScale(d))})
+
+
     svg.selectAll(".gender.selector")
-    .classed("highlit",function(d) {return state.genders.has(d3.select(this).text())})
-    .transition().duration(transtime/2)
-    .style("fill",function(d) {
-	    d=d3.select(this).text()
-	    if (state.genders.has(d) & state.displayOrder[0]=="gender") {
-		return(color(d))
-		    } else {return("")}
-	})
+        .classed("highlit",function(d) {return state.gender.has(d3.select(this).text())})
+        .transition().duration(transtime/2)
+        .style("fill",function(d) {
+            d=d3.select(this).text()
+            if (state.gender.has(d) & state.displayOrder[0]=="gender") {
+                return(color(d))
+            } else {return("")}
+        })
 
     svg.selectAll(".counttype.selector").classed("highlit",function(d) {return d.key==state.denominator})
 
     data = dataPoints;
     {
-        data.map(function(d) {
-                d.y = 0;
-                if (state.fields.has(d.field) & state.genders.has(d.gender)) {
-                    d.y= d[numerator] / d[state.denominator]
-                        }
-            });
-
-	
-
-        var nested = d3.nest().key(function(d) {return d[state.displayOrder[0]] + "_" + d[state.displayOrder[1]]}).sortKeys(d3.ascending).entries(data);
-
+        //two different keys: one defines the display order, the other is constant to allow transitions.
+        orderedKey=function(d) {return d[state.displayOrder[0]] + "_" + d[state.displayOrder[1]]};
+        permaKey=function(d) {return d.gender + "_" + d.field};
+        var nested = d3.nest().key(function(d) {return orderedKey(d)}).sortKeys(d3.descending).entries(data);
         nested.map(function(d) {
-                d.field = d['values'][0]['field']
-                    d.gender = d['values'][0]['gender']
-                    });
-	//nested = nested.filter(function(d) {
-	//return (state.genders.has(d.gender) & state.fields.has(d.field))
-	//    })
-	    
+            d.field = d['values'][0]['field']
+            d.gender = d['values'][0]['gender']
+            d.permaKey = permaKey(d);
+        });
+
+        data.map(function(d) {
+            d.y = 0;
+            if (state.field.has(d.field) & state.gender.has(d.gender)) {
+                if (totals[state.denominator]===undefined) {loctotal=1} else{
+                    loctotal = totals[state.denominator][d.year]
+                }
+                d.y= d[numerator] / loctotal
+            }
+        });
+
+        lastElements = []; chart.selectAll(".area").each(function(d){lastElements.add(d.permaKey)});
+
+        finalState = nested.filter(function(d) {
+            return ((state.gender.has(d.gender) & state.field.has(d.field)) | lastElements.has(d.permaKey))
+        });
+
+        currentElements = []; nested.map(function(d) {if ((state.gender.has(d.gender) & state.field.has(d.field))) {currentElements.add(d.permaKey)}});
+
+        enterElements = currentElements.filter(function(d){return lastElements.has(d)});
+        //console.log("New elements: " + enterElements.join(" "));
+        exitElements = lastElements.filter(function(d) {return currentElements.has(d)});
+        //console.log("Exiting elements: " + exitElements.join(" "));
         n1 = nested;
-        var disciplines = stack(nested)
 
+        entranceState = JSON.parse(JSON.stringify(nested.filter(function(d) {
+            return ( (currentElements.indexOf(d.permaKey) > -1) | exitElements.has(permaKey))
+        })))
 
-            if (ydomain===undefined) {
-                y.domain([0,d3.max(disciplines.map(function(d) {return d3.max(d.values.map(function(e) {return e.y+e.y0}))}))])
-            } else {y.domain(ydomain)}
-        d1 = disciplines;
+        entranceState.map(function(d) {
+            if (enterElements.indexOf(d.permaKey)==-1) {
+                d['values'].map(function(entrance) {entrance.y = 0})
+            }
+        });
 
-        var discipline = chart.selectAll(".area")
-            .data(disciplines,function(d) {return d.gender+d.field})
-	    
-         discipline
-	    .enter()
-	    .append('path')
-	    .classed("area",true)
-            .attr("id",function(d) {return d.key}).attr("y0",0).attr("y1",0)
-	    .style("fill", function(d) { return color(d[state.displayOrder[0]]); })
-	    .attr("d",function(d) {return areaEntrance(d.values)});
+        updatePlot = function(nested,doEverything) {
+            nested = nested.sort(function(b,a) {return a.key < b.key ? -1 : a.key > b.key ? 1 : 0
+                                               });
 
-	discipline.exit().transition().duration(transtime)	    .attr("d",function(d) {return areaEntrance(d.values)});
+            var disciplines = stack(nested);
 
-        discipline
-            .transition().duration(function(d) {return transtime})
-            .style("fill", function(d) { return color(d[state.displayOrder[0]]); })
-            .attr("d", function(d) { return area(d.values); })
+            if (state.ydomain===undefined)
+            {y.domain([0,d3.max(disciplines.map(function(d) {return d3.max(d.values.map(function(e) {return e.y+e.y0}))}))])
+            } else {
+                y.domain(state.ydomain)
+            };
 
-            xaxis.transition().duration(transtime)
-            .call(xAxis);
+            //Doing this as a function so it can call itself with a changed version of the disciplines to enter new values as zero-width strips.
+            var discipline = chart.selectAll(".area")
+                .data(disciplines,function(d) {return d.permaKey});
 
-        yaxis.transition().duration(transtime)
-            .call(yAxis);
+            d1 = discipline;
+
+            discipline
+                .enter()
+                .append('path')
+                .classed("area",true)
+                .attr("id",function(d) {return d.permaKey})
+                .attr("title",function(d) {return d.gender + " " + d.field + " degrees" })
+                .style("fill", function(d) { return color(d[state.displayOrder[0]]); })
+                .attr("d",function(d) {return area(d.values)})
+                .on("mouseover",function(d) {
+                    d3.select(this).classed("exemplary",true);
+
+                    svg.selectAll(".selector").filter(function(e) {return (e==d.gender | e==d.field)}).classed("exemplary","true")
+                })
+                .on("mouseout",function(d) {
+                    svg.selectAll(".selector").classed("exemplary",false)
+                    d3.select(this).classed("exemplary",false);
+                })
+
+            if (doEverything) {
+                discipline
+                    .transition().duration(transtime)
+                    .style("fill", function(d) { return color(d[state.displayOrder[0]]); })
+                    .attr("d", function(d) { return area(d.values); })
+
+                discipline.exit().remove()
+                d1 = discipline;
+                ds = disciplines;
+
+                xaxis.transition().duration(transtime)
+                    .call(xAxis);
+
+                yaxis.transition().duration(transtime)
+                    .call(yAxis);
+            }
+        }
+        updatePlot(entranceState,false);
+        updatePlot(finalState,true);
     }
 }
-    firstLoad()
+firstLoad()
 
-        </script>
-
+</script>

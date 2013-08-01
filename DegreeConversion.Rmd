@@ -1,0 +1,150 @@
+Convert NSF data
+
+First, work with the Carnegie classifications table to get the counts for individual institution types.
+These are not complete, so won't sum up with the overall totals.
+
+```{r}
+source("functions.R")
+carnegies = loadCarnegieTable()
+table = cleanupTable(carnegies)
+table = reformatDisciplines(table)
+writeOutResults(table[table$level=="Bachelor's Degrees",])
+```
+
+
+Then, get the individual school counts. I'm just concatenating together a bunch of individual webcaspar school files for this.
+``` {r}
+schools = loadSchoolTable()
+table = cleanupTable(schools)
+table = reformatDisciplines(table)
+writeOutResults(table[table$level=="Bachelor's Degrees",])
+cat(toJSON(unique(table$institution)))
+head(schools)
+```
+
+```{r}
+
+table = read.table("DegreeData.csv",sep=",",skip = 6,header=T
+           ,colClasses = c("character","factor","factor","character","character"),na.strings=c(".",'"."','"######"'))
+
+names(table) = c("year","institution","discipline","gender","majors","minors")
+#
+
+if (FALSE) {
+table = read.table("Schools.csv",sep=",",skip = 0,header=T
+           ,colClasses = c("character","factor","factor","character","character"),na.strings=c(".",'"."','"######"'))
+head(table)
+names(table) = c("year","gender","degree","discipline","institution","muck","majors");
+table=table[table$degree=="Bachelor's Degrees",]
+table$minors = 0
+}
+
+table = cleanupTable(table)
+
+table = reformatDisciplines(table)
+head(table)
+require(reshape2)
+limited = melt(xtabs(majors~year+gender+field,table))
+names(limited) = c("year","gender","field","count")
+totals = ddply(limited,.(year),function(row){data.frame(total=sum(row$count))})
+limited = merge(limited,totals)
+head(limited)
+write.table(limited,file="/Library/WebServer/Documents/Allfields/data.tsv",sep="\t",row.names=F)
+
+ddply(table,.(institution),function(mytable){
+  limited = melt(xtabs(majors~year+gender+field,mytable))
+  cat(as.character(mytable$institution[1]))
+  names(limited) = c("year","gender","field","count")
+  totals = ddply(limited,.(year),function(row){data.frame(total=sum(row$count))})
+  limited = merge(limited,totals)
+  head(limited)
+  write.table(limited,file=paste0("/Library/WebServer/Documents/Allfields/",gsub("/",".",mytable$institution[1]),".tsv"),sep="\t",row.names=F)
+})
+
+limited = melt(xtabs(majors~year+gender+field,table[table$institution=="Master's/Comprehensive II",]))
+
+```
+
+Long Term humanities degrees are stored in a separate table. 
+
+```{r}
+library(plyr,reshape2)
+library(reshape2)
+humanities = read.csv("FullHumanities.csv")
+humanities = melt(humanities,id.vars="year")
+humanities$gender = sapply(strsplit(as.character(humanities$variable),"\\."),'[[',1)
+humanities$field = gsub(".*\\.","",humanities$variable)
+table(humanities$field)
+humanities = humanities[humanities$field %in% c("AreaStudies","Arts","Classics","English","History","Journalism","Languages","Music","Philosophy","Religion","total"),]
+humanities = humanities[humanities$year < 1966,]
+humanities$gender = factor(humanities$gender,levels = c("M","F"),labels=c("Male","Female"))
+humanities = humanities[,-2]
+names(humanities) = c("year","count","gender","field")
+```
+
+The older tables are yet messier, and missing a few years in the early 1960s.
+```{r}
+degrees = read.csv("OldHEGIS.csv")
+mine = melt(degrees,id.vars=c("X1969.HEGIS.code","X1969.HEGIS.Descriptor","X1953.Order","X1952.Order","X1948.Order","Order64"))
+table(mine$variable)
+mine$variable = gsub("([MW]?)([A-Z][A-Z]+)(\\d\\d)","X\\3\\1\\2",mine$variable)
+regex="X(\\d\\d)([MW]?)([A-Z][A-Z]+)"
+mine$good = grepl(regex,mine$variable)
+mine$Degree = gsub(regex,"\\3",as.character(mine$variable))
+mine$Gender =  gsub(regex,"\\2",as.character(mine$variable))
+mine$Year =  as.numeric(gsub(regex,"\\1",as.character(mine$variable))) + 1900
+mine$field = mine$X1969.HEGIS.Descriptor
+mine$HEGIS = mine$X1969.HEGIS.code
+mine$value = as.numeric(mine$value)
+mine = mine[,!grepl("^X",names(mine))]
+mine = mine[mine$Gender %in% c("M","F","W"),]
+generalCodes = mine[as.numeric(as.character(mine$HEGIS)) %% 100==0,c("field","HEGIS")]
+generalCodes = generalCodes[!duplicated(generalCodes$HEGIS),]
+head(mine)
+mine = mine[!mine$field %in% c("History","Journalism","English","English, Literature, Creative Writing, Language Arts, Comparative Literature","Music, Sacred Music","Foreign Language and Literature","Religion","Spanish","French","German","Japanese","Chinese","Italian","Russian"),]
+head(mine)
+names(mine) = tolower(names(mine))
+mine$gender = factor(mine$gender,levels = c("M","W"),labels=c("Male","Female"))
+head(mine)
+oldtotals = mine[mine$degree=="BA",c("year","value","gender","field")]
+names(oldtotals) = c("year","count","gender","field")
+```
+
+Merging the two old series together:
+
+```{r}
+humanities$discipline=humanities$field
+oldtotals$discipline = oldtotals$field
+totals = ddply(humanities[humanities$field=="total",],.(year),function(frame) {
+  return(data.frame(total=sum(frame$count)))
+})
+sums = rbind(oldtotals[!oldtotals$field=="Grand Total of All degrees",],humanities[!humanities$field=="total",])
+head(sums)
+sums$discipline = as.character(sums$discipline)
+sums$field = as.character(sums$field)
+require(plyr)
+crosswalk = read.csv("lookups.csv",stringsAsFactors=F)
+replacements = ddply(crosswalk,.(field),function(broadfield){
+  data.frame(replacement = unique(sums$discipline[grep(paste(broadfield$regex,collapse="|"),sums$discipline)]))
+},.progress="text")
+
+sums$field[sums$field %in% replacements$replacement] = replacements$field[match(sums$field[sums$field %in% replacements$replacement],replacements$replacement)]
+sums = ddply(sums,.(field,year,gender),function(field){
+  data.frame(count=sum(field$count,na.rm=T))
+})
+counts = xtabs(count~field,sums)
+sort(-counts[counts>0])
+previousOutput = read.table("/Library/WebServer/Documents/Allfields/data.tsv",header=T,stringsAsFactors=F)
+
+newtotals = rbind(totals,ddply(previousOutput,.(year), function(frame) {return(data.frame(total=frame$total[1]))}))
+new = rbind(previousOutput,merge(sums,totals))
+
+new[sample(1:nrow(new),10),]
+new = new[new$field!="",]
+library(reshape2)
+better = melt(xtabs(count~year+field+gender,new))
+names(better) = c("year","field","gender","count")
+better = better[better$field %in% names(xtabs(count~field,better)[xtabs(count~field,better)>0]),]
+better = merge(better,newtotals,by=c("year"))
+write.table(better[order(better$year,better$field,better$gender),],file="/Library/WebServer/Documents/Allfields/longData.tsv",row.names=F,sep="\t")
+```

@@ -1,0 +1,35 @@
+Different Types of degrees.
+========================================================
+
+I want to classify academic degrees together.
+
+The basic idea is that similar degrees will probably be awarded at similar types of univerities.
+
+```{r fig.width=7, fig.height=6}
+source("functions.R")
+loadInstitutionTable = function() {
+library(plyr)
+library(reshape2)
+library(ggplot2)
+degrees = read.table("DegreeData.csv",sep=",",skip = 6,header=T
+           ,colClasses = c("character","factor","factor","factor","character","character"),na.strings=c(".",'"."','"######"'))
+
+names(degrees) = c("year","institution","discipline","gender","majors","minors")
+return(degrees)
+}
+majors = melt(xtabs(as.numeric(majors)~year+institution+discipline,degrees))
+names(majors) = c("year","type","field","count")
+head(majors)
+majors = majors[majors$type %in% names(sort(-xtabs(count~type,majors)))[1:7],]
+
+ratios = ddply(majors,.(field),function(frame) {
+  frame$count[frame$count==0] = .1
+  frame$ratio = frame$count/sum(frame$count)
+  frame
+},.progress="text")
+head(ratios)
+a = acast(ratios,field~type+year)
+head(a)
+d = dist(a)
+par(mar=c(1,1,1,10))
+plot(as.dendrogram(hclust(d)),horiz=T)

@@ -1,0 +1,277 @@
+"year"	"gender"	"field"	"count"	"total"
+"1966"	"Female"	"Princeton University"	0	2627
+"1966"	"Female"	"University of Michigan at Ann Arbor"	0	2627
+"1966"	"Gender"	"Princeton University"	0	2627
+"1966"	"Gender"	"University of Michigan at Ann Arbor"	0	2627
+"1966"	"Male"	"University of Michigan at Ann Arbor"	0	2627
+"1966"	"Male"	"Princeton University"	2627	2627
+"1967"	"Female"	"Princeton University"	0	2627
+"1967"	"Male"	"University of Michigan at Ann Arbor"	0	2627
+"1967"	"Gender"	"Princeton University"	0	2627
+"1967"	"Male"	"Princeton University"	2627	2627
+"1967"	"Female"	"University of Michigan at Ann Arbor"	0	2627
+"1967"	"Gender"	"University of Michigan at Ann Arbor"	0	2627
+"1968"	"Female"	"Princeton University"	0	2627
+"1968"	"Gender"	"Princeton University"	0	2627
+"1968"	"Male"	"Princeton University"	2627	2627
+"1968"	"Female"	"University of Michigan at Ann Arbor"	0	2627
+"1968"	"Gender"	"University of Michigan at Ann Arbor"	0	2627
+"1968"	"Male"	"University of Michigan at Ann Arbor"	0	2627
+"1969"	"Female"	"Princeton University"	0	2627
+"1969"	"Gender"	"Princeton University"	0	2627
+"1969"	"Male"	"Princeton University"	2627	2627
+"1969"	"Female"	"University of Michigan at Ann Arbor"	0	2627
+"1969"	"Gender"	"University of Michigan at Ann Arbor"	0	2627
+"1969"	"Male"	"University of Michigan at Ann Arbor"	0	2627
+"1970"	"Gender"	"Princeton University"	0	11719
+"1970"	"Male"	"Princeton University"	2627	11719
+"1970"	"Female"	"University of Michigan at Ann Arbor"	0	11719
+"1970"	"Gender"	"University of Michigan at Ann Arbor"	0	11719
+"1970"	"Female"	"Princeton University"	0	11719
+"1970"	"Male"	"University of Michigan at Ann Arbor"	9092	11719
+"1971"	"Female"	"University of Michigan at Ann Arbor"	0	11719
+"1971"	"Female"	"Princeton University"	0	11719
+"1971"	"Gender"	"Princeton University"	0	11719
+"1971"	"Gender"	"University of Michigan at Ann Arbor"	0	11719
+"1971"	"Male"	"Princeton University"	2627	11719
+"1971"	"Male"	"University of Michigan at Ann Arbor"	9092	11719
+"1972"	"Male"	"University of Michigan at Ann Arbor"	9092	20811
+"1972"	"Male"	"Princeton University"	2627	20811
+"1972"	"Female"	"University of Michigan at Ann Arbor"	9092	20811
+"1972"	"Gender"	"Princeton University"	0	20811
+"1972"	"Gender"	"University of Michigan at Ann Arbor"	0	20811
+"1972"	"Female"	"Princeton University"	0	20811
+"1973"	"Male"	"University of Michigan at Ann Arbor"	9092	23438
+"1973"	"Female"	"Princeton University"	2627	23438
+"1973"	"Gender"	"Princeton University"	0	23438
+"1973"	"Gender"	"University of Michigan at Ann Arbor"	0	23438
+"1973"	"Male"	"Princeton University"	2627	23438
+"1973"	"Female"	"University of Michigan at Ann Arbor"	9092	23438
+"1974"	"Gender"	"Princeton University"	0	23438
+"1974"	"Female"	"University of Michigan at Ann Arbor"	9092	23438
+"1974"	"Male"	"University of Michigan at Ann Arbor"	9092	23438
+"1974"	"Female"	"Princeton University"	2627	23438
+"1974"	"Male"	"Princeton University"	2627	23438
+"1974"	"Gender"	"University of Michigan at Ann Arbor"	0	23438
+"1975"	"Gender"	"Princeton University"	0	20811
+"1975"	"Female"	"Princeton University"	0	20811
+"1975"	"Female"	"University of Michigan at Ann Arbor"	9092	20811
+"1975"	"Male"	"Princeton University"	2627	20811
+"1975"	"Male"	"University of Michigan at Ann Arbor"	9092	20811
+"1975"	"Gender"	"University of Michigan at Ann Arbor"	0	20811
+"1976"	"Gender"	"Princeton University"	0	14346
+"1976"	"Female"	"Princeton University"	2627	14346
+"1976"	"Female"	"University of Michigan at Ann Arbor"	0	14346
+"1976"	"Male"	"Princeton University"	2627	14346
+"1976"	"Male"	"University of Michigan at Ann Arbor"	9092	14346
+"1976"	"Gender"	"University of Michigan at Ann Arbor"	0	14346
+"1977"	"Male"	"Princeton University"	2627	20811
+"1977"	"Female"	"University of Michigan at Ann Arbor"	9092	20811
+"1977"	"Male"	"University of Michigan at Ann Arbor"	9092	20811
+"1977"	"Female"	"Princeton University"	0	20811
+"1977"	"Gender"	"Princeton University"	0	20811
+"1977"	"Gender"	"University of Michigan at Ann Arbor"	0	20811
+"1978"	"Male"	"University of Michigan at Ann Arbor"	9092	14346
+"1978"	"Gender"	"Princeton University"	0	14346
+"1978"	"Male"	"Princeton University"	2627	14346
+"1978"	"Female"	"University of Michigan at Ann Arbor"	0	14346
+"1978"	"Gender"	"University of Michigan at Ann Arbor"	0	14346
+"1978"	"Female"	"Princeton University"	2627	14346
+"1979"	"Male"	"University of Michigan at Ann Arbor"	9092	14346
+"1979"	"Gender"	"Princeton University"	0	14346
+"1979"	"Female"	"Princeton University"	2627	14346
+"1979"	"Gender"	"University of Michigan at Ann Arbor"	0	14346
+"1979"	"Female"	"University of Michigan at Ann Arbor"	0	14346
+"1979"	"Male"	"Princeton University"	2627	14346
+"1980"	"Gender"	"Princeton University"	0	23438
+"1980"	"Female"	"Princeton University"	2627	23438
+"1980"	"Male"	"University of Michigan at Ann Arbor"	9092	23438
+"1980"	"Gender"	"University of Michigan at Ann Arbor"	0	23438
+"1980"	"Male"	"Princeton University"	2627	23438
+"1980"	"Female"	"University of Michigan at Ann Arbor"	9092	23438
+"1981"	"Male"	"University of Michigan at Ann Arbor"	9092	23438
+"1981"	"Female"	"Princeton University"	2627	23438
+"1981"	"Gender"	"Princeton University"	0	23438
+"1981"	"Gender"	"University of Michigan at Ann Arbor"	0	23438
+"1981"	"Male"	"Princeton University"	2627	23438
+"1981"	"Female"	"University of Michigan at Ann Arbor"	9092	23438
+"1982"	"Female"	"Princeton University"	2627	23438
+"1982"	"Gender"	"Princeton University"	0	23438
+"1982"	"Gender"	"University of Michigan at Ann Arbor"	0	23438
+"1982"	"Male"	"Princeton University"	2627	23438
+"1982"	"Male"	"University of Michigan at Ann Arbor"	9092	23438
+"1982"	"Female"	"University of Michigan at Ann Arbor"	9092	23438
+"1983"	"Gender"	"Princeton University"	0	18184
+"1983"	"Gender"	"University of Michigan at Ann Arbor"	0	18184
+"1983"	"Male"	"Princeton University"	0	18184
+"1983"	"Female"	"Princeton University"	0	18184
+"1983"	"Female"	"University of Michigan at Ann Arbor"	9092	18184
+"1983"	"Male"	"University of Michigan at Ann Arbor"	9092	18184
+"1984"	"Female"	"University of Michigan at Ann Arbor"	9092	18184
+"1984"	"Gender"	"University of Michigan at Ann Arbor"	0	18184
+"1984"	"Male"	"University of Michigan at Ann Arbor"	9092	18184
+"1984"	"Male"	"Princeton University"	0	18184
+"1984"	"Female"	"Princeton University"	0	18184
+"1984"	"Gender"	"Princeton University"	0	18184
+"1985"	"Female"	"University of Michigan at Ann Arbor"	9092	18184
+"1985"	"Male"	"University of Michigan at Ann Arbor"	9092	18184
+"1985"	"Gender"	"University of Michigan at Ann Arbor"	0	18184
+"1985"	"Female"	"Princeton University"	0	18184
+"1985"	"Gender"	"Princeton University"	0	18184
+"1985"	"Male"	"Princeton University"	0	18184
+"1986"	"Male"	"University of Michigan at Ann Arbor"	9092	18184
+"1986"	"Gender"	"Princeton University"	0	18184
+"1986"	"Female"	"Princeton University"	0	18184
+"1986"	"Gender"	"University of Michigan at Ann Arbor"	0	18184
+"1986"	"Female"	"University of Michigan at Ann Arbor"	9092	18184
+"1986"	"Male"	"Princeton University"	0	18184
+"1987"	"Male"	"University of Michigan at Ann Arbor"	9092	18184
+"1987"	"Gender"	"University of Michigan at Ann Arbor"	0	18184
+"1987"	"Gender"	"Princeton University"	0	18184
+"1987"	"Female"	"Princeton University"	0	18184
+"1987"	"Female"	"University of Michigan at Ann Arbor"	9092	18184
+"1987"	"Male"	"Princeton University"	0	18184
+"1988"	"Female"	"Princeton University"	0	18184
+"1988"	"Gender"	"Princeton University"	0	18184
+"1988"	"Female"	"University of Michigan at Ann Arbor"	9092	18184
+"1988"	"Male"	"Princeton University"	0	18184
+"1988"	"Gender"	"University of Michigan at Ann Arbor"	0	18184
+"1988"	"Male"	"University of Michigan at Ann Arbor"	9092	18184
+"1989"	"Female"	"Princeton University"	0	18184
+"1989"	"Gender"	"Princeton University"	0	18184
+"1989"	"Female"	"University of Michigan at Ann Arbor"	9092	18184
+"1989"	"Male"	"Princeton University"	0	18184
+"1989"	"Gender"	"University of Michigan at Ann Arbor"	0	18184
+"1989"	"Male"	"University of Michigan at Ann Arbor"	9092	18184
+"1990"	"Female"	"University of Michigan at Ann Arbor"	9092	18184
+"1990"	"Male"	"Princeton University"	0	18184
+"1990"	"Male"	"University of Michigan at Ann Arbor"	9092	18184
+"1990"	"Gender"	"University of Michigan at Ann Arbor"	0	18184
+"1990"	"Gender"	"Princeton University"	0	18184
+"1990"	"Female"	"Princeton University"	0	18184
+"1991"	"Female"	"University of Michigan at Ann Arbor"	9092	18184
+"1991"	"Male"	"Princeton University"	0	18184
+"1991"	"Gender"	"Princeton University"	0	18184
+"1991"	"Male"	"University of Michigan at Ann Arbor"	9092	18184
+"1991"	"Gender"	"University of Michigan at Ann Arbor"	0	18184
+"1991"	"Female"	"Princeton University"	0	18184
+"1992"	"Female"	"University of Michigan at Ann Arbor"	9092	18184
+"1992"	"Gender"	"University of Michigan at Ann Arbor"	0	18184
+"1992"	"Male"	"University of Michigan at Ann Arbor"	9092	18184
+"1992"	"Gender"	"Princeton University"	0	18184
+"1992"	"Female"	"Princeton University"	0	18184
+"1992"	"Male"	"Princeton University"	0	18184
+"1993"	"Gender"	"University of Michigan at Ann Arbor"	0	18184
+"1993"	"Male"	"University of Michigan at Ann Arbor"	9092	18184
+"1993"	"Female"	"University of Michigan at Ann Arbor"	9092	18184
+"1993"	"Female"	"Princeton University"	0	18184
+"1993"	"Gender"	"Princeton University"	0	18184
+"1993"	"Male"	"Princeton University"	0	18184
+"1994"	"Female"	"Princeton University"	0	18184
+"1994"	"Male"	"Princeton University"	0	18184
+"1994"	"Male"	"University of Michigan at Ann Arbor"	9092	18184
+"1994"	"Female"	"University of Michigan at Ann Arbor"	9092	18184
+"1994"	"Gender"	"Princeton University"	0	18184
+"1994"	"Gender"	"University of Michigan at Ann Arbor"	0	18184
+"1995"	"Male"	"Princeton University"	0	18184
+"1995"	"Female"	"Princeton University"	0	18184
+"1995"	"Female"	"University of Michigan at Ann Arbor"	9092	18184
+"1995"	"Gender"	"Princeton University"	0	18184
+"1995"	"Gender"	"University of Michigan at Ann Arbor"	0	18184
+"1995"	"Male"	"University of Michigan at Ann Arbor"	9092	18184
+"1996"	"Male"	"Princeton University"	0	18184
+"1996"	"Female"	"University of Michigan at Ann Arbor"	9092	18184
+"1996"	"Gender"	"Princeton University"	0	18184
+"1996"	"Gender"	"University of Michigan at Ann Arbor"	0	18184
+"1996"	"Male"	"University of Michigan at Ann Arbor"	9092	18184
+"1996"	"Female"	"Princeton University"	0	18184
+"1997"	"Male"	"Princeton University"	0	18184
+"1997"	"Female"	"University of Michigan at Ann Arbor"	9092	18184
+"1997"	"Gender"	"Princeton University"	0	18184
+"1997"	"Female"	"Princeton University"	0	18184
+"1997"	"Male"	"University of Michigan at Ann Arbor"	9092	18184
+"1997"	"Gender"	"University of Michigan at Ann Arbor"	0	18184
+"1998"	"Female"	"University of Michigan at Ann Arbor"	9092	18184
+"1998"	"Male"	"Princeton University"	0	18184
+"1998"	"Gender"	"Princeton University"	0	18184
+"1998"	"Male"	"University of Michigan at Ann Arbor"	9092	18184
+"1998"	"Gender"	"University of Michigan at Ann Arbor"	0	18184
+"1998"	"Female"	"Princeton University"	0	18184
+"1999"	"Male"	"University of Michigan at Ann Arbor"	9092	18184
+"1999"	"Gender"	"Princeton University"	0	18184
+"1999"	"Male"	"Princeton University"	0	18184
+"1999"	"Female"	"University of Michigan at Ann Arbor"	9092	18184
+"1999"	"Gender"	"University of Michigan at Ann Arbor"	0	18184
+"1999"	"Female"	"Princeton University"	0	18184
+"2000"	"Gender"	"Princeton University"	0	18184
+"2000"	"Gender"	"University of Michigan at Ann Arbor"	0	18184
+"2000"	"Male"	"University of Michigan at Ann Arbor"	9092	18184
+"2000"	"Female"	"Princeton University"	0	18184
+"2000"	"Male"	"Princeton University"	0	18184
+"2000"	"Female"	"University of Michigan at Ann Arbor"	9092	18184
+"2001"	"Gender"	"Princeton University"	0	18184
+"2001"	"Female"	"Princeton University"	0	18184
+"2001"	"Female"	"University of Michigan at Ann Arbor"	9092	18184
+"2001"	"Male"	"Princeton University"	0	18184
+"2001"	"Male"	"University of Michigan at Ann Arbor"	9092	18184
+"2001"	"Gender"	"University of Michigan at Ann Arbor"	0	18184
+"2002"	"Gender"	"Princeton University"	0	18184
+"2002"	"Female"	"Princeton University"	0	18184
+"2002"	"Female"	"University of Michigan at Ann Arbor"	9092	18184
+"2002"	"Male"	"Princeton University"	0	18184
+"2002"	"Male"	"University of Michigan at Ann Arbor"	9092	18184
+"2002"	"Gender"	"University of Michigan at Ann Arbor"	0	18184
+"2003"	"Gender"	"Princeton University"	0	18184
+"2003"	"Female"	"University of Michigan at Ann Arbor"	9092	18184
+"2003"	"Male"	"University of Michigan at Ann Arbor"	9092	18184
+"2003"	"Female"	"Princeton University"	0	18184
+"2003"	"Male"	"Princeton University"	0	18184
+"2003"	"Gender"	"University of Michigan at Ann Arbor"	0	18184
+"2004"	"Male"	"Princeton University"	0	18184
+"2004"	"Female"	"University of Michigan at Ann Arbor"	9092	18184
+"2004"	"Gender"	"Princeton University"	0	18184
+"2004"	"Gender"	"University of Michigan at Ann Arbor"	0	18184
+"2004"	"Male"	"University of Michigan at Ann Arbor"	9092	18184
+"2004"	"Female"	"Princeton University"	0	18184
+"2005"	"Male"	"University of Michigan at Ann Arbor"	9092	18184
+"2005"	"Gender"	"Princeton University"	0	18184
+"2005"	"Gender"	"University of Michigan at Ann Arbor"	0	18184
+"2005"	"Male"	"Princeton University"	0	18184
+"2005"	"Female"	"University of Michigan at Ann Arbor"	9092	18184
+"2005"	"Female"	"Princeton University"	0	18184
+"2006"	"Female"	"Princeton University"	0	18184
+"2006"	"Female"	"University of Michigan at Ann Arbor"	9092	18184
+"2006"	"Gender"	"Princeton University"	0	18184
+"2006"	"Gender"	"University of Michigan at Ann Arbor"	0	18184
+"2006"	"Male"	"University of Michigan at Ann Arbor"	9092	18184
+"2006"	"Male"	"Princeton University"	0	18184
+"2007"	"Female"	"Princeton University"	0	18184
+"2007"	"Male"	"University of Michigan at Ann Arbor"	9092	18184
+"2007"	"Gender"	"Princeton University"	0	18184
+"2007"	"Male"	"Princeton University"	0	18184
+"2007"	"Female"	"University of Michigan at Ann Arbor"	9092	18184
+"2007"	"Gender"	"University of Michigan at Ann Arbor"	0	18184
+"2008"	"Female"	"Princeton University"	0	18184
+"2008"	"Gender"	"Princeton University"	0	18184
+"2008"	"Male"	"Princeton University"	0	18184
+"2008"	"Female"	"University of Michigan at Ann Arbor"	9092	18184
+"2008"	"Gender"	"University of Michigan at Ann Arbor"	0	18184
+"2008"	"Male"	"University of Michigan at Ann Arbor"	9092	18184
+"2009"	"Female"	"Princeton University"	0	18184
+"2009"	"Gender"	"Princeton University"	0	18184
+"2009"	"Male"	"Princeton University"	0	18184
+"2009"	"Female"	"University of Michigan at Ann Arbor"	9092	18184
+"2009"	"Gender"	"University of Michigan at Ann Arbor"	0	18184
+"2009"	"Male"	"University of Michigan at Ann Arbor"	9092	18184
+"2010"	"Gender"	"Princeton University"	0	18184
+"2010"	"Male"	"Princeton University"	0	18184
+"2010"	"Female"	"University of Michigan at Ann Arbor"	9092	18184
+"2010"	"Gender"	"University of Michigan at Ann Arbor"	0	18184
+"2010"	"Female"	"Princeton University"	0	18184
+"2010"	"Male"	"University of Michigan at Ann Arbor"	9092	18184
+"2011"	"Female"	"University of Michigan at Ann Arbor"	9092	18184
+"2011"	"Female"	"Princeton University"	0	18184
+"2011"	"Gender"	"Princeton University"	0	18184
+"2011"	"Gender"	"University of Michigan at Ann Arbor"	0	18184
+"2011"	"Male"	"Princeton University"	0	18184
+"2011"	"Male"	"University of Michigan at Ann Arbor"	9092	18184

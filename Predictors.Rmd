@@ -1,0 +1,34 @@
+Predictors
+========================================================
+
+Do certain schools predict the long-term trends?
+
+```{r}
+source("functions.R")
+degrees = loadInstitutionTable()
+malt = melt(degrees,id.vars=c("year","institution","discipline","gender"))
+malt$value = as.numeric(malt$value)
+malt$minors = as.numeric(malt$minors)
+malt$year = as.numeric(malt$year)
+justOne= function(fieldname,institution) {
+  malt = malt[malt$discipline==fieldname & malt$institution==institution,]
+  return(malt)
+}
+
+R1 = justOne("Computer Science","Research I")
+R2 = justOne("Computer Science","Research II")
+mergt= merge(R1,R2,by=c("discipline","variable","discipline","gender"))
+head(mergt)
+mergt$diff = factor(mergt$year.x-mergt$year.y)
+ggplot(mergt[abs(mergt$year.x-mergt$year.y)<3,],aes(x=value.x,y=value.y,color=gender))  + geom_point() + facet_wrap(~diff) + geom_smooth(method="lm")
+head(dcast(mergt,value.x + year.x ~ value.y + diff))
+ggplot(m,aes_string(x="Research_I",y="Research_II")) + geom_point() + scale_y_sqrt() + scale_x_sqrt()  + facet_wrap(~discipline)
+head(m[m$discipline=="Computer Science",])
+```
+
+You can also embed plots, for example:
+
+```{r fig.width=7, fig.height=6}
+plot(cars)
+```
+

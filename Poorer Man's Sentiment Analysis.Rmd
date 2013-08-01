@@ -1,0 +1,49 @@
+# Poorer Man's sentiment analysis.
+
+``` {sh}
+gunzip -c myngrams.txt.zip | perl -ne '{($ngrams,$year,$book) = split("\t"); $ngrams =~ s/[^\w ]//gi; my @words = split(" ",$ngrams); foreach $word(@words) {$counts{$word}{$year} += $book }} END {foreach $key (keys %counts) {my %hash = %{$counts{$key}}; foreach $year (keys %hash) {print "$key\t$year\t$hash{$year}\n"}} }' > littleNgrams.txt
+```
+
+```{r}
+counts = read.table("/Users/bschmidt/Downloads/3grams/littleNgrams.txt")
+head(counts)
+names(counts) = c("word","year","count")
+summary(counts$word)
+length(table(counts$word)[table(counts$word) > 50])
+yearcounts = xtabs(count~year,counts)
+wordcounts = xtabs(count~word,counts)
+head(yearcounts)
+head(wordcounts)
+counts$percent = counts$count/yearcounts[match(counts$year,names(yearcounts))]
+
+
+#Starting at 2 to exclude the word itself.
+mini = counts[counts$year > 1800,]
+
+mini = mini[mini$word %in% names(sort(-xtabs(percent~word,mini))[1:200]),]
+
+mini$rank = match(mini$word,names(sort(-wordcounts)))
+
+dim=10
+mini$xpos = factor(floor(mini$rank/dim))
+mini$ypos = factor(mini$rank %% dim)
+#mini = mini[!mini$word %in% c("the") & nchar(as.character(mini$word) > 2),]
+mini$percent = mini$count/yearcounts[match(mini$year,names(yearcounts))]
+require(plyr)
+mini = ddply(mini,.(word),function(this) {
+  this$share = this$percent/mean(this$percent)
+  this
+  })
+
+require(ggplot2)
+
+ggplot(mini,aes(x=year,y=share)) + facet_grid(xpos~ypos) + geom_line() + geom_text(data = mini[!duplicated(mini$word),],x=1800,aes(label=word),hjust=0,vjust=0,y=5)
+
+```
+
+You can also embed plots, for example:
+
+```{r fig.width=7, fig.height=6}
+plot(cars)
+```
+

@@ -1,0 +1,829 @@
+"year"	"gender"	"field"	"count"	"total"
+"1966"	"Female"	"Northeastern University"	0	8230
+"1966"	"Gender"	"Stanford University"	0	8230
+"1966"	"Female"	"University of Michigan at Ann Arbor"	0	8230
+"1966"	"Male"	"University of Rhode Island"	3414	8230
+"1966"	"Female"	"Princeton University"	0	8230
+"1966"	"Male"	"Stanford University"	1305	8230
+"1966"	"Gender"	"Northeastern University"	0	8230
+"1966"	"Female"	"University of California-Berkeley"	0	8230
+"1966"	"Female"	"Stanford University"	0	8230
+"1966"	"Male"	"University of California-Berkeley"	1312	8230
+"1966"	"Gender"	"University of Rhode Island"	0	8230
+"1966"	"Female"	"University of Rhode Island"	0	8230
+"1966"	"Male"	"Northeastern University"	2199	8230
+"1966"	"Male"	"University of Michigan at Ann Arbor"	0	8230
+"1966"	"Gender"	"University of California-Berkeley"	0	8230
+"1966"	"Gender"	"Princeton University"	0	8230
+"1966"	"Male"	"Princeton University"	0	8230
+"1966"	"Gender"	"University of Michigan at Ann Arbor"	0	8230
+"1967"	"Male"	"Princeton University"	0	10429
+"1967"	"Gender"	"Northeastern University"	0	10429
+"1967"	"Male"	"Stanford University"	1305	10429
+"1967"	"Female"	"University of Rhode Island"	0	10429
+"1967"	"Female"	"Northeastern University"	2199	10429
+"1967"	"Gender"	"Stanford University"	0	10429
+"1967"	"Gender"	"Princeton University"	0	10429
+"1967"	"Gender"	"University of Rhode Island"	0	10429
+"1967"	"Male"	"Northeastern University"	2199	10429
+"1967"	"Female"	"Princeton University"	0	10429
+"1967"	"Male"	"University of Michigan at Ann Arbor"	0	10429
+"1967"	"Male"	"University of California-Berkeley"	1312	10429
+"1967"	"Female"	"University of Michigan at Ann Arbor"	0	10429
+"1967"	"Female"	"Stanford University"	0	10429
+"1967"	"Gender"	"University of California-Berkeley"	0	10429
+"1967"	"Male"	"University of Rhode Island"	3414	10429
+"1967"	"Female"	"University of California-Berkeley"	0	10429
+"1967"	"Gender"	"University of Michigan at Ann Arbor"	0	10429
+"1968"	"Gender"	"Northeastern University"	0	8230
+"1968"	"Gender"	"Stanford University"	0	8230
+"1968"	"Gender"	"Princeton University"	0	8230
+"1968"	"Male"	"Northeastern University"	2199	8230
+"1968"	"Female"	"University of California-Berkeley"	0	8230
+"1968"	"Gender"	"University of California-Berkeley"	0	8230
+"1968"	"Male"	"University of Michigan at Ann Arbor"	0	8230
+"1968"	"Male"	"Stanford University"	1305	8230
+"1968"	"Male"	"Princeton University"	0	8230
+"1968"	"Female"	"Northeastern University"	0	8230
+"1968"	"Male"	"University of Rhode Island"	3414	8230
+"1968"	"Male"	"University of California-Berkeley"	1312	8230
+"1968"	"Female"	"University of Rhode Island"	0	8230
+"1968"	"Female"	"Stanford University"	0	8230
+"1968"	"Gender"	"University of Michigan at Ann Arbor"	0	8230
+"1968"	"Gender"	"University of Rhode Island"	0	8230
+"1968"	"Female"	"Princeton University"	0	8230
+"1968"	"Female"	"University of Michigan at Ann Arbor"	0	8230
+"1969"	"Gender"	"Stanford University"	0	11644
+"1969"	"Gender"	"Princeton University"	0	11644
+"1969"	"Female"	"Northeastern University"	0	11644
+"1969"	"Male"	"University of Michigan at Ann Arbor"	0	11644
+"1969"	"Male"	"Northeastern University"	2199	11644
+"1969"	"Female"	"Princeton University"	0	11644
+"1969"	"Gender"	"University of California-Berkeley"	0	11644
+"1969"	"Gender"	"Northeastern University"	0	11644
+"1969"	"Female"	"University of Rhode Island"	3414	11644
+"1969"	"Female"	"Stanford University"	0	11644
+"1969"	"Gender"	"University of Michigan at Ann Arbor"	0	11644
+"1969"	"Male"	"University of California-Berkeley"	1312	11644
+"1969"	"Male"	"Stanford University"	1305	11644
+"1969"	"Female"	"University of California-Berkeley"	0	11644
+"1969"	"Gender"	"University of Rhode Island"	0	11644
+"1969"	"Male"	"University of Rhode Island"	3414	11644
+"1969"	"Male"	"Princeton University"	0	11644
+"1969"	"Female"	"University of Michigan at Ann Arbor"	0	11644
+"1970"	"Gender"	"Princeton University"	0	32027
+"1970"	"Female"	"Northeastern University"	2199	32027
+"1970"	"Gender"	"Stanford University"	0	32027
+"1970"	"Male"	"Stanford University"	1305	32027
+"1970"	"Female"	"University of California-Berkeley"	0	32027
+"1970"	"Female"	"Stanford University"	0	32027
+"1970"	"Gender"	"University of Michigan at Ann Arbor"	0	32027
+"1970"	"Male"	"University of California-Berkeley"	1312	32027
+"1970"	"Male"	"Princeton University"	0	32027
+"1970"	"Gender"	"University of Rhode Island"	0	32027
+"1970"	"Male"	"Northeastern University"	2199	32027
+"1970"	"Male"	"University of Michigan at Ann Arbor"	9092	32027
+"1970"	"Gender"	"Northeastern University"	0	32027
+"1970"	"Female"	"University of Michigan at Ann Arbor"	9092	32027
+"1970"	"Female"	"Princeton University"	0	32027
+"1970"	"Gender"	"University of California-Berkeley"	0	32027
+"1970"	"Male"	"University of Rhode Island"	3414	32027
+"1970"	"Female"	"University of Rhode Island"	3414	32027
+"1971"	"Female"	"University of Rhode Island"	0	28613
+"1971"	"Male"	"Stanford University"	1305	28613
+"1971"	"Gender"	"University of California-Berkeley"	0	28613
+"1971"	"Male"	"University of California-Berkeley"	1312	28613
+"1971"	"Female"	"Stanford University"	0	28613
+"1971"	"Gender"	"University of Rhode Island"	0	28613
+"1971"	"Gender"	"University of Michigan at Ann Arbor"	0	28613
+"1971"	"Male"	"University of Michigan at Ann Arbor"	9092	28613
+"1971"	"Female"	"University of California-Berkeley"	0	28613
+"1971"	"Female"	"University of Michigan at Ann Arbor"	9092	28613
+"1971"	"Gender"	"Princeton University"	0	28613
+"1971"	"Male"	"University of Rhode Island"	3414	28613
+"1971"	"Male"	"Princeton University"	0	28613
+"1971"	"Female"	"Princeton University"	0	28613
+"1971"	"Male"	"Northeastern University"	2199	28613
+"1971"	"Female"	"Northeastern University"	2199	28613
+"1971"	"Gender"	"Northeastern University"	0	28613
+"1971"	"Gender"	"Stanford University"	0	28613
+"1972"	"Male"	"University of California-Berkeley"	1312	27726
+"1972"	"Female"	"Princeton University"	0	27726
+"1972"	"Female"	"University of Rhode Island"	0	27726
+"1972"	"Male"	"University of Michigan at Ann Arbor"	9092	27726
+"1972"	"Female"	"Stanford University"	0	27726
+"1972"	"Gender"	"University of Rhode Island"	0	27726
+"1972"	"Gender"	"Princeton University"	0	27726
+"1972"	"Male"	"University of Rhode Island"	3414	27726
+"1972"	"Male"	"Princeton University"	0	27726
+"1972"	"Gender"	"University of California-Berkeley"	0	27726
+"1972"	"Male"	"Northeastern University"	2199	27726
+"1972"	"Female"	"University of Michigan at Ann Arbor"	9092	27726
+"1972"	"Gender"	"Northeastern University"	0	27726
+"1972"	"Gender"	"University of Michigan at Ann Arbor"	0	27726
+"1972"	"Female"	"University of California-Berkeley"	1312	27726
+"1972"	"Gender"	"Stanford University"	0	27726
+"1972"	"Male"	"Stanford University"	1305	27726
+"1972"	"Female"	"Northeastern University"	0	27726
+"1973"	"Female"	"Princeton University"	0	17322
+"1973"	"Female"	"Stanford University"	0	17322
+"1973"	"Male"	"University of Rhode Island"	3414	17322
+"1973"	"Female"	"University of Michigan at Ann Arbor"	0	17322
+"1973"	"Male"	"Princeton University"	0	17322
+"1973"	"Male"	"University of California-Berkeley"	1312	17322
+"1973"	"Gender"	"Princeton University"	0	17322
+"1973"	"Female"	"Northeastern University"	0	17322
+"1973"	"Gender"	"Northeastern University"	0	17322
+"1973"	"Gender"	"University of California-Berkeley"	0	17322
+"1973"	"Female"	"University of Rhode Island"	0	17322
+"1973"	"Male"	"Northeastern University"	2199	17322
+"1973"	"Gender"	"Stanford University"	0	17322
+"1973"	"Gender"	"University of Michigan at Ann Arbor"	0	17322
+"1973"	"Female"	"University of California-Berkeley"	0	17322
+"1973"	"Male"	"Stanford University"	1305	17322
+"1973"	"Male"	"University of Michigan at Ann Arbor"	9092	17322
+"1973"	"Gender"	"University of Rhode Island"	0	17322
+"1974"	"Female"	"Princeton University"	0	29918
+"1974"	"Gender"	"Princeton University"	0	29918
+"1974"	"Female"	"Stanford University"	1305	29918
+"1974"	"Male"	"University of California-Berkeley"	1312	29918
+"1974"	"Male"	"University of Rhode Island"	3414	29918
+"1974"	"Male"	"Princeton University"	0	29918
+"1974"	"Gender"	"University of California-Berkeley"	0	29918
+"1974"	"Male"	"Northeastern University"	2199	29918
+"1974"	"Gender"	"Stanford University"	0	29918
+"1974"	"Gender"	"University of Michigan at Ann Arbor"	0	29918
+"1974"	"Female"	"University of Rhode Island"	0	29918
+"1974"	"Female"	"University of Michigan at Ann Arbor"	9092	29918
+"1974"	"Female"	"Northeastern University"	2199	29918
+"1974"	"Gender"	"Northeastern University"	0	29918
+"1974"	"Male"	"Stanford University"	1305	29918
+"1974"	"Female"	"University of California-Berkeley"	0	29918
+"1974"	"Gender"	"University of Rhode Island"	0	29918
+"1974"	"Male"	"University of Michigan at Ann Arbor"	9092	29918
+"1975"	"Male"	"University of California-Berkeley"	1312	20826
+"1975"	"Female"	"Princeton University"	0	20826
+"1975"	"Gender"	"Princeton University"	0	20826
+"1975"	"Female"	"University of Michigan at Ann Arbor"	0	20826
+"1975"	"Female"	"Stanford University"	1305	20826
+"1975"	"Gender"	"University of Michigan at Ann Arbor"	0	20826
+"1975"	"Male"	"University of Rhode Island"	3414	20826
+"1975"	"Male"	"Northeastern University"	2199	20826
+"1975"	"Male"	"Princeton University"	0	20826
+"1975"	"Gender"	"Northeastern University"	0	20826
+"1975"	"Gender"	"University of California-Berkeley"	0	20826
+"1975"	"Gender"	"Stanford University"	0	20826
+"1975"	"Male"	"University of Michigan at Ann Arbor"	9092	20826
+"1975"	"Female"	"University of Rhode Island"	0	20826
+"1975"	"Female"	"Northeastern University"	2199	20826
+"1975"	"Gender"	"University of Rhode Island"	0	20826
+"1975"	"Male"	"Stanford University"	1305	20826
+"1975"	"Female"	"University of California-Berkeley"	0	20826
+"1976"	"Male"	"University of California-Berkeley"	1312	32027
+"1976"	"Female"	"Princeton University"	0	32027
+"1976"	"Female"	"University of Rhode Island"	3414	32027
+"1976"	"Female"	"Stanford University"	0	32027
+"1976"	"Gender"	"University of Michigan at Ann Arbor"	0	32027
+"1976"	"Male"	"Stanford University"	1305	32027
+"1976"	"Gender"	"University of California-Berkeley"	0	32027
+"1976"	"Female"	"University of Michigan at Ann Arbor"	9092	32027
+"1976"	"Gender"	"Stanford University"	0	32027
+"1976"	"Gender"	"Princeton University"	0	32027
+"1976"	"Gender"	"Northeastern University"	0	32027
+"1976"	"Male"	"University of Rhode Island"	3414	32027
+"1976"	"Male"	"Northeastern University"	2199	32027
+"1976"	"Male"	"University of Michigan at Ann Arbor"	9092	32027
+"1976"	"Female"	"University of California-Berkeley"	0	32027
+"1976"	"Male"	"Princeton University"	0	32027
+"1976"	"Female"	"Northeastern University"	2199	32027
+"1976"	"Gender"	"University of Rhode Island"	0	32027
+"1977"	"Gender"	"University of Michigan at Ann Arbor"	0	31230
+"1977"	"Female"	"University of Michigan at Ann Arbor"	9092	31230
+"1977"	"Male"	"Stanford University"	1305	31230
+"1977"	"Male"	"University of Rhode Island"	3414	31230
+"1977"	"Male"	"University of Michigan at Ann Arbor"	9092	31230
+"1977"	"Female"	"University of Rhode Island"	0	31230
+"1977"	"Male"	"University of California-Berkeley"	1312	31230
+"1977"	"Gender"	"University of Rhode Island"	0	31230
+"1977"	"Female"	"Princeton University"	0	31230
+"1977"	"Male"	"Northeastern University"	2199	31230
+"1977"	"Gender"	"Northeastern University"	0	31230
+"1977"	"Gender"	"University of California-Berkeley"	0	31230
+"1977"	"Female"	"University of California-Berkeley"	1312	31230
+"1977"	"Female"	"Stanford University"	1305	31230
+"1977"	"Gender"	"Princeton University"	0	31230
+"1977"	"Male"	"Princeton University"	0	31230
+"1977"	"Female"	"Northeastern University"	2199	31230
+"1977"	"Gender"	"Stanford University"	0	31230
+"1978"	"Gender"	"University of California-Berkeley"	0	34644
+"1978"	"Male"	"Northeastern University"	2199	34644
+"1978"	"Male"	"University of Rhode Island"	3414	34644
+"1978"	"Female"	"Princeton University"	0	34644
+"1978"	"Gender"	"Stanford University"	0	34644
+"1978"	"Gender"	"University of Rhode Island"	0	34644
+"1978"	"Gender"	"Princeton University"	0	34644
+"1978"	"Male"	"Princeton University"	0	34644
+"1978"	"Female"	"University of Michigan at Ann Arbor"	9092	34644
+"1978"	"Female"	"Northeastern University"	2199	34644
+"1978"	"Gender"	"University of Michigan at Ann Arbor"	0	34644
+"1978"	"Male"	"University of California-Berkeley"	1312	34644
+"1978"	"Female"	"Stanford University"	1305	34644
+"1978"	"Female"	"University of Rhode Island"	3414	34644
+"1978"	"Male"	"University of Michigan at Ann Arbor"	9092	34644
+"1978"	"Female"	"University of California-Berkeley"	1312	34644
+"1978"	"Male"	"Stanford University"	1305	34644
+"1978"	"Gender"	"Northeastern University"	0	34644
+"1979"	"Female"	"Princeton University"	0	34644
+"1979"	"Gender"	"University of California-Berkeley"	0	34644
+"1979"	"Male"	"University of Rhode Island"	3414	34644
+"1979"	"Male"	"Princeton University"	0	34644
+"1979"	"Gender"	"Stanford University"	0	34644
+"1979"	"Gender"	"Princeton University"	0	34644
+"1979"	"Male"	"University of California-Berkeley"	1312	34644
+"1979"	"Female"	"Stanford University"	1305	34644
+"1979"	"Female"	"University of Michigan at Ann Arbor"	9092	34644
+"1979"	"Male"	"University of Michigan at Ann Arbor"	9092	34644
+"1979"	"Female"	"University of California-Berkeley"	1312	34644
+"1979"	"Gender"	"University of Rhode Island"	0	34644
+"1979"	"Gender"	"University of Michigan at Ann Arbor"	0	34644
+"1979"	"Female"	"Northeastern University"	2199	34644
+"1979"	"Male"	"Northeastern University"	2199	34644
+"1979"	"Gender"	"Northeastern University"	0	34644
+"1979"	"Female"	"University of Rhode Island"	3414	34644
+"1979"	"Male"	"Stanford University"	1305	34644
+"1980"	"Male"	"University of Rhode Island"	3414	34644
+"1980"	"Gender"	"Princeton University"	0	34644
+"1980"	"Male"	"University of California-Berkeley"	1312	34644
+"1980"	"Female"	"Stanford University"	1305	34644
+"1980"	"Gender"	"Stanford University"	0	34644
+"1980"	"Gender"	"University of California-Berkeley"	0	34644
+"1980"	"Male"	"Northeastern University"	2199	34644
+"1980"	"Female"	"Princeton University"	0	34644
+"1980"	"Male"	"Princeton University"	0	34644
+"1980"	"Male"	"University of Michigan at Ann Arbor"	9092	34644
+"1980"	"Female"	"Northeastern University"	2199	34644
+"1980"	"Gender"	"University of Michigan at Ann Arbor"	0	34644
+"1980"	"Female"	"University of Rhode Island"	3414	34644
+"1980"	"Female"	"University of Michigan at Ann Arbor"	9092	34644
+"1980"	"Female"	"University of California-Berkeley"	1312	34644
+"1980"	"Gender"	"University of Rhode Island"	0	34644
+"1980"	"Male"	"Stanford University"	1305	34644
+"1980"	"Gender"	"Northeastern University"	0	34644
+"1981"	"Gender"	"Princeton University"	0	34644
+"1981"	"Gender"	"University of California-Berkeley"	0	34644
+"1981"	"Male"	"University of California-Berkeley"	1312	34644
+"1981"	"Male"	"University of Rhode Island"	3414	34644
+"1981"	"Female"	"Princeton University"	0	34644
+"1981"	"Gender"	"Stanford University"	0	34644
+"1981"	"Female"	"Stanford University"	1305	34644
+"1981"	"Gender"	"University of Michigan at Ann Arbor"	0	34644
+"1981"	"Male"	"Princeton University"	0	34644
+"1981"	"Female"	"University of Michigan at Ann Arbor"	9092	34644
+"1981"	"Female"	"University of California-Berkeley"	1312	34644
+"1981"	"Gender"	"University of Rhode Island"	0	34644
+"1981"	"Female"	"University of Rhode Island"	3414	34644
+"1981"	"Male"	"University of Michigan at Ann Arbor"	9092	34644
+"1981"	"Gender"	"Northeastern University"	0	34644
+"1981"	"Male"	"Stanford University"	1305	34644
+"1981"	"Female"	"Northeastern University"	2199	34644
+"1981"	"Male"	"Northeastern University"	2199	34644
+"1982"	"Female"	"Princeton University"	0	34644
+"1982"	"Gender"	"Princeton University"	0	34644
+"1982"	"Gender"	"University of Michigan at Ann Arbor"	0	34644
+"1982"	"Gender"	"Northeastern University"	0	34644
+"1982"	"Male"	"Princeton University"	0	34644
+"1982"	"Male"	"University of California-Berkeley"	1312	34644
+"1982"	"Gender"	"University of California-Berkeley"	0	34644
+"1982"	"Female"	"University of California-Berkeley"	1312	34644
+"1982"	"Female"	"Stanford University"	1305	34644
+"1982"	"Female"	"Northeastern University"	2199	34644
+"1982"	"Male"	"Northeastern University"	2199	34644
+"1982"	"Gender"	"Stanford University"	0	34644
+"1982"	"Male"	"University of Rhode Island"	3414	34644
+"1982"	"Female"	"University of Michigan at Ann Arbor"	9092	34644
+"1982"	"Male"	"University of Michigan at Ann Arbor"	9092	34644
+"1982"	"Male"	"Stanford University"	1305	34644
+"1982"	"Female"	"University of Rhode Island"	3414	34644
+"1982"	"Gender"	"University of Rhode Island"	0	34644
+"1983"	"Female"	"University of Rhode Island"	3414	34644
+"1983"	"Male"	"Stanford University"	1305	34644
+"1983"	"Male"	"University of California-Berkeley"	1312	34644
+"1983"	"Gender"	"University of Rhode Island"	0	34644
+"1983"	"Male"	"University of Rhode Island"	3414	34644
+"1983"	"Male"	"Northeastern University"	2199	34644
+"1983"	"Female"	"University of California-Berkeley"	1312	34644
+"1983"	"Female"	"University of Michigan at Ann Arbor"	9092	34644
+"1983"	"Female"	"Stanford University"	1305	34644
+"1983"	"Female"	"Princeton University"	0	34644
+"1983"	"Gender"	"University of California-Berkeley"	0	34644
+"1983"	"Gender"	"Princeton University"	0	34644
+"1983"	"Male"	"University of Michigan at Ann Arbor"	9092	34644
+"1983"	"Gender"	"University of Michigan at Ann Arbor"	0	34644
+"1983"	"Gender"	"Stanford University"	0	34644
+"1983"	"Male"	"Princeton University"	0	34644
+"1983"	"Gender"	"Northeastern University"	0	34644
+"1983"	"Female"	"Northeastern University"	2199	34644
+"1984"	"Gender"	"University of Rhode Island"	0	34644
+"1984"	"Female"	"University of California-Berkeley"	1312	34644
+"1984"	"Female"	"Stanford University"	1305	34644
+"1984"	"Male"	"University of Rhode Island"	3414	34644
+"1984"	"Gender"	"Princeton University"	0	34644
+"1984"	"Gender"	"University of Michigan at Ann Arbor"	0	34644
+"1984"	"Gender"	"Northeastern University"	0	34644
+"1984"	"Gender"	"Stanford University"	0	34644
+"1984"	"Male"	"University of California-Berkeley"	1312	34644
+"1984"	"Gender"	"University of California-Berkeley"	0	34644
+"1984"	"Female"	"Princeton University"	0	34644
+"1984"	"Male"	"Stanford University"	1305	34644
+"1984"	"Male"	"University of Michigan at Ann Arbor"	9092	34644
+"1984"	"Male"	"Northeastern University"	2199	34644
+"1984"	"Female"	"University of Rhode Island"	3414	34644
+"1984"	"Male"	"Princeton University"	0	34644
+"1984"	"Female"	"University of Michigan at Ann Arbor"	9092	34644
+"1984"	"Female"	"Northeastern University"	2199	34644
+"1985"	"Gender"	"University of California-Berkeley"	0	34644
+"1985"	"Male"	"University of Rhode Island"	3414	34644
+"1985"	"Female"	"Stanford University"	1305	34644
+"1985"	"Gender"	"University of Michigan at Ann Arbor"	0	34644
+"1985"	"Male"	"University of California-Berkeley"	1312	34644
+"1985"	"Male"	"Northeastern University"	2199	34644
+"1985"	"Female"	"University of California-Berkeley"	1312	34644
+"1985"	"Gender"	"Princeton University"	0	34644
+"1985"	"Male"	"Stanford University"	1305	34644
+"1985"	"Female"	"University of Rhode Island"	3414	34644
+"1985"	"Gender"	"Stanford University"	0	34644
+"1985"	"Male"	"University of Michigan at Ann Arbor"	9092	34644
+"1985"	"Male"	"Princeton University"	0	34644
+"1985"	"Female"	"University of Michigan at Ann Arbor"	9092	34644
+"1985"	"Gender"	"University of Rhode Island"	0	34644
+"1985"	"Gender"	"Northeastern University"	0	34644
+"1985"	"Female"	"Northeastern University"	2199	34644
+"1985"	"Female"	"Princeton University"	0	34644
+"1986"	"Female"	"Stanford University"	1305	34644
+"1986"	"Gender"	"University of California-Berkeley"	0	34644
+"1986"	"Gender"	"Princeton University"	0	34644
+"1986"	"Gender"	"University of Michigan at Ann Arbor"	0	34644
+"1986"	"Male"	"University of Rhode Island"	3414	34644
+"1986"	"Gender"	"Stanford University"	0	34644
+"1986"	"Female"	"University of California-Berkeley"	1312	34644
+"1986"	"Male"	"University of California-Berkeley"	1312	34644
+"1986"	"Male"	"Stanford University"	1305	34644
+"1986"	"Male"	"Northeastern University"	2199	34644
+"1986"	"Male"	"University of Michigan at Ann Arbor"	9092	34644
+"1986"	"Gender"	"Northeastern University"	0	34644
+"1986"	"Female"	"University of Michigan at Ann Arbor"	9092	34644
+"1986"	"Female"	"University of Rhode Island"	3414	34644
+"1986"	"Gender"	"University of Rhode Island"	0	34644
+"1986"	"Male"	"Princeton University"	0	34644
+"1986"	"Female"	"Northeastern University"	2199	34644
+"1986"	"Female"	"Princeton University"	0	34644
+"1987"	"Gender"	"Princeton University"	0	34644
+"1987"	"Gender"	"University of California-Berkeley"	0	34644
+"1987"	"Male"	"University of Rhode Island"	3414	34644
+"1987"	"Female"	"Stanford University"	1305	34644
+"1987"	"Gender"	"University of Michigan at Ann Arbor"	0	34644
+"1987"	"Male"	"Northeastern University"	2199	34644
+"1987"	"Gender"	"Northeastern University"	0	34644
+"1987"	"Male"	"University of California-Berkeley"	1312	34644
+"1987"	"Female"	"University of California-Berkeley"	1312	34644
+"1987"	"Female"	"Princeton University"	0	34644
+"1987"	"Gender"	"University of Rhode Island"	0	34644
+"1987"	"Gender"	"Stanford University"	0	34644
+"1987"	"Male"	"University of Michigan at Ann Arbor"	9092	34644
+"1987"	"Male"	"Princeton University"	0	34644
+"1987"	"Male"	"Stanford University"	1305	34644
+"1987"	"Female"	"University of Rhode Island"	3414	34644
+"1987"	"Female"	"University of Michigan at Ann Arbor"	9092	34644
+"1987"	"Female"	"Northeastern University"	2199	34644
+"1988"	"Gender"	"University of Michigan at Ann Arbor"	0	34644
+"1988"	"Male"	"University of California-Berkeley"	1312	34644
+"1988"	"Gender"	"University of California-Berkeley"	0	34644
+"1988"	"Male"	"University of Michigan at Ann Arbor"	9092	34644
+"1988"	"Male"	"University of Rhode Island"	3414	34644
+"1988"	"Gender"	"Stanford University"	0	34644
+"1988"	"Female"	"University of Rhode Island"	3414	34644
+"1988"	"Gender"	"Northeastern University"	0	34644
+"1988"	"Male"	"Stanford University"	1305	34644
+"1988"	"Gender"	"University of Rhode Island"	0	34644
+"1988"	"Gender"	"Princeton University"	0	34644
+"1988"	"Female"	"Princeton University"	0	34644
+"1988"	"Female"	"University of Michigan at Ann Arbor"	9092	34644
+"1988"	"Female"	"University of California-Berkeley"	1312	34644
+"1988"	"Male"	"Princeton University"	0	34644
+"1988"	"Male"	"Northeastern University"	2199	34644
+"1988"	"Female"	"Northeastern University"	2199	34644
+"1988"	"Female"	"Stanford University"	1305	34644
+"1989"	"Male"	"University of California-Berkeley"	1312	34644
+"1989"	"Male"	"University of Rhode Island"	3414	34644
+"1989"	"Female"	"University of Rhode Island"	3414	34644
+"1989"	"Female"	"University of Michigan at Ann Arbor"	9092	34644
+"1989"	"Male"	"Stanford University"	1305	34644
+"1989"	"Male"	"Princeton University"	0	34644
+"1989"	"Male"	"University of Michigan at Ann Arbor"	9092	34644
+"1989"	"Gender"	"University of Michigan at Ann Arbor"	0	34644
+"1989"	"Gender"	"Northeastern University"	0	34644
+"1989"	"Female"	"University of California-Berkeley"	1312	34644
+"1989"	"Gender"	"University of Rhode Island"	0	34644
+"1989"	"Male"	"Northeastern University"	2199	34644
+"1989"	"Gender"	"University of California-Berkeley"	0	34644
+"1989"	"Female"	"Northeastern University"	2199	34644
+"1989"	"Female"	"Princeton University"	0	34644
+"1989"	"Gender"	"Stanford University"	0	34644
+"1989"	"Female"	"Stanford University"	1305	34644
+"1989"	"Gender"	"Princeton University"	0	34644
+"1990"	"Male"	"University of Rhode Island"	3414	34644
+"1990"	"Male"	"Princeton University"	0	34644
+"1990"	"Male"	"Northeastern University"	2199	34644
+"1990"	"Female"	"University of California-Berkeley"	1312	34644
+"1990"	"Female"	"University of Michigan at Ann Arbor"	9092	34644
+"1990"	"Female"	"Princeton University"	0	34644
+"1990"	"Gender"	"University of California-Berkeley"	0	34644
+"1990"	"Gender"	"Northeastern University"	0	34644
+"1990"	"Male"	"University of Michigan at Ann Arbor"	9092	34644
+"1990"	"Male"	"Stanford University"	1305	34644
+"1990"	"Female"	"Stanford University"	1305	34644
+"1990"	"Gender"	"University of Rhode Island"	0	34644
+"1990"	"Female"	"University of Rhode Island"	3414	34644
+"1990"	"Gender"	"Princeton University"	0	34644
+"1990"	"Male"	"University of California-Berkeley"	1312	34644
+"1990"	"Female"	"Northeastern University"	2199	34644
+"1990"	"Gender"	"Stanford University"	0	34644
+"1990"	"Gender"	"University of Michigan at Ann Arbor"	0	34644
+"1991"	"Male"	"University of Michigan at Ann Arbor"	9092	34644
+"1991"	"Male"	"University of Rhode Island"	3414	34644
+"1991"	"Female"	"University of Michigan at Ann Arbor"	9092	34644
+"1991"	"Gender"	"Northeastern University"	0	34644
+"1991"	"Male"	"Northeastern University"	2199	34644
+"1991"	"Male"	"Princeton University"	0	34644
+"1991"	"Gender"	"University of Rhode Island"	0	34644
+"1991"	"Female"	"Princeton University"	0	34644
+"1991"	"Female"	"University of Rhode Island"	3414	34644
+"1991"	"Female"	"University of California-Berkeley"	1312	34644
+"1991"	"Female"	"Stanford University"	1305	34644
+"1991"	"Male"	"Stanford University"	1305	34644
+"1991"	"Gender"	"University of California-Berkeley"	0	34644
+"1991"	"Female"	"Northeastern University"	2199	34644
+"1991"	"Gender"	"Princeton University"	0	34644
+"1991"	"Gender"	"University of Michigan at Ann Arbor"	0	34644
+"1991"	"Gender"	"Stanford University"	0	34644
+"1991"	"Male"	"University of California-Berkeley"	1312	34644
+"1992"	"Male"	"University of Michigan at Ann Arbor"	9092	34644
+"1992"	"Male"	"University of Rhode Island"	3414	34644
+"1992"	"Gender"	"University of Rhode Island"	0	34644
+"1992"	"Gender"	"Northeastern University"	0	34644
+"1992"	"Male"	"Princeton University"	0	34644
+"1992"	"Female"	"University of Michigan at Ann Arbor"	9092	34644
+"1992"	"Female"	"Princeton University"	0	34644
+"1992"	"Gender"	"University of California-Berkeley"	0	34644
+"1992"	"Male"	"Northeastern University"	2199	34644
+"1992"	"Female"	"University of California-Berkeley"	1312	34644
+"1992"	"Gender"	"University of Michigan at Ann Arbor"	0	34644
+"1992"	"Male"	"Stanford University"	1305	34644
+"1992"	"Female"	"University of Rhode Island"	3414	34644
+"1992"	"Female"	"Stanford University"	1305	34644
+"1992"	"Gender"	"Princeton University"	0	34644
+"1992"	"Male"	"University of California-Berkeley"	1312	34644
+"1992"	"Female"	"Northeastern University"	2199	34644
+"1992"	"Gender"	"Stanford University"	0	34644
+"1993"	"Male"	"University of Rhode Island"	3414	34644
+"1993"	"Male"	"Princeton University"	0	34644
+"1993"	"Female"	"University of Michigan at Ann Arbor"	9092	34644
+"1993"	"Male"	"Northeastern University"	2199	34644
+"1993"	"Female"	"University of Rhode Island"	3414	34644
+"1993"	"Female"	"Princeton University"	0	34644
+"1993"	"Female"	"University of California-Berkeley"	1312	34644
+"1993"	"Male"	"University of Michigan at Ann Arbor"	9092	34644
+"1993"	"Gender"	"Stanford University"	0	34644
+"1993"	"Female"	"Stanford University"	1305	34644
+"1993"	"Gender"	"University of California-Berkeley"	0	34644
+"1993"	"Gender"	"University of Rhode Island"	0	34644
+"1993"	"Gender"	"Princeton University"	0	34644
+"1993"	"Gender"	"University of Michigan at Ann Arbor"	0	34644
+"1993"	"Female"	"Northeastern University"	2199	34644
+"1993"	"Male"	"University of California-Berkeley"	1312	34644
+"1993"	"Male"	"Stanford University"	1305	34644
+"1993"	"Gender"	"Northeastern University"	0	34644
+"1994"	"Male"	"University of Rhode Island"	3414	34644
+"1994"	"Gender"	"University of Rhode Island"	0	34644
+"1994"	"Female"	"University of Michigan at Ann Arbor"	9092	34644
+"1994"	"Gender"	"University of California-Berkeley"	0	34644
+"1994"	"Gender"	"Princeton University"	0	34644
+"1994"	"Female"	"Princeton University"	0	34644
+"1994"	"Gender"	"University of Michigan at Ann Arbor"	0	34644
+"1994"	"Gender"	"Stanford University"	0	34644
+"1994"	"Male"	"University of Michigan at Ann Arbor"	9092	34644
+"1994"	"Male"	"University of California-Berkeley"	1312	34644
+"1994"	"Male"	"Princeton University"	0	34644
+"1994"	"Male"	"Stanford University"	1305	34644
+"1994"	"Female"	"University of Rhode Island"	3414	34644
+"1994"	"Female"	"Northeastern University"	2199	34644
+"1994"	"Gender"	"Northeastern University"	0	34644
+"1994"	"Female"	"Stanford University"	1305	34644
+"1994"	"Female"	"University of California-Berkeley"	1312	34644
+"1994"	"Male"	"Northeastern University"	2199	34644
+"1995"	"Gender"	"Northeastern University"	0	34644
+"1995"	"Male"	"Northeastern University"	2199	34644
+"1995"	"Female"	"University of California-Berkeley"	1312	34644
+"1995"	"Female"	"Princeton University"	0	34644
+"1995"	"Male"	"Princeton University"	0	34644
+"1995"	"Female"	"Northeastern University"	2199	34644
+"1995"	"Gender"	"University of California-Berkeley"	0	34644
+"1995"	"Female"	"University of Rhode Island"	3414	34644
+"1995"	"Male"	"University of Rhode Island"	3414	34644
+"1995"	"Male"	"University of California-Berkeley"	1312	34644
+"1995"	"Male"	"Stanford University"	1305	34644
+"1995"	"Gender"	"Stanford University"	0	34644
+"1995"	"Female"	"Stanford University"	1305	34644
+"1995"	"Female"	"University of Michigan at Ann Arbor"	9092	34644
+"1995"	"Gender"	"University of Rhode Island"	0	34644
+"1995"	"Gender"	"Princeton University"	0	34644
+"1995"	"Gender"	"University of Michigan at Ann Arbor"	0	34644
+"1995"	"Male"	"University of Michigan at Ann Arbor"	9092	34644
+"1996"	"Female"	"University of Rhode Island"	3414	34644
+"1996"	"Male"	"University of Rhode Island"	3414	34644
+"1996"	"Female"	"University of California-Berkeley"	1312	34644
+"1996"	"Gender"	"University of Rhode Island"	0	34644
+"1996"	"Female"	"Princeton University"	0	34644
+"1996"	"Male"	"Northeastern University"	2199	34644
+"1996"	"Gender"	"Northeastern University"	0	34644
+"1996"	"Male"	"Stanford University"	1305	34644
+"1996"	"Male"	"Princeton University"	0	34644
+"1996"	"Female"	"University of Michigan at Ann Arbor"	9092	34644
+"1996"	"Gender"	"Princeton University"	0	34644
+"1996"	"Male"	"University of California-Berkeley"	1312	34644
+"1996"	"Gender"	"University of California-Berkeley"	0	34644
+"1996"	"Male"	"University of Michigan at Ann Arbor"	9092	34644
+"1996"	"Female"	"Northeastern University"	2199	34644
+"1996"	"Female"	"Stanford University"	1305	34644
+"1996"	"Gender"	"Stanford University"	0	34644
+"1996"	"Gender"	"University of Michigan at Ann Arbor"	0	34644
+"1997"	"Gender"	"University of Rhode Island"	0	34644
+"1997"	"Female"	"University of California-Berkeley"	1312	34644
+"1997"	"Gender"	"Northeastern University"	0	34644
+"1997"	"Male"	"Stanford University"	1305	34644
+"1997"	"Male"	"Princeton University"	0	34644
+"1997"	"Male"	"Northeastern University"	2199	34644
+"1997"	"Gender"	"Princeton University"	0	34644
+"1997"	"Male"	"University of Rhode Island"	3414	34644
+"1997"	"Female"	"Princeton University"	0	34644
+"1997"	"Female"	"University of Michigan at Ann Arbor"	9092	34644
+"1997"	"Male"	"University of Michigan at Ann Arbor"	9092	34644
+"1997"	"Female"	"University of Rhode Island"	3414	34644
+"1997"	"Gender"	"Stanford University"	0	34644
+"1997"	"Gender"	"University of California-Berkeley"	0	34644
+"1997"	"Male"	"University of California-Berkeley"	1312	34644
+"1997"	"Female"	"Stanford University"	1305	34644
+"1997"	"Gender"	"University of Michigan at Ann Arbor"	0	34644
+"1997"	"Female"	"Northeastern University"	2199	34644
+"1998"	"Female"	"University of California-Berkeley"	1312	34644
+"1998"	"Male"	"Northeastern University"	2199	34644
+"1998"	"Gender"	"University of Rhode Island"	0	34644
+"1998"	"Female"	"University of Rhode Island"	3414	34644
+"1998"	"Male"	"University of Rhode Island"	3414	34644
+"1998"	"Gender"	"Princeton University"	0	34644
+"1998"	"Gender"	"Northeastern University"	0	34644
+"1998"	"Male"	"Stanford University"	1305	34644
+"1998"	"Female"	"Princeton University"	0	34644
+"1998"	"Male"	"Princeton University"	0	34644
+"1998"	"Male"	"University of California-Berkeley"	1312	34644
+"1998"	"Female"	"Stanford University"	1305	34644
+"1998"	"Gender"	"University of Michigan at Ann Arbor"	0	34644
+"1998"	"Gender"	"University of California-Berkeley"	0	34644
+"1998"	"Female"	"University of Michigan at Ann Arbor"	9092	34644
+"1998"	"Female"	"Northeastern University"	2199	34644
+"1998"	"Gender"	"Stanford University"	0	34644
+"1998"	"Male"	"University of Michigan at Ann Arbor"	9092	34644
+"1999"	"Gender"	"University of Rhode Island"	0	32445
+"1999"	"Female"	"University of California-Berkeley"	1312	32445
+"1999"	"Male"	"Stanford University"	1305	32445
+"1999"	"Female"	"Princeton University"	0	32445
+"1999"	"Male"	"Northeastern University"	2199	32445
+"1999"	"Male"	"University of California-Berkeley"	1312	32445
+"1999"	"Female"	"Stanford University"	1305	32445
+"1999"	"Gender"	"Princeton University"	0	32445
+"1999"	"Male"	"University of Rhode Island"	3414	32445
+"1999"	"Male"	"Princeton University"	0	32445
+"1999"	"Female"	"University of Michigan at Ann Arbor"	9092	32445
+"1999"	"Gender"	"University of Michigan at Ann Arbor"	0	32445
+"1999"	"Gender"	"Northeastern University"	0	32445
+"1999"	"Gender"	"University of California-Berkeley"	0	32445
+"1999"	"Male"	"University of Michigan at Ann Arbor"	9092	32445
+"1999"	"Female"	"Northeastern University"	0	32445
+"1999"	"Female"	"University of Rhode Island"	3414	32445
+"1999"	"Gender"	"Stanford University"	0	32445
+"2000"	"Gender"	"University of California-Berkeley"	0	36484
+"2000"	"Male"	"University of Rhode Island"	3414	36484
+"2000"	"Female"	"University of Michigan at Ann Arbor"	9092	36484
+"2000"	"Gender"	"University of Michigan at Ann Arbor"	0	36484
+"2000"	"Male"	"University of California-Berkeley"	1312	36484
+"2000"	"Male"	"Stanford University"	1305	36484
+"2000"	"Gender"	"Stanford University"	0	36484
+"2000"	"Gender"	"University of Rhode Island"	0	36484
+"2000"	"Female"	"University of Rhode Island"	0	36484
+"2000"	"Male"	"University of Michigan at Ann Arbor"	9092	36484
+"2000"	"Gender"	"Northeastern University"	0	36484
+"2000"	"Female"	"Stanford University"	1305	36484
+"2000"	"Male"	"Northeastern University"	2199	36484
+"2000"	"Female"	"Princeton University"	2627	36484
+"2000"	"Female"	"Northeastern University"	2199	36484
+"2000"	"Female"	"University of California-Berkeley"	1312	36484
+"2000"	"Male"	"Princeton University"	2627	36484
+"2000"	"Gender"	"Princeton University"	0	36484
+"2001"	"Gender"	"Northeastern University"	0	39898
+"2001"	"Male"	"University of Rhode Island"	3414	39898
+"2001"	"Female"	"University of Michigan at Ann Arbor"	9092	39898
+"2001"	"Male"	"Stanford University"	1305	39898
+"2001"	"Female"	"Princeton University"	2627	39898
+"2001"	"Female"	"University of Rhode Island"	3414	39898
+"2001"	"Female"	"Northeastern University"	2199	39898
+"2001"	"Gender"	"University of Rhode Island"	0	39898
+"2001"	"Gender"	"University of Michigan at Ann Arbor"	0	39898
+"2001"	"Gender"	"University of California-Berkeley"	0	39898
+"2001"	"Male"	"Princeton University"	2627	39898
+"2001"	"Gender"	"Stanford University"	0	39898
+"2001"	"Female"	"University of California-Berkeley"	1312	39898
+"2001"	"Gender"	"Princeton University"	0	39898
+"2001"	"Male"	"University of California-Berkeley"	1312	39898
+"2001"	"Male"	"Northeastern University"	2199	39898
+"2001"	"Male"	"University of Michigan at Ann Arbor"	9092	39898
+"2001"	"Female"	"Stanford University"	1305	39898
+"2002"	"Male"	"Stanford University"	1305	39898
+"2002"	"Female"	"University of California-Berkeley"	1312	39898
+"2002"	"Gender"	"Northeastern University"	0	39898
+"2002"	"Male"	"University of Rhode Island"	3414	39898
+"2002"	"Male"	"Northeastern University"	2199	39898
+"2002"	"Female"	"Princeton University"	2627	39898
+"2002"	"Gender"	"University of California-Berkeley"	0	39898
+"2002"	"Gender"	"Stanford University"	0	39898
+"2002"	"Gender"	"University of Rhode Island"	0	39898
+"2002"	"Female"	"University of Michigan at Ann Arbor"	9092	39898
+"2002"	"Female"	"University of Rhode Island"	3414	39898
+"2002"	"Female"	"Northeastern University"	2199	39898
+"2002"	"Gender"	"Princeton University"	0	39898
+"2002"	"Male"	"University of California-Berkeley"	1312	39898
+"2002"	"Male"	"Princeton University"	2627	39898
+"2002"	"Gender"	"University of Michigan at Ann Arbor"	0	39898
+"2002"	"Male"	"University of Michigan at Ann Arbor"	9092	39898
+"2002"	"Female"	"Stanford University"	1305	39898
+"2003"	"Female"	"Princeton University"	0	33332
+"2003"	"Gender"	"Northeastern University"	0	33332
+"2003"	"Male"	"Stanford University"	1305	33332
+"2003"	"Female"	"University of California-Berkeley"	1312	33332
+"2003"	"Gender"	"University of Rhode Island"	0	33332
+"2003"	"Male"	"University of Rhode Island"	3414	33332
+"2003"	"Male"	"Princeton University"	0	33332
+"2003"	"Male"	"Northeastern University"	2199	33332
+"2003"	"Gender"	"Princeton University"	0	33332
+"2003"	"Gender"	"University of California-Berkeley"	0	33332
+"2003"	"Female"	"University of Rhode Island"	3414	33332
+"2003"	"Gender"	"Stanford University"	0	33332
+"2003"	"Female"	"University of Michigan at Ann Arbor"	9092	33332
+"2003"	"Female"	"Northeastern University"	2199	33332
+"2003"	"Female"	"Stanford University"	1305	33332
+"2003"	"Male"	"University of California-Berkeley"	0	33332
+"2003"	"Gender"	"University of Michigan at Ann Arbor"	0	33332
+"2003"	"Male"	"University of Michigan at Ann Arbor"	9092	33332
+"2004"	"Gender"	"Northeastern University"	0	32020
+"2004"	"Female"	"Princeton University"	0	32020
+"2004"	"Female"	"University of California-Berkeley"	0	32020
+"2004"	"Male"	"Stanford University"	1305	32020
+"2004"	"Gender"	"Princeton University"	0	32020
+"2004"	"Gender"	"University of California-Berkeley"	0	32020
+"2004"	"Female"	"University of Rhode Island"	3414	32020
+"2004"	"Male"	"Northeastern University"	2199	32020
+"2004"	"Gender"	"Stanford University"	0	32020
+"2004"	"Gender"	"University of Rhode Island"	0	32020
+"2004"	"Male"	"University of Rhode Island"	3414	32020
+"2004"	"Gender"	"University of Michigan at Ann Arbor"	0	32020
+"2004"	"Female"	"Stanford University"	1305	32020
+"2004"	"Female"	"University of Michigan at Ann Arbor"	9092	32020
+"2004"	"Male"	"Princeton University"	0	32020
+"2004"	"Female"	"Northeastern University"	2199	32020
+"2004"	"Male"	"University of California-Berkeley"	0	32020
+"2004"	"Male"	"University of Michigan at Ann Arbor"	9092	32020
+"2005"	"Male"	"University of Rhode Island"	3414	32020
+"2005"	"Female"	"University of California-Berkeley"	0	32020
+"2005"	"Gender"	"University of California-Berkeley"	0	32020
+"2005"	"Male"	"Stanford University"	1305	32020
+"2005"	"Gender"	"Princeton University"	0	32020
+"2005"	"Gender"	"University of Rhode Island"	0	32020
+"2005"	"Male"	"Princeton University"	0	32020
+"2005"	"Female"	"University of Rhode Island"	3414	32020
+"2005"	"Gender"	"Stanford University"	0	32020
+"2005"	"Female"	"University of Michigan at Ann Arbor"	9092	32020
+"2005"	"Female"	"Northeastern University"	2199	32020
+"2005"	"Gender"	"University of Michigan at Ann Arbor"	0	32020
+"2005"	"Gender"	"Northeastern University"	0	32020
+"2005"	"Male"	"University of California-Berkeley"	0	32020
+"2005"	"Female"	"Princeton University"	0	32020
+"2005"	"Male"	"Northeastern University"	2199	32020
+"2005"	"Male"	"University of Michigan at Ann Arbor"	9092	32020
+"2005"	"Female"	"Stanford University"	1305	32020
+"2006"	"Gender"	"University of California-Berkeley"	0	32020
+"2006"	"Gender"	"University of Rhode Island"	0	32020
+"2006"	"Male"	"University of Rhode Island"	3414	32020
+"2006"	"Female"	"University of Rhode Island"	3414	32020
+"2006"	"Male"	"University of Michigan at Ann Arbor"	9092	32020
+"2006"	"Female"	"University of Michigan at Ann Arbor"	9092	32020
+"2006"	"Female"	"Northeastern University"	2199	32020
+"2006"	"Gender"	"University of Michigan at Ann Arbor"	0	32020
+"2006"	"Male"	"Princeton University"	0	32020
+"2006"	"Male"	"Stanford University"	1305	32020
+"2006"	"Female"	"Princeton University"	0	32020
+"2006"	"Gender"	"Princeton University"	0	32020
+"2006"	"Gender"	"Northeastern University"	0	32020
+"2006"	"Male"	"University of California-Berkeley"	0	32020
+"2006"	"Female"	"Stanford University"	1305	32020
+"2006"	"Gender"	"Stanford University"	0	32020
+"2006"	"Female"	"University of California-Berkeley"	0	32020
+"2006"	"Male"	"Northeastern University"	2199	32020
+"2007"	"Male"	"Northeastern University"	2199	32020
+"2007"	"Female"	"Northeastern University"	2199	32020
+"2007"	"Gender"	"Stanford University"	0	32020
+"2007"	"Male"	"University of Michigan at Ann Arbor"	9092	32020
+"2007"	"Male"	"Princeton University"	0	32020
+"2007"	"Gender"	"University of Rhode Island"	0	32020
+"2007"	"Female"	"Princeton University"	0	32020
+"2007"	"Female"	"University of Rhode Island"	3414	32020
+"2007"	"Gender"	"Northeastern University"	0	32020
+"2007"	"Female"	"University of Michigan at Ann Arbor"	9092	32020
+"2007"	"Female"	"Stanford University"	1305	32020
+"2007"	"Gender"	"Princeton University"	0	32020
+"2007"	"Male"	"University of California-Berkeley"	0	32020
+"2007"	"Male"	"Stanford University"	1305	32020
+"2007"	"Female"	"University of California-Berkeley"	0	32020
+"2007"	"Gender"	"University of California-Berkeley"	0	32020
+"2007"	"Male"	"University of Rhode Island"	3414	32020
+"2007"	"Gender"	"University of Michigan at Ann Arbor"	0	32020
+"2008"	"Male"	"Princeton University"	0	28606
+"2008"	"Female"	"University of Michigan at Ann Arbor"	9092	28606
+"2008"	"Female"	"Northeastern University"	2199	28606
+"2008"	"Gender"	"Northeastern University"	0	28606
+"2008"	"Male"	"Stanford University"	1305	28606
+"2008"	"Female"	"University of California-Berkeley"	0	28606
+"2008"	"Female"	"Stanford University"	1305	28606
+"2008"	"Gender"	"Princeton University"	0	28606
+"2008"	"Male"	"University of California-Berkeley"	0	28606
+"2008"	"Male"	"Northeastern University"	2199	28606
+"2008"	"Gender"	"University of Rhode Island"	0	28606
+"2008"	"Gender"	"Stanford University"	0	28606
+"2008"	"Male"	"University of Michigan at Ann Arbor"	9092	28606
+"2008"	"Female"	"University of Rhode Island"	0	28606
+"2008"	"Female"	"Princeton University"	0	28606
+"2008"	"Male"	"University of Rhode Island"	3414	28606
+"2008"	"Gender"	"University of Michigan at Ann Arbor"	0	28606
+"2008"	"Gender"	"University of California-Berkeley"	0	28606
+"2009"	"Male"	"Princeton University"	0	32020
+"2009"	"Male"	"University of Michigan at Ann Arbor"	9092	32020
+"2009"	"Gender"	"Northeastern University"	0	32020
+"2009"	"Gender"	"Princeton University"	0	32020
+"2009"	"Male"	"University of California-Berkeley"	0	32020
+"2009"	"Male"	"Northeastern University"	2199	32020
+"2009"	"Female"	"Stanford University"	1305	32020
+"2009"	"Female"	"Northeastern University"	2199	32020
+"2009"	"Male"	"University of Rhode Island"	3414	32020
+"2009"	"Female"	"University of Michigan at Ann Arbor"	9092	32020
+"2009"	"Female"	"University of California-Berkeley"	0	32020
+"2009"	"Female"	"Princeton University"	0	32020
+"2009"	"Gender"	"Stanford University"	0	32020
+"2009"	"Male"	"Stanford University"	1305	32020
+"2009"	"Female"	"University of Rhode Island"	3414	32020
+"2009"	"Gender"	"University of Michigan at Ann Arbor"	0	32020
+"2009"	"Gender"	"University of California-Berkeley"	0	32020
+"2009"	"Gender"	"University of Rhode Island"	0	32020
+"2010"	"Gender"	"Princeton University"	0	32020
+"2010"	"Male"	"Stanford University"	1305	32020
+"2010"	"Female"	"Northeastern University"	2199	32020
+"2010"	"Gender"	"Stanford University"	0	32020
+"2010"	"Male"	"University of California-Berkeley"	0	32020
+"2010"	"Male"	"Princeton University"	0	32020
+"2010"	"Female"	"Stanford University"	1305	32020
+"2010"	"Female"	"Princeton University"	0	32020
+"2010"	"Male"	"University of Michigan at Ann Arbor"	9092	32020
+"2010"	"Female"	"University of Rhode Island"	3414	32020
+"2010"	"Gender"	"Northeastern University"	0	32020
+"2010"	"Gender"	"University of Michigan at Ann Arbor"	0	32020
+"2010"	"Gender"	"University of California-Berkeley"	0	32020
+"2010"	"Male"	"University of Rhode Island"	3414	32020
+"2010"	"Male"	"Northeastern University"	2199	32020
+"2010"	"Female"	"University of California-Berkeley"	0	32020
+"2010"	"Gender"	"University of Rhode Island"	0	32020
+"2010"	"Female"	"University of Michigan at Ann Arbor"	9092	32020
+"2011"	"Gender"	"Princeton University"	0	33332
+"2011"	"Female"	"University of Michigan at Ann Arbor"	9092	33332
+"2011"	"Gender"	"University of Michigan at Ann Arbor"	0	33332
+"2011"	"Gender"	"Stanford University"	0	33332
+"2011"	"Female"	"Princeton University"	0	33332
+"2011"	"Female"	"University of Rhode Island"	3414	33332
+"2011"	"Male"	"Northeastern University"	2199	33332
+"2011"	"Gender"	"Northeastern University"	0	33332
+"2011"	"Female"	"Stanford University"	1305	33332
+"2011"	"Male"	"University of California-Berkeley"	1312	33332
+"2011"	"Male"	"Stanford University"	1305	33332
+"2011"	"Gender"	"University of Rhode Island"	0	33332
+"2011"	"Female"	"University of California-Berkeley"	0	33332
+"2011"	"Male"	"University of Michigan at Ann Arbor"	9092	33332
+"2011"	"Female"	"Northeastern University"	2199	33332
+"2011"	"Male"	"Princeton University"	0	33332
+"2011"	"Gender"	"University of California-Berkeley"	0	33332
+"2011"	"Male"	"University of Rhode Island"	3414	33332

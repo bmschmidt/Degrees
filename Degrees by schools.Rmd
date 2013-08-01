@@ -1,0 +1,66 @@
+Degrees
+========================================================
+
+One interesting question is: are the humanities actually a coherent group, at all?
+
+```{r}
+labels = read.csv("~/Downloads/c2012_a.sas",quote="'",header=F,colClasses=c("character","character"))
+names(labels) = c("CIP","Field")
+
+
+largeLabs = data.frame(CIP=substr(labels$CIP,1,5))
+largeLabs$Field = labels$Field[match(largeLabs$CIP,substr(labels$CIP,1,5))]
+largeLabs = largeLabs[!duplicated(largeLabs$CIP),]
+```
+
+```{r}
+degrees = read.table(pipe("awk 'BEGIN{FS=\",\"}{print $1,$2,$3,$4,$5,$6,$7}' ~/Downloads/c2012_a.csv"),col.names=c("UNITID","CIPCODE","MAJORNUM","AWLEVEL","CDISTEDP","XCTOTALT","CTOTALT"),flush=T,header=T,colClasses=c(rep("factor",5),"factor","numeric"))
+
+degrees = degrees[,c("UNITID","CIPCODE","MAJORNUM","AWLEVEL","CTOTALT")]
+
+degrees$field = factor(degrees$CIPCODE,levels=labels$CIP,labels=labels$Field)
+degrees$largeField = factor(substr(start=1,stop=5,degrees$CIPCODE),levels=largeLabs$CIP,labels=largeLabs$Field)
+
+degrees
+schoolcounts = xtabs(CTOTALT~UNITID+largeField,degrees[degrees$AWLEVEL=="05",])
+schoolcounts = t(schoolcounts)
+head(schoolcounts)
+percents = schoolcounts[rowSums(schoolcounts)>100,]
+percents = percents[,colSums(percents)>100]
+percents = t(t(percents)/colSums(percents,na.rm=T))
+percents = percents[order(-rowSums(percents,na.rm=T)),]
+percents = percents/rowSums(percents,na.rm=T)
+
+head(percents>0)
+top = predict(prcomp(log(percents+.5*min(percents[percents>0]))))[,1:200]
+top = predict(prcomp(percents>0))[,1:200]
+head(top)
+f = dist(top[1:100,],)
+par = par(mar=c(0,0,0,20))
+plot(as.dendrogram(hclust(f)),horiz=T )
+
+
+m = cor(as.matrix(f))
+m = apply(m,1,function(row) {
+  row[row < -sort(-row)[5]] = 0
+  row
+})
+require(ggplot2)
+require(reshape2)
+newOrdering = names(sort((predict(prcomp(m))[,2])))
+m = m[newOrdering,newOrdering]
+
+melted = melt(m)
+melted$Var1 = factor(melted$Var1,levels=newOrdering,ordered=T)
+melted$Var2 = factor(melted$Var2,levels=newOrdering,ordered=T)
+
+ggplot(melted,aes(x=Var1,y=Var2,fill=value)) + geom_tile()
+f[1:5,1:5]
+```
+
+You can also embed plots, for example:
+
+```{r fig.width=7, fig.height=6}
+plot(cars)
+```
+

@@ -1,0 +1,157 @@
+"year"	"gender"	"field"	"count"	"total"
+"1971"	"Female"	"Ball State University"	1786	6196
+"1971"	"Gender"	"Ball State University"	0	6196
+"1971"	"Gender"	"University of Maine"	0	6196
+"1971"	"Gender"	"University of California-Berkeley"	0	6196
+"1971"	"Gender"	"Northeastern University"	0	6196
+"1971"	"Male"	"Northeastern University"	0	6196
+"1971"	"Male"	"Ball State University"	1786	6196
+"1971"	"Male"	"University of Maine"	0	6196
+"1971"	"Male"	"University of California-Berkeley"	1312	6196
+"1971"	"Female"	"University of Maine"	0	6196
+"1971"	"Female"	"University of California-Berkeley"	1312	6196
+"1971"	"Female"	"Northeastern University"	0	6196
+"1972"	"Female"	"Northeastern University"	0	10302
+"1972"	"Female"	"Ball State University"	1786	10302
+"1972"	"Gender"	"Ball State University"	0	10302
+"1972"	"Male"	"Ball State University"	1786	10302
+"1972"	"Gender"	"University of California-Berkeley"	0	10302
+"1972"	"Gender"	"Northeastern University"	0	10302
+"1972"	"Male"	"Northeastern University"	0	10302
+"1972"	"Gender"	"University of Maine"	0	10302
+"1972"	"Male"	"University of Maine"	2053	10302
+"1972"	"Male"	"University of California-Berkeley"	1312	10302
+"1972"	"Female"	"University of Maine"	2053	10302
+"1972"	"Female"	"University of California-Berkeley"	1312	10302
+"1973"	"Male"	"Ball State University"	1786	3572
+"1973"	"Female"	"Northeastern University"	0	3572
+"1973"	"Female"	"Ball State University"	1786	3572
+"1973"	"Gender"	"Ball State University"	0	3572
+"1973"	"Female"	"University of California-Berkeley"	0	3572
+"1973"	"Gender"	"University of California-Berkeley"	0	3572
+"1973"	"Gender"	"Northeastern University"	0	3572
+"1973"	"Male"	"Northeastern University"	0	3572
+"1973"	"Gender"	"University of Maine"	0	3572
+"1973"	"Male"	"University of Maine"	0	3572
+"1973"	"Male"	"University of California-Berkeley"	0	3572
+"1973"	"Female"	"University of Maine"	0	3572
+"1974"	"Gender"	"Ball State University"	0	3572
+"1974"	"Male"	"Ball State University"	1786	3572
+"1974"	"Female"	"Northeastern University"	0	3572
+"1974"	"Female"	"Ball State University"	1786	3572
+"1974"	"Male"	"Northeastern University"	0	3572
+"1974"	"Female"	"University of California-Berkeley"	0	3572
+"1974"	"Gender"	"University of California-Berkeley"	0	3572
+"1974"	"Gender"	"Northeastern University"	0	3572
+"1974"	"Female"	"University of Maine"	0	3572
+"1974"	"Gender"	"University of Maine"	0	3572
+"1974"	"Male"	"University of Maine"	0	3572
+"1974"	"Male"	"University of California-Berkeley"	0	3572
+"1975"	"Female"	"Ball State University"	1786	3572
+"1975"	"Gender"	"Ball State University"	0	3572
+"1975"	"Male"	"Ball State University"	1786	3572
+"1975"	"Female"	"Northeastern University"	0	3572
+"1975"	"Gender"	"Northeastern University"	0	3572
+"1975"	"Male"	"Northeastern University"	0	3572
+"1975"	"Female"	"University of California-Berkeley"	0	3572
+"1975"	"Gender"	"University of California-Berkeley"	0	3572
+"1975"	"Male"	"University of California-Berkeley"	0	3572
+"1975"	"Female"	"University of Maine"	0	3572
+"1975"	"Gender"	"University of Maine"	0	3572
+"1975"	"Male"	"University of Maine"	0	3572
+"1976"	"Female"	"Northeastern University"	0	2624
+"1976"	"Female"	"Ball State University"	0	2624
+"1976"	"Gender"	"Ball State University"	0	2624
+"1976"	"Male"	"Ball State University"	0	2624
+"1976"	"Gender"	"University of California-Berkeley"	0	2624
+"1976"	"Gender"	"Northeastern University"	0	2624
+"1976"	"Male"	"Northeastern University"	0	2624
+"1976"	"Female"	"University of California-Berkeley"	1312	2624
+"1976"	"Male"	"University of Maine"	0	2624
+"1976"	"Male"	"University of California-Berkeley"	1312	2624
+"1976"	"Female"	"University of Maine"	0	2624
+"1976"	"Gender"	"University of Maine"	0	2624
+"1977"	"Male"	"Ball State University"	0	6730
+"1977"	"Female"	"Northeastern University"	0	6730
+"1977"	"Female"	"Ball State University"	0	6730
+"1977"	"Gender"	"Ball State University"	0	6730
+"1977"	"Female"	"University of California-Berkeley"	1312	6730
+"1977"	"Gender"	"University of California-Berkeley"	0	6730
+"1977"	"Gender"	"Northeastern University"	0	6730
+"1977"	"Male"	"Northeastern University"	0	6730
+"1977"	"Gender"	"University of Maine"	0	6730
+"1977"	"Male"	"University of Maine"	2053	6730
+"1977"	"Male"	"University of California-Berkeley"	1312	6730
+"1977"	"Female"	"University of Maine"	2053	6730
+"1978"	"Gender"	"Ball State University"	0	2624
+"1978"	"Male"	"Ball State University"	0	2624
+"1978"	"Female"	"Northeastern University"	0	2624
+"1978"	"Female"	"Ball State University"	0	2624
+"1978"	"Male"	"Northeastern University"	0	2624
+"1978"	"Female"	"University of California-Berkeley"	1312	2624
+"1978"	"Gender"	"University of California-Berkeley"	0	2624
+"1978"	"Gender"	"Northeastern University"	0	2624
+"1978"	"Female"	"University of Maine"	0	2624
+"1978"	"Gender"	"University of Maine"	0	2624
+"1978"	"Male"	"University of Maine"	0	2624
+"1978"	"Male"	"University of California-Berkeley"	1312	2624
+"1982"	"Female"	"Ball State University"	0	2199
+"1982"	"Gender"	"Ball State University"	0	2199
+"1982"	"Male"	"Ball State University"	0	2199
+"1982"	"Female"	"Northeastern University"	0	2199
+"1982"	"Gender"	"Northeastern University"	0	2199
+"1982"	"Male"	"Northeastern University"	2199	2199
+"1982"	"Female"	"University of California-Berkeley"	0	2199
+"1982"	"Gender"	"University of California-Berkeley"	0	2199
+"1982"	"Male"	"University of California-Berkeley"	0	2199
+"1982"	"Female"	"University of Maine"	0	2199
+"1982"	"Gender"	"University of Maine"	0	2199
+"1982"	"Male"	"University of Maine"	0	2199
+"1983"	"Female"	"Northeastern University"	0	1312
+"1983"	"Female"	"Ball State University"	0	1312
+"1983"	"Gender"	"Ball State University"	0	1312
+"1983"	"Male"	"Ball State University"	0	1312
+"1983"	"Gender"	"University of California-Berkeley"	0	1312
+"1983"	"Gender"	"Northeastern University"	0	1312
+"1983"	"Male"	"Northeastern University"	0	1312
+"1983"	"Female"	"University of California-Berkeley"	0	1312
+"1983"	"Male"	"University of Maine"	0	1312
+"1983"	"Male"	"University of California-Berkeley"	1312	1312
+"1983"	"Female"	"University of Maine"	0	1312
+"1983"	"Gender"	"University of Maine"	0	1312
+"1984"	"Male"	"Ball State University"	0	1312
+"1984"	"Female"	"Northeastern University"	0	1312
+"1984"	"Female"	"Ball State University"	0	1312
+"1984"	"Gender"	"Ball State University"	0	1312
+"1984"	"Female"	"University of California-Berkeley"	0	1312
+"1984"	"Gender"	"University of California-Berkeley"	0	1312
+"1984"	"Gender"	"Northeastern University"	0	1312
+"1984"	"Male"	"Northeastern University"	0	1312
+"1984"	"Gender"	"University of Maine"	0	1312
+"1984"	"Male"	"University of Maine"	0	1312
+"1984"	"Male"	"University of California-Berkeley"	1312	1312
+"1984"	"Female"	"University of Maine"	0	1312
+"1985"	"Male"	"Northeastern University"	0	2624
+"1985"	"Male"	"Ball State University"	0	2624
+"1985"	"Female"	"Northeastern University"	0	2624
+"1985"	"Female"	"Ball State University"	0	2624
+"1985"	"Gender"	"Ball State University"	0	2624
+"1985"	"Female"	"University of California-Berkeley"	1312	2624
+"1985"	"Gender"	"University of California-Berkeley"	0	2624
+"1985"	"Gender"	"Northeastern University"	0	2624
+"1985"	"Female"	"University of Maine"	0	2624
+"1985"	"Gender"	"University of Maine"	0	2624
+"1985"	"Male"	"University of Maine"	0	2624
+"1985"	"Male"	"University of California-Berkeley"	1312	2624
+"1986"	"Male"	"University of California-Berkeley"	0	2199
+"1986"	"Male"	"Northeastern University"	0	2199
+"1986"	"Male"	"Ball State University"	0	2199
+"1986"	"Female"	"Northeastern University"	2199	2199
+"1986"	"Female"	"Ball State University"	0	2199
+"1986"	"Female"	"University of Maine"	0	2199
+"1986"	"Female"	"University of California-Berkeley"	0	2199
+"1986"	"Gender"	"University of California-Berkeley"	0	2199
+"1986"	"Gender"	"Northeastern University"	0	2199
+"1986"	"Gender"	"Ball State University"	0	2199
+"1986"	"Gender"	"University of Maine"	0	2199
+"1986"	"Male"	"University of Maine"	0	2199

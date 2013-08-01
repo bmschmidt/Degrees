@@ -1,0 +1,141 @@
+"year"	"gender"	"field"	"count"	"total"
+"2005"	"Female"	"Art/Architecture"	0	13
+"2005"	"Female"	"Business"	0	13
+"2005"	"Female"	"Computer Science"	0	13
+"2005"	"Female"	"Education"	0	13
+"2005"	"Female"	"History"	0	13
+"2005"	"Female"	"Other/Unknown"	7	13
+"2005"	"Female"	"Religion"	0	13
+"2005"	"Male"	"Art/Architecture"	0	13
+"2005"	"Male"	"Business"	0	13
+"2005"	"Male"	"Computer Science"	0	13
+"2005"	"Male"	"Education"	0	13
+"2005"	"Male"	"History"	0	13
+"2005"	"Male"	"Other/Unknown"	6	13
+"2005"	"Male"	"Religion"	0	13
+"2005"	"Male"	"Communication and Librarianship"	0	13
+"2005"	"Female"	"Communication and Librarianship"	0	13
+"2005"	"Male"	"English and Literature"	0	13
+"2005"	"Female"	"English and Literature"	0	13
+"2005"	"Male"	"Psychology"	0	13
+"2005"	"Female"	"Psychology"	0	13
+"2006"	"Female"	"Computer Science"	0	16
+"2006"	"Male"	"Art/Architecture"	0	16
+"2006"	"Female"	"Art/Architecture"	0	16
+"2006"	"Male"	"Computer Science"	0	16
+"2006"	"Female"	"Psychology"	0	16
+"2006"	"Male"	"History"	0	16
+"2006"	"Female"	"History"	0	16
+"2006"	"Male"	"Psychology"	0	16
+"2006"	"Female"	"Business"	0	16
+"2006"	"Female"	"Communication and Librarianship"	0	16
+"2006"	"Female"	"Education"	0	16
+"2006"	"Female"	"English and Literature"	0	16
+"2006"	"Female"	"Other/Unknown"	6	16
+"2006"	"Male"	"Education"	0	16
+"2006"	"Female"	"Religion"	0	16
+"2006"	"Male"	"Business"	0	16
+"2006"	"Male"	"Communication and Librarianship"	0	16
+"2006"	"Male"	"Religion"	0	16
+"2006"	"Male"	"English and Literature"	0	16
+"2006"	"Male"	"Other/Unknown"	10	16
+"2007"	"Male"	"Other/Unknown"	8	14
+"2007"	"Female"	"Other/Unknown"	5	14
+"2007"	"Female"	"Art/Architecture"	0	14
+"2007"	"Female"	"Business"	0	14
+"2007"	"Female"	"Computer Science"	0	14
+"2007"	"Female"	"Education"	0	14
+"2007"	"Female"	"History"	0	14
+"2007"	"Female"	"Psychology"	0	14
+"2007"	"Female"	"Religion"	0	14
+"2007"	"Male"	"Art/Architecture"	0	14
+"2007"	"Male"	"Business"	0	14
+"2007"	"Male"	"Computer Science"	0	14
+"2007"	"Male"	"Education"	0	14
+"2007"	"Male"	"History"	0	14
+"2007"	"Male"	"Psychology"	0	14
+"2007"	"Male"	"Religion"	1	14
+"2007"	"Male"	"Communication and Librarianship"	0	14
+"2007"	"Female"	"Communication and Librarianship"	0	14
+"2007"	"Male"	"English and Literature"	0	14
+"2007"	"Female"	"English and Literature"	0	14
+"2008"	"Female"	"Art/Architecture"	0	28
+"2008"	"Female"	"Other/Unknown"	8	28
+"2008"	"Female"	"Computer Science"	0	28
+"2008"	"Male"	"Art/Architecture"	0	28
+"2008"	"Female"	"English and Literature"	0	28
+"2008"	"Male"	"Computer Science"	0	28
+"2008"	"Female"	"Psychology"	0	28
+"2008"	"Male"	"English and Literature"	0	28
+"2008"	"Male"	"Other/Unknown"	18	28
+"2008"	"Male"	"Psychology"	0	28
+"2008"	"Female"	"Business"	0	28
+"2008"	"Female"	"Communication and Librarianship"	0	28
+"2008"	"Female"	"Education"	0	28
+"2008"	"Male"	"Business"	0	28
+"2008"	"Female"	"History"	0	28
+"2008"	"Male"	"Education"	0	28
+"2008"	"Female"	"Religion"	0	28
+"2008"	"Male"	"History"	0	28
+"2008"	"Male"	"Communication and Librarianship"	0	28
+"2008"	"Male"	"Religion"	2	28
+"2009"	"Male"	"Education"	1	35
+"2009"	"Female"	"Education"	2	35
+"2009"	"Male"	"Other/Unknown"	12	35
+"2009"	"Female"	"Other/Unknown"	9	35
+"2009"	"Female"	"Art/Architecture"	0	35
+"2009"	"Female"	"Business"	2	35
+"2009"	"Female"	"Computer Science"	0	35
+"2009"	"Female"	"English and Literature"	0	35
+"2009"	"Female"	"History"	0	35
+"2009"	"Female"	"Psychology"	0	35
+"2009"	"Female"	"Religion"	2	35
+"2009"	"Male"	"Art/Architecture"	0	35
+"2009"	"Male"	"Business"	5	35
+"2009"	"Male"	"Computer Science"	1	35
+"2009"	"Male"	"English and Literature"	0	35
+"2009"	"Male"	"History"	0	35
+"2009"	"Male"	"Psychology"	0	35
+"2009"	"Male"	"Religion"	1	35
+"2009"	"Male"	"Communication and Librarianship"	0	35
+"2009"	"Female"	"Communication and Librarianship"	0	35
+"2010"	"Female"	"Communication and Librarianship"	3	48
+"2010"	"Female"	"Education"	1	48
+"2010"	"Female"	"Art/Architecture"	0	48
+"2010"	"Female"	"Other/Unknown"	2	48
+"2010"	"Female"	"Psychology"	2	48
+"2010"	"Male"	"Art/Architecture"	1	48
+"2010"	"Female"	"English and Literature"	0	48
+"2010"	"Male"	"Communication and Librarianship"	1	48
+"2010"	"Male"	"Education"	0	48
+"2010"	"Male"	"English and Literature"	3	48
+"2010"	"Male"	"Other/Unknown"	2	48
+"2010"	"Male"	"Psychology"	3	48
+"2010"	"Female"	"Business"	9	48
+"2010"	"Male"	"Computer Science"	0	48
+"2010"	"Female"	"Computer Science"	0	48
+"2010"	"Male"	"Business"	14	48
+"2010"	"Female"	"History"	0	48
+"2010"	"Male"	"Religion"	5	48
+"2010"	"Female"	"Religion"	1	48
+"2010"	"Male"	"History"	1	48
+"2011"	"Male"	"Business"	17	61
+"2011"	"Female"	"Business"	4	61
+"2011"	"Male"	"Education"	2	61
+"2011"	"Female"	"Education"	6	61
+"2011"	"Male"	"Other/Unknown"	4	61
+"2011"	"Female"	"Other/Unknown"	3	61
+"2011"	"Female"	"Art/Architecture"	0	61
+"2011"	"Female"	"Communication and Librarianship"	5	61
+"2011"	"Female"	"Computer Science"	0	61
+"2011"	"Female"	"English and Literature"	1	61
+"2011"	"Female"	"History"	3	61
+"2011"	"Female"	"Psychology"	3	61
+"2011"	"Female"	"Religion"	0	61
+"2011"	"Male"	"Art/Architecture"	0	61
+"2011"	"Male"	"Communication and Librarianship"	2	61
+"2011"	"Male"	"Computer Science"	0	61
+"2011"	"Male"	"English and Literature"	1	61
+"2011"	"Male"	"History"	4	61
+"2011"	"Male"	"Psychology"	4	61
+"2011"	"Male"	"Religion"	2	61

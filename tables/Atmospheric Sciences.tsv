@@ -1,0 +1,271 @@
+"year"	"gender"	"field"	"count"	"total"
+"1971"	"Female"	"Harvard University"	0	9092
+"1971"	"Gender"	"University of California-Berkeley"	0	9092
+"1971"	"Male"	"University of Michigan at Ann Arbor"	9092	9092
+"1971"	"Male"	"Harvard University"	0	9092
+"1971"	"Gender"	"Harvard University"	0	9092
+"1971"	"Male"	"University of California-Berkeley"	0	9092
+"1971"	"Female"	"University of California-Berkeley"	0	9092
+"1971"	"Gender"	"University of Michigan at Ann Arbor"	0	9092
+"1971"	"Female"	"University of Michigan at Ann Arbor"	0	9092
+"1972"	"Female"	"University of Michigan at Ann Arbor"	9092	18184
+"1972"	"Male"	"University of California-Berkeley"	0	18184
+"1972"	"Male"	"University of Michigan at Ann Arbor"	9092	18184
+"1972"	"Gender"	"University of Michigan at Ann Arbor"	0	18184
+"1972"	"Male"	"Harvard University"	0	18184
+"1972"	"Female"	"Harvard University"	0	18184
+"1972"	"Gender"	"University of California-Berkeley"	0	18184
+"1972"	"Female"	"University of California-Berkeley"	0	18184
+"1972"	"Gender"	"Harvard University"	0	18184
+"1976"	"Gender"	"University of Michigan at Ann Arbor"	0	1312
+"1976"	"Gender"	"Harvard University"	0	1312
+"1976"	"Gender"	"University of California-Berkeley"	0	1312
+"1976"	"Male"	"University of Michigan at Ann Arbor"	0	1312
+"1976"	"Male"	"Harvard University"	0	1312
+"1976"	"Female"	"University of Michigan at Ann Arbor"	0	1312
+"1976"	"Male"	"University of California-Berkeley"	1312	1312
+"1976"	"Female"	"University of California-Berkeley"	0	1312
+"1976"	"Female"	"Harvard University"	0	1312
+"1982"	"Female"	"University of California-Berkeley"	0	18184
+"1982"	"Gender"	"University of Michigan at Ann Arbor"	0	18184
+"1982"	"Female"	"Harvard University"	0	18184
+"1982"	"Gender"	"University of California-Berkeley"	0	18184
+"1982"	"Male"	"University of Michigan at Ann Arbor"	9092	18184
+"1982"	"Male"	"Harvard University"	0	18184
+"1982"	"Gender"	"Harvard University"	0	18184
+"1982"	"Male"	"University of California-Berkeley"	0	18184
+"1982"	"Female"	"University of Michigan at Ann Arbor"	9092	18184
+"1983"	"Male"	"University of California-Berkeley"	0	18184
+"1983"	"Male"	"University of Michigan at Ann Arbor"	9092	18184
+"1983"	"Female"	"University of Michigan at Ann Arbor"	9092	18184
+"1983"	"Female"	"Harvard University"	0	18184
+"1983"	"Female"	"University of California-Berkeley"	0	18184
+"1983"	"Gender"	"University of Michigan at Ann Arbor"	0	18184
+"1983"	"Male"	"Harvard University"	0	18184
+"1983"	"Gender"	"Harvard University"	0	18184
+"1983"	"Gender"	"University of California-Berkeley"	0	18184
+"1984"	"Gender"	"University of California-Berkeley"	0	18184
+"1984"	"Gender"	"University of Michigan at Ann Arbor"	0	18184
+"1984"	"Female"	"University of Michigan at Ann Arbor"	9092	18184
+"1984"	"Gender"	"Harvard University"	0	18184
+"1984"	"Male"	"University of California-Berkeley"	0	18184
+"1984"	"Male"	"University of Michigan at Ann Arbor"	9092	18184
+"1984"	"Male"	"Harvard University"	0	18184
+"1984"	"Female"	"Harvard University"	0	18184
+"1984"	"Female"	"University of California-Berkeley"	0	18184
+"1985"	"Male"	"Harvard University"	2155	22494
+"1985"	"Female"	"University of California-Berkeley"	0	22494
+"1985"	"Gender"	"University of Michigan at Ann Arbor"	0	22494
+"1985"	"Female"	"University of Michigan at Ann Arbor"	9092	22494
+"1985"	"Female"	"Harvard University"	2155	22494
+"1985"	"Gender"	"University of California-Berkeley"	0	22494
+"1985"	"Male"	"University of Michigan at Ann Arbor"	9092	22494
+"1985"	"Gender"	"Harvard University"	0	22494
+"1985"	"Male"	"University of California-Berkeley"	0	22494
+"1986"	"Male"	"University of Michigan at Ann Arbor"	9092	9092
+"1986"	"Male"	"University of California-Berkeley"	0	9092
+"1986"	"Female"	"University of California-Berkeley"	0	9092
+"1986"	"Male"	"Harvard University"	0	9092
+"1986"	"Female"	"University of Michigan at Ann Arbor"	0	9092
+"1986"	"Female"	"Harvard University"	0	9092
+"1986"	"Gender"	"University of California-Berkeley"	0	9092
+"1986"	"Gender"	"University of Michigan at Ann Arbor"	0	9092
+"1986"	"Gender"	"Harvard University"	0	9092
+"1987"	"Gender"	"University of Michigan at Ann Arbor"	0	18184
+"1987"	"Male"	"University of California-Berkeley"	0	18184
+"1987"	"Gender"	"University of California-Berkeley"	0	18184
+"1987"	"Male"	"University of Michigan at Ann Arbor"	9092	18184
+"1987"	"Female"	"University of Michigan at Ann Arbor"	9092	18184
+"1987"	"Gender"	"Harvard University"	0	18184
+"1987"	"Female"	"Harvard University"	0	18184
+"1987"	"Female"	"University of California-Berkeley"	0	18184
+"1987"	"Male"	"Harvard University"	0	18184
+"1988"	"Male"	"Harvard University"	0	18184
+"1988"	"Gender"	"Harvard University"	0	18184
+"1988"	"Male"	"University of California-Berkeley"	0	18184
+"1988"	"Female"	"University of California-Berkeley"	0	18184
+"1988"	"Gender"	"University of Michigan at Ann Arbor"	0	18184
+"1988"	"Female"	"University of Michigan at Ann Arbor"	9092	18184
+"1988"	"Female"	"Harvard University"	0	18184
+"1988"	"Gender"	"University of California-Berkeley"	0	18184
+"1988"	"Male"	"University of Michigan at Ann Arbor"	9092	18184
+"1989"	"Female"	"Harvard University"	0	18184
+"1989"	"Gender"	"University of California-Berkeley"	0	18184
+"1989"	"Male"	"University of Michigan at Ann Arbor"	9092	18184
+"1989"	"Male"	"Harvard University"	0	18184
+"1989"	"Gender"	"Harvard University"	0	18184
+"1989"	"Male"	"University of California-Berkeley"	0	18184
+"1989"	"Female"	"University of California-Berkeley"	0	18184
+"1989"	"Gender"	"University of Michigan at Ann Arbor"	0	18184
+"1989"	"Female"	"University of Michigan at Ann Arbor"	9092	18184
+"1990"	"Female"	"University of Michigan at Ann Arbor"	9092	18184
+"1990"	"Male"	"University of California-Berkeley"	0	18184
+"1990"	"Male"	"University of Michigan at Ann Arbor"	9092	18184
+"1990"	"Gender"	"University of Michigan at Ann Arbor"	0	18184
+"1990"	"Male"	"Harvard University"	0	18184
+"1990"	"Female"	"Harvard University"	0	18184
+"1990"	"Gender"	"University of California-Berkeley"	0	18184
+"1990"	"Female"	"University of California-Berkeley"	0	18184
+"1990"	"Gender"	"Harvard University"	0	18184
+"1994"	"Gender"	"University of Michigan at Ann Arbor"	0	18184
+"1994"	"Gender"	"Harvard University"	0	18184
+"1994"	"Gender"	"University of California-Berkeley"	0	18184
+"1994"	"Male"	"University of Michigan at Ann Arbor"	9092	18184
+"1994"	"Male"	"Harvard University"	0	18184
+"1994"	"Female"	"University of Michigan at Ann Arbor"	9092	18184
+"1994"	"Male"	"University of California-Berkeley"	0	18184
+"1994"	"Female"	"University of California-Berkeley"	0	18184
+"1994"	"Female"	"Harvard University"	0	18184
+"1995"	"Female"	"University of California-Berkeley"	0	9092
+"1995"	"Gender"	"University of Michigan at Ann Arbor"	0	9092
+"1995"	"Female"	"Harvard University"	0	9092
+"1995"	"Gender"	"University of California-Berkeley"	0	9092
+"1995"	"Male"	"University of Michigan at Ann Arbor"	9092	9092
+"1995"	"Male"	"Harvard University"	0	9092
+"1995"	"Gender"	"Harvard University"	0	9092
+"1995"	"Male"	"University of California-Berkeley"	0	9092
+"1995"	"Female"	"University of Michigan at Ann Arbor"	0	9092
+"1996"	"Male"	"University of California-Berkeley"	0	18184
+"1996"	"Male"	"University of Michigan at Ann Arbor"	9092	18184
+"1996"	"Female"	"University of Michigan at Ann Arbor"	9092	18184
+"1996"	"Female"	"Harvard University"	0	18184
+"1996"	"Female"	"University of California-Berkeley"	0	18184
+"1996"	"Gender"	"University of Michigan at Ann Arbor"	0	18184
+"1996"	"Male"	"Harvard University"	0	18184
+"1996"	"Gender"	"Harvard University"	0	18184
+"1996"	"Gender"	"University of California-Berkeley"	0	18184
+"1997"	"Gender"	"University of California-Berkeley"	0	18184
+"1997"	"Gender"	"University of Michigan at Ann Arbor"	0	18184
+"1997"	"Female"	"University of Michigan at Ann Arbor"	9092	18184
+"1997"	"Gender"	"Harvard University"	0	18184
+"1997"	"Male"	"University of California-Berkeley"	0	18184
+"1997"	"Male"	"University of Michigan at Ann Arbor"	9092	18184
+"1997"	"Male"	"Harvard University"	0	18184
+"1997"	"Female"	"Harvard University"	0	18184
+"1997"	"Female"	"University of California-Berkeley"	0	18184
+"1998"	"Male"	"Harvard University"	0	18184
+"1998"	"Female"	"University of California-Berkeley"	0	18184
+"1998"	"Gender"	"University of Michigan at Ann Arbor"	0	18184
+"1998"	"Female"	"University of Michigan at Ann Arbor"	9092	18184
+"1998"	"Female"	"Harvard University"	0	18184
+"1998"	"Gender"	"University of California-Berkeley"	0	18184
+"1998"	"Male"	"University of Michigan at Ann Arbor"	9092	18184
+"1998"	"Gender"	"Harvard University"	0	18184
+"1998"	"Male"	"University of California-Berkeley"	0	18184
+"1999"	"Male"	"University of Michigan at Ann Arbor"	9092	18184
+"1999"	"Male"	"University of California-Berkeley"	0	18184
+"1999"	"Female"	"University of California-Berkeley"	0	18184
+"1999"	"Male"	"Harvard University"	0	18184
+"1999"	"Female"	"University of Michigan at Ann Arbor"	9092	18184
+"1999"	"Female"	"Harvard University"	0	18184
+"1999"	"Gender"	"University of California-Berkeley"	0	18184
+"1999"	"Gender"	"University of Michigan at Ann Arbor"	0	18184
+"1999"	"Gender"	"Harvard University"	0	18184
+"2000"	"Gender"	"University of Michigan at Ann Arbor"	0	18184
+"2000"	"Male"	"University of California-Berkeley"	0	18184
+"2000"	"Gender"	"University of California-Berkeley"	0	18184
+"2000"	"Male"	"University of Michigan at Ann Arbor"	9092	18184
+"2000"	"Female"	"University of Michigan at Ann Arbor"	9092	18184
+"2000"	"Gender"	"Harvard University"	0	18184
+"2000"	"Female"	"Harvard University"	0	18184
+"2000"	"Female"	"University of California-Berkeley"	0	18184
+"2000"	"Male"	"Harvard University"	0	18184
+"2001"	"Male"	"Harvard University"	0	18184
+"2001"	"Gender"	"Harvard University"	0	18184
+"2001"	"Male"	"University of California-Berkeley"	0	18184
+"2001"	"Female"	"University of California-Berkeley"	0	18184
+"2001"	"Gender"	"University of Michigan at Ann Arbor"	0	18184
+"2001"	"Female"	"University of Michigan at Ann Arbor"	9092	18184
+"2001"	"Female"	"Harvard University"	0	18184
+"2001"	"Gender"	"University of California-Berkeley"	0	18184
+"2001"	"Male"	"University of Michigan at Ann Arbor"	9092	18184
+"2002"	"Female"	"Harvard University"	0	18184
+"2002"	"Gender"	"University of California-Berkeley"	0	18184
+"2002"	"Male"	"University of Michigan at Ann Arbor"	9092	18184
+"2002"	"Male"	"Harvard University"	0	18184
+"2002"	"Gender"	"Harvard University"	0	18184
+"2002"	"Male"	"University of California-Berkeley"	0	18184
+"2002"	"Female"	"University of California-Berkeley"	0	18184
+"2002"	"Gender"	"University of Michigan at Ann Arbor"	0	18184
+"2002"	"Female"	"University of Michigan at Ann Arbor"	9092	18184
+"2003"	"Female"	"University of Michigan at Ann Arbor"	9092	18184
+"2003"	"Male"	"University of California-Berkeley"	0	18184
+"2003"	"Male"	"University of Michigan at Ann Arbor"	9092	18184
+"2003"	"Gender"	"University of Michigan at Ann Arbor"	0	18184
+"2003"	"Male"	"Harvard University"	0	18184
+"2003"	"Female"	"Harvard University"	0	18184
+"2003"	"Gender"	"University of California-Berkeley"	0	18184
+"2003"	"Female"	"University of California-Berkeley"	0	18184
+"2003"	"Gender"	"Harvard University"	0	18184
+"2004"	"Gender"	"University of Michigan at Ann Arbor"	0	18184
+"2004"	"Gender"	"Harvard University"	0	18184
+"2004"	"Gender"	"University of California-Berkeley"	0	18184
+"2004"	"Male"	"University of Michigan at Ann Arbor"	9092	18184
+"2004"	"Male"	"Harvard University"	0	18184
+"2004"	"Female"	"University of Michigan at Ann Arbor"	9092	18184
+"2004"	"Male"	"University of California-Berkeley"	0	18184
+"2004"	"Female"	"University of California-Berkeley"	0	18184
+"2004"	"Female"	"Harvard University"	0	18184
+"2005"	"Female"	"University of California-Berkeley"	0	9092
+"2005"	"Gender"	"University of Michigan at Ann Arbor"	0	9092
+"2005"	"Female"	"Harvard University"	0	9092
+"2005"	"Gender"	"University of California-Berkeley"	0	9092
+"2005"	"Male"	"University of Michigan at Ann Arbor"	9092	9092
+"2005"	"Male"	"Harvard University"	0	9092
+"2005"	"Gender"	"Harvard University"	0	9092
+"2005"	"Male"	"University of California-Berkeley"	0	9092
+"2005"	"Female"	"University of Michigan at Ann Arbor"	0	9092
+"2006"	"Male"	"University of California-Berkeley"	1312	11716
+"2006"	"Male"	"University of Michigan at Ann Arbor"	9092	11716
+"2006"	"Female"	"University of Michigan at Ann Arbor"	0	11716
+"2006"	"Female"	"Harvard University"	0	11716
+"2006"	"Female"	"University of California-Berkeley"	1312	11716
+"2006"	"Gender"	"University of Michigan at Ann Arbor"	0	11716
+"2006"	"Male"	"Harvard University"	0	11716
+"2006"	"Gender"	"Harvard University"	0	11716
+"2006"	"Gender"	"University of California-Berkeley"	0	11716
+"2007"	"Gender"	"University of California-Berkeley"	0	10404
+"2007"	"Gender"	"University of Michigan at Ann Arbor"	0	10404
+"2007"	"Female"	"University of Michigan at Ann Arbor"	0	10404
+"2007"	"Gender"	"Harvard University"	0	10404
+"2007"	"Male"	"University of California-Berkeley"	0	10404
+"2007"	"Male"	"University of Michigan at Ann Arbor"	9092	10404
+"2007"	"Male"	"Harvard University"	0	10404
+"2007"	"Female"	"Harvard University"	0	10404
+"2007"	"Female"	"University of California-Berkeley"	1312	10404
+"2008"	"Male"	"Harvard University"	0	10404
+"2008"	"Female"	"University of California-Berkeley"	1312	10404
+"2008"	"Gender"	"University of Michigan at Ann Arbor"	0	10404
+"2008"	"Female"	"University of Michigan at Ann Arbor"	0	10404
+"2008"	"Female"	"Harvard University"	0	10404
+"2008"	"Gender"	"University of California-Berkeley"	0	10404
+"2008"	"Male"	"University of Michigan at Ann Arbor"	9092	10404
+"2008"	"Gender"	"Harvard University"	0	10404
+"2008"	"Male"	"University of California-Berkeley"	0	10404
+"2009"	"Male"	"University of Michigan at Ann Arbor"	9092	10404
+"2009"	"Male"	"University of California-Berkeley"	1312	10404
+"2009"	"Female"	"University of California-Berkeley"	0	10404
+"2009"	"Male"	"Harvard University"	0	10404
+"2009"	"Female"	"University of Michigan at Ann Arbor"	0	10404
+"2009"	"Female"	"Harvard University"	0	10404
+"2009"	"Gender"	"University of California-Berkeley"	0	10404
+"2009"	"Gender"	"University of Michigan at Ann Arbor"	0	10404
+"2009"	"Gender"	"Harvard University"	0	10404
+"2010"	"Gender"	"University of Michigan at Ann Arbor"	0	1312
+"2010"	"Male"	"University of California-Berkeley"	1312	1312
+"2010"	"Gender"	"University of California-Berkeley"	0	1312
+"2010"	"Male"	"University of Michigan at Ann Arbor"	0	1312
+"2010"	"Female"	"University of Michigan at Ann Arbor"	0	1312
+"2010"	"Gender"	"Harvard University"	0	1312
+"2010"	"Female"	"Harvard University"	0	1312
+"2010"	"Female"	"University of California-Berkeley"	0	1312
+"2010"	"Male"	"Harvard University"	0	1312
+"2011"	"Male"	"Harvard University"	0	2624
+"2011"	"Gender"	"Harvard University"	0	2624
+"2011"	"Male"	"University of California-Berkeley"	1312	2624
+"2011"	"Female"	"University of California-Berkeley"	1312	2624
+"2011"	"Gender"	"University of Michigan at Ann Arbor"	0	2624
+"2011"	"Female"	"University of Michigan at Ann Arbor"	0	2624
+"2011"	"Female"	"Harvard University"	0	2624
+"2011"	"Gender"	"University of California-Berkeley"	0	2624
+"2011"	"Male"	"University of Michigan at Ann Arbor"	0	2624
