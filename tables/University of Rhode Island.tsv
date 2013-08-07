@@ -1,2117 +1,2117 @@
-"year"	"gender"	"field"	"count"	"total"
-"1966"	"Female"	"Agriculture"	2	770
-"1966"	"Male"	"Life Sciences"	43	770
-"1966"	"Female"	"Foreign Languages"	6	770
-"1966"	"Female"	"Vocational Studies and Home Economics"	38	770
-"1966"	"Female"	"Business"	13	770
-"1966"	"Male"	"Political Science and Public Administration"	24	770
-"1966"	"Male"	"Agriculture"	17	770
-"1966"	"Female"	"Math"	24	770
-"1966"	"Female"	"Education"	72	770
-"1966"	"Male"	"Vocational Studies and Home Economics"	0	770
-"1966"	"Male"	"Business"	113	770
-"1966"	"Female"	"Psychology"	10	770
-"1966"	"Female"	"History"	5	770
-"1966"	"Male"	"Math"	22	770
-"1966"	"Male"	"Education"	29	770
-"1966"	"Female"	"Physical Sciences"	2	770
-"1966"	"Female"	"Other/Unknown"	0	770
-"1966"	"Male"	"Anthropology"	0	770
-"1966"	"Male"	"History"	16	770
-"1966"	"Female"	"Sociology"	14	770
-"1966"	"Female"	"Social Sciences, Other"	1	770
-"1966"	"Male"	"Communication and Librarianship"	1	770
-"1966"	"Male"	"Other/Unknown"	0	770
-"1966"	"Female"	"Area and Ethnic Studies"	0	770
-"1966"	"Female"	"Humanities, Other"	1	770
-"1966"	"Male"	"Engineering"	131	770
-"1966"	"Male"	"Social Sciences, Other"	2	770
-"1966"	"Female"	"Computer Science"	0	770
-"1966"	"Male"	"Art/Architecture"	4	770
-"1966"	"Male"	"Humanities, Other"	2	770
-"1966"	"Female"	"Communication and Librarianship"	3	770
-"1966"	"Female"	"English and Literature"	56	770
-"1966"	"Male"	"Economics"	6	770
-"1966"	"Male"	"Physical Sciences"	16	770
-"1966"	"Female"	"Art/Architecture"	6	770
-"1966"	"Female"	"Life Sciences"	45	770
-"1966"	"Male"	"Foreign Languages"	3	770
-"1966"	"Male"	"Sociology"	1	770
-"1966"	"Female"	"Economics"	1	770
-"1966"	"Female"	"Political Science and Public Administration"	9	770
-"1966"	"Female"	"Anthropology"	0	770
-"1966"	"Male"	"Psychology"	7	770
-"1966"	"Male"	"Area and Ethnic Studies"	0	770
-"1966"	"Male"	"Computer Science"	0	770
-"1966"	"Female"	"Engineering"	3	770
-"1966"	"Male"	"English and Literature"	22	770
-"1967"	"Male"	"Life Sciences"	44	822
-"1967"	"Female"	"Agriculture"	2	822
-"1967"	"Male"	"Political Science and Public Administration"	22	822
-"1967"	"Male"	"Education"	33	822
-"1967"	"Female"	"Business"	12	822
-"1967"	"Male"	"Vocational Studies and Home Economics"	0	822
-"1967"	"Male"	"History"	14	822
-"1967"	"Female"	"Education"	26	822
-"1967"	"Male"	"Math"	30	822
-"1967"	"Female"	"Computer Science"	0	822
-"1967"	"Female"	"Life Sciences"	44	822
-"1967"	"Female"	"History"	7	822
-"1967"	"Male"	"Anthropology"	0	822
-"1967"	"Female"	"English and Literature"	86	822
-"1967"	"Male"	"Humanities, Other"	3	822
-"1967"	"Female"	"Engineering"	1	822
-"1967"	"Male"	"Communication and Librarianship"	2	822
-"1967"	"Male"	"Foreign Languages"	2	822
-"1967"	"Male"	"Business"	131	822
-"1967"	"Female"	"Humanities, Other"	1	822
-"1967"	"Male"	"Engineering"	139	822
-"1967"	"Female"	"Anthropology"	0	822
-"1967"	"Male"	"Art/Architecture"	5	822
-"1967"	"Female"	"Foreign Languages"	8	822
-"1967"	"Male"	"Area and Ethnic Studies"	0	822
-"1967"	"Female"	"Communication and Librarianship"	4	822
-"1967"	"Male"	"Economics"	8	822
-"1967"	"Male"	"Agriculture"	11	822
-"1967"	"Male"	"Computer Science"	0	822
-"1967"	"Female"	"Art/Architecture"	12	822
-"1967"	"Female"	"Social Sciences, Other"	10	822
-"1967"	"Female"	"Area and Ethnic Studies"	0	822
-"1967"	"Male"	"English and Literature"	30	822
-"1967"	"Female"	"Economics"	0	822
-"1967"	"Male"	"Sociology"	10	822
-"1967"	"Female"	"Other/Unknown"	0	822
-"1967"	"Male"	"Social Sciences, Other"	1	822
-"1967"	"Male"	"Other/Unknown"	0	822
-"1967"	"Female"	"Physical Sciences"	5	822
-"1967"	"Male"	"Physical Sciences"	13	822
-"1967"	"Female"	"Vocational Studies and Home Economics"	33	822
-"1967"	"Female"	"Political Science and Public Administration"	5	822
-"1967"	"Female"	"Math"	16	822
-"1967"	"Female"	"Sociology"	24	822
-"1967"	"Male"	"Psychology"	13	822
-"1967"	"Female"	"Psychology"	15	822
-"1968"	"Female"	"Education"	73	1011
-"1968"	"Male"	"Math"	31	1011
-"1968"	"Female"	"History"	18	1011
-"1968"	"Male"	"Life Sciences"	68	1011
-"1968"	"Male"	"Education"	21	1011
-"1968"	"Male"	"Engineering"	165	1011
-"1968"	"Male"	"Anthropology"	0	1011
-"1968"	"Male"	"Political Science and Public Administration"	19	1011
-"1968"	"Male"	"History"	16	1011
-"1968"	"Male"	"Humanities, Other"	3	1011
-"1968"	"Male"	"Communication and Librarianship"	3	1011
-"1968"	"Female"	"Social Sciences, Other"	8	1011
-"1968"	"Male"	"Vocational Studies and Home Economics"	0	1011
-"1968"	"Female"	"Area and Ethnic Studies"	0	1011
-"1968"	"Female"	"Economics"	0	1011
-"1968"	"Male"	"Sociology"	8	1011
-"1968"	"Female"	"Agriculture"	1	1011
-"1968"	"Female"	"Computer Science"	0	1011
-"1968"	"Female"	"Foreign Languages"	11	1011
-"1968"	"Male"	"Area and Ethnic Studies"	0	1011
-"1968"	"Female"	"Business"	19	1011
-"1968"	"Female"	"English and Literature"	88	1011
-"1968"	"Female"	"Vocational Studies and Home Economics"	31	1011
-"1968"	"Female"	"Art/Architecture"	13	1011
-"1968"	"Male"	"Physical Sciences"	18	1011
-"1968"	"Female"	"Life Sciences"	78	1011
-"1968"	"Male"	"Art/Architecture"	4	1011
-"1968"	"Female"	"Humanities, Other"	6	1011
-"1968"	"Female"	"Psychology"	32	1011
-"1968"	"Female"	"Anthropology"	0	1011
-"1968"	"Male"	"Economics"	3	1011
-"1968"	"Male"	"Social Sciences, Other"	3	1011
-"1968"	"Male"	"Agriculture"	19	1011
-"1968"	"Female"	"Other/Unknown"	0	1011
-"1968"	"Male"	"Foreign Languages"	2	1011
-"1968"	"Male"	"Psychology"	19	1011
-"1968"	"Male"	"Business"	142	1011
-"1968"	"Female"	"Math"	16	1011
-"1968"	"Female"	"Physical Sciences"	2	1011
-"1968"	"Female"	"Sociology"	29	1011
-"1968"	"Female"	"Political Science and Public Administration"	8	1011
-"1968"	"Male"	"English and Literature"	26	1011
-"1968"	"Female"	"Engineering"	6	1011
-"1968"	"Male"	"Computer Science"	0	1011
-"1968"	"Female"	"Communication and Librarianship"	2	1011
-"1968"	"Male"	"Other/Unknown"	0	1011
-"1969"	"Female"	"Life Sciences"	96	1182
-"1969"	"Male"	"History"	17	1182
-"1969"	"Male"	"Life Sciences"	67	1182
-"1969"	"Male"	"Education"	35	1182
-"1969"	"Female"	"History"	21	1182
-"1969"	"Female"	"Education"	47	1182
-"1969"	"Female"	"Business"	17	1182
-"1969"	"Male"	"Anthropology"	0	1182
-"1969"	"Female"	"Humanities, Other"	2	1182
-"1969"	"Female"	"Anthropology"	0	1182
-"1969"	"Male"	"Communication and Librarianship"	7	1182
-"1969"	"Female"	"Agriculture"	6	1182
-"1969"	"Female"	"Computer Science"	0	1182
-"1969"	"Female"	"Area and Ethnic Studies"	0	1182
-"1969"	"Male"	"Engineering"	142	1182
-"1969"	"Female"	"Other/Unknown"	0	1182
-"1969"	"Female"	"English and Literature"	97	1182
-"1969"	"Male"	"Humanities, Other"	7	1182
-"1969"	"Female"	"Engineering"	3	1182
-"1969"	"Male"	"Physical Sciences"	23	1182
-"1969"	"Female"	"Art/Architecture"	22	1182
-"1969"	"Male"	"Other/Unknown"	0	1182
-"1969"	"Male"	"English and Literature"	38	1182
-"1969"	"Female"	"Economics"	1	1182
-"1969"	"Male"	"Math"	12	1182
-"1969"	"Female"	"Political Science and Public Administration"	6	1182
-"1969"	"Male"	"Art/Architecture"	11	1182
-"1969"	"Female"	"Physical Sciences"	6	1182
-"1969"	"Male"	"Area and Ethnic Studies"	0	1182
-"1969"	"Male"	"Economics"	10	1182
-"1969"	"Male"	"Political Science and Public Administration"	26	1182
-"1969"	"Male"	"Computer Science"	0	1182
-"1969"	"Female"	"Math"	18	1182
-"1969"	"Male"	"Foreign Languages"	9	1182
-"1969"	"Male"	"Vocational Studies and Home Economics"	0	1182
-"1969"	"Male"	"Business"	183	1182
-"1969"	"Female"	"Psychology"	35	1182
-"1969"	"Male"	"Sociology"	5	1182
-"1969"	"Male"	"Psychology"	13	1182
-"1969"	"Male"	"Social Sciences, Other"	6	1182
-"1969"	"Female"	"Foreign Languages"	13	1182
-"1969"	"Female"	"Communication and Librarianship"	7	1182
-"1969"	"Female"	"Social Sciences, Other"	12	1182
-"1969"	"Female"	"Vocational Studies and Home Economics"	79	1182
-"1969"	"Male"	"Agriculture"	55	1182
-"1969"	"Female"	"Sociology"	28	1182
-"1970"	"Male"	"Business"	229	1378
-"1970"	"Female"	"Social Sciences, Other"	15	1378
-"1970"	"Female"	"Engineering"	2	1378
-"1970"	"Male"	"Communication and Librarianship"	8	1378
-"1970"	"Female"	"Psychology"	51	1378
-"1970"	"Male"	"Other/Unknown"	0	1378
-"1970"	"Male"	"English and Literature"	25	1378
-"1970"	"Male"	"Engineering"	149	1378
-"1970"	"Male"	"Social Sciences, Other"	5	1378
-"1970"	"Female"	"Computer Science"	0	1378
-"1970"	"Male"	"Psychology"	24	1378
-"1970"	"Female"	"Communication and Librarianship"	2	1378
-"1970"	"Female"	"Other/Unknown"	0	1378
-"1970"	"Female"	"English and Literature"	142	1378
-"1970"	"Female"	"Business"	23	1378
-"1970"	"Male"	"Computer Science"	0	1378
-"1970"	"Male"	"Physical Sciences"	19	1378
-"1970"	"Female"	"Education"	47	1378
-"1970"	"Male"	"Sociology"	9	1378
-"1970"	"Female"	"Life Sciences"	85	1378
-"1970"	"Female"	"Economics"	1	1378
-"1970"	"Female"	"Foreign Languages"	23	1378
-"1970"	"Female"	"Political Science and Public Administration"	2	1378
-"1970"	"Male"	"Education"	37	1378
-"1970"	"Female"	"Vocational Studies and Home Economics"	96	1378
-"1970"	"Male"	"Vocational Studies and Home Economics"	0	1378
-"1970"	"Male"	"Economics"	11	1378
-"1970"	"Male"	"Anthropology"	0	1378
-"1970"	"Male"	"Political Science and Public Administration"	30	1378
-"1970"	"Female"	"Area and Ethnic Studies"	0	1378
-"1970"	"Male"	"Agriculture"	52	1378
-"1970"	"Male"	"Foreign Languages"	7	1378
-"1970"	"Female"	"Anthropology"	0	1378
-"1970"	"Female"	"Agriculture"	8	1378
-"1970"	"Female"	"Physical Sciences"	12	1378
-"1970"	"Female"	"History"	11	1378
-"1970"	"Female"	"Sociology"	64	1378
-"1970"	"Male"	"History"	17	1378
-"1970"	"Male"	"Math"	26	1378
-"1970"	"Male"	"Humanities, Other"	7	1378
-"1970"	"Female"	"Art/Architecture"	30	1378
-"1970"	"Male"	"Area and Ethnic Studies"	0	1378
-"1970"	"Male"	"Life Sciences"	76	1378
-"1970"	"Female"	"Humanities, Other"	1	1378
-"1970"	"Female"	"Math"	22	1378
-"1970"	"Male"	"Art/Architecture"	10	1378
-"1971"	"Female"	"Economics"	1	1721
-"1971"	"Female"	"Social Sciences, Other"	1	1721
-"1971"	"Male"	"Communication and Librarianship"	9	1721
-"1971"	"Male"	"Engineering"	146	1721
-"1971"	"Female"	"Psychology"	40	1721
-"1971"	"Male"	"English and Literature"	41	1721
-"1971"	"Male"	"Business"	227	1721
-"1971"	"Male"	"Foreign Languages"	6	1721
-"1971"	"Female"	"Sociology"	51	1721
-"1971"	"Female"	"Business"	18	1721
-"1971"	"Female"	"Communication and Librarianship"	7	1721
-"1971"	"Female"	"Computer Science"	0	1721
-"1971"	"Female"	"Education"	233	1721
-"1971"	"Male"	"Sociology"	27	1721
-"1971"	"Female"	"Engineering"	9	1721
-"1971"	"Male"	"Social Sciences, Other"	5	1721
-"1971"	"Female"	"Humanities, Other"	2	1721
-"1971"	"Male"	"Education"	79	1721
-"1971"	"Female"	"Life Sciences"	101	1721
-"1971"	"Female"	"Vocational Studies and Home Economics"	125	1721
-"1971"	"Female"	"English and Literature"	125	1721
-"1971"	"Male"	"Economics"	18	1721
-"1971"	"Male"	"Anthropology"	0	1721
-"1971"	"Male"	"Computer Science"	0	1721
-"1971"	"Male"	"Political Science and Public Administration"	84	1721
-"1971"	"Male"	"Agriculture"	52	1721
-"1971"	"Female"	"Art/Architecture"	35	1721
-"1971"	"Male"	"Physical Sciences"	33	1721
-"1971"	"Female"	"Agriculture"	6	1721
-"1971"	"Female"	"Area and Ethnic Studies"	0	1721
-"1971"	"Male"	"Other/Unknown"	0	1721
-"1971"	"Male"	"Math"	20	1721
-"1971"	"Male"	"History"	24	1721
-"1971"	"Female"	"Foreign Languages"	18	1721
-"1971"	"Male"	"Humanities, Other"	9	1721
-"1971"	"Male"	"Area and Ethnic Studies"	0	1721
-"1971"	"Female"	"Math"	5	1721
-"1971"	"Female"	"Anthropology"	0	1721
-"1971"	"Male"	"Psychology"	42	1721
-"1971"	"Male"	"Vocational Studies and Home Economics"	0	1721
-"1971"	"Female"	"History"	16	1721
-"1971"	"Female"	"Other/Unknown"	0	1721
-"1971"	"Female"	"Physical Sciences"	5	1721
-"1971"	"Female"	"Political Science and Public Administration"	11	1721
-"1971"	"Male"	"Art/Architecture"	14	1721
-"1971"	"Male"	"Life Sciences"	76	1721
-"1972"	"Female"	"Engineering"	33	1754
-"1972"	"Male"	"Communication and Librarianship"	7	1754
-"1972"	"Male"	"English and Literature"	53	1754
-"1972"	"Female"	"Psychology"	48	1754
-"1972"	"Male"	"Engineering"	184	1754
-"1972"	"Male"	"Social Sciences, Other"	4	1754
-"1972"	"Female"	"English and Literature"	138	1754
-"1972"	"Male"	"Business"	262	1754
-"1972"	"Male"	"History"	43	1754
-"1972"	"Female"	"Social Sciences, Other"	11	1754
-"1972"	"Female"	"Education"	172	1754
-"1972"	"Male"	"Education"	53	1754
-"1972"	"Female"	"Life Sciences"	100	1754
-"1972"	"Female"	"Economics"	2	1754
-"1972"	"Female"	"Humanities, Other"	1	1754
-"1972"	"Male"	"Humanities, Other"	15	1754
-"1972"	"Male"	"Math"	19	1754
-"1972"	"Female"	"Sociology"	49	1754
-"1972"	"Female"	"Communication and Librarianship"	4	1754
-"1972"	"Male"	"Political Science and Public Administration"	69	1754
-"1972"	"Male"	"Foreign Languages"	5	1754
-"1972"	"Female"	"Art/Architecture"	24	1754
-"1972"	"Male"	"Computer Science"	0	1754
-"1972"	"Female"	"Area and Ethnic Studies"	0	1754
-"1972"	"Male"	"Other/Unknown"	0	1754
-"1972"	"Female"	"Computer Science"	0	1754
-"1972"	"Male"	"Sociology"	37	1754
-"1972"	"Male"	"Life Sciences"	100	1754
-"1972"	"Female"	"Foreign Languages"	22	1754
-"1972"	"Male"	"Economics"	27	1754
-"1972"	"Male"	"Anthropology"	0	1754
-"1972"	"Female"	"Business"	12	1754
-"1972"	"Female"	"Agriculture"	3	1754
-"1972"	"Male"	"Vocational Studies and Home Economics"	0	1754
-"1972"	"Female"	"Math"	24	1754
-"1972"	"Male"	"Physical Sciences"	25	1754
-"1972"	"Female"	"Other/Unknown"	0	1754
-"1972"	"Male"	"Psychology"	33	1754
-"1972"	"Female"	"History"	33	1754
-"1972"	"Female"	"Anthropology"	0	1754
-"1972"	"Female"	"Political Science and Public Administration"	8	1754
-"1972"	"Male"	"Area and Ethnic Studies"	0	1754
-"1972"	"Female"	"Physical Sciences"	7	1754
-"1972"	"Male"	"Art/Architecture"	12	1754
-"1972"	"Male"	"Agriculture"	19	1754
-"1972"	"Female"	"Vocational Studies and Home Economics"	96	1754
-"1973"	"Male"	"Engineering"	164	1976
-"1973"	"Female"	"Engineering"	29	1976
-"1973"	"Male"	"History"	53	1976
-"1973"	"Male"	"English and Literature"	57	1976
-"1973"	"Male"	"Business"	258	1976
-"1973"	"Male"	"Communication and Librarianship"	12	1976
-"1973"	"Male"	"Foreign Languages"	6	1976
-"1973"	"Male"	"Education"	55	1976
-"1973"	"Female"	"Area and Ethnic Studies"	0	1976
-"1973"	"Female"	"Humanities, Other"	4	1976
-"1973"	"Female"	"History"	35	1976
-"1973"	"Male"	"Anthropology"	0	1976
-"1973"	"Female"	"Sociology"	59	1976
-"1973"	"Female"	"Social Sciences, Other"	5	1976
-"1973"	"Male"	"Area and Ethnic Studies"	0	1976
-"1973"	"Female"	"Art/Architecture"	39	1976
-"1973"	"Female"	"Life Sciences"	110	1976
-"1973"	"Male"	"Sociology"	45	1976
-"1973"	"Female"	"Education"	172	1976
-"1973"	"Male"	"Social Sciences, Other"	9	1976
-"1973"	"Female"	"Computer Science"	0	1976
-"1973"	"Female"	"Agriculture"	19	1976
-"1973"	"Male"	"Other/Unknown"	0	1976
-"1973"	"Female"	"Foreign Languages"	21	1976
-"1973"	"Female"	"English and Literature"	136	1976
-"1973"	"Female"	"Other/Unknown"	0	1976
-"1973"	"Female"	"Business"	22	1976
-"1973"	"Male"	"Computer Science"	0	1976
-"1973"	"Male"	"Vocational Studies and Home Economics"	1	1976
-"1973"	"Male"	"Physical Sciences"	31	1976
-"1973"	"Female"	"Psychology"	61	1976
-"1973"	"Male"	"Humanities, Other"	8	1976
-"1973"	"Female"	"Communication and Librarianship"	11	1976
-"1973"	"Female"	"Anthropology"	0	1976
-"1973"	"Male"	"Math"	22	1976
-"1973"	"Female"	"Economics"	2	1976
-"1973"	"Male"	"Economics"	35	1976
-"1973"	"Female"	"Physical Sciences"	2	1976
-"1973"	"Female"	"Math"	14	1976
-"1973"	"Male"	"Psychology"	40	1976
-"1973"	"Male"	"Art/Architecture"	22	1976
-"1973"	"Male"	"Agriculture"	76	1976
-"1973"	"Female"	"Vocational Studies and Home Economics"	125	1976
-"1973"	"Male"	"Life Sciences"	132	1976
-"1973"	"Male"	"Political Science and Public Administration"	81	1976
-"1973"	"Female"	"Political Science and Public Administration"	3	1976
-"1974"	"Male"	"Sociology"	33	2040
-"1974"	"Male"	"Other/Unknown"	0	2040
-"1974"	"Female"	"Communication and Librarianship"	14	2040
-"1974"	"Male"	"Agriculture"	89	2040
-"1974"	"Female"	"Art/Architecture"	40	2040
-"1974"	"Male"	"Computer Science"	0	2040
-"1974"	"Male"	"Education"	64	2040
-"1974"	"Female"	"Social Sciences, Other"	47	2040
-"1974"	"Female"	"Physical Sciences"	4	2040
-"1974"	"Female"	"Vocational Studies and Home Economics"	137	2040
-"1974"	"Female"	"Math"	17	2040
-"1974"	"Male"	"History"	36	2040
-"1974"	"Female"	"Education"	81	2040
-"1974"	"Male"	"Vocational Studies and Home Economics"	0	2040
-"1974"	"Male"	"Social Sciences, Other"	25	2040
-"1974"	"Male"	"Math"	19	2040
-"1974"	"Female"	"Psychology"	75	2040
-"1974"	"Female"	"Engineering"	42	2040
-"1974"	"Male"	"Psychology"	41	2040
-"1974"	"Male"	"Art/Architecture"	25	2040
-"1974"	"Female"	"Other/Unknown"	0	2040
-"1974"	"Male"	"Anthropology"	13	2040
-"1974"	"Male"	"Humanities, Other"	12	2040
-"1974"	"Female"	"English and Literature"	136	2040
-"1974"	"Male"	"Physical Sciences"	31	2040
-"1974"	"Male"	"Communication and Librarianship"	15	2040
-"1974"	"Male"	"Engineering"	140	2040
-"1974"	"Male"	"Business"	260	2040
-"1974"	"Female"	"Area and Ethnic Studies"	0	2040
-"1974"	"Female"	"Life Sciences"	150	2040
-"1974"	"Female"	"Sociology"	55	2040
-"1974"	"Female"	"Computer Science"	0	2040
-"1974"	"Female"	"History"	27	2040
-"1974"	"Male"	"Economics"	18	2040
-"1974"	"Female"	"Political Science and Public Administration"	16	2040
-"1974"	"Male"	"Political Science and Public Administration"	103	2040
-"1974"	"Female"	"Business"	24	2040
-"1974"	"Male"	"Foreign Languages"	7	2040
-"1974"	"Female"	"Economics"	2	2040
-"1974"	"Female"	"Anthropology"	11	2040
-"1974"	"Female"	"Foreign Languages"	24	2040
-"1974"	"Female"	"Agriculture"	28	2040
-"1974"	"Male"	"Area and Ethnic Studies"	0	2040
-"1974"	"Female"	"Humanities, Other"	0	2040
-"1974"	"Male"	"English and Literature"	35	2040
-"1974"	"Male"	"Life Sciences"	144	2040
-"1975"	"Male"	"Other/Unknown"	0	1886
-"1975"	"Male"	"Physical Sciences"	19	1886
-"1975"	"Male"	"Social Sciences, Other"	15	1886
-"1975"	"Male"	"Communication and Librarianship"	23	1886
-"1975"	"Male"	"Psychology"	43	1886
-"1975"	"Female"	"English and Literature"	113	1886
-"1975"	"Female"	"Psychology"	95	1886
-"1975"	"Female"	"Communication and Librarianship"	13	1886
-"1975"	"Male"	"Computer Science"	0	1886
-"1975"	"Male"	"Foreign Languages"	2	1886
-"1975"	"Male"	"Vocational Studies and Home Economics"	4	1886
-"1975"	"Female"	"Physical Sciences"	5	1886
-"1975"	"Male"	"Business"	194	1886
-"1975"	"Female"	"Anthropology"	4	1886
-"1975"	"Female"	"Other/Unknown"	0	1886
-"1975"	"Female"	"Engineering"	36	1886
-"1975"	"Female"	"Computer Science"	0	1886
-"1975"	"Female"	"Business"	30	1886
-"1975"	"Male"	"Economics"	24	1886
-"1975"	"Male"	"Political Science and Public Administration"	46	1886
-"1975"	"Female"	"Social Sciences, Other"	49	1886
-"1975"	"Female"	"Art/Architecture"	46	1886
-"1975"	"Female"	"Education"	60	1886
-"1975"	"Female"	"Area and Ethnic Studies"	0	1886
-"1975"	"Male"	"Agriculture"	125	1886
-"1975"	"Male"	"Engineering"	97	1886
-"1975"	"Female"	"Humanities, Other"	1	1886
-"1975"	"Male"	"Education"	58	1886
-"1975"	"Male"	"Art/Architecture"	19	1886
-"1975"	"Female"	"Sociology"	39	1886
-"1975"	"Male"	"Anthropology"	4	1886
-"1975"	"Female"	"Foreign Languages"	19	1886
-"1975"	"Male"	"Sociology"	30	1886
-"1975"	"Male"	"History"	47	1886
-"1975"	"Female"	"Math"	18	1886
-"1975"	"Male"	"Humanities, Other"	7	1886
-"1975"	"Female"	"History"	26	1886
-"1975"	"Female"	"Economics"	2	1886
-"1975"	"Female"	"Political Science and Public Administration"	16	1886
-"1975"	"Male"	"English and Literature"	58	1886
-"1975"	"Male"	"Area and Ethnic Studies"	1	1886
-"1975"	"Male"	"Math"	16	1886
-"1975"	"Female"	"Vocational Studies and Home Economics"	147	1886
-"1975"	"Male"	"Life Sciences"	143	1886
-"1975"	"Female"	"Life Sciences"	169	1886
-"1975"	"Female"	"Agriculture"	23	1886
-"1976"	"Male"	"Business"	189	1858
-"1976"	"Male"	"Computer Science"	1	1858
-"1976"	"Female"	"Computer Science"	0	1858
-"1976"	"Female"	"Business"	43	1858
-"1976"	"Female"	"Communication and Librarianship"	22	1858
-"1976"	"Female"	"Engineering"	27	1858
-"1976"	"Male"	"Physical Sciences"	16	1858
-"1976"	"Female"	"English and Literature"	73	1858
-"1976"	"Male"	"Communication and Librarianship"	26	1858
-"1976"	"Male"	"Psychology"	41	1858
-"1976"	"Male"	"Engineering"	122	1858
-"1976"	"Male"	"Foreign Languages"	3	1858
-"1976"	"Male"	"Education"	74	1858
-"1976"	"Male"	"Political Science and Public Administration"	47	1858
-"1976"	"Male"	"Agriculture"	122	1858
-"1976"	"Female"	"Social Sciences, Other"	12	1858
-"1976"	"Male"	"Economics"	22	1858
-"1976"	"Male"	"Other/Unknown"	0	1858
-"1976"	"Male"	"Social Sciences, Other"	11	1858
-"1976"	"Female"	"Math"	7	1858
-"1976"	"Female"	"Education"	179	1858
-"1976"	"Female"	"History"	11	1858
-"1976"	"Female"	"Political Science and Public Administration"	12	1858
-"1976"	"Female"	"Economics"	7	1858
-"1976"	"Female"	"Humanities, Other"	0	1858
-"1976"	"Male"	"Anthropology"	6	1858
-"1976"	"Female"	"Foreign Languages"	12	1858
-"1976"	"Male"	"History"	26	1858
-"1976"	"Female"	"Other/Unknown"	0	1858
-"1976"	"Male"	"Vocational Studies and Home Economics"	1	1858
-"1976"	"Female"	"Psychology"	75	1858
-"1976"	"Male"	"Sociology"	14	1858
-"1976"	"Male"	"English and Literature"	38	1858
-"1976"	"Female"	"Sociology"	43	1858
-"1976"	"Female"	"Anthropology"	2	1858
-"1976"	"Male"	"Math"	9	1858
-"1976"	"Male"	"Life Sciences"	144	1858
-"1976"	"Female"	"Area and Ethnic Studies"	1	1858
-"1976"	"Male"	"Humanities, Other"	3	1858
-"1976"	"Male"	"Art/Architecture"	16	1858
-"1976"	"Female"	"Agriculture"	40	1858
-"1976"	"Female"	"Physical Sciences"	4	1858
-"1976"	"Male"	"Area and Ethnic Studies"	0	1858
-"1976"	"Female"	"Life Sciences"	184	1858
-"1976"	"Female"	"Vocational Studies and Home Economics"	145	1858
-"1976"	"Female"	"Art/Architecture"	28	1858
-"1977"	"Female"	"Engineering"	35	1934
-"1977"	"Male"	"Anthropology"	2	1934
-"1977"	"Male"	"Engineering"	112	1934
-"1977"	"Male"	"Foreign Languages"	1	1934
-"1977"	"Male"	"History"	22	1934
-"1977"	"Female"	"Business"	64	1934
-"1977"	"Male"	"Education"	70	1934
-"1977"	"Male"	"Psychology"	48	1934
-"1977"	"Male"	"English and Literature"	32	1934
-"1977"	"Female"	"Education"	163	1934
-"1977"	"Female"	"English and Literature"	87	1934
-"1977"	"Male"	"Humanities, Other"	5	1934
-"1977"	"Female"	"Social Sciences, Other"	19	1934
-"1977"	"Female"	"Humanities, Other"	4	1934
-"1977"	"Male"	"Computer Science"	7	1934
-"1977"	"Female"	"Psychology"	78	1934
-"1977"	"Female"	"History"	13	1934
-"1977"	"Female"	"Area and Ethnic Studies"	0	1934
-"1977"	"Male"	"Social Sciences, Other"	18	1934
-"1977"	"Female"	"Anthropology"	5	1934
-"1977"	"Female"	"Foreign Languages"	4	1934
-"1977"	"Male"	"Political Science and Public Administration"	44	1934
-"1977"	"Male"	"Sociology"	14	1934
-"1977"	"Female"	"Sociology"	38	1934
-"1977"	"Male"	"Communication and Librarianship"	26	1934
-"1977"	"Male"	"Math"	7	1934
-"1977"	"Female"	"Economics"	3	1934
-"1977"	"Male"	"Agriculture"	146	1934
-"1977"	"Female"	"Communication and Librarianship"	22	1934
-"1977"	"Female"	"Other/Unknown"	0	1934
-"1977"	"Male"	"Life Sciences"	132	1934
-"1977"	"Male"	"Business"	210	1934
-"1977"	"Male"	"Economics"	24	1934
-"1977"	"Male"	"Vocational Studies and Home Economics"	2	1934
-"1977"	"Female"	"Vocational Studies and Home Economics"	153	1934
-"1977"	"Male"	"Other/Unknown"	0	1934
-"1977"	"Female"	"Life Sciences"	166	1934
-"1977"	"Male"	"Area and Ethnic Studies"	0	1934
-"1977"	"Male"	"Physical Sciences"	24	1934
-"1977"	"Male"	"Art/Architecture"	12	1934
-"1977"	"Female"	"Computer Science"	3	1934
-"1977"	"Female"	"Political Science and Public Administration"	13	1934
-"1977"	"Female"	"Physical Sciences"	4	1934
-"1977"	"Female"	"Math"	3	1934
-"1977"	"Female"	"Art/Architecture"	36	1934
-"1977"	"Female"	"Agriculture"	63	1934
-"1978"	"Male"	"Anthropology"	7	1868
-"1978"	"Female"	"Social Sciences, Other"	10	1868
-"1978"	"Female"	"Area and Ethnic Studies"	1	1868
-"1978"	"Male"	"Social Sciences, Other"	12	1868
-"1978"	"Female"	"Psychology"	82	1868
-"1978"	"Male"	"Area and Ethnic Studies"	0	1868
-"1978"	"Male"	"Education"	66	1868
-"1978"	"Male"	"History"	19	1868
-"1978"	"Female"	"Humanities, Other"	1	1868
-"1978"	"Female"	"History"	14	1868
-"1978"	"Male"	"Business"	219	1868
-"1978"	"Male"	"Sociology"	14	1868
-"1978"	"Male"	"Communication and Librarianship"	25	1868
-"1978"	"Male"	"Humanities, Other"	8	1868
-"1978"	"Female"	"Other/Unknown"	0	1868
-"1978"	"Female"	"Agriculture"	81	1868
-"1978"	"Female"	"Communication and Librarianship"	21	1868
-"1978"	"Male"	"Vocational Studies and Home Economics"	4	1868
-"1978"	"Female"	"Math"	7	1868
-"1978"	"Male"	"Agriculture"	142	1868
-"1978"	"Male"	"Other/Unknown"	0	1868
-"1978"	"Female"	"Art/Architecture"	21	1868
-"1978"	"Male"	"Foreign Languages"	5	1868
-"1978"	"Female"	"Education"	130	1868
-"1978"	"Male"	"Psychology"	38	1868
-"1978"	"Female"	"Life Sciences"	160	1868
-"1978"	"Female"	"Sociology"	30	1868
-"1978"	"Female"	"Computer Science"	0	1868
-"1978"	"Male"	"Life Sciences"	126	1868
-"1978"	"Male"	"Art/Architecture"	18	1868
-"1978"	"Female"	"Foreign Languages"	11	1868
-"1978"	"Male"	"Political Science and Public Administration"	38	1868
-"1978"	"Female"	"Business"	64	1868
-"1978"	"Male"	"Physical Sciences"	29	1868
-"1978"	"Male"	"Computer Science"	4	1868
-"1978"	"Female"	"Engineering"	33	1868
-"1978"	"Female"	"Vocational Studies and Home Economics"	150	1868
-"1978"	"Male"	"Math"	5	1868
-"1978"	"Female"	"Anthropology"	6	1868
-"1978"	"Female"	"Physical Sciences"	5	1868
-"1978"	"Female"	"Economics"	5	1868
-"1978"	"Male"	"Economics"	21	1868
-"1978"	"Female"	"English and Literature"	67	1868
-"1978"	"Male"	"Engineering"	130	1868
-"1978"	"Male"	"English and Literature"	28	1868
-"1978"	"Female"	"Political Science and Public Administration"	11	1868
-"1979"	"Male"	"Social Sciences, Other"	16	1913
-"1979"	"Male"	"Anthropology"	5	1913
-"1979"	"Female"	"Social Sciences, Other"	13	1913
-"1979"	"Male"	"Communication and Librarianship"	26	1913
-"1979"	"Male"	"Political Science and Public Administration"	42	1913
-"1979"	"Male"	"Math"	6	1913
-"1979"	"Female"	"Humanities, Other"	2	1913
-"1979"	"Female"	"Engineering"	42	1913
-"1979"	"Female"	"Sociology"	21	1913
-"1979"	"Female"	"Other/Unknown"	0	1913
-"1979"	"Male"	"Education"	50	1913
-"1979"	"Female"	"Communication and Librarianship"	21	1913
-"1979"	"Male"	"Business"	225	1913
-"1979"	"Male"	"Vocational Studies and Home Economics"	8	1913
-"1979"	"Male"	"Agriculture"	131	1913
-"1979"	"Male"	"Computer Science"	14	1913
-"1979"	"Male"	"Humanities, Other"	9	1913
-"1979"	"Male"	"Foreign Languages"	4	1913
-"1979"	"Female"	"Area and Ethnic Studies"	0	1913
-"1979"	"Female"	"Life Sciences"	168	1913
-"1979"	"Male"	"Sociology"	8	1913
-"1979"	"Female"	"Computer Science"	2	1913
-"1979"	"Male"	"Engineering"	159	1913
-"1979"	"Female"	"Vocational Studies and Home Economics"	175	1913
-"1979"	"Male"	"Area and Ethnic Studies"	1	1913
-"1979"	"Female"	"Foreign Languages"	5	1913
-"1979"	"Male"	"History"	11	1913
-"1979"	"Female"	"Business"	90	1913
-"1979"	"Male"	"Physical Sciences"	26	1913
-"1979"	"Female"	"Psychology"	78	1913
-"1979"	"Male"	"Psychology"	29	1913
-"1979"	"Female"	"Education"	95	1913
-"1979"	"Male"	"English and Literature"	26	1913
-"1979"	"Female"	"Anthropology"	3	1913
-"1979"	"Male"	"Art/Architecture"	15	1913
-"1979"	"Female"	"Economics"	9	1913
-"1979"	"Female"	"Math"	5	1913
-"1979"	"Female"	"Agriculture"	79	1913
-"1979"	"Male"	"Other/Unknown"	0	1913
-"1979"	"Male"	"Life Sciences"	128	1913
-"1979"	"Female"	"Art/Architecture"	19	1913
-"1979"	"Male"	"Economics"	29	1913
-"1979"	"Female"	"Physical Sciences"	4	1913
-"1979"	"Female"	"Political Science and Public Administration"	16	1913
-"1979"	"Female"	"English and Literature"	83	1913
-"1979"	"Female"	"History"	15	1913
-"1980"	"Male"	"Communication and Librarianship"	25	1843
-"1980"	"Female"	"Education"	99	1843
-"1980"	"Male"	"Social Sciences, Other"	11	1843
-"1980"	"Female"	"Computer Science"	10	1843
-"1980"	"Female"	"Other/Unknown"	0	1843
-"1980"	"Male"	"Other/Unknown"	0	1843
-"1980"	"Male"	"Business"	187	1843
-"1980"	"Male"	"Anthropology"	0	1843
-"1980"	"Female"	"Business"	108	1843
-"1980"	"Female"	"Communication and Librarianship"	23	1843
-"1980"	"Male"	"Humanities, Other"	2	1843
-"1980"	"Female"	"Engineering"	34	1843
-"1980"	"Male"	"Sociology"	12	1843
-"1980"	"Female"	"Life Sciences"	171	1843
-"1980"	"Male"	"Computer Science"	23	1843
-"1980"	"Female"	"Physical Sciences"	5	1843
-"1980"	"Male"	"Psychology"	30	1843
-"1980"	"Female"	"Anthropology"	0	1843
-"1980"	"Female"	"Sociology"	16	1843
-"1980"	"Female"	"Foreign Languages"	12	1843
-"1980"	"Female"	"Social Sciences, Other"	17	1843
-"1980"	"Male"	"History"	22	1843
-"1980"	"Male"	"Physical Sciences"	15	1843
-"1980"	"Male"	"Vocational Studies and Home Economics"	8	1843
-"1980"	"Female"	"Psychology"	78	1843
-"1980"	"Male"	"Foreign Languages"	0	1843
-"1980"	"Female"	"Economics"	8	1843
-"1980"	"Female"	"Area and Ethnic Studies"	0	1843
-"1980"	"Female"	"History"	10	1843
-"1980"	"Male"	"Engineering"	148	1843
-"1980"	"Male"	"Area and Ethnic Studies"	0	1843
-"1980"	"Male"	"Education"	54	1843
-"1980"	"Female"	"Vocational Studies and Home Economics"	172	1843
-"1980"	"Female"	"Agriculture"	70	1843
-"1980"	"Male"	"Agriculture"	116	1843
-"1980"	"Female"	"Math"	8	1843
-"1980"	"Female"	"English and Literature"	63	1843
-"1980"	"Male"	"Math"	8	1843
-"1980"	"Female"	"Political Science and Public Administration"	16	1843
-"1980"	"Male"	"English and Literature"	26	1843
-"1980"	"Male"	"Political Science and Public Administration"	36	1843
-"1980"	"Male"	"Economics"	47	1843
-"1980"	"Male"	"Life Sciences"	116	1843
-"1980"	"Male"	"Art/Architecture"	10	1843
-"1980"	"Female"	"Humanities, Other"	0	1843
-"1980"	"Female"	"Art/Architecture"	27	1843
-"1981"	"Male"	"Communication and Librarianship"	27	1874
-"1981"	"Female"	"English and Literature"	62	1874
-"1981"	"Female"	"Anthropology"	5	1874
-"1981"	"Female"	"Other/Unknown"	0	1874
-"1981"	"Female"	"Education"	78	1874
-"1981"	"Female"	"Psychology"	86	1874
-"1981"	"Female"	"Engineering"	29	1874
-"1981"	"Male"	"Foreign Languages"	2	1874
-"1981"	"Female"	"Math"	6	1874
-"1981"	"Male"	"Other/Unknown"	0	1874
-"1981"	"Male"	"Engineering"	196	1874
-"1981"	"Female"	"History"	15	1874
-"1981"	"Male"	"Psychology"	29	1874
-"1981"	"Male"	"Business"	188	1874
-"1981"	"Female"	"Foreign Languages"	11	1874
-"1981"	"Female"	"Social Sciences, Other"	10	1874
-"1981"	"Male"	"Anthropology"	4	1874
-"1981"	"Male"	"Education"	31	1874
-"1981"	"Female"	"Area and Ethnic Studies"	0	1874
-"1981"	"Male"	"Agriculture"	103	1874
-"1981"	"Male"	"Computer Science"	27	1874
-"1981"	"Male"	"History"	13	1874
-"1981"	"Female"	"Computer Science"	16	1874
-"1981"	"Male"	"Math"	4	1874
-"1981"	"Male"	"English and Literature"	30	1874
-"1981"	"Female"	"Physical Sciences"	10	1874
-"1981"	"Male"	"Political Science and Public Administration"	40	1874
-"1981"	"Female"	"Economics"	7	1874
-"1981"	"Female"	"Sociology"	21	1874
-"1981"	"Female"	"Communication and Librarianship"	28	1874
-"1981"	"Male"	"Area and Ethnic Studies"	0	1874
-"1981"	"Male"	"Social Sciences, Other"	25	1874
-"1981"	"Male"	"Physical Sciences"	21	1874
-"1981"	"Male"	"Vocational Studies and Home Economics"	3	1874
-"1981"	"Male"	"Economics"	47	1874
-"1981"	"Female"	"Political Science and Public Administration"	12	1874
-"1981"	"Female"	"Humanities, Other"	3	1874
-"1981"	"Female"	"Life Sciences"	177	1874
-"1981"	"Female"	"Vocational Studies and Home Economics"	176	1874
-"1981"	"Male"	"Humanities, Other"	3	1874
-"1981"	"Male"	"Sociology"	11	1874
-"1981"	"Female"	"Agriculture"	76	1874
-"1981"	"Male"	"Art/Architecture"	21	1874
-"1981"	"Male"	"Life Sciences"	85	1874
-"1981"	"Female"	"Business"	112	1874
-"1981"	"Female"	"Art/Architecture"	24	1874
-"1982"	"Male"	"Anthropology"	2	1900
-"1982"	"Male"	"Foreign Languages"	7	1900
-"1982"	"Male"	"History"	12	1900
-"1982"	"Female"	"Other/Unknown"	0	1900
-"1982"	"Female"	"History"	6	1900
-"1982"	"Male"	"Other/Unknown"	0	1900
-"1982"	"Male"	"Area and Ethnic Studies"	0	1900
-"1982"	"Male"	"Psychology"	28	1900
-"1982"	"Female"	"Area and Ethnic Studies"	0	1900
-"1982"	"Male"	"Communication and Librarianship"	18	1900
-"1982"	"Male"	"Business"	204	1900
-"1982"	"Male"	"Political Science and Public Administration"	47	1900
-"1982"	"Female"	"Communication and Librarianship"	30	1900
-"1982"	"Female"	"Psychology"	66	1900
-"1982"	"Male"	"Vocational Studies and Home Economics"	3	1900
-"1982"	"Male"	"Agriculture"	84	1900
-"1982"	"Male"	"Social Sciences, Other"	19	1900
-"1982"	"Female"	"Humanities, Other"	0	1900
-"1982"	"Female"	"Art/Architecture"	22	1900
-"1982"	"Male"	"Math"	9	1900
-"1982"	"Female"	"Physical Sciences"	5	1900
-"1982"	"Female"	"Anthropology"	3	1900
-"1982"	"Female"	"Foreign Languages"	17	1900
-"1982"	"Female"	"Social Sciences, Other"	14	1900
-"1982"	"Male"	"Humanities, Other"	2	1900
-"1982"	"Female"	"Agriculture"	60	1900
-"1982"	"Female"	"Education"	70	1900
-"1982"	"Male"	"Physical Sciences"	30	1900
-"1982"	"Female"	"Business"	148	1900
-"1982"	"Female"	"Engineering"	52	1900
-"1982"	"Male"	"Engineering"	175	1900
-"1982"	"Female"	"Life Sciences"	162	1900
-"1982"	"Male"	"Computer Science"	51	1900
-"1982"	"Male"	"Art/Architecture"	10	1900
-"1982"	"Female"	"Computer Science"	23	1900
-"1982"	"Female"	"Economics"	8	1900
-"1982"	"Female"	"Sociology"	19	1900
-"1982"	"Female"	"English and Literature"	63	1900
-"1982"	"Male"	"Life Sciences"	106	1900
-"1982"	"Male"	"Sociology"	5	1900
-"1982"	"Female"	"Math"	15	1900
-"1982"	"Male"	"Education"	29	1900
-"1982"	"Male"	"Economics"	40	1900
-"1982"	"Female"	"Political Science and Public Administration"	20	1900
-"1982"	"Male"	"English and Literature"	37	1900
-"1982"	"Female"	"Vocational Studies and Home Economics"	179	1900
-"1983"	"Female"	"History"	12	1971
-"1983"	"Male"	"History"	18	1971
-"1983"	"Female"	"Humanities, Other"	3	1971
-"1983"	"Female"	"Area and Ethnic Studies"	0	1971
-"1983"	"Male"	"Anthropology"	3	1971
-"1983"	"Male"	"Humanities, Other"	3	1971
-"1983"	"Male"	"Area and Ethnic Studies"	0	1971
-"1983"	"Female"	"Social Sciences, Other"	14	1971
-"1983"	"Female"	"Psychology"	98	1971
-"1983"	"Male"	"Vocational Studies and Home Economics"	14	1971
-"1983"	"Male"	"Other/Unknown"	2	1971
-"1983"	"Female"	"Education"	77	1971
-"1983"	"Male"	"Social Sciences, Other"	21	1971
-"1983"	"Female"	"Art/Architecture"	25	1971
-"1983"	"Male"	"Business"	200	1971
-"1983"	"Male"	"Psychology"	32	1971
-"1983"	"Male"	"Communication and Librarianship"	28	1971
-"1983"	"Female"	"Other/Unknown"	7	1971
-"1983"	"Male"	"Education"	41	1971
-"1983"	"Female"	"Computer Science"	10	1971
-"1983"	"Female"	"Sociology"	13	1971
-"1983"	"Female"	"Math"	12	1971
-"1983"	"Female"	"English and Literature"	34	1971
-"1983"	"Female"	"Business"	149	1971
-"1983"	"Male"	"Agriculture"	67	1971
-"1983"	"Female"	"Life Sciences"	175	1971
-"1983"	"Male"	"Computer Science"	30	1971
-"1983"	"Male"	"Math"	14	1971
-"1983"	"Male"	"Engineering"	196	1971
-"1983"	"Male"	"English and Literature"	11	1971
-"1983"	"Female"	"Anthropology"	4	1971
-"1983"	"Male"	"Life Sciences"	83	1971
-"1983"	"Female"	"Foreign Languages"	9	1971
-"1983"	"Female"	"Agriculture"	42	1971
-"1983"	"Female"	"Communication and Librarianship"	70	1971
-"1983"	"Male"	"Economics"	73	1971
-"1983"	"Male"	"Sociology"	7	1971
-"1983"	"Female"	"Engineering"	66	1971
-"1983"	"Male"	"Foreign Languages"	2	1971
-"1983"	"Female"	"Physical Sciences"	14	1971
-"1983"	"Female"	"Political Science and Public Administration"	29	1971
-"1983"	"Male"	"Art/Architecture"	17	1971
-"1983"	"Female"	"Vocational Studies and Home Economics"	166	1971
-"1983"	"Male"	"Political Science and Public Administration"	41	1971
-"1983"	"Male"	"Physical Sciences"	24	1971
-"1983"	"Female"	"Economics"	15	1971
-"1984"	"Male"	"Math"	19	1857
-"1984"	"Male"	"Education"	32	1857
-"1984"	"Female"	"Education"	76	1857
-"1984"	"Female"	"Math"	18	1857
-"1984"	"Female"	"History"	8	1857
-"1984"	"Female"	"Psychology"	57	1857
-"1984"	"Male"	"Anthropology"	4	1857
-"1984"	"Male"	"Communication and Librarianship"	36	1857
-"1984"	"Male"	"Social Sciences, Other"	19	1857
-"1984"	"Female"	"Area and Ethnic Studies"	0	1857
-"1984"	"Male"	"Foreign Languages"	6	1857
-"1984"	"Female"	"Other/Unknown"	8	1857
-"1984"	"Male"	"Psychology"	30	1857
-"1984"	"Female"	"Anthropology"	1	1857
-"1984"	"Female"	"Social Sciences, Other"	7	1857
-"1984"	"Male"	"History"	17	1857
-"1984"	"Female"	"Communication and Librarianship"	56	1857
-"1984"	"Male"	"Vocational Studies and Home Economics"	13	1857
-"1984"	"Male"	"Other/Unknown"	3	1857
-"1984"	"Female"	"Engineering"	61	1857
-"1984"	"Male"	"Agriculture"	58	1857
-"1984"	"Male"	"Computer Science"	12	1857
-"1984"	"Female"	"Humanities, Other"	1	1857
-"1984"	"Male"	"Business"	140	1857
-"1984"	"Female"	"Economics"	8	1857
-"1984"	"Female"	"Physical Sciences"	16	1857
-"1984"	"Male"	"Engineering"	231	1857
-"1984"	"Female"	"Computer Science"	12	1857
-"1984"	"Female"	"Sociology"	12	1857
-"1984"	"Male"	"Area and Ethnic Studies"	0	1857
-"1984"	"Male"	"Economics"	57	1857
-"1984"	"Male"	"Sociology"	6	1857
-"1984"	"Female"	"Business"	144	1857
-"1984"	"Female"	"English and Literature"	42	1857
-"1984"	"Female"	"Political Science and Public Administration"	24	1857
-"1984"	"Male"	"English and Literature"	13	1857
-"1984"	"Female"	"Art/Architecture"	24	1857
-"1984"	"Female"	"Vocational Studies and Home Economics"	155	1857
-"1984"	"Male"	"Political Science and Public Administration"	63	1857
-"1984"	"Female"	"Agriculture"	46	1857
-"1984"	"Female"	"Foreign Languages"	14	1857
-"1984"	"Male"	"Physical Sciences"	33	1857
-"1984"	"Male"	"Humanities, Other"	4	1857
-"1984"	"Male"	"Art/Architecture"	11	1857
-"1984"	"Female"	"Life Sciences"	180	1857
-"1984"	"Male"	"Life Sciences"	80	1857
-"1985"	"Female"	"Education"	64	1677
-"1985"	"Female"	"Engineering"	60	1677
-"1985"	"Male"	"Anthropology"	3	1677
-"1985"	"Male"	"Economics"	33	1677
-"1985"	"Female"	"Area and Ethnic Studies"	0	1677
-"1985"	"Female"	"Psychology"	60	1677
-"1985"	"Male"	"Agriculture"	35	1677
-"1985"	"Female"	"History"	9	1677
-"1985"	"Female"	"Anthropology"	2	1677
-"1985"	"Female"	"Economics"	12	1677
-"1985"	"Female"	"Other/Unknown"	8	1677
-"1985"	"Male"	"Education"	27	1677
-"1985"	"Male"	"Other/Unknown"	4	1677
-"1985"	"Male"	"Vocational Studies and Home Economics"	11	1677
-"1985"	"Male"	"History"	11	1677
-"1985"	"Male"	"Area and Ethnic Studies"	0	1677
-"1985"	"Female"	"Humanities, Other"	1	1677
-"1985"	"Male"	"Communication and Librarianship"	25	1677
-"1985"	"Female"	"English and Literature"	30	1677
-"1985"	"Female"	"Business"	155	1677
-"1985"	"Male"	"Psychology"	26	1677
-"1985"	"Female"	"Social Sciences, Other"	9	1677
-"1985"	"Male"	"Math"	13	1677
-"1985"	"Female"	"Physical Sciences"	16	1677
-"1985"	"Female"	"Agriculture"	42	1677
-"1985"	"Male"	"Foreign Languages"	4	1677
-"1985"	"Male"	"Physical Sciences"	36	1677
-"1985"	"Male"	"Humanities, Other"	2	1677
-"1985"	"Male"	"Business"	154	1677
-"1985"	"Male"	"Engineering"	197	1677
-"1985"	"Female"	"Life Sciences"	172	1677
-"1985"	"Male"	"Social Sciences, Other"	8	1677
-"1985"	"Male"	"Life Sciences"	58	1677
-"1985"	"Female"	"Computer Science"	19	1677
-"1985"	"Male"	"Political Science and Public Administration"	44	1677
-"1985"	"Female"	"Math"	7	1677
-"1985"	"Female"	"Art/Architecture"	23	1677
-"1985"	"Female"	"Political Science and Public Administration"	23	1677
-"1985"	"Male"	"English and Literature"	17	1677
-"1985"	"Female"	"Sociology"	9	1677
-"1985"	"Female"	"Communication and Librarianship"	51	1677
-"1985"	"Male"	"Computer Science"	12	1677
-"1985"	"Female"	"Foreign Languages"	10	1677
-"1985"	"Male"	"Art/Architecture"	13	1677
-"1985"	"Female"	"Vocational Studies and Home Economics"	157	1677
-"1985"	"Male"	"Sociology"	5	1677
-"1986"	"Female"	"Engineering"	56	1665
-"1986"	"Male"	"Agriculture"	49	1665
-"1986"	"Female"	"Education"	59	1665
-"1986"	"Male"	"Education"	39	1665
-"1986"	"Male"	"Engineering"	219	1665
-"1986"	"Female"	"History"	10	1665
-"1986"	"Female"	"Math"	10	1665
-"1986"	"Male"	"Anthropology"	1	1665
-"1986"	"Female"	"Psychology"	39	1665
-"1986"	"Male"	"Other/Unknown"	0	1665
-"1986"	"Male"	"Psychology"	22	1665
-"1986"	"Female"	"Other/Unknown"	8	1665
-"1986"	"Female"	"English and Literature"	26	1665
-"1986"	"Male"	"Math"	20	1665
-"1986"	"Male"	"Foreign Languages"	3	1665
-"1986"	"Male"	"History"	12	1665
-"1986"	"Female"	"Physical Sciences"	5	1665
-"1986"	"Female"	"Anthropology"	1	1665
-"1986"	"Male"	"English and Literature"	13	1665
-"1986"	"Female"	"Area and Ethnic Studies"	0	1665
-"1986"	"Male"	"Political Science and Public Administration"	42	1665
-"1986"	"Male"	"Economics"	32	1665
-"1986"	"Male"	"Vocational Studies and Home Economics"	20	1665
-"1986"	"Female"	"Business"	185	1665
-"1986"	"Male"	"Business"	185	1665
-"1986"	"Male"	"Communication and Librarianship"	28	1665
-"1986"	"Male"	"Social Sciences, Other"	9	1665
-"1986"	"Female"	"Humanities, Other"	1	1665
-"1986"	"Female"	"Social Sciences, Other"	6	1665
-"1986"	"Female"	"Economics"	4	1665
-"1986"	"Female"	"Political Science and Public Administration"	36	1665
-"1986"	"Female"	"Foreign Languages"	11	1665
-"1986"	"Male"	"Physical Sciences"	17	1665
-"1986"	"Female"	"Sociology"	9	1665
-"1986"	"Female"	"Communication and Librarianship"	45	1665
-"1986"	"Male"	"Area and Ethnic Studies"	0	1665
-"1986"	"Male"	"Sociology"	3	1665
-"1986"	"Female"	"Life Sciences"	177	1665
-"1986"	"Female"	"Vocational Studies and Home Economics"	123	1665
-"1986"	"Female"	"Art/Architecture"	17	1665
-"1986"	"Female"	"Agriculture"	28	1665
-"1986"	"Female"	"Computer Science"	7	1665
-"1986"	"Male"	"Art/Architecture"	7	1665
-"1986"	"Male"	"Humanities, Other"	1	1665
-"1986"	"Male"	"Computer Science"	12	1665
-"1986"	"Male"	"Life Sciences"	68	1665
-"1987"	"Male"	"Other/Unknown"	1	1673
-"1987"	"Female"	"Education"	73	1673
-"1987"	"Female"	"Other/Unknown"	7	1673
-"1987"	"Male"	"Anthropology"	1	1673
-"1987"	"Male"	"Business"	197	1673
-"1987"	"Female"	"Engineering"	50	1673
-"1987"	"Male"	"Foreign Languages"	1	1673
-"1987"	"Male"	"Social Sciences, Other"	8	1673
-"1987"	"Female"	"Business"	163	1673
-"1987"	"Male"	"Communication and Librarianship"	38	1673
-"1987"	"Male"	"Education"	40	1673
-"1987"	"Female"	"Physical Sciences"	10	1673
-"1987"	"Female"	"History"	6	1673
-"1987"	"Female"	"Social Sciences, Other"	3	1673
-"1987"	"Female"	"Area and Ethnic Studies"	0	1673
-"1987"	"Female"	"Communication and Librarianship"	37	1673
-"1987"	"Male"	"Economics"	33	1673
-"1987"	"Male"	"Vocational Studies and Home Economics"	22	1673
-"1987"	"Male"	"Physical Sciences"	10	1673
-"1987"	"Male"	"Agriculture"	43	1673
-"1987"	"Female"	"Art/Architecture"	18	1673
-"1987"	"Female"	"Humanities, Other"	1	1673
-"1987"	"Female"	"Life Sciences"	153	1673
-"1987"	"Female"	"Economics"	7	1673
-"1987"	"Female"	"Political Science and Public Administration"	27	1673
-"1987"	"Female"	"Foreign Languages"	8	1673
-"1987"	"Male"	"Art/Architecture"	12	1673
-"1987"	"Male"	"History"	11	1673
-"1987"	"Male"	"Humanities, Other"	2	1673
-"1987"	"Male"	"Political Science and Public Administration"	39	1673
-"1987"	"Male"	"Area and Ethnic Studies"	0	1673
-"1987"	"Female"	"Math"	5	1673
-"1987"	"Female"	"English and Literature"	36	1673
-"1987"	"Female"	"Psychology"	46	1673
-"1987"	"Male"	"Sociology"	8	1673
-"1987"	"Male"	"Psychology"	29	1673
-"1987"	"Male"	"Math"	16	1673
-"1987"	"Male"	"Life Sciences"	62	1673
-"1987"	"Female"	"Anthropology"	2	1673
-"1987"	"Female"	"Agriculture"	35	1673
-"1987"	"Female"	"Sociology"	7	1673
-"1987"	"Male"	"Computer Science"	26	1673
-"1987"	"Female"	"Computer Science"	11	1673
-"1987"	"Male"	"Engineering"	230	1673
-"1987"	"Male"	"English and Literature"	13	1673
-"1987"	"Female"	"Vocational Studies and Home Economics"	126	1673
-"1988"	"Female"	"Education"	88	1800
-"1988"	"Female"	"History"	7	1800
-"1988"	"Female"	"Business"	147	1800
-"1988"	"Male"	"Math"	15	1800
-"1988"	"Male"	"Social Sciences, Other"	2	1800
-"1988"	"Female"	"Art/Architecture"	21	1800
-"1988"	"Female"	"Humanities, Other"	0	1800
-"1988"	"Female"	"Engineering"	52	1800
-"1988"	"Male"	"History"	16	1800
-"1988"	"Female"	"Communication and Librarianship"	62	1800
-"1988"	"Male"	"Education"	39	1800
-"1988"	"Male"	"Vocational Studies and Home Economics"	45	1800
-"1988"	"Female"	"Math"	9	1800
-"1988"	"Male"	"Anthropology"	0	1800
-"1988"	"Female"	"Social Sciences, Other"	2	1800
-"1988"	"Male"	"Agriculture"	50	1800
-"1988"	"Male"	"Business"	231	1800
-"1988"	"Male"	"Computer Science"	20	1800
-"1988"	"Female"	"Psychology"	65	1800
-"1988"	"Male"	"Engineering"	200	1800
-"1988"	"Male"	"Art/Architecture"	10	1800
-"1988"	"Female"	"Other/Unknown"	8	1800
-"1988"	"Male"	"Humanities, Other"	2	1800
-"1988"	"Female"	"Computer Science"	6	1800
-"1988"	"Female"	"Sociology"	11	1800
-"1988"	"Male"	"Political Science and Public Administration"	48	1800
-"1988"	"Female"	"English and Literature"	26	1800
-"1988"	"Male"	"Other/Unknown"	0	1800
-"1988"	"Male"	"Sociology"	3	1800
-"1988"	"Male"	"Communication and Librarianship"	36	1800
-"1988"	"Female"	"Vocational Studies and Home Economics"	165	1800
-"1988"	"Female"	"Anthropology"	1	1800
-"1988"	"Male"	"English and Literature"	17	1800
-"1988"	"Male"	"Psychology"	29	1800
-"1988"	"Female"	"Life Sciences"	167	1800
-"1988"	"Male"	"Economics"	37	1800
-"1988"	"Female"	"Foreign Languages"	12	1800
-"1988"	"Male"	"Foreign Languages"	3	1800
-"1988"	"Female"	"Area and Ethnic Studies"	0	1800
-"1988"	"Female"	"Physical Sciences"	12	1800
-"1988"	"Male"	"Area and Ethnic Studies"	0	1800
-"1988"	"Female"	"Agriculture"	22	1800
-"1988"	"Male"	"Physical Sciences"	13	1800
-"1988"	"Male"	"Life Sciences"	60	1800
-"1988"	"Female"	"Political Science and Public Administration"	31	1800
-"1988"	"Female"	"Economics"	10	1800
-"1989"	"Male"	"Math"	20	1909
-"1989"	"Male"	"Business"	246	1909
-"1989"	"Female"	"Education"	123	1909
-"1989"	"Female"	"Communication and Librarianship"	76	1909
-"1989"	"Male"	"Vocational Studies and Home Economics"	41	1909
-"1989"	"Female"	"Social Sciences, Other"	1	1909
-"1989"	"Male"	"Communication and Librarianship"	51	1909
-"1989"	"Male"	"Social Sciences, Other"	3	1909
-"1989"	"Female"	"Foreign Languages"	13	1909
-"1989"	"Male"	"Foreign Languages"	6	1909
-"1989"	"Female"	"Math"	15	1909
-"1989"	"Male"	"Education"	42	1909
-"1989"	"Female"	"Art/Architecture"	34	1909
-"1989"	"Female"	"History"	7	1909
-"1989"	"Male"	"Sociology"	1	1909
-"1989"	"Male"	"Agriculture"	50	1909
-"1989"	"Female"	"Physical Sciences"	1	1909
-"1989"	"Female"	"Anthropology"	2	1909
-"1989"	"Female"	"Computer Science"	5	1909
-"1989"	"Male"	"History"	12	1909
-"1989"	"Female"	"Business"	160	1909
-"1989"	"Male"	"Anthropology"	2	1909
-"1989"	"Male"	"Other/Unknown"	1	1909
-"1989"	"Female"	"Engineering"	46	1909
-"1989"	"Male"	"Computer Science"	20	1909
-"1989"	"Female"	"Psychology"	87	1909
-"1989"	"Female"	"Humanities, Other"	1	1909
-"1989"	"Male"	"Art/Architecture"	16	1909
-"1989"	"Female"	"Other/Unknown"	8	1909
-"1989"	"Female"	"Political Science and Public Administration"	36	1909
-"1989"	"Female"	"Vocational Studies and Home Economics"	166	1909
-"1989"	"Male"	"Area and Ethnic Studies"	0	1909
-"1989"	"Female"	"Sociology"	12	1909
-"1989"	"Male"	"Economics"	29	1909
-"1989"	"Female"	"Agriculture"	26	1909
-"1989"	"Female"	"Life Sciences"	155	1909
-"1989"	"Male"	"Physical Sciences"	15	1909
-"1989"	"Female"	"English and Literature"	48	1909
-"1989"	"Male"	"Humanities, Other"	3	1909
-"1989"	"Male"	"Engineering"	160	1909
-"1989"	"Male"	"Psychology"	31	1909
-"1989"	"Female"	"Area and Ethnic Studies"	0	1909
-"1989"	"Female"	"Economics"	8	1909
-"1989"	"Male"	"Political Science and Public Administration"	53	1909
-"1989"	"Male"	"English and Literature"	24	1909
-"1989"	"Male"	"Life Sciences"	53	1909
-"1990"	"Male"	"Agriculture"	26	2064
-"1990"	"Female"	"History"	5	2064
-"1990"	"Female"	"Humanities, Other"	3	2064
-"1990"	"Male"	"Other/Unknown"	7	2064
-"1990"	"Female"	"Other/Unknown"	9	2064
-"1990"	"Male"	"Anthropology"	4	2064
-"1990"	"Male"	"Vocational Studies and Home Economics"	48	2064
-"1990"	"Male"	"Sociology"	4	2064
-"1990"	"Female"	"Education"	141	2064
-"1990"	"Female"	"Economics"	15	2064
-"1990"	"Female"	"Art/Architecture"	25	2064
-"1990"	"Female"	"Anthropology"	7	2064
-"1990"	"Male"	"Art/Architecture"	23	2064
-"1990"	"Male"	"History"	31	2064
-"1990"	"Male"	"Economics"	37	2064
-"1990"	"Female"	"Social Sciences, Other"	2	2064
-"1990"	"Female"	"Business"	150	2064
-"1990"	"Female"	"Engineering"	46	2064
-"1990"	"Female"	"English and Literature"	69	2064
-"1990"	"Female"	"Psychology"	116	2064
-"1990"	"Male"	"Foreign Languages"	8	2064
-"1990"	"Male"	"Business"	221	2064
-"1990"	"Male"	"Math"	14	2064
-"1990"	"Male"	"Education"	63	2064
-"1990"	"Male"	"Engineering"	140	2064
-"1990"	"Male"	"Psychology"	29	2064
-"1990"	"Female"	"Vocational Studies and Home Economics"	217	2064
-"1990"	"Female"	"Communication and Librarianship"	100	2064
-"1990"	"Female"	"Agriculture"	26	2064
-"1990"	"Female"	"Math"	8	2064
-"1990"	"Male"	"Physical Sciences"	10	2064
-"1990"	"Male"	"Social Sciences, Other"	16	2064
-"1990"	"Male"	"Area and Ethnic Studies"	0	2064
-"1990"	"Male"	"English and Literature"	26	2064
-"1990"	"Male"	"Communication and Librarianship"	61	2064
-"1990"	"Female"	"Life Sciences"	168	2064
-"1990"	"Female"	"Physical Sciences"	2	2064
-"1990"	"Male"	"Political Science and Public Administration"	57	2064
-"1990"	"Female"	"Area and Ethnic Studies"	0	2064
-"1990"	"Female"	"Foreign Languages"	14	2064
-"1990"	"Male"	"Humanities, Other"	6	2064
-"1990"	"Female"	"Political Science and Public Administration"	26	2064
-"1990"	"Female"	"Sociology"	12	2064
-"1990"	"Male"	"Computer Science"	14	2064
-"1990"	"Male"	"Life Sciences"	55	2064
-"1990"	"Female"	"Computer Science"	3	2064
-"1991"	"Female"	"Education"	133	2261
-"1991"	"Female"	"Other/Unknown"	7	2261
-"1991"	"Female"	"Engineering"	43	2261
-"1991"	"Female"	"Psychology"	116	2261
-"1991"	"Male"	"Other/Unknown"	3	2261
-"1991"	"Male"	"Vocational Studies and Home Economics"	45	2261
-"1991"	"Male"	"Psychology"	48	2261
-"1991"	"Male"	"Agriculture"	41	2261
-"1991"	"Male"	"Education"	56	2261
-"1991"	"Female"	"Anthropology"	6	2261
-"1991"	"Female"	"Social Sciences, Other"	2	2261
-"1991"	"Male"	"Physical Sciences"	10	2261
-"1991"	"Male"	"Anthropology"	9	2261
-"1991"	"Female"	"Communication and Librarianship"	99	2261
-"1991"	"Male"	"Foreign Languages"	7	2261
-"1991"	"Male"	"Business"	229	2261
-"1991"	"Male"	"Math"	11	2261
-"1991"	"Male"	"Area and Ethnic Studies"	0	2261
-"1991"	"Male"	"Engineering"	139	2261
-"1991"	"Female"	"Area and Ethnic Studies"	0	2261
-"1991"	"Female"	"Physical Sciences"	2	2261
-"1991"	"Female"	"Political Science and Public Administration"	49	2261
-"1991"	"Male"	"Political Science and Public Administration"	79	2261
-"1991"	"Female"	"Agriculture"	39	2261
-"1991"	"Female"	"Math"	8	2261
-"1991"	"Female"	"Business"	149	2261
-"1991"	"Male"	"Social Sciences, Other"	7	2261
-"1991"	"Female"	"History"	17	2261
-"1991"	"Male"	"Sociology"	13	2261
-"1991"	"Male"	"Communication and Librarianship"	78	2261
-"1991"	"Female"	"English and Literature"	63	2261
-"1991"	"Female"	"Foreign Languages"	11	2261
-"1991"	"Female"	"Economics"	13	2261
-"1991"	"Male"	"History"	32	2261
-"1991"	"Male"	"Computer Science"	16	2261
-"1991"	"Female"	"Art/Architecture"	35	2261
-"1991"	"Female"	"Computer Science"	3	2261
-"1991"	"Male"	"Art/Architecture"	24	2261
-"1991"	"Female"	"Sociology"	22	2261
-"1991"	"Male"	"Economics"	71	2261
-"1991"	"Male"	"English and Literature"	33	2261
-"1991"	"Female"	"Humanities, Other"	2	2261
-"1991"	"Female"	"Life Sciences"	165	2261
-"1991"	"Male"	"Life Sciences"	90	2261
-"1991"	"Female"	"Vocational Studies and Home Economics"	231	2261
-"1991"	"Male"	"Humanities, Other"	5	2261
-"1992"	"Female"	"Anthropology"	9	2292
-"1992"	"Male"	"Agriculture"	76	2292
-"1992"	"Female"	"Psychology"	137	2292
-"1992"	"Male"	"Foreign Languages"	4	2292
-"1992"	"Female"	"Other/Unknown"	17	2292
-"1992"	"Male"	"Physical Sciences"	8	2292
-"1992"	"Male"	"Anthropology"	6	2292
-"1992"	"Female"	"History"	14	2292
-"1992"	"Male"	"Business"	172	2292
-"1992"	"Male"	"Psychology"	47	2292
-"1992"	"Male"	"Economics"	80	2292
-"1992"	"Female"	"Business"	141	2292
-"1992"	"Male"	"Other/Unknown"	8	2292
-"1992"	"Female"	"Education"	136	2292
-"1992"	"Female"	"Area and Ethnic Studies"	0	2292
-"1992"	"Male"	"Education"	44	2292
-"1992"	"Female"	"Humanities, Other"	6	2292
-"1992"	"Female"	"Political Science and Public Administration"	28	2292
-"1992"	"Female"	"Engineering"	43	2292
-"1992"	"Female"	"Communication and Librarianship"	93	2292
-"1992"	"Female"	"Foreign Languages"	12	2292
-"1992"	"Male"	"Vocational Studies and Home Economics"	66	2292
-"1992"	"Male"	"Communication and Librarianship"	57	2292
-"1992"	"Female"	"Economics"	13	2292
-"1992"	"Male"	"Area and Ethnic Studies"	0	2292
-"1992"	"Female"	"Art/Architecture"	38	2292
-"1992"	"Male"	"Political Science and Public Administration"	82	2292
-"1992"	"Male"	"History"	49	2292
-"1992"	"Female"	"Physical Sciences"	8	2292
-"1992"	"Male"	"Engineering"	139	2292
-"1992"	"Female"	"Social Sciences, Other"	7	2292
-"1992"	"Female"	"English and Literature"	80	2292
-"1992"	"Female"	"Agriculture"	49	2292
-"1992"	"Female"	"Computer Science"	2	2292
-"1992"	"Female"	"Life Sciences"	171	2292
-"1992"	"Male"	"Computer Science"	12	2292
-"1992"	"Male"	"Math"	11	2292
-"1992"	"Male"	"Sociology"	8	2292
-"1992"	"Male"	"English and Literature"	42	2292
-"1992"	"Female"	"Vocational Studies and Home Economics"	219	2292
-"1992"	"Male"	"Art/Architecture"	34	2292
-"1992"	"Male"	"Social Sciences, Other"	13	2292
-"1992"	"Female"	"Math"	9	2292
-"1992"	"Female"	"Sociology"	13	2292
-"1992"	"Male"	"Humanities, Other"	9	2292
-"1992"	"Male"	"Life Sciences"	80	2292
-"1993"	"Female"	"Education"	115	2128
-"1993"	"Male"	"Education"	49	2128
-"1993"	"Female"	"Psychology"	101	2128
-"1993"	"Female"	"Engineering"	32	2128
-"1993"	"Female"	"Communication and Librarianship"	105	2128
-"1993"	"Male"	"Foreign Languages"	7	2128
-"1993"	"Male"	"Vocational Studies and Home Economics"	49	2128
-"1993"	"Female"	"Business"	149	2128
-"1993"	"Male"	"Agriculture"	86	2128
-"1993"	"Male"	"Psychology"	45	2128
-"1993"	"Female"	"History"	16	2128
-"1993"	"Male"	"Business"	161	2128
-"1993"	"Male"	"History"	28	2128
-"1993"	"Male"	"Political Science and Public Administration"	68	2128
-"1993"	"Female"	"Anthropology"	7	2128
-"1993"	"Female"	"Math"	8	2128
-"1993"	"Female"	"Social Sciences, Other"	4	2128
-"1993"	"Male"	"Anthropology"	6	2128
-"1993"	"Male"	"Other/Unknown"	9	2128
-"1993"	"Female"	"Humanities, Other"	4	2128
-"1993"	"Male"	"Communication and Librarianship"	57	2128
-"1993"	"Male"	"Math"	10	2128
-"1993"	"Female"	"Political Science and Public Administration"	34	2128
-"1993"	"Male"	"Engineering"	125	2128
-"1993"	"Female"	"Other/Unknown"	24	2128
-"1993"	"Female"	"Vocational Studies and Home Economics"	196	2128
-"1993"	"Male"	"Humanities, Other"	3	2128
-"1993"	"Female"	"Computer Science"	3	2128
-"1993"	"Female"	"Agriculture"	71	2128
-"1993"	"Male"	"Physical Sciences"	11	2128
-"1993"	"Female"	"English and Literature"	77	2128
-"1993"	"Male"	"Area and Ethnic Studies"	1	2128
-"1993"	"Male"	"Sociology"	6	2128
-"1993"	"Female"	"Art/Architecture"	31	2128
-"1993"	"Male"	"Computer Science"	9	2128
-"1993"	"Female"	"Foreign Languages"	17	2128
-"1993"	"Male"	"Social Sciences, Other"	8	2128
-"1993"	"Female"	"Area and Ethnic Studies"	0	2128
-"1993"	"Female"	"Physical Sciences"	6	2128
-"1993"	"Female"	"Sociology"	7	2128
-"1993"	"Male"	"Art/Architecture"	35	2128
-"1993"	"Male"	"English and Literature"	33	2128
-"1993"	"Male"	"Economics"	48	2128
-"1993"	"Male"	"Life Sciences"	76	2128
-"1993"	"Female"	"Life Sciences"	182	2128
-"1993"	"Female"	"Economics"	9	2128
-"1994"	"Male"	"Math"	7	2077
-"1994"	"Female"	"Communication and Librarianship"	79	2077
-"1994"	"Female"	"Business"	116	2077
-"1994"	"Male"	"Agriculture"	90	2077
-"1994"	"Female"	"Psychology"	128	2077
-"1994"	"Male"	"Business"	181	2077
-"1994"	"Male"	"Communication and Librarianship"	53	2077
-"1994"	"Female"	"Foreign Languages"	18	2077
-"1994"	"Male"	"Humanities, Other"	6	2077
-"1994"	"Female"	"Anthropology"	8	2077
-"1994"	"Female"	"Math"	3	2077
-"1994"	"Male"	"Physical Sciences"	15	2077
-"1994"	"Male"	"Vocational Studies and Home Economics"	39	2077
-"1994"	"Male"	"Foreign Languages"	5	2077
-"1994"	"Female"	"Education"	78	2077
-"1994"	"Male"	"Sociology"	14	2077
-"1994"	"Female"	"History"	24	2077
-"1994"	"Female"	"Humanities, Other"	3	2077
-"1994"	"Female"	"Economics"	8	2077
-"1994"	"Female"	"Other/Unknown"	25	2077
-"1994"	"Male"	"Education"	52	2077
-"1994"	"Female"	"Vocational Studies and Home Economics"	224	2077
-"1994"	"Male"	"Political Science and Public Administration"	57	2077
-"1994"	"Male"	"History"	37	2077
-"1994"	"Male"	"Economics"	44	2077
-"1994"	"Male"	"Anthropology"	5	2077
-"1994"	"Male"	"Other/Unknown"	9	2077
-"1994"	"Female"	"Life Sciences"	181	2077
-"1994"	"Male"	"Computer Science"	7	2077
-"1994"	"Female"	"Physical Sciences"	13	2077
-"1994"	"Female"	"Art/Architecture"	36	2077
-"1994"	"Female"	"Political Science and Public Administration"	24	2077
-"1994"	"Male"	"Psychology"	43	2077
-"1994"	"Female"	"Area and Ethnic Studies"	0	2077
-"1994"	"Male"	"Life Sciences"	67	2077
-"1994"	"Female"	"Computer Science"	4	2077
-"1994"	"Female"	"Agriculture"	58	2077
-"1994"	"Male"	"Art/Architecture"	31	2077
-"1994"	"Male"	"Area and Ethnic Studies"	0	2077
-"1994"	"Female"	"Social Sciences, Other"	2	2077
-"1994"	"Female"	"Engineering"	41	2077
-"1994"	"Female"	"Sociology"	13	2077
-"1994"	"Male"	"Social Sciences, Other"	5	2077
-"1994"	"Male"	"Engineering"	124	2077
-"1994"	"Female"	"English and Literature"	69	2077
-"1994"	"Male"	"English and Literature"	31	2077
-"1995"	"Male"	"Agriculture"	97	1987
-"1995"	"Female"	"History"	17	1987
-"1995"	"Male"	"Business"	186	1987
-"1995"	"Female"	"Math"	10	1987
-"1995"	"Female"	"Life Sciences"	205	1987
-"1995"	"Male"	"Economics"	24	1987
-"1995"	"Female"	"Anthropology"	5	1987
-"1995"	"Female"	"Education"	73	1987
-"1995"	"Male"	"History"	28	1987
-"1995"	"Male"	"Anthropology"	2	1987
-"1995"	"Male"	"Math"	12	1987
-"1995"	"Male"	"Other/Unknown"	10	1987
-"1995"	"Female"	"Psychology"	98	1987
-"1995"	"Female"	"Other/Unknown"	41	1987
-"1995"	"Male"	"Education"	64	1987
-"1995"	"Female"	"Humanities, Other"	1	1987
-"1995"	"Male"	"Humanities, Other"	6	1987
-"1995"	"Male"	"Political Science and Public Administration"	54	1987
-"1995"	"Female"	"Communication and Librarianship"	69	1987
-"1995"	"Male"	"Life Sciences"	63	1987
-"1995"	"Male"	"Vocational Studies and Home Economics"	48	1987
-"1995"	"Female"	"Engineering"	40	1987
-"1995"	"Male"	"Area and Ethnic Studies"	0	1987
-"1995"	"Male"	"Foreign Languages"	8	1987
-"1995"	"Male"	"Sociology"	10	1987
-"1995"	"Male"	"Communication and Librarianship"	43	1987
-"1995"	"Female"	"Economics"	5	1987
-"1995"	"Male"	"Psychology"	56	1987
-"1995"	"Male"	"Engineering"	112	1987
-"1995"	"Female"	"Area and Ethnic Studies"	0	1987
-"1995"	"Female"	"Vocational Studies and Home Economics"	181	1987
-"1995"	"Female"	"Agriculture"	67	1987
-"1995"	"Male"	"Art/Architecture"	38	1987
-"1995"	"Male"	"Physical Sciences"	12	1987
-"1995"	"Female"	"Business"	109	1987
-"1995"	"Female"	"Political Science and Public Administration"	23	1987
-"1995"	"Female"	"Physical Sciences"	7	1987
-"1995"	"Male"	"Social Sciences, Other"	5	1987
-"1995"	"Female"	"Art/Architecture"	25	1987
-"1995"	"Female"	"Social Sciences, Other"	2	1987
-"1995"	"Female"	"Computer Science"	1	1987
-"1995"	"Male"	"English and Literature"	20	1987
-"1995"	"Male"	"Computer Science"	11	1987
-"1995"	"Female"	"English and Literature"	67	1987
-"1995"	"Female"	"Foreign Languages"	19	1987
-"1995"	"Female"	"Sociology"	13	1987
-"1996"	"Male"	"Psychology"	47	1978
-"1996"	"Male"	"Political Science and Public Administration"	50	1978
-"1996"	"Female"	"Education"	81	1978
-"1996"	"Female"	"Psychology"	82	1978
-"1996"	"Male"	"Vocational Studies and Home Economics"	29	1978
-"1996"	"Female"	"Anthropology"	8	1978
-"1996"	"Female"	"Engineering"	39	1978
-"1996"	"Male"	"Agriculture"	68	1978
-"1996"	"Male"	"Education"	64	1978
-"1996"	"Male"	"Engineering"	98	1978
-"1996"	"Male"	"Business"	145	1978
-"1996"	"Female"	"Math"	4	1978
-"1996"	"Female"	"Agriculture"	73	1978
-"1996"	"Female"	"Communication and Librarianship"	58	1978
-"1996"	"Female"	"Area and Ethnic Studies"	0	1978
-"1996"	"Female"	"Social Sciences, Other"	2	1978
-"1996"	"Male"	"Physical Sciences"	16	1978
-"1996"	"Male"	"Anthropology"	9	1978
-"1996"	"Male"	"Math"	6	1978
-"1996"	"Female"	"Business"	102	1978
-"1996"	"Male"	"Communication and Librarianship"	46	1978
-"1996"	"Female"	"History"	6	1978
-"1996"	"Female"	"Economics"	9	1978
-"1996"	"Male"	"Other/Unknown"	8	1978
-"1996"	"Female"	"English and Literature"	52	1978
-"1996"	"Female"	"Other/Unknown"	27	1978
-"1996"	"Female"	"Vocational Studies and Home Economics"	225	1978
-"1996"	"Male"	"Social Sciences, Other"	5	1978
-"1996"	"Female"	"Life Sciences"	274	1978
-"1996"	"Female"	"Sociology"	12	1978
-"1996"	"Male"	"Area and Ethnic Studies"	0	1978
-"1996"	"Male"	"Foreign Languages"	10	1978
-"1996"	"Female"	"Political Science and Public Administration"	19	1978
-"1996"	"Female"	"Art/Architecture"	34	1978
-"1996"	"Male"	"English and Literature"	29	1978
-"1996"	"Female"	"Humanities, Other"	2	1978
-"1996"	"Female"	"Computer Science"	2	1978
-"1996"	"Male"	"Economics"	29	1978
-"1996"	"Female"	"Foreign Languages"	9	1978
-"1996"	"Male"	"Humanities, Other"	7	1978
-"1996"	"Male"	"Art/Architecture"	33	1978
-"1996"	"Male"	"Life Sciences"	94	1978
-"1996"	"Male"	"Computer Science"	7	1978
-"1996"	"Male"	"Sociology"	16	1978
-"1996"	"Male"	"History"	33	1978
-"1996"	"Female"	"Physical Sciences"	9	1978
-"1997"	"Male"	"Psychology"	52	1807
-"1997"	"Male"	"Engineering"	108	1807
-"1997"	"Female"	"Psychology"	88	1807
-"1997"	"Female"	"Education"	81	1807
-"1997"	"Female"	"Math"	1	1807
-"1997"	"Female"	"Business"	90	1807
-"1997"	"Female"	"History"	9	1807
-"1997"	"Male"	"Business"	153	1807
-"1997"	"Female"	"Economics"	2	1807
-"1997"	"Male"	"History"	17	1807
-"1997"	"Male"	"Economics"	10	1807
-"1997"	"Female"	"Vocational Studies and Home Economics"	205	1807
-"1997"	"Male"	"Vocational Studies and Home Economics"	32	1807
-"1997"	"Male"	"Agriculture"	74	1807
-"1997"	"Female"	"Life Sciences"	224	1807
-"1997"	"Female"	"Social Sciences, Other"	0	1807
-"1997"	"Female"	"Humanities, Other"	1	1807
-"1997"	"Male"	"English and Literature"	28	1807
-"1997"	"Male"	"Social Sciences, Other"	3	1807
-"1997"	"Male"	"Math"	8	1807
-"1997"	"Female"	"Foreign Languages"	9	1807
-"1997"	"Male"	"Art/Architecture"	33	1807
-"1997"	"Female"	"Agriculture"	36	1807
-"1997"	"Female"	"Communication and Librarianship"	62	1807
-"1997"	"Female"	"English and Literature"	36	1807
-"1997"	"Male"	"Area and Ethnic Studies"	0	1807
-"1997"	"Male"	"Foreign Languages"	11	1807
-"1997"	"Male"	"Anthropology"	6	1807
-"1997"	"Male"	"Sociology"	15	1807
-"1997"	"Female"	"Art/Architecture"	36	1807
-"1997"	"Male"	"Communication and Librarianship"	52	1807
-"1997"	"Female"	"Other/Unknown"	26	1807
-"1997"	"Male"	"Education"	47	1807
-"1997"	"Female"	"Anthropology"	10	1807
-"1997"	"Male"	"Humanities, Other"	3	1807
-"1997"	"Female"	"Engineering"	42	1807
-"1997"	"Male"	"Physical Sciences"	9	1807
-"1997"	"Male"	"Political Science and Public Administration"	35	1807
-"1997"	"Female"	"Sociology"	20	1807
-"1997"	"Female"	"Political Science and Public Administration"	18	1807
-"1997"	"Female"	"Computer Science"	3	1807
-"1997"	"Male"	"Computer Science"	13	1807
-"1997"	"Male"	"Other/Unknown"	5	1807
-"1997"	"Female"	"Area and Ethnic Studies"	0	1807
-"1997"	"Male"	"Life Sciences"	88	1807
-"1997"	"Female"	"Physical Sciences"	6	1807
-"1998"	"Male"	"English and Literature"	23	1875
-"1998"	"Male"	"History"	15	1875
-"1998"	"Male"	"Business"	180	1875
-"1998"	"Male"	"Communication and Librarianship"	59	1875
-"1998"	"Female"	"Math"	2	1875
-"1998"	"Male"	"Psychology"	43	1875
-"1998"	"Female"	"Education"	68	1875
-"1998"	"Female"	"Computer Science"	2	1875
-"1998"	"Male"	"Vocational Studies and Home Economics"	20	1875
-"1998"	"Male"	"Economics"	14	1875
-"1998"	"Male"	"Math"	8	1875
-"1998"	"Female"	"Psychology"	99	1875
-"1998"	"Male"	"Sociology"	10	1875
-"1998"	"Female"	"History"	8	1875
-"1998"	"Male"	"Life Sciences"	96	1875
-"1998"	"Female"	"Art/Architecture"	38	1875
-"1998"	"Male"	"Art/Architecture"	17	1875
-"1998"	"Female"	"Communication and Librarianship"	74	1875
-"1998"	"Male"	"Political Science and Public Administration"	45	1875
-"1998"	"Female"	"English and Literature"	41	1875
-"1998"	"Male"	"Foreign Languages"	13	1875
-"1998"	"Female"	"Social Sciences, Other"	2	1875
-"1998"	"Male"	"Agriculture"	71	1875
-"1998"	"Female"	"Humanities, Other"	4	1875
-"1998"	"Male"	"Other/Unknown"	8	1875
-"1998"	"Female"	"Anthropology"	3	1875
-"1998"	"Male"	"Education"	53	1875
-"1998"	"Male"	"Social Sciences, Other"	0	1875
-"1998"	"Female"	"Foreign Languages"	9	1875
-"1998"	"Female"	"Engineering"	37	1875
-"1998"	"Female"	"Other/Unknown"	29	1875
-"1998"	"Female"	"Vocational Studies and Home Economics"	187	1875
-"1998"	"Female"	"Agriculture"	66	1875
-"1998"	"Female"	"Political Science and Public Administration"	19	1875
-"1998"	"Male"	"Physical Sciences"	14	1875
-"1998"	"Female"	"Life Sciences"	201	1875
-"1998"	"Male"	"Computer Science"	12	1875
-"1998"	"Male"	"Anthropology"	3	1875
-"1998"	"Male"	"Humanities, Other"	8	1875
-"1998"	"Male"	"Engineering"	119	1875
-"1998"	"Female"	"Economics"	2	1875
-"1998"	"Female"	"Business"	124	1875
-"1998"	"Female"	"Physical Sciences"	16	1875
-"1998"	"Male"	"Area and Ethnic Studies"	0	1875
-"1998"	"Female"	"Sociology"	13	1875
-"1998"	"Female"	"Area and Ethnic Studies"	0	1875
-"1999"	"Male"	"Business"	182	1842
-"1999"	"Female"	"History"	6	1842
-"1999"	"Female"	"Humanities, Other"	1	1842
-"1999"	"Male"	"History"	13	1842
-"1999"	"Female"	"Math"	2	1842
-"1999"	"Male"	"Math"	5	1842
-"1999"	"Male"	"Communication and Librarianship"	61	1842
-"1999"	"Male"	"Sociology"	5	1842
-"1999"	"Female"	"Economics"	7	1842
-"1999"	"Male"	"Agriculture"	42	1842
-"1999"	"Male"	"Humanities, Other"	6	1842
-"1999"	"Female"	"Other/Unknown"	15	1842
-"1999"	"Female"	"Communication and Librarianship"	70	1842
-"1999"	"Male"	"Political Science and Public Administration"	60	1842
-"1999"	"Female"	"Business"	129	1842
-"1999"	"Male"	"Foreign Languages"	11	1842
-"1999"	"Female"	"Psychology"	94	1842
-"1999"	"Female"	"Education"	120	1842
-"1999"	"Male"	"Other/Unknown"	7	1842
-"1999"	"Male"	"Anthropology"	3	1842
-"1999"	"Male"	"Education"	65	1842
-"1999"	"Female"	"Art/Architecture"	28	1842
-"1999"	"Male"	"Life Sciences"	63	1842
-"1999"	"Female"	"Foreign Languages"	9	1842
-"1999"	"Male"	"Psychology"	32	1842
-"1999"	"Female"	"Computer Science"	2	1842
-"1999"	"Female"	"Vocational Studies and Home Economics"	194	1842
-"1999"	"Male"	"Economics"	11	1842
-"1999"	"Female"	"Agriculture"	47	1842
-"1999"	"Male"	"Physical Sciences"	12	1842
-"1999"	"Male"	"Vocational Studies and Home Economics"	32	1842
-"1999"	"Male"	"Computer Science"	20	1842
-"1999"	"Female"	"Engineering"	25	1842
-"1999"	"Female"	"Physical Sciences"	11	1842
-"1999"	"Female"	"Anthropology"	12	1842
-"1999"	"Female"	"Political Science and Public Administration"	38	1842
-"1999"	"Male"	"English and Literature"	24	1842
-"1999"	"Male"	"Engineering"	99	1842
-"1999"	"Female"	"English and Literature"	42	1842
-"1999"	"Female"	"Life Sciences"	186	1842
-"1999"	"Female"	"Social Sciences, Other"	0	1842
-"1999"	"Male"	"Art/Architecture"	29	1842
-"1999"	"Female"	"Area and Ethnic Studies"	0	1842
-"1999"	"Male"	"Social Sciences, Other"	0	1842
-"1999"	"Male"	"Area and Ethnic Studies"	1	1842
-"1999"	"Female"	"Sociology"	21	1842
-"2000"	"Male"	"Vocational Studies and Home Economics"	18	1771
-"2000"	"Male"	"Psychology"	36	1771
-"2000"	"Male"	"Economics"	6	1771
-"2000"	"Male"	"Communication and Librarianship"	64	1771
-"2000"	"Male"	"Business"	206	1771
-"2000"	"Male"	"Other/Unknown"	7	1771
-"2000"	"Female"	"Psychology"	99	1771
-"2000"	"Female"	"Communication and Librarianship"	92	1771
-"2000"	"Female"	"Social Sciences, Other"	0	1771
-"2000"	"Male"	"Education"	51	1771
-"2000"	"Female"	"Computer Science"	1	1771
-"2000"	"Male"	"Agriculture"	42	1771
-"2000"	"Female"	"Agriculture"	57	1771
-"2000"	"Female"	"Math"	1	1771
-"2000"	"Female"	"Political Science and Public Administration"	32	1771
-"2000"	"Female"	"Education"	86	1771
-"2000"	"Male"	"Computer Science"	9	1771
-"2000"	"Male"	"Physical Sciences"	8	1771
-"2000"	"Female"	"Vocational Studies and Home Economics"	177	1771
-"2000"	"Male"	"Math"	5	1771
-"2000"	"Female"	"Economics"	2	1771
-"2000"	"Female"	"Physical Sciences"	11	1771
-"2000"	"Male"	"Anthropology"	4	1771
-"2000"	"Female"	"Anthropology"	13	1771
-"2000"	"Female"	"Business"	111	1771
-"2000"	"Male"	"Foreign Languages"	7	1771
-"2000"	"Male"	"Sociology"	14	1771
-"2000"	"Female"	"Area and Ethnic Studies"	0	1771
-"2000"	"Male"	"Social Sciences, Other"	1	1771
-"2000"	"Male"	"English and Literature"	20	1771
-"2000"	"Male"	"Art/Architecture"	23	1771
-"2000"	"Female"	"Other/Unknown"	13	1771
-"2000"	"Male"	"Engineering"	89	1771
-"2000"	"Male"	"Area and Ethnic Studies"	1	1771
-"2000"	"Female"	"Engineering"	25	1771
-"2000"	"Male"	"History"	28	1771
-"2000"	"Male"	"Life Sciences"	59	1771
-"2000"	"Female"	"History"	18	1771
-"2000"	"Female"	"Art/Architecture"	32	1771
-"2000"	"Female"	"Life Sciences"	191	1771
-"2000"	"Male"	"Political Science and Public Administration"	46	1771
-"2000"	"Female"	"English and Literature"	34	1771
-"2000"	"Female"	"Foreign Languages"	11	1771
-"2000"	"Female"	"Humanities, Other"	3	1771
-"2000"	"Female"	"Sociology"	13	1771
-"2000"	"Male"	"Humanities, Other"	5	1771
-"2001"	"Male"	"Psychology"	26	1803
-"2001"	"Male"	"Agriculture"	23	1803
-"2001"	"Male"	"Education"	54	1803
-"2001"	"Female"	"Social Sciences, Other"	0	1803
-"2001"	"Male"	"Communication and Librarianship"	76	1803
-"2001"	"Male"	"Vocational Studies and Home Economics"	20	1803
-"2001"	"Female"	"Psychology"	75	1803
-"2001"	"Female"	"Engineering"	23	1803
-"2001"	"Male"	"Social Sciences, Other"	0	1803
-"2001"	"Female"	"Education"	81	1803
-"2001"	"Female"	"Economics"	3	1803
-"2001"	"Male"	"Sociology"	13	1803
-"2001"	"Male"	"Anthropology"	1	1803
-"2001"	"Female"	"History"	12	1803
-"2001"	"Female"	"Anthropology"	7	1803
-"2001"	"Male"	"Art/Architecture"	29	1803
-"2001"	"Female"	"Agriculture"	47	1803
-"2001"	"Male"	"Computer Science"	16	1803
-"2001"	"Female"	"English and Literature"	41	1803
-"2001"	"Male"	"Foreign Languages"	17	1803
-"2001"	"Female"	"Sociology"	12	1803
-"2001"	"Male"	"Engineering"	111	1803
-"2001"	"Male"	"Math"	5	1803
-"2001"	"Male"	"Business"	230	1803
-"2001"	"Male"	"English and Literature"	24	1803
-"2001"	"Male"	"Life Sciences"	58	1803
-"2001"	"Male"	"Economics"	14	1803
-"2001"	"Female"	"Area and Ethnic Studies"	0	1803
-"2001"	"Female"	"Computer Science"	1	1803
-"2001"	"Female"	"Math"	5	1803
-"2001"	"Male"	"Area and Ethnic Studies"	0	1803
-"2001"	"Female"	"Vocational Studies and Home Economics"	187	1803
-"2001"	"Female"	"Business"	122	1803
-"2001"	"Female"	"Life Sciences"	174	1803
-"2001"	"Female"	"Foreign Languages"	23	1803
-"2001"	"Female"	"Humanities, Other"	3	1803
-"2001"	"Female"	"Art/Architecture"	40	1803
-"2001"	"Female"	"Physical Sciences"	11	1803
-"2001"	"Male"	"History"	27	1803
-"2001"	"Female"	"Communication and Librarianship"	82	1803
-"2001"	"Male"	"Humanities, Other"	7	1803
-"2001"	"Male"	"Physical Sciences"	13	1803
-"2001"	"Male"	"Political Science and Public Administration"	47	1803
-"2001"	"Male"	"Other/Unknown"	7	1803
-"2001"	"Female"	"Other/Unknown"	8	1803
-"2001"	"Female"	"Political Science and Public Administration"	28	1803
-"2002"	"Male"	"Vocational Studies and Home Economics"	16	1893
-"2002"	"Male"	"Education"	57	1893
-"2002"	"Female"	"Education"	101	1893
-"2002"	"Male"	"Agriculture"	35	1893
-"2002"	"Female"	"Economics"	6	1893
-"2002"	"Female"	"Social Sciences, Other"	1	1893
-"2002"	"Female"	"History"	12	1893
-"2002"	"Male"	"Business"	209	1893
-"2002"	"Male"	"Math"	9	1893
-"2002"	"Male"	"English and Literature"	16	1893
-"2002"	"Female"	"Engineering"	34	1893
-"2002"	"Male"	"Economics"	11	1893
-"2002"	"Female"	"English and Literature"	46	1893
-"2002"	"Female"	"Anthropology"	6	1893
-"2002"	"Male"	"Foreign Languages"	11	1893
-"2002"	"Female"	"Sociology"	21	1893
-"2002"	"Male"	"Anthropology"	3	1893
-"2002"	"Female"	"Psychology"	105	1893
-"2002"	"Female"	"Life Sciences"	197	1893
-"2002"	"Male"	"Engineering"	93	1893
-"2002"	"Female"	"Humanities, Other"	4	1893
-"2002"	"Female"	"Vocational Studies and Home Economics"	198	1893
-"2002"	"Male"	"Social Sciences, Other"	0	1893
-"2002"	"Male"	"Life Sciences"	50	1893
-"2002"	"Male"	"Psychology"	24	1893
-"2002"	"Male"	"Area and Ethnic Studies"	0	1893
-"2002"	"Female"	"Business"	143	1893
-"2002"	"Female"	"Math"	4	1893
-"2002"	"Male"	"Political Science and Public Administration"	33	1893
-"2002"	"Male"	"Other/Unknown"	3	1893
-"2002"	"Male"	"Humanities, Other"	7	1893
-"2002"	"Male"	"Computer Science"	18	1893
-"2002"	"Male"	"Sociology"	8	1893
-"2002"	"Female"	"Political Science and Public Administration"	30	1893
-"2002"	"Male"	"Communication and Librarianship"	78	1893
-"2002"	"Female"	"Agriculture"	39	1893
-"2002"	"Female"	"Foreign Languages"	24	1893
-"2002"	"Female"	"Other/Unknown"	15	1893
-"2002"	"Male"	"Physical Sciences"	20	1893
-"2002"	"Male"	"Art/Architecture"	21	1893
-"2002"	"Male"	"History"	18	1893
-"2002"	"Female"	"Art/Architecture"	34	1893
-"2002"	"Female"	"Physical Sciences"	8	1893
-"2002"	"Female"	"Area and Ethnic Studies"	0	1893
-"2002"	"Female"	"Communication and Librarianship"	121	1893
-"2002"	"Female"	"Computer Science"	4	1893
-"2003"	"Female"	"Education"	78	1958
-"2003"	"Female"	"History"	20	1958
-"2003"	"Male"	"Engineering"	108	1958
-"2003"	"Female"	"Social Sciences, Other"	0	1958
-"2003"	"Male"	"Vocational Studies and Home Economics"	8	1958
-"2003"	"Male"	"Foreign Languages"	23	1958
-"2003"	"Male"	"Sociology"	13	1958
-"2003"	"Male"	"Math"	6	1958
-"2003"	"Female"	"Foreign Languages"	28	1958
-"2003"	"Male"	"Political Science and Public Administration"	44	1958
-"2003"	"Female"	"Business"	162	1958
-"2003"	"Male"	"Business"	226	1958
-"2003"	"Female"	"Math"	8	1958
-"2003"	"Male"	"English and Literature"	27	1958
-"2003"	"Male"	"Other/Unknown"	2	1958
-"2003"	"Male"	"Anthropology"	4	1958
-"2003"	"Male"	"Education"	52	1958
-"2003"	"Male"	"Social Sciences, Other"	0	1958
-"2003"	"Female"	"Political Science and Public Administration"	30	1958
-"2003"	"Female"	"Humanities, Other"	3	1958
-"2003"	"Female"	"Physical Sciences"	9	1958
-"2003"	"Female"	"Communication and Librarianship"	116	1958
-"2003"	"Male"	"History"	23	1958
-"2003"	"Female"	"Engineering"	46	1958
-"2003"	"Female"	"Sociology"	12	1958
-"2003"	"Male"	"Computer Science"	30	1958
-"2003"	"Female"	"Psychology"	132	1958
-"2003"	"Female"	"Art/Architecture"	39	1958
-"2003"	"Male"	"Humanities, Other"	3	1958
-"2003"	"Male"	"Art/Architecture"	27	1958
-"2003"	"Female"	"Economics"	5	1958
-"2003"	"Female"	"Area and Ethnic Studies"	0	1958
-"2003"	"Female"	"Agriculture"	45	1958
-"2003"	"Male"	"Life Sciences"	44	1958
-"2003"	"Female"	"English and Literature"	47	1958
-"2003"	"Male"	"Economics"	13	1958
-"2003"	"Male"	"Agriculture"	25	1958
-"2003"	"Male"	"Communication and Librarianship"	79	1958
-"2003"	"Male"	"Area and Ethnic Studies"	0	1958
-"2003"	"Female"	"Life Sciences"	158	1958
-"2003"	"Female"	"Other/Unknown"	9	1958
-"2003"	"Male"	"Psychology"	37	1958
-"2003"	"Female"	"Vocational Studies and Home Economics"	200	1958
-"2003"	"Male"	"Physical Sciences"	7	1958
-"2003"	"Female"	"Computer Science"	4	1958
-"2003"	"Female"	"Anthropology"	6	1958
-"2004"	"Male"	"Business"	201	2044
-"2004"	"Female"	"Business"	155	2044
-"2004"	"Female"	"Education"	105	2044
-"2004"	"Male"	"Agriculture"	31	2044
-"2004"	"Female"	"Vocational Studies and Home Economics"	197	2044
-"2004"	"Female"	"Psychology"	111	2044
-"2004"	"Female"	"Art/Architecture"	38	2044
-"2004"	"Male"	"Economics"	30	2044
-"2004"	"Male"	"Communication and Librarianship"	103	2044
-"2004"	"Female"	"Math"	19	2044
-"2004"	"Male"	"Math"	11	2044
-"2004"	"Female"	"Economics"	5	2044
-"2004"	"Male"	"Sociology"	9	2044
-"2004"	"Male"	"Physical Sciences"	9	2044
-"2004"	"Female"	"Engineering"	30	2044
-"2004"	"Male"	"Art/Architecture"	25	2044
-"2004"	"Female"	"Communication and Librarianship"	137	2044
-"2004"	"Female"	"Agriculture"	39	2044
-"2004"	"Female"	"Other/Unknown"	5	2044
-"2004"	"Male"	"Political Science and Public Administration"	35	2044
-"2004"	"Male"	"Computer Science"	33	2044
-"2004"	"Male"	"History"	31	2044
-"2004"	"Male"	"Foreign Languages"	23	2044
-"2004"	"Female"	"Computer Science"	1	2044
-"2004"	"Male"	"Vocational Studies and Home Economics"	5	2044
-"2004"	"Male"	"Other/Unknown"	2	2044
-"2004"	"Female"	"Area and Ethnic Studies"	1	2044
-"2004"	"Male"	"Life Sciences"	43	2044
-"2004"	"Female"	"Anthropology"	12	2044
-"2004"	"Male"	"Education"	52	2044
-"2004"	"Male"	"Psychology"	23	2044
-"2004"	"Female"	"Social Sciences, Other"	0	2044
-"2004"	"Male"	"Area and Ethnic Studies"	1	2044
-"2004"	"Male"	"Anthropology"	6	2044
-"2004"	"Female"	"Sociology"	14	2044
-"2004"	"Male"	"English and Literature"	21	2044
-"2004"	"Male"	"Engineering"	146	2044
-"2004"	"Male"	"Social Sciences, Other"	1	2044
-"2004"	"Female"	"Life Sciences"	177	2044
-"2004"	"Female"	"Foreign Languages"	22	2044
-"2004"	"Female"	"Physical Sciences"	5	2044
-"2004"	"Female"	"Political Science and Public Administration"	37	2044
-"2004"	"Female"	"History"	26	2044
-"2004"	"Female"	"English and Literature"	50	2044
-"2004"	"Male"	"Humanities, Other"	13	2044
-"2004"	"Female"	"Humanities, Other"	4	2044
-"2005"	"Male"	"Agriculture"	28	1889
-"2005"	"Female"	"Vocational Studies and Home Economics"	162	1889
-"2005"	"Female"	"Psychology"	83	1889
-"2005"	"Male"	"Communication and Librarianship"	77	1889
-"2005"	"Female"	"Social Sciences, Other"	1	1889
-"2005"	"Male"	"Business"	192	1889
-"2005"	"Male"	"Sociology"	8	1889
-"2005"	"Male"	"English and Literature"	21	1889
-"2005"	"Female"	"Art/Architecture"	49	1889
-"2005"	"Male"	"Computer Science"	30	1889
-"2005"	"Female"	"Communication and Librarianship"	152	1889
-"2005"	"Male"	"Economics"	14	1889
-"2005"	"Female"	"Agriculture"	45	1889
-"2005"	"Male"	"Vocational Studies and Home Economics"	4	1889
-"2005"	"Male"	"Political Science and Public Administration"	40	1889
-"2005"	"Female"	"Sociology"	13	1889
-"2005"	"Female"	"Math"	11	1889
-"2005"	"Male"	"Foreign Languages"	26	1889
-"2005"	"Female"	"Education"	79	1889
-"2005"	"Female"	"Anthropology"	9	1889
-"2005"	"Male"	"Other/Unknown"	1	1889
-"2005"	"Female"	"Computer Science"	1	1889
-"2005"	"Male"	"Social Sciences, Other"	0	1889
-"2005"	"Female"	"Other/Unknown"	5	1889
-"2005"	"Male"	"Psychology"	31	1889
-"2005"	"Female"	"Foreign Languages"	27	1889
-"2005"	"Female"	"Business"	128	1889
-"2005"	"Male"	"Physical Sciences"	5	1889
-"2005"	"Male"	"Anthropology"	2	1889
-"2005"	"Female"	"Economics"	10	1889
-"2005"	"Female"	"Engineering"	38	1889
-"2005"	"Male"	"Engineering"	156	1889
-"2005"	"Male"	"Math"	13	1889
-"2005"	"Male"	"Education"	47	1889
-"2005"	"Female"	"Life Sciences"	163	1889
-"2005"	"Male"	"Life Sciences"	43	1889
-"2005"	"Male"	"Area and Ethnic Studies"	1	1889
-"2005"	"Female"	"English and Literature"	36	1889
-"2005"	"Female"	"Political Science and Public Administration"	32	1889
-"2005"	"Male"	"History"	24	1889
-"2005"	"Female"	"Area and Ethnic Studies"	2	1889
-"2005"	"Female"	"Humanities, Other"	2	1889
-"2005"	"Male"	"Art/Architecture"	45	1889
-"2005"	"Female"	"History"	17	1889
-"2005"	"Female"	"Physical Sciences"	11	1889
-"2005"	"Male"	"Humanities, Other"	5	1889
-"2006"	"Female"	"Education"	105	2015
-"2006"	"Female"	"Psychology"	107	2015
-"2006"	"Male"	"Business"	183	2015
-"2006"	"Male"	"Communication and Librarianship"	76	2015
-"2006"	"Male"	"Computer Science"	20	2015
-"2006"	"Male"	"English and Literature"	17	2015
-"2006"	"Female"	"Agriculture"	66	2015
-"2006"	"Female"	"Art/Architecture"	51	2015
-"2006"	"Male"	"Sociology"	12	2015
-"2006"	"Male"	"Economics"	23	2015
-"2006"	"Female"	"Social Sciences, Other"	0	2015
-"2006"	"Female"	"Engineering"	45	2015
-"2006"	"Male"	"Foreign Languages"	18	2015
-"2006"	"Female"	"English and Literature"	50	2015
-"2006"	"Female"	"Economics"	4	2015
-"2006"	"Female"	"Computer Science"	3	2015
-"2006"	"Male"	"Social Sciences, Other"	0	2015
-"2006"	"Male"	"Vocational Studies and Home Economics"	4	2015
-"2006"	"Female"	"Communication and Librarianship"	141	2015
-"2006"	"Male"	"Psychology"	24	2015
-"2006"	"Female"	"Vocational Studies and Home Economics"	173	2015
-"2006"	"Female"	"Business"	115	2015
-"2006"	"Female"	"Other/Unknown"	7	2015
-"2006"	"Female"	"Sociology"	14	2015
-"2006"	"Female"	"Math"	3	2015
-"2006"	"Male"	"History"	24	2015
-"2006"	"Male"	"Agriculture"	38	2015
-"2006"	"Male"	"Education"	58	2015
-"2006"	"Female"	"Life Sciences"	217	2015
-"2006"	"Male"	"Engineering"	117	2015
-"2006"	"Female"	"Area and Ethnic Studies"	0	2015
-"2006"	"Male"	"Humanities, Other"	2	2015
-"2006"	"Female"	"Anthropology"	14	2015
-"2006"	"Male"	"Life Sciences"	62	2015
-"2006"	"Male"	"Other/Unknown"	1	2015
-"2006"	"Male"	"Physical Sciences"	9	2015
-"2006"	"Male"	"Political Science and Public Administration"	56	2015
-"2006"	"Male"	"Anthropology"	10	2015
-"2006"	"Female"	"Foreign Languages"	31	2015
-"2006"	"Female"	"Political Science and Public Administration"	34	2015
-"2006"	"Female"	"History"	24	2015
-"2006"	"Male"	"Art/Architecture"	33	2015
-"2006"	"Female"	"Humanities, Other"	7	2015
-"2006"	"Female"	"Physical Sciences"	10	2015
-"2006"	"Male"	"Area and Ethnic Studies"	1	2015
-"2006"	"Male"	"Math"	6	2015
-"2007"	"Female"	"Psychology"	109	2008
-"2007"	"Male"	"Economics"	21	2008
-"2007"	"Male"	"Engineering"	118	2008
-"2007"	"Female"	"Education"	98	2008
-"2007"	"Female"	"Social Sciences, Other"	0	2008
-"2007"	"Male"	"Psychology"	22	2008
-"2007"	"Female"	"Engineering"	29	2008
-"2007"	"Female"	"Economics"	3	2008
-"2007"	"Female"	"English and Literature"	42	2008
-"2007"	"Male"	"Anthropology"	7	2008
-"2007"	"Male"	"English and Literature"	18	2008
-"2007"	"Male"	"Communication and Librarianship"	98	2008
-"2007"	"Male"	"Vocational Studies and Home Economics"	11	2008
-"2007"	"Male"	"Sociology"	8	2008
-"2007"	"Female"	"Foreign Languages"	19	2008
-"2007"	"Female"	"Vocational Studies and Home Economics"	164	2008
-"2007"	"Male"	"Social Sciences, Other"	0	2008
-"2007"	"Female"	"Business"	159	2008
-"2007"	"Female"	"Sociology"	15	2008
-"2007"	"Female"	"Math"	7	2008
-"2007"	"Female"	"Agriculture"	48	2008
-"2007"	"Male"	"Agriculture"	30	2008
-"2007"	"Female"	"Life Sciences"	219	2008
-"2007"	"Male"	"Business"	226	2008
-"2007"	"Male"	"Foreign Languages"	10	2008
-"2007"	"Male"	"Math"	12	2008
-"2007"	"Male"	"Education"	63	2008
-"2007"	"Female"	"Anthropology"	5	2008
-"2007"	"Male"	"Life Sciences"	45	2008
-"2007"	"Female"	"Communication and Librarianship"	136	2008
-"2007"	"Female"	"Other/Unknown"	2	2008
-"2007"	"Male"	"Political Science and Public Administration"	40	2008
-"2007"	"Male"	"History"	27	2008
-"2007"	"Male"	"Computer Science"	16	2008
-"2007"	"Male"	"Physical Sciences"	13	2008
-"2007"	"Female"	"Art/Architecture"	50	2008
-"2007"	"Male"	"Other/Unknown"	1	2008
-"2007"	"Female"	"Area and Ethnic Studies"	0	2008
-"2007"	"Female"	"Humanities, Other"	6	2008
-"2007"	"Female"	"History"	9	2008
-"2007"	"Female"	"Computer Science"	1	2008
-"2007"	"Male"	"Art/Architecture"	41	2008
-"2007"	"Female"	"Physical Sciences"	17	2008
-"2007"	"Male"	"Humanities, Other"	7	2008
-"2007"	"Male"	"Area and Ethnic Studies"	1	2008
-"2007"	"Female"	"Political Science and Public Administration"	35	2008
-"2008"	"Male"	"Anthropology"	6	2201
-"2008"	"Female"	"Vocational Studies and Home Economics"	157	2201
-"2008"	"Male"	"Agriculture"	25	2201
-"2008"	"Male"	"Area and Ethnic Studies"	1	2201
-"2008"	"Male"	"Physical Sciences"	14	2201
-"2008"	"Male"	"Foreign Languages"	31	2201
-"2008"	"Female"	"Area and Ethnic Studies"	2	2201
-"2008"	"Female"	"Art/Architecture"	56	2201
-"2008"	"Female"	"Anthropology"	12	2201
-"2008"	"Male"	"Art/Architecture"	48	2201
-"2008"	"Female"	"Political Science and Public Administration"	26	2201
-"2008"	"Female"	"Agriculture"	58	2201
-"2008"	"Female"	"Foreign Languages"	29	2201
-"2008"	"Male"	"Economics"	32	2201
-"2008"	"Female"	"Other/Unknown"	2	2201
-"2008"	"Female"	"Business"	153	2201
-"2008"	"Female"	"Math"	14	2201
-"2008"	"Female"	"Social Sciences, Other"	3	2201
-"2008"	"Male"	"Communication and Librarianship"	104	2201
-"2008"	"Female"	"Psychology"	95	2201
-"2008"	"Male"	"Business"	244	2201
-"2008"	"Female"	"Economics"	7	2201
-"2008"	"Male"	"Math"	11	2201
-"2008"	"Female"	"History"	16	2201
-"2008"	"Female"	"Computer Science"	3	2201
-"2008"	"Male"	"Psychology"	30	2201
-"2008"	"Female"	"Communication and Librarianship"	122	2201
-"2008"	"Male"	"Humanities, Other"	4	2201
-"2008"	"Female"	"Engineering"	25	2201
-"2008"	"Male"	"History"	21	2201
-"2008"	"Male"	"Computer Science"	18	2201
-"2008"	"Female"	"Humanities, Other"	2	2201
-"2008"	"Male"	"Social Sciences, Other"	2	2201
-"2008"	"Male"	"Other/Unknown"	1	2201
-"2008"	"Male"	"Vocational Studies and Home Economics"	7	2201
-"2008"	"Female"	"Physical Sciences"	9	2201
-"2008"	"Male"	"Sociology"	13	2201
-"2008"	"Male"	"Engineering"	164	2201
-"2008"	"Female"	"Sociology"	9	2201
-"2008"	"Male"	"Political Science and Public Administration"	42	2201
-"2008"	"Male"	"Life Sciences"	63	2201
-"2008"	"Male"	"English and Literature"	28	2201
-"2008"	"Female"	"Life Sciences"	255	2201
-"2008"	"Female"	"Education"	121	2201
-"2008"	"Female"	"English and Literature"	54	2201
-"2008"	"Male"	"Education"	62	2201
-"2009"	"Female"	"Computer Science"	1	2276
-"2009"	"Male"	"Physical Sciences"	13	2276
-"2009"	"Female"	"Other/Unknown"	3	2276
-"2009"	"Male"	"Humanities, Other"	7	2276
-"2009"	"Female"	"History"	25	2276
-"2009"	"Male"	"Business"	227	2276
-"2009"	"Male"	"Anthropology"	3	2276
-"2009"	"Male"	"Communication and Librarianship"	94	2276
-"2009"	"Male"	"Economics"	31	2276
-"2009"	"Female"	"Political Science and Public Administration"	34	2276
-"2009"	"Female"	"Art/Architecture"	37	2276
-"2009"	"Female"	"Foreign Languages"	44	2276
-"2009"	"Male"	"Computer Science"	19	2276
-"2009"	"Female"	"Vocational Studies and Home Economics"	159	2276
-"2009"	"Female"	"Area and Ethnic Studies"	3	2276
-"2009"	"Female"	"Math"	16	2276
-"2009"	"Male"	"Sociology"	9	2276
-"2009"	"Male"	"Art/Architecture"	47	2276
-"2009"	"Male"	"Engineering"	153	2276
-"2009"	"Female"	"Psychology"	127	2276
-"2009"	"Male"	"Education"	53	2276
-"2009"	"Female"	"Communication and Librarianship"	144	2276
-"2009"	"Male"	"Psychology"	40	2276
-"2009"	"Male"	"Agriculture"	43	2276
-"2009"	"Male"	"History"	35	2276
-"2009"	"Male"	"Political Science and Public Administration"	36	2276
-"2009"	"Female"	"Social Sciences, Other"	6	2276
-"2009"	"Male"	"Foreign Languages"	26	2276
-"2009"	"Male"	"Other/Unknown"	2	2276
-"2009"	"Male"	"Vocational Studies and Home Economics"	11	2276
-"2009"	"Female"	"Anthropology"	15	2276
-"2009"	"Male"	"Math"	7	2276
-"2009"	"Male"	"Social Sciences, Other"	6	2276
-"2009"	"Female"	"Agriculture"	45	2276
-"2009"	"Male"	"Area and Ethnic Studies"	1	2276
-"2009"	"Female"	"Physical Sciences"	11	2276
-"2009"	"Female"	"Engineering"	34	2276
-"2009"	"Female"	"English and Literature"	68	2276
-"2009"	"Female"	"Business"	153	2276
-"2009"	"Female"	"Sociology"	14	2276
-"2009"	"Female"	"Humanities, Other"	2	2276
-"2009"	"Female"	"Life Sciences"	306	2276
-"2009"	"Female"	"Education"	71	2276
-"2009"	"Male"	"English and Literature"	26	2276
-"2009"	"Female"	"Economics"	10	2276
-"2009"	"Male"	"Life Sciences"	59	2276
-"2010"	"Male"	"Art/Architecture"	59	2543
-"2010"	"Female"	"Art/Architecture"	54	2543
-"2010"	"Male"	"Anthropology"	8	2543
-"2010"	"Male"	"Economics"	43	2543
-"2010"	"Male"	"Business"	244	2543
-"2010"	"Male"	"Agriculture"	42	2543
-"2010"	"Female"	"Communication and Librarianship"	152	2543
-"2010"	"Male"	"Communication and Librarianship"	94	2543
-"2010"	"Female"	"Computer Science"	3	2543
-"2010"	"Female"	"Area and Ethnic Studies"	2	2543
-"2010"	"Male"	"Computer Science"	15	2543
-"2010"	"Female"	"Anthropology"	8	2543
-"2010"	"Male"	"Math"	9	2543
-"2010"	"Female"	"History"	11	2543
-"2010"	"Male"	"Social Sciences, Other"	6	2543
-"2010"	"Male"	"Area and Ethnic Studies"	0	2543
-"2010"	"Male"	"Psychology"	39	2543
-"2010"	"Female"	"Other/Unknown"	7	2543
-"2010"	"Female"	"Vocational Studies and Home Economics"	213	2543
-"2010"	"Female"	"Math"	6	2543
-"2010"	"Male"	"Physical Sciences"	10	2543
-"2010"	"Female"	"Social Sciences, Other"	8	2543
-"2010"	"Male"	"Foreign Languages"	35	2543
-"2010"	"Female"	"Psychology"	113	2543
-"2010"	"Male"	"Sociology"	9	2543
-"2010"	"Female"	"Humanities, Other"	4	2543
-"2010"	"Male"	"Engineering"	166	2543
-"2010"	"Female"	"Political Science and Public Administration"	25	2543
-"2010"	"Female"	"Foreign Languages"	49	2543
-"2010"	"Female"	"Physical Sciences"	24	2543
-"2010"	"Male"	"Humanities, Other"	9	2543
-"2010"	"Female"	"Engineering"	35	2543
-"2010"	"Male"	"History"	29	2543
-"2010"	"Female"	"Sociology"	11	2543
-"2010"	"Male"	"English and Literature"	22	2543
-"2010"	"Male"	"Education"	68	2543
-"2010"	"Male"	"Other/Unknown"	6	2543
-"2010"	"Female"	"Economics"	15	2543
-"2010"	"Male"	"Life Sciences"	73	2543
-"2010"	"Female"	"English and Literature"	61	2543
-"2010"	"Female"	"Agriculture"	70	2543
-"2010"	"Male"	"Political Science and Public Administration"	44	2543
-"2010"	"Female"	"Life Sciences"	328	2543
-"2010"	"Female"	"Business"	158	2543
-"2010"	"Male"	"Vocational Studies and Home Economics"	7	2543
-"2010"	"Female"	"Education"	149	2543
-"2011"	"Female"	"History"	14	2670
-"2011"	"Male"	"Humanities, Other"	9	2670
-"2011"	"Female"	"Other/Unknown"	2	2670
-"2011"	"Female"	"Social Sciences, Other"	16	2670
-"2011"	"Female"	"Art/Architecture"	60	2670
-"2011"	"Male"	"Sociology"	13	2670
-"2011"	"Male"	"Business"	261	2670
-"2011"	"Male"	"Math"	22	2670
-"2011"	"Female"	"Anthropology"	7	2670
-"2011"	"Female"	"Foreign Languages"	46	2670
-"2011"	"Male"	"Education"	70	2670
-"2011"	"Male"	"Psychology"	40	2670
-"2011"	"Female"	"Communication and Librarianship"	145	2670
-"2011"	"Female"	"Math"	7	2670
-"2011"	"Male"	"History"	25	2670
-"2011"	"Male"	"Physical Sciences"	14	2670
-"2011"	"Female"	"Engineering"	42	2670
-"2011"	"Female"	"Psychology"	114	2670
-"2011"	"Male"	"Other/Unknown"	0	2670
-"2011"	"Female"	"Area and Ethnic Studies"	1	2670
-"2011"	"Female"	"Humanities, Other"	5	2670
-"2011"	"Male"	"Engineering"	207	2670
-"2011"	"Male"	"Social Sciences, Other"	12	2670
-"2011"	"Female"	"Computer Science"	1	2670
-"2011"	"Female"	"Physical Sciences"	18	2670
-"2011"	"Male"	"Area and Ethnic Studies"	1	2670
-"2011"	"Male"	"Anthropology"	7	2670
-"2011"	"Female"	"English and Literature"	58	2670
-"2011"	"Female"	"Sociology"	13	2670
-"2011"	"Male"	"Computer Science"	16	2670
-"2011"	"Male"	"Communication and Librarianship"	105	2670
-"2011"	"Female"	"Life Sciences"	347	2670
-"2011"	"Female"	"Economics"	6	2670
-"2011"	"Male"	"English and Literature"	36	2670
-"2011"	"Male"	"Art/Architecture"	78	2670
-"2011"	"Female"	"Political Science and Public Administration"	33	2670
-"2011"	"Female"	"Agriculture"	65	2670
-"2011"	"Male"	"Life Sciences"	67	2670
-"2011"	"Male"	"Economics"	56	2670
-"2011"	"Female"	"Vocational Studies and Home Economics"	200	2670
-"2011"	"Female"	"Business"	157	2670
-"2011"	"Male"	"Political Science and Public Administration"	52	2670
-"2011"	"Male"	"Agriculture"	41	2670
-"2011"	"Male"	"Foreign Languages"	29	2670
-"2011"	"Female"	"Education"	133	2670
-"2011"	"Male"	"Vocational Studies and Home Economics"	19	2670
+"year"	"gender"	"field"	"count"
+"1966"	"Female"	"Agriculture"	2
+"1967"	"Female"	"Agriculture"	2
+"1968"	"Female"	"Agriculture"	1
+"1969"	"Female"	"Agriculture"	6
+"1970"	"Female"	"Agriculture"	8
+"1971"	"Female"	"Agriculture"	6
+"1972"	"Female"	"Agriculture"	3
+"1973"	"Female"	"Agriculture"	19
+"1974"	"Female"	"Agriculture"	28
+"1975"	"Female"	"Agriculture"	23
+"1976"	"Female"	"Agriculture"	40
+"1977"	"Female"	"Agriculture"	63
+"1978"	"Female"	"Agriculture"	81
+"1979"	"Female"	"Agriculture"	79
+"1980"	"Female"	"Agriculture"	70
+"1981"	"Female"	"Agriculture"	76
+"1982"	"Female"	"Agriculture"	60
+"1983"	"Female"	"Agriculture"	42
+"1984"	"Female"	"Agriculture"	46
+"1985"	"Female"	"Agriculture"	42
+"1986"	"Female"	"Agriculture"	28
+"1987"	"Female"	"Agriculture"	35
+"1988"	"Female"	"Agriculture"	22
+"1989"	"Female"	"Agriculture"	26
+"1990"	"Female"	"Agriculture"	26
+"1991"	"Female"	"Agriculture"	39
+"1992"	"Female"	"Agriculture"	49
+"1993"	"Female"	"Agriculture"	71
+"1994"	"Female"	"Agriculture"	58
+"1995"	"Female"	"Agriculture"	67
+"1996"	"Female"	"Agriculture"	73
+"1997"	"Female"	"Agriculture"	36
+"1998"	"Female"	"Agriculture"	66
+"1999"	"Female"	"Agriculture"	47
+"2000"	"Female"	"Agriculture"	57
+"2001"	"Female"	"Agriculture"	47
+"2002"	"Female"	"Agriculture"	39
+"2003"	"Female"	"Agriculture"	45
+"2004"	"Female"	"Agriculture"	39
+"2005"	"Female"	"Agriculture"	45
+"2006"	"Female"	"Agriculture"	66
+"2007"	"Female"	"Agriculture"	48
+"2008"	"Female"	"Agriculture"	58
+"2009"	"Female"	"Agriculture"	45
+"2010"	"Female"	"Agriculture"	70
+"2011"	"Female"	"Agriculture"	65
+"1966"	"Male"	"Agriculture"	17
+"1967"	"Male"	"Agriculture"	11
+"1968"	"Male"	"Agriculture"	19
+"1969"	"Male"	"Agriculture"	55
+"1970"	"Male"	"Agriculture"	52
+"1971"	"Male"	"Agriculture"	52
+"1972"	"Male"	"Agriculture"	19
+"1973"	"Male"	"Agriculture"	76
+"1974"	"Male"	"Agriculture"	89
+"1975"	"Male"	"Agriculture"	125
+"1976"	"Male"	"Agriculture"	122
+"1977"	"Male"	"Agriculture"	146
+"1978"	"Male"	"Agriculture"	142
+"1979"	"Male"	"Agriculture"	131
+"1980"	"Male"	"Agriculture"	116
+"1981"	"Male"	"Agriculture"	103
+"1982"	"Male"	"Agriculture"	84
+"1983"	"Male"	"Agriculture"	67
+"1984"	"Male"	"Agriculture"	58
+"1985"	"Male"	"Agriculture"	35
+"1986"	"Male"	"Agriculture"	49
+"1987"	"Male"	"Agriculture"	43
+"1988"	"Male"	"Agriculture"	50
+"1989"	"Male"	"Agriculture"	50
+"1990"	"Male"	"Agriculture"	26
+"1991"	"Male"	"Agriculture"	41
+"1992"	"Male"	"Agriculture"	76
+"1993"	"Male"	"Agriculture"	86
+"1994"	"Male"	"Agriculture"	90
+"1995"	"Male"	"Agriculture"	97
+"1996"	"Male"	"Agriculture"	68
+"1997"	"Male"	"Agriculture"	74
+"1998"	"Male"	"Agriculture"	71
+"1999"	"Male"	"Agriculture"	42
+"2000"	"Male"	"Agriculture"	42
+"2001"	"Male"	"Agriculture"	23
+"2002"	"Male"	"Agriculture"	35
+"2003"	"Male"	"Agriculture"	25
+"2004"	"Male"	"Agriculture"	31
+"2005"	"Male"	"Agriculture"	28
+"2006"	"Male"	"Agriculture"	38
+"2007"	"Male"	"Agriculture"	30
+"2008"	"Male"	"Agriculture"	25
+"2009"	"Male"	"Agriculture"	43
+"2010"	"Male"	"Agriculture"	42
+"2011"	"Male"	"Agriculture"	41
+"1966"	"Female"	"Anthropology"	0
+"1967"	"Female"	"Anthropology"	0
+"1968"	"Female"	"Anthropology"	0
+"1969"	"Female"	"Anthropology"	0
+"1970"	"Female"	"Anthropology"	0
+"1971"	"Female"	"Anthropology"	0
+"1972"	"Female"	"Anthropology"	0
+"1973"	"Female"	"Anthropology"	0
+"1974"	"Female"	"Anthropology"	11
+"1975"	"Female"	"Anthropology"	4
+"1976"	"Female"	"Anthropology"	2
+"1977"	"Female"	"Anthropology"	5
+"1978"	"Female"	"Anthropology"	6
+"1979"	"Female"	"Anthropology"	3
+"1980"	"Female"	"Anthropology"	0
+"1981"	"Female"	"Anthropology"	5
+"1982"	"Female"	"Anthropology"	3
+"1983"	"Female"	"Anthropology"	4
+"1984"	"Female"	"Anthropology"	1
+"1985"	"Female"	"Anthropology"	2
+"1986"	"Female"	"Anthropology"	1
+"1987"	"Female"	"Anthropology"	2
+"1988"	"Female"	"Anthropology"	1
+"1989"	"Female"	"Anthropology"	2
+"1990"	"Female"	"Anthropology"	7
+"1991"	"Female"	"Anthropology"	6
+"1992"	"Female"	"Anthropology"	9
+"1993"	"Female"	"Anthropology"	7
+"1994"	"Female"	"Anthropology"	8
+"1995"	"Female"	"Anthropology"	5
+"1996"	"Female"	"Anthropology"	8
+"1997"	"Female"	"Anthropology"	10
+"1998"	"Female"	"Anthropology"	3
+"1999"	"Female"	"Anthropology"	12
+"2000"	"Female"	"Anthropology"	13
+"2001"	"Female"	"Anthropology"	7
+"2002"	"Female"	"Anthropology"	6
+"2003"	"Female"	"Anthropology"	6
+"2004"	"Female"	"Anthropology"	12
+"2005"	"Female"	"Anthropology"	9
+"2006"	"Female"	"Anthropology"	14
+"2007"	"Female"	"Anthropology"	5
+"2008"	"Female"	"Anthropology"	12
+"2009"	"Female"	"Anthropology"	15
+"2010"	"Female"	"Anthropology"	8
+"2011"	"Female"	"Anthropology"	7
+"1966"	"Male"	"Anthropology"	0
+"1967"	"Male"	"Anthropology"	0
+"1968"	"Male"	"Anthropology"	0
+"1969"	"Male"	"Anthropology"	0
+"1970"	"Male"	"Anthropology"	0
+"1971"	"Male"	"Anthropology"	0
+"1972"	"Male"	"Anthropology"	0
+"1973"	"Male"	"Anthropology"	0
+"1974"	"Male"	"Anthropology"	13
+"1975"	"Male"	"Anthropology"	4
+"1976"	"Male"	"Anthropology"	6
+"1977"	"Male"	"Anthropology"	2
+"1978"	"Male"	"Anthropology"	7
+"1979"	"Male"	"Anthropology"	5
+"1980"	"Male"	"Anthropology"	0
+"1981"	"Male"	"Anthropology"	4
+"1982"	"Male"	"Anthropology"	2
+"1983"	"Male"	"Anthropology"	3
+"1984"	"Male"	"Anthropology"	4
+"1985"	"Male"	"Anthropology"	3
+"1986"	"Male"	"Anthropology"	1
+"1987"	"Male"	"Anthropology"	1
+"1988"	"Male"	"Anthropology"	0
+"1989"	"Male"	"Anthropology"	2
+"1990"	"Male"	"Anthropology"	4
+"1991"	"Male"	"Anthropology"	9
+"1992"	"Male"	"Anthropology"	6
+"1993"	"Male"	"Anthropology"	6
+"1994"	"Male"	"Anthropology"	5
+"1995"	"Male"	"Anthropology"	2
+"1996"	"Male"	"Anthropology"	9
+"1997"	"Male"	"Anthropology"	6
+"1998"	"Male"	"Anthropology"	3
+"1999"	"Male"	"Anthropology"	3
+"2000"	"Male"	"Anthropology"	4
+"2001"	"Male"	"Anthropology"	1
+"2002"	"Male"	"Anthropology"	3
+"2003"	"Male"	"Anthropology"	4
+"2004"	"Male"	"Anthropology"	6
+"2005"	"Male"	"Anthropology"	2
+"2006"	"Male"	"Anthropology"	10
+"2007"	"Male"	"Anthropology"	7
+"2008"	"Male"	"Anthropology"	6
+"2009"	"Male"	"Anthropology"	3
+"2010"	"Male"	"Anthropology"	8
+"2011"	"Male"	"Anthropology"	7
+"1966"	"Female"	"Area and Ethnic Studies"	0
+"1967"	"Female"	"Area and Ethnic Studies"	0
+"1968"	"Female"	"Area and Ethnic Studies"	0
+"1969"	"Female"	"Area and Ethnic Studies"	0
+"1970"	"Female"	"Area and Ethnic Studies"	0
+"1971"	"Female"	"Area and Ethnic Studies"	0
+"1972"	"Female"	"Area and Ethnic Studies"	0
+"1973"	"Female"	"Area and Ethnic Studies"	0
+"1974"	"Female"	"Area and Ethnic Studies"	0
+"1975"	"Female"	"Area and Ethnic Studies"	0
+"1976"	"Female"	"Area and Ethnic Studies"	1
+"1977"	"Female"	"Area and Ethnic Studies"	0
+"1978"	"Female"	"Area and Ethnic Studies"	1
+"1979"	"Female"	"Area and Ethnic Studies"	0
+"1980"	"Female"	"Area and Ethnic Studies"	0
+"1981"	"Female"	"Area and Ethnic Studies"	0
+"1982"	"Female"	"Area and Ethnic Studies"	0
+"1983"	"Female"	"Area and Ethnic Studies"	0
+"1984"	"Female"	"Area and Ethnic Studies"	0
+"1985"	"Female"	"Area and Ethnic Studies"	0
+"1986"	"Female"	"Area and Ethnic Studies"	0
+"1987"	"Female"	"Area and Ethnic Studies"	0
+"1988"	"Female"	"Area and Ethnic Studies"	0
+"1989"	"Female"	"Area and Ethnic Studies"	0
+"1990"	"Female"	"Area and Ethnic Studies"	0
+"1991"	"Female"	"Area and Ethnic Studies"	0
+"1992"	"Female"	"Area and Ethnic Studies"	0
+"1993"	"Female"	"Area and Ethnic Studies"	0
+"1994"	"Female"	"Area and Ethnic Studies"	0
+"1995"	"Female"	"Area and Ethnic Studies"	0
+"1996"	"Female"	"Area and Ethnic Studies"	0
+"1997"	"Female"	"Area and Ethnic Studies"	0
+"1998"	"Female"	"Area and Ethnic Studies"	0
+"1999"	"Female"	"Area and Ethnic Studies"	0
+"2000"	"Female"	"Area and Ethnic Studies"	0
+"2001"	"Female"	"Area and Ethnic Studies"	0
+"2002"	"Female"	"Area and Ethnic Studies"	0
+"2003"	"Female"	"Area and Ethnic Studies"	0
+"2004"	"Female"	"Area and Ethnic Studies"	1
+"2005"	"Female"	"Area and Ethnic Studies"	2
+"2006"	"Female"	"Area and Ethnic Studies"	0
+"2007"	"Female"	"Area and Ethnic Studies"	0
+"2008"	"Female"	"Area and Ethnic Studies"	2
+"2009"	"Female"	"Area and Ethnic Studies"	3
+"2010"	"Female"	"Area and Ethnic Studies"	2
+"2011"	"Female"	"Area and Ethnic Studies"	1
+"1966"	"Male"	"Area and Ethnic Studies"	0
+"1967"	"Male"	"Area and Ethnic Studies"	0
+"1968"	"Male"	"Area and Ethnic Studies"	0
+"1969"	"Male"	"Area and Ethnic Studies"	0
+"1970"	"Male"	"Area and Ethnic Studies"	0
+"1971"	"Male"	"Area and Ethnic Studies"	0
+"1972"	"Male"	"Area and Ethnic Studies"	0
+"1973"	"Male"	"Area and Ethnic Studies"	0
+"1974"	"Male"	"Area and Ethnic Studies"	0
+"1975"	"Male"	"Area and Ethnic Studies"	1
+"1976"	"Male"	"Area and Ethnic Studies"	0
+"1977"	"Male"	"Area and Ethnic Studies"	0
+"1978"	"Male"	"Area and Ethnic Studies"	0
+"1979"	"Male"	"Area and Ethnic Studies"	1
+"1980"	"Male"	"Area and Ethnic Studies"	0
+"1981"	"Male"	"Area and Ethnic Studies"	0
+"1982"	"Male"	"Area and Ethnic Studies"	0
+"1983"	"Male"	"Area and Ethnic Studies"	0
+"1984"	"Male"	"Area and Ethnic Studies"	0
+"1985"	"Male"	"Area and Ethnic Studies"	0
+"1986"	"Male"	"Area and Ethnic Studies"	0
+"1987"	"Male"	"Area and Ethnic Studies"	0
+"1988"	"Male"	"Area and Ethnic Studies"	0
+"1989"	"Male"	"Area and Ethnic Studies"	0
+"1990"	"Male"	"Area and Ethnic Studies"	0
+"1991"	"Male"	"Area and Ethnic Studies"	0
+"1992"	"Male"	"Area and Ethnic Studies"	0
+"1993"	"Male"	"Area and Ethnic Studies"	1
+"1994"	"Male"	"Area and Ethnic Studies"	0
+"1995"	"Male"	"Area and Ethnic Studies"	0
+"1996"	"Male"	"Area and Ethnic Studies"	0
+"1997"	"Male"	"Area and Ethnic Studies"	0
+"1998"	"Male"	"Area and Ethnic Studies"	0
+"1999"	"Male"	"Area and Ethnic Studies"	1
+"2000"	"Male"	"Area and Ethnic Studies"	1
+"2001"	"Male"	"Area and Ethnic Studies"	0
+"2002"	"Male"	"Area and Ethnic Studies"	0
+"2003"	"Male"	"Area and Ethnic Studies"	0
+"2004"	"Male"	"Area and Ethnic Studies"	1
+"2005"	"Male"	"Area and Ethnic Studies"	1
+"2006"	"Male"	"Area and Ethnic Studies"	1
+"2007"	"Male"	"Area and Ethnic Studies"	1
+"2008"	"Male"	"Area and Ethnic Studies"	1
+"2009"	"Male"	"Area and Ethnic Studies"	1
+"2010"	"Male"	"Area and Ethnic Studies"	0
+"2011"	"Male"	"Area and Ethnic Studies"	1
+"1966"	"Female"	"Art/Architecture"	6
+"1967"	"Female"	"Art/Architecture"	12
+"1968"	"Female"	"Art/Architecture"	13
+"1969"	"Female"	"Art/Architecture"	22
+"1970"	"Female"	"Art/Architecture"	30
+"1971"	"Female"	"Art/Architecture"	35
+"1972"	"Female"	"Art/Architecture"	24
+"1973"	"Female"	"Art/Architecture"	39
+"1974"	"Female"	"Art/Architecture"	40
+"1975"	"Female"	"Art/Architecture"	46
+"1976"	"Female"	"Art/Architecture"	28
+"1977"	"Female"	"Art/Architecture"	36
+"1978"	"Female"	"Art/Architecture"	21
+"1979"	"Female"	"Art/Architecture"	19
+"1980"	"Female"	"Art/Architecture"	27
+"1981"	"Female"	"Art/Architecture"	24
+"1982"	"Female"	"Art/Architecture"	22
+"1983"	"Female"	"Art/Architecture"	25
+"1984"	"Female"	"Art/Architecture"	24
+"1985"	"Female"	"Art/Architecture"	23
+"1986"	"Female"	"Art/Architecture"	17
+"1987"	"Female"	"Art/Architecture"	18
+"1988"	"Female"	"Art/Architecture"	21
+"1989"	"Female"	"Art/Architecture"	34
+"1990"	"Female"	"Art/Architecture"	25
+"1991"	"Female"	"Art/Architecture"	35
+"1992"	"Female"	"Art/Architecture"	38
+"1993"	"Female"	"Art/Architecture"	31
+"1994"	"Female"	"Art/Architecture"	36
+"1995"	"Female"	"Art/Architecture"	25
+"1996"	"Female"	"Art/Architecture"	34
+"1997"	"Female"	"Art/Architecture"	36
+"1998"	"Female"	"Art/Architecture"	38
+"1999"	"Female"	"Art/Architecture"	28
+"2000"	"Female"	"Art/Architecture"	32
+"2001"	"Female"	"Art/Architecture"	40
+"2002"	"Female"	"Art/Architecture"	34
+"2003"	"Female"	"Art/Architecture"	39
+"2004"	"Female"	"Art/Architecture"	38
+"2005"	"Female"	"Art/Architecture"	49
+"2006"	"Female"	"Art/Architecture"	51
+"2007"	"Female"	"Art/Architecture"	50
+"2008"	"Female"	"Art/Architecture"	56
+"2009"	"Female"	"Art/Architecture"	37
+"2010"	"Female"	"Art/Architecture"	54
+"2011"	"Female"	"Art/Architecture"	60
+"1966"	"Male"	"Art/Architecture"	4
+"1967"	"Male"	"Art/Architecture"	5
+"1968"	"Male"	"Art/Architecture"	4
+"1969"	"Male"	"Art/Architecture"	11
+"1970"	"Male"	"Art/Architecture"	10
+"1971"	"Male"	"Art/Architecture"	14
+"1972"	"Male"	"Art/Architecture"	12
+"1973"	"Male"	"Art/Architecture"	22
+"1974"	"Male"	"Art/Architecture"	25
+"1975"	"Male"	"Art/Architecture"	19
+"1976"	"Male"	"Art/Architecture"	16
+"1977"	"Male"	"Art/Architecture"	12
+"1978"	"Male"	"Art/Architecture"	18
+"1979"	"Male"	"Art/Architecture"	15
+"1980"	"Male"	"Art/Architecture"	10
+"1981"	"Male"	"Art/Architecture"	21
+"1982"	"Male"	"Art/Architecture"	10
+"1983"	"Male"	"Art/Architecture"	17
+"1984"	"Male"	"Art/Architecture"	11
+"1985"	"Male"	"Art/Architecture"	13
+"1986"	"Male"	"Art/Architecture"	7
+"1987"	"Male"	"Art/Architecture"	12
+"1988"	"Male"	"Art/Architecture"	10
+"1989"	"Male"	"Art/Architecture"	16
+"1990"	"Male"	"Art/Architecture"	23
+"1991"	"Male"	"Art/Architecture"	24
+"1992"	"Male"	"Art/Architecture"	34
+"1993"	"Male"	"Art/Architecture"	35
+"1994"	"Male"	"Art/Architecture"	31
+"1995"	"Male"	"Art/Architecture"	38
+"1996"	"Male"	"Art/Architecture"	33
+"1997"	"Male"	"Art/Architecture"	33
+"1998"	"Male"	"Art/Architecture"	17
+"1999"	"Male"	"Art/Architecture"	29
+"2000"	"Male"	"Art/Architecture"	23
+"2001"	"Male"	"Art/Architecture"	29
+"2002"	"Male"	"Art/Architecture"	21
+"2003"	"Male"	"Art/Architecture"	27
+"2004"	"Male"	"Art/Architecture"	25
+"2005"	"Male"	"Art/Architecture"	45
+"2006"	"Male"	"Art/Architecture"	33
+"2007"	"Male"	"Art/Architecture"	41
+"2008"	"Male"	"Art/Architecture"	48
+"2009"	"Male"	"Art/Architecture"	47
+"2010"	"Male"	"Art/Architecture"	59
+"2011"	"Male"	"Art/Architecture"	78
+"1966"	"Female"	"Business"	13
+"1967"	"Female"	"Business"	12
+"1968"	"Female"	"Business"	19
+"1969"	"Female"	"Business"	17
+"1970"	"Female"	"Business"	23
+"1971"	"Female"	"Business"	18
+"1972"	"Female"	"Business"	12
+"1973"	"Female"	"Business"	22
+"1974"	"Female"	"Business"	24
+"1975"	"Female"	"Business"	30
+"1976"	"Female"	"Business"	43
+"1977"	"Female"	"Business"	64
+"1978"	"Female"	"Business"	64
+"1979"	"Female"	"Business"	90
+"1980"	"Female"	"Business"	108
+"1981"	"Female"	"Business"	112
+"1982"	"Female"	"Business"	148
+"1983"	"Female"	"Business"	149
+"1984"	"Female"	"Business"	144
+"1985"	"Female"	"Business"	155
+"1986"	"Female"	"Business"	185
+"1987"	"Female"	"Business"	163
+"1988"	"Female"	"Business"	147
+"1989"	"Female"	"Business"	160
+"1990"	"Female"	"Business"	150
+"1991"	"Female"	"Business"	149
+"1992"	"Female"	"Business"	141
+"1993"	"Female"	"Business"	149
+"1994"	"Female"	"Business"	116
+"1995"	"Female"	"Business"	109
+"1996"	"Female"	"Business"	102
+"1997"	"Female"	"Business"	90
+"1998"	"Female"	"Business"	124
+"1999"	"Female"	"Business"	129
+"2000"	"Female"	"Business"	111
+"2001"	"Female"	"Business"	122
+"2002"	"Female"	"Business"	143
+"2003"	"Female"	"Business"	162
+"2004"	"Female"	"Business"	155
+"2005"	"Female"	"Business"	128
+"2006"	"Female"	"Business"	115
+"2007"	"Female"	"Business"	159
+"2008"	"Female"	"Business"	153
+"2009"	"Female"	"Business"	153
+"2010"	"Female"	"Business"	158
+"2011"	"Female"	"Business"	157
+"1966"	"Male"	"Business"	113
+"1967"	"Male"	"Business"	131
+"1968"	"Male"	"Business"	142
+"1969"	"Male"	"Business"	183
+"1970"	"Male"	"Business"	229
+"1971"	"Male"	"Business"	227
+"1972"	"Male"	"Business"	262
+"1973"	"Male"	"Business"	258
+"1974"	"Male"	"Business"	260
+"1975"	"Male"	"Business"	194
+"1976"	"Male"	"Business"	189
+"1977"	"Male"	"Business"	210
+"1978"	"Male"	"Business"	219
+"1979"	"Male"	"Business"	225
+"1980"	"Male"	"Business"	187
+"1981"	"Male"	"Business"	188
+"1982"	"Male"	"Business"	204
+"1983"	"Male"	"Business"	200
+"1984"	"Male"	"Business"	140
+"1985"	"Male"	"Business"	154
+"1986"	"Male"	"Business"	185
+"1987"	"Male"	"Business"	197
+"1988"	"Male"	"Business"	231
+"1989"	"Male"	"Business"	246
+"1990"	"Male"	"Business"	221
+"1991"	"Male"	"Business"	229
+"1992"	"Male"	"Business"	172
+"1993"	"Male"	"Business"	161
+"1994"	"Male"	"Business"	181
+"1995"	"Male"	"Business"	186
+"1996"	"Male"	"Business"	145
+"1997"	"Male"	"Business"	153
+"1998"	"Male"	"Business"	180
+"1999"	"Male"	"Business"	182
+"2000"	"Male"	"Business"	206
+"2001"	"Male"	"Business"	230
+"2002"	"Male"	"Business"	209
+"2003"	"Male"	"Business"	226
+"2004"	"Male"	"Business"	201
+"2005"	"Male"	"Business"	192
+"2006"	"Male"	"Business"	183
+"2007"	"Male"	"Business"	226
+"2008"	"Male"	"Business"	244
+"2009"	"Male"	"Business"	227
+"2010"	"Male"	"Business"	244
+"2011"	"Male"	"Business"	261
+"1966"	"Female"	"Communication and Library Science"	3
+"1967"	"Female"	"Communication and Library Science"	4
+"1968"	"Female"	"Communication and Library Science"	2
+"1969"	"Female"	"Communication and Library Science"	7
+"1970"	"Female"	"Communication and Library Science"	2
+"1971"	"Female"	"Communication and Library Science"	7
+"1972"	"Female"	"Communication and Library Science"	4
+"1973"	"Female"	"Communication and Library Science"	11
+"1974"	"Female"	"Communication and Library Science"	14
+"1975"	"Female"	"Communication and Library Science"	13
+"1976"	"Female"	"Communication and Library Science"	22
+"1977"	"Female"	"Communication and Library Science"	22
+"1978"	"Female"	"Communication and Library Science"	21
+"1979"	"Female"	"Communication and Library Science"	21
+"1980"	"Female"	"Communication and Library Science"	23
+"1981"	"Female"	"Communication and Library Science"	28
+"1982"	"Female"	"Communication and Library Science"	30
+"1983"	"Female"	"Communication and Library Science"	70
+"1984"	"Female"	"Communication and Library Science"	56
+"1985"	"Female"	"Communication and Library Science"	51
+"1986"	"Female"	"Communication and Library Science"	45
+"1987"	"Female"	"Communication and Library Science"	37
+"1988"	"Female"	"Communication and Library Science"	62
+"1989"	"Female"	"Communication and Library Science"	76
+"1990"	"Female"	"Communication and Library Science"	100
+"1991"	"Female"	"Communication and Library Science"	99
+"1992"	"Female"	"Communication and Library Science"	93
+"1993"	"Female"	"Communication and Library Science"	105
+"1994"	"Female"	"Communication and Library Science"	79
+"1995"	"Female"	"Communication and Library Science"	69
+"1996"	"Female"	"Communication and Library Science"	58
+"1997"	"Female"	"Communication and Library Science"	62
+"1998"	"Female"	"Communication and Library Science"	74
+"1999"	"Female"	"Communication and Library Science"	70
+"2000"	"Female"	"Communication and Library Science"	92
+"2001"	"Female"	"Communication and Library Science"	82
+"2002"	"Female"	"Communication and Library Science"	121
+"2003"	"Female"	"Communication and Library Science"	116
+"2004"	"Female"	"Communication and Library Science"	137
+"2005"	"Female"	"Communication and Library Science"	152
+"2006"	"Female"	"Communication and Library Science"	141
+"2007"	"Female"	"Communication and Library Science"	136
+"2008"	"Female"	"Communication and Library Science"	122
+"2009"	"Female"	"Communication and Library Science"	144
+"2010"	"Female"	"Communication and Library Science"	152
+"2011"	"Female"	"Communication and Library Science"	145
+"1966"	"Male"	"Communication and Library Science"	1
+"1967"	"Male"	"Communication and Library Science"	2
+"1968"	"Male"	"Communication and Library Science"	3
+"1969"	"Male"	"Communication and Library Science"	7
+"1970"	"Male"	"Communication and Library Science"	8
+"1971"	"Male"	"Communication and Library Science"	9
+"1972"	"Male"	"Communication and Library Science"	7
+"1973"	"Male"	"Communication and Library Science"	12
+"1974"	"Male"	"Communication and Library Science"	15
+"1975"	"Male"	"Communication and Library Science"	23
+"1976"	"Male"	"Communication and Library Science"	26
+"1977"	"Male"	"Communication and Library Science"	26
+"1978"	"Male"	"Communication and Library Science"	25
+"1979"	"Male"	"Communication and Library Science"	26
+"1980"	"Male"	"Communication and Library Science"	25
+"1981"	"Male"	"Communication and Library Science"	27
+"1982"	"Male"	"Communication and Library Science"	18
+"1983"	"Male"	"Communication and Library Science"	28
+"1984"	"Male"	"Communication and Library Science"	36
+"1985"	"Male"	"Communication and Library Science"	25
+"1986"	"Male"	"Communication and Library Science"	28
+"1987"	"Male"	"Communication and Library Science"	38
+"1988"	"Male"	"Communication and Library Science"	36
+"1989"	"Male"	"Communication and Library Science"	51
+"1990"	"Male"	"Communication and Library Science"	61
+"1991"	"Male"	"Communication and Library Science"	78
+"1992"	"Male"	"Communication and Library Science"	57
+"1993"	"Male"	"Communication and Library Science"	57
+"1994"	"Male"	"Communication and Library Science"	53
+"1995"	"Male"	"Communication and Library Science"	43
+"1996"	"Male"	"Communication and Library Science"	46
+"1997"	"Male"	"Communication and Library Science"	52
+"1998"	"Male"	"Communication and Library Science"	59
+"1999"	"Male"	"Communication and Library Science"	61
+"2000"	"Male"	"Communication and Library Science"	64
+"2001"	"Male"	"Communication and Library Science"	76
+"2002"	"Male"	"Communication and Library Science"	78
+"2003"	"Male"	"Communication and Library Science"	79
+"2004"	"Male"	"Communication and Library Science"	103
+"2005"	"Male"	"Communication and Library Science"	77
+"2006"	"Male"	"Communication and Library Science"	76
+"2007"	"Male"	"Communication and Library Science"	98
+"2008"	"Male"	"Communication and Library Science"	104
+"2009"	"Male"	"Communication and Library Science"	94
+"2010"	"Male"	"Communication and Library Science"	94
+"2011"	"Male"	"Communication and Library Science"	105
+"1966"	"Female"	"Computer Science"	0
+"1967"	"Female"	"Computer Science"	0
+"1968"	"Female"	"Computer Science"	0
+"1969"	"Female"	"Computer Science"	0
+"1970"	"Female"	"Computer Science"	0
+"1971"	"Female"	"Computer Science"	0
+"1972"	"Female"	"Computer Science"	0
+"1973"	"Female"	"Computer Science"	0
+"1974"	"Female"	"Computer Science"	0
+"1975"	"Female"	"Computer Science"	0
+"1976"	"Female"	"Computer Science"	0
+"1977"	"Female"	"Computer Science"	3
+"1978"	"Female"	"Computer Science"	0
+"1979"	"Female"	"Computer Science"	2
+"1980"	"Female"	"Computer Science"	10
+"1981"	"Female"	"Computer Science"	16
+"1982"	"Female"	"Computer Science"	23
+"1983"	"Female"	"Computer Science"	10
+"1984"	"Female"	"Computer Science"	12
+"1985"	"Female"	"Computer Science"	19
+"1986"	"Female"	"Computer Science"	7
+"1987"	"Female"	"Computer Science"	11
+"1988"	"Female"	"Computer Science"	6
+"1989"	"Female"	"Computer Science"	5
+"1990"	"Female"	"Computer Science"	3
+"1991"	"Female"	"Computer Science"	3
+"1992"	"Female"	"Computer Science"	2
+"1993"	"Female"	"Computer Science"	3
+"1994"	"Female"	"Computer Science"	4
+"1995"	"Female"	"Computer Science"	1
+"1996"	"Female"	"Computer Science"	2
+"1997"	"Female"	"Computer Science"	3
+"1998"	"Female"	"Computer Science"	2
+"1999"	"Female"	"Computer Science"	2
+"2000"	"Female"	"Computer Science"	1
+"2001"	"Female"	"Computer Science"	1
+"2002"	"Female"	"Computer Science"	4
+"2003"	"Female"	"Computer Science"	4
+"2004"	"Female"	"Computer Science"	1
+"2005"	"Female"	"Computer Science"	1
+"2006"	"Female"	"Computer Science"	3
+"2007"	"Female"	"Computer Science"	1
+"2008"	"Female"	"Computer Science"	3
+"2009"	"Female"	"Computer Science"	1
+"2010"	"Female"	"Computer Science"	3
+"2011"	"Female"	"Computer Science"	1
+"1966"	"Male"	"Computer Science"	0
+"1967"	"Male"	"Computer Science"	0
+"1968"	"Male"	"Computer Science"	0
+"1969"	"Male"	"Computer Science"	0
+"1970"	"Male"	"Computer Science"	0
+"1971"	"Male"	"Computer Science"	0
+"1972"	"Male"	"Computer Science"	0
+"1973"	"Male"	"Computer Science"	0
+"1974"	"Male"	"Computer Science"	0
+"1975"	"Male"	"Computer Science"	0
+"1976"	"Male"	"Computer Science"	1
+"1977"	"Male"	"Computer Science"	7
+"1978"	"Male"	"Computer Science"	4
+"1979"	"Male"	"Computer Science"	14
+"1980"	"Male"	"Computer Science"	23
+"1981"	"Male"	"Computer Science"	27
+"1982"	"Male"	"Computer Science"	51
+"1983"	"Male"	"Computer Science"	30
+"1984"	"Male"	"Computer Science"	12
+"1985"	"Male"	"Computer Science"	12
+"1986"	"Male"	"Computer Science"	12
+"1987"	"Male"	"Computer Science"	26
+"1988"	"Male"	"Computer Science"	20
+"1989"	"Male"	"Computer Science"	20
+"1990"	"Male"	"Computer Science"	14
+"1991"	"Male"	"Computer Science"	16
+"1992"	"Male"	"Computer Science"	12
+"1993"	"Male"	"Computer Science"	9
+"1994"	"Male"	"Computer Science"	7
+"1995"	"Male"	"Computer Science"	11
+"1996"	"Male"	"Computer Science"	7
+"1997"	"Male"	"Computer Science"	13
+"1998"	"Male"	"Computer Science"	12
+"1999"	"Male"	"Computer Science"	20
+"2000"	"Male"	"Computer Science"	9
+"2001"	"Male"	"Computer Science"	16
+"2002"	"Male"	"Computer Science"	18
+"2003"	"Male"	"Computer Science"	30
+"2004"	"Male"	"Computer Science"	33
+"2005"	"Male"	"Computer Science"	30
+"2006"	"Male"	"Computer Science"	20
+"2007"	"Male"	"Computer Science"	16
+"2008"	"Male"	"Computer Science"	18
+"2009"	"Male"	"Computer Science"	19
+"2010"	"Male"	"Computer Science"	15
+"2011"	"Male"	"Computer Science"	16
+"1966"	"Female"	"Economics"	1
+"1967"	"Female"	"Economics"	0
+"1968"	"Female"	"Economics"	0
+"1969"	"Female"	"Economics"	1
+"1970"	"Female"	"Economics"	1
+"1971"	"Female"	"Economics"	1
+"1972"	"Female"	"Economics"	2
+"1973"	"Female"	"Economics"	2
+"1974"	"Female"	"Economics"	2
+"1975"	"Female"	"Economics"	2
+"1976"	"Female"	"Economics"	7
+"1977"	"Female"	"Economics"	3
+"1978"	"Female"	"Economics"	5
+"1979"	"Female"	"Economics"	9
+"1980"	"Female"	"Economics"	8
+"1981"	"Female"	"Economics"	7
+"1982"	"Female"	"Economics"	8
+"1983"	"Female"	"Economics"	15
+"1984"	"Female"	"Economics"	8
+"1985"	"Female"	"Economics"	12
+"1986"	"Female"	"Economics"	4
+"1987"	"Female"	"Economics"	7
+"1988"	"Female"	"Economics"	10
+"1989"	"Female"	"Economics"	8
+"1990"	"Female"	"Economics"	15
+"1991"	"Female"	"Economics"	13
+"1992"	"Female"	"Economics"	13
+"1993"	"Female"	"Economics"	9
+"1994"	"Female"	"Economics"	8
+"1995"	"Female"	"Economics"	5
+"1996"	"Female"	"Economics"	9
+"1997"	"Female"	"Economics"	2
+"1998"	"Female"	"Economics"	2
+"1999"	"Female"	"Economics"	7
+"2000"	"Female"	"Economics"	2
+"2001"	"Female"	"Economics"	3
+"2002"	"Female"	"Economics"	6
+"2003"	"Female"	"Economics"	5
+"2004"	"Female"	"Economics"	5
+"2005"	"Female"	"Economics"	10
+"2006"	"Female"	"Economics"	4
+"2007"	"Female"	"Economics"	3
+"2008"	"Female"	"Economics"	7
+"2009"	"Female"	"Economics"	10
+"2010"	"Female"	"Economics"	15
+"2011"	"Female"	"Economics"	6
+"1966"	"Male"	"Economics"	6
+"1967"	"Male"	"Economics"	8
+"1968"	"Male"	"Economics"	3
+"1969"	"Male"	"Economics"	10
+"1970"	"Male"	"Economics"	11
+"1971"	"Male"	"Economics"	18
+"1972"	"Male"	"Economics"	27
+"1973"	"Male"	"Economics"	35
+"1974"	"Male"	"Economics"	18
+"1975"	"Male"	"Economics"	24
+"1976"	"Male"	"Economics"	22
+"1977"	"Male"	"Economics"	24
+"1978"	"Male"	"Economics"	21
+"1979"	"Male"	"Economics"	29
+"1980"	"Male"	"Economics"	47
+"1981"	"Male"	"Economics"	47
+"1982"	"Male"	"Economics"	40
+"1983"	"Male"	"Economics"	73
+"1984"	"Male"	"Economics"	57
+"1985"	"Male"	"Economics"	33
+"1986"	"Male"	"Economics"	32
+"1987"	"Male"	"Economics"	33
+"1988"	"Male"	"Economics"	37
+"1989"	"Male"	"Economics"	29
+"1990"	"Male"	"Economics"	37
+"1991"	"Male"	"Economics"	71
+"1992"	"Male"	"Economics"	80
+"1993"	"Male"	"Economics"	48
+"1994"	"Male"	"Economics"	44
+"1995"	"Male"	"Economics"	24
+"1996"	"Male"	"Economics"	29
+"1997"	"Male"	"Economics"	10
+"1998"	"Male"	"Economics"	14
+"1999"	"Male"	"Economics"	11
+"2000"	"Male"	"Economics"	6
+"2001"	"Male"	"Economics"	14
+"2002"	"Male"	"Economics"	11
+"2003"	"Male"	"Economics"	13
+"2004"	"Male"	"Economics"	30
+"2005"	"Male"	"Economics"	14
+"2006"	"Male"	"Economics"	23
+"2007"	"Male"	"Economics"	21
+"2008"	"Male"	"Economics"	32
+"2009"	"Male"	"Economics"	31
+"2010"	"Male"	"Economics"	43
+"2011"	"Male"	"Economics"	56
+"1966"	"Female"	"Education"	72
+"1967"	"Female"	"Education"	26
+"1968"	"Female"	"Education"	73
+"1969"	"Female"	"Education"	47
+"1970"	"Female"	"Education"	47
+"1971"	"Female"	"Education"	233
+"1972"	"Female"	"Education"	172
+"1973"	"Female"	"Education"	172
+"1974"	"Female"	"Education"	81
+"1975"	"Female"	"Education"	60
+"1976"	"Female"	"Education"	179
+"1977"	"Female"	"Education"	163
+"1978"	"Female"	"Education"	130
+"1979"	"Female"	"Education"	95
+"1980"	"Female"	"Education"	99
+"1981"	"Female"	"Education"	78
+"1982"	"Female"	"Education"	70
+"1983"	"Female"	"Education"	77
+"1984"	"Female"	"Education"	76
+"1985"	"Female"	"Education"	64
+"1986"	"Female"	"Education"	59
+"1987"	"Female"	"Education"	73
+"1988"	"Female"	"Education"	88
+"1989"	"Female"	"Education"	123
+"1990"	"Female"	"Education"	141
+"1991"	"Female"	"Education"	133
+"1992"	"Female"	"Education"	136
+"1993"	"Female"	"Education"	115
+"1994"	"Female"	"Education"	78
+"1995"	"Female"	"Education"	73
+"1996"	"Female"	"Education"	81
+"1997"	"Female"	"Education"	81
+"1998"	"Female"	"Education"	68
+"1999"	"Female"	"Education"	120
+"2000"	"Female"	"Education"	86
+"2001"	"Female"	"Education"	81
+"2002"	"Female"	"Education"	101
+"2003"	"Female"	"Education"	78
+"2004"	"Female"	"Education"	105
+"2005"	"Female"	"Education"	79
+"2006"	"Female"	"Education"	105
+"2007"	"Female"	"Education"	98
+"2008"	"Female"	"Education"	121
+"2009"	"Female"	"Education"	71
+"2010"	"Female"	"Education"	149
+"2011"	"Female"	"Education"	133
+"1966"	"Male"	"Education"	29
+"1967"	"Male"	"Education"	33
+"1968"	"Male"	"Education"	21
+"1969"	"Male"	"Education"	35
+"1970"	"Male"	"Education"	37
+"1971"	"Male"	"Education"	79
+"1972"	"Male"	"Education"	53
+"1973"	"Male"	"Education"	55
+"1974"	"Male"	"Education"	64
+"1975"	"Male"	"Education"	58
+"1976"	"Male"	"Education"	74
+"1977"	"Male"	"Education"	70
+"1978"	"Male"	"Education"	66
+"1979"	"Male"	"Education"	50
+"1980"	"Male"	"Education"	54
+"1981"	"Male"	"Education"	31
+"1982"	"Male"	"Education"	29
+"1983"	"Male"	"Education"	41
+"1984"	"Male"	"Education"	32
+"1985"	"Male"	"Education"	27
+"1986"	"Male"	"Education"	39
+"1987"	"Male"	"Education"	40
+"1988"	"Male"	"Education"	39
+"1989"	"Male"	"Education"	42
+"1990"	"Male"	"Education"	63
+"1991"	"Male"	"Education"	56
+"1992"	"Male"	"Education"	44
+"1993"	"Male"	"Education"	49
+"1994"	"Male"	"Education"	52
+"1995"	"Male"	"Education"	64
+"1996"	"Male"	"Education"	64
+"1997"	"Male"	"Education"	47
+"1998"	"Male"	"Education"	53
+"1999"	"Male"	"Education"	65
+"2000"	"Male"	"Education"	51
+"2001"	"Male"	"Education"	54
+"2002"	"Male"	"Education"	57
+"2003"	"Male"	"Education"	52
+"2004"	"Male"	"Education"	52
+"2005"	"Male"	"Education"	47
+"2006"	"Male"	"Education"	58
+"2007"	"Male"	"Education"	63
+"2008"	"Male"	"Education"	62
+"2009"	"Male"	"Education"	53
+"2010"	"Male"	"Education"	68
+"2011"	"Male"	"Education"	70
+"1966"	"Female"	"Engineering"	3
+"1967"	"Female"	"Engineering"	1
+"1968"	"Female"	"Engineering"	6
+"1969"	"Female"	"Engineering"	3
+"1970"	"Female"	"Engineering"	2
+"1971"	"Female"	"Engineering"	9
+"1972"	"Female"	"Engineering"	33
+"1973"	"Female"	"Engineering"	29
+"1974"	"Female"	"Engineering"	42
+"1975"	"Female"	"Engineering"	36
+"1976"	"Female"	"Engineering"	27
+"1977"	"Female"	"Engineering"	35
+"1978"	"Female"	"Engineering"	33
+"1979"	"Female"	"Engineering"	42
+"1980"	"Female"	"Engineering"	34
+"1981"	"Female"	"Engineering"	29
+"1982"	"Female"	"Engineering"	52
+"1983"	"Female"	"Engineering"	66
+"1984"	"Female"	"Engineering"	61
+"1985"	"Female"	"Engineering"	60
+"1986"	"Female"	"Engineering"	56
+"1987"	"Female"	"Engineering"	50
+"1988"	"Female"	"Engineering"	52
+"1989"	"Female"	"Engineering"	46
+"1990"	"Female"	"Engineering"	46
+"1991"	"Female"	"Engineering"	43
+"1992"	"Female"	"Engineering"	43
+"1993"	"Female"	"Engineering"	32
+"1994"	"Female"	"Engineering"	41
+"1995"	"Female"	"Engineering"	40
+"1996"	"Female"	"Engineering"	39
+"1997"	"Female"	"Engineering"	42
+"1998"	"Female"	"Engineering"	37
+"1999"	"Female"	"Engineering"	25
+"2000"	"Female"	"Engineering"	25
+"2001"	"Female"	"Engineering"	23
+"2002"	"Female"	"Engineering"	34
+"2003"	"Female"	"Engineering"	46
+"2004"	"Female"	"Engineering"	30
+"2005"	"Female"	"Engineering"	38
+"2006"	"Female"	"Engineering"	45
+"2007"	"Female"	"Engineering"	29
+"2008"	"Female"	"Engineering"	25
+"2009"	"Female"	"Engineering"	34
+"2010"	"Female"	"Engineering"	35
+"2011"	"Female"	"Engineering"	42
+"1966"	"Male"	"Engineering"	131
+"1967"	"Male"	"Engineering"	139
+"1968"	"Male"	"Engineering"	165
+"1969"	"Male"	"Engineering"	142
+"1970"	"Male"	"Engineering"	149
+"1971"	"Male"	"Engineering"	146
+"1972"	"Male"	"Engineering"	184
+"1973"	"Male"	"Engineering"	164
+"1974"	"Male"	"Engineering"	140
+"1975"	"Male"	"Engineering"	97
+"1976"	"Male"	"Engineering"	122
+"1977"	"Male"	"Engineering"	112
+"1978"	"Male"	"Engineering"	130
+"1979"	"Male"	"Engineering"	159
+"1980"	"Male"	"Engineering"	148
+"1981"	"Male"	"Engineering"	196
+"1982"	"Male"	"Engineering"	175
+"1983"	"Male"	"Engineering"	196
+"1984"	"Male"	"Engineering"	231
+"1985"	"Male"	"Engineering"	197
+"1986"	"Male"	"Engineering"	219
+"1987"	"Male"	"Engineering"	230
+"1988"	"Male"	"Engineering"	200
+"1989"	"Male"	"Engineering"	160
+"1990"	"Male"	"Engineering"	140
+"1991"	"Male"	"Engineering"	139
+"1992"	"Male"	"Engineering"	139
+"1993"	"Male"	"Engineering"	125
+"1994"	"Male"	"Engineering"	124
+"1995"	"Male"	"Engineering"	112
+"1996"	"Male"	"Engineering"	98
+"1997"	"Male"	"Engineering"	108
+"1998"	"Male"	"Engineering"	119
+"1999"	"Male"	"Engineering"	99
+"2000"	"Male"	"Engineering"	89
+"2001"	"Male"	"Engineering"	111
+"2002"	"Male"	"Engineering"	93
+"2003"	"Male"	"Engineering"	108
+"2004"	"Male"	"Engineering"	146
+"2005"	"Male"	"Engineering"	156
+"2006"	"Male"	"Engineering"	117
+"2007"	"Male"	"Engineering"	118
+"2008"	"Male"	"Engineering"	164
+"2009"	"Male"	"Engineering"	153
+"2010"	"Male"	"Engineering"	166
+"2011"	"Male"	"Engineering"	207
+"1966"	"Female"	"English and Literature"	56
+"1967"	"Female"	"English and Literature"	86
+"1968"	"Female"	"English and Literature"	88
+"1969"	"Female"	"English and Literature"	97
+"1970"	"Female"	"English and Literature"	142
+"1971"	"Female"	"English and Literature"	125
+"1972"	"Female"	"English and Literature"	138
+"1973"	"Female"	"English and Literature"	136
+"1974"	"Female"	"English and Literature"	136
+"1975"	"Female"	"English and Literature"	113
+"1976"	"Female"	"English and Literature"	73
+"1977"	"Female"	"English and Literature"	87
+"1978"	"Female"	"English and Literature"	67
+"1979"	"Female"	"English and Literature"	83
+"1980"	"Female"	"English and Literature"	63
+"1981"	"Female"	"English and Literature"	62
+"1982"	"Female"	"English and Literature"	63
+"1983"	"Female"	"English and Literature"	34
+"1984"	"Female"	"English and Literature"	42
+"1985"	"Female"	"English and Literature"	30
+"1986"	"Female"	"English and Literature"	26
+"1987"	"Female"	"English and Literature"	36
+"1988"	"Female"	"English and Literature"	26
+"1989"	"Female"	"English and Literature"	48
+"1990"	"Female"	"English and Literature"	69
+"1991"	"Female"	"English and Literature"	63
+"1992"	"Female"	"English and Literature"	80
+"1993"	"Female"	"English and Literature"	77
+"1994"	"Female"	"English and Literature"	69
+"1995"	"Female"	"English and Literature"	67
+"1996"	"Female"	"English and Literature"	52
+"1997"	"Female"	"English and Literature"	36
+"1998"	"Female"	"English and Literature"	41
+"1999"	"Female"	"English and Literature"	42
+"2000"	"Female"	"English and Literature"	34
+"2001"	"Female"	"English and Literature"	41
+"2002"	"Female"	"English and Literature"	46
+"2003"	"Female"	"English and Literature"	47
+"2004"	"Female"	"English and Literature"	50
+"2005"	"Female"	"English and Literature"	36
+"2006"	"Female"	"English and Literature"	50
+"2007"	"Female"	"English and Literature"	42
+"2008"	"Female"	"English and Literature"	54
+"2009"	"Female"	"English and Literature"	68
+"2010"	"Female"	"English and Literature"	61
+"2011"	"Female"	"English and Literature"	58
+"1966"	"Male"	"English and Literature"	22
+"1967"	"Male"	"English and Literature"	30
+"1968"	"Male"	"English and Literature"	26
+"1969"	"Male"	"English and Literature"	38
+"1970"	"Male"	"English and Literature"	25
+"1971"	"Male"	"English and Literature"	41
+"1972"	"Male"	"English and Literature"	53
+"1973"	"Male"	"English and Literature"	57
+"1974"	"Male"	"English and Literature"	35
+"1975"	"Male"	"English and Literature"	58
+"1976"	"Male"	"English and Literature"	38
+"1977"	"Male"	"English and Literature"	32
+"1978"	"Male"	"English and Literature"	28
+"1979"	"Male"	"English and Literature"	26
+"1980"	"Male"	"English and Literature"	26
+"1981"	"Male"	"English and Literature"	30
+"1982"	"Male"	"English and Literature"	37
+"1983"	"Male"	"English and Literature"	11
+"1984"	"Male"	"English and Literature"	13
+"1985"	"Male"	"English and Literature"	17
+"1986"	"Male"	"English and Literature"	13
+"1987"	"Male"	"English and Literature"	13
+"1988"	"Male"	"English and Literature"	17
+"1989"	"Male"	"English and Literature"	24
+"1990"	"Male"	"English and Literature"	26
+"1991"	"Male"	"English and Literature"	33
+"1992"	"Male"	"English and Literature"	42
+"1993"	"Male"	"English and Literature"	33
+"1994"	"Male"	"English and Literature"	31
+"1995"	"Male"	"English and Literature"	20
+"1996"	"Male"	"English and Literature"	29
+"1997"	"Male"	"English and Literature"	28
+"1998"	"Male"	"English and Literature"	23
+"1999"	"Male"	"English and Literature"	24
+"2000"	"Male"	"English and Literature"	20
+"2001"	"Male"	"English and Literature"	24
+"2002"	"Male"	"English and Literature"	16
+"2003"	"Male"	"English and Literature"	27
+"2004"	"Male"	"English and Literature"	21
+"2005"	"Male"	"English and Literature"	21
+"2006"	"Male"	"English and Literature"	17
+"2007"	"Male"	"English and Literature"	18
+"2008"	"Male"	"English and Literature"	28
+"2009"	"Male"	"English and Literature"	26
+"2010"	"Male"	"English and Literature"	22
+"2011"	"Male"	"English and Literature"	36
+"1966"	"Female"	"Foreign Languages"	6
+"1967"	"Female"	"Foreign Languages"	8
+"1968"	"Female"	"Foreign Languages"	11
+"1969"	"Female"	"Foreign Languages"	13
+"1970"	"Female"	"Foreign Languages"	23
+"1971"	"Female"	"Foreign Languages"	18
+"1972"	"Female"	"Foreign Languages"	22
+"1973"	"Female"	"Foreign Languages"	21
+"1974"	"Female"	"Foreign Languages"	24
+"1975"	"Female"	"Foreign Languages"	19
+"1976"	"Female"	"Foreign Languages"	12
+"1977"	"Female"	"Foreign Languages"	4
+"1978"	"Female"	"Foreign Languages"	11
+"1979"	"Female"	"Foreign Languages"	5
+"1980"	"Female"	"Foreign Languages"	12
+"1981"	"Female"	"Foreign Languages"	11
+"1982"	"Female"	"Foreign Languages"	17
+"1983"	"Female"	"Foreign Languages"	9
+"1984"	"Female"	"Foreign Languages"	14
+"1985"	"Female"	"Foreign Languages"	10
+"1986"	"Female"	"Foreign Languages"	11
+"1987"	"Female"	"Foreign Languages"	8
+"1988"	"Female"	"Foreign Languages"	12
+"1989"	"Female"	"Foreign Languages"	13
+"1990"	"Female"	"Foreign Languages"	14
+"1991"	"Female"	"Foreign Languages"	11
+"1992"	"Female"	"Foreign Languages"	12
+"1993"	"Female"	"Foreign Languages"	17
+"1994"	"Female"	"Foreign Languages"	18
+"1995"	"Female"	"Foreign Languages"	19
+"1996"	"Female"	"Foreign Languages"	9
+"1997"	"Female"	"Foreign Languages"	9
+"1998"	"Female"	"Foreign Languages"	9
+"1999"	"Female"	"Foreign Languages"	9
+"2000"	"Female"	"Foreign Languages"	11
+"2001"	"Female"	"Foreign Languages"	23
+"2002"	"Female"	"Foreign Languages"	24
+"2003"	"Female"	"Foreign Languages"	28
+"2004"	"Female"	"Foreign Languages"	22
+"2005"	"Female"	"Foreign Languages"	27
+"2006"	"Female"	"Foreign Languages"	31
+"2007"	"Female"	"Foreign Languages"	19
+"2008"	"Female"	"Foreign Languages"	29
+"2009"	"Female"	"Foreign Languages"	44
+"2010"	"Female"	"Foreign Languages"	49
+"2011"	"Female"	"Foreign Languages"	46
+"1966"	"Male"	"Foreign Languages"	3
+"1967"	"Male"	"Foreign Languages"	2
+"1968"	"Male"	"Foreign Languages"	2
+"1969"	"Male"	"Foreign Languages"	9
+"1970"	"Male"	"Foreign Languages"	7
+"1971"	"Male"	"Foreign Languages"	6
+"1972"	"Male"	"Foreign Languages"	5
+"1973"	"Male"	"Foreign Languages"	6
+"1974"	"Male"	"Foreign Languages"	7
+"1975"	"Male"	"Foreign Languages"	2
+"1976"	"Male"	"Foreign Languages"	3
+"1977"	"Male"	"Foreign Languages"	1
+"1978"	"Male"	"Foreign Languages"	5
+"1979"	"Male"	"Foreign Languages"	4
+"1980"	"Male"	"Foreign Languages"	0
+"1981"	"Male"	"Foreign Languages"	2
+"1982"	"Male"	"Foreign Languages"	7
+"1983"	"Male"	"Foreign Languages"	2
+"1984"	"Male"	"Foreign Languages"	6
+"1985"	"Male"	"Foreign Languages"	4
+"1986"	"Male"	"Foreign Languages"	3
+"1987"	"Male"	"Foreign Languages"	1
+"1988"	"Male"	"Foreign Languages"	3
+"1989"	"Male"	"Foreign Languages"	6
+"1990"	"Male"	"Foreign Languages"	8
+"1991"	"Male"	"Foreign Languages"	7
+"1992"	"Male"	"Foreign Languages"	4
+"1993"	"Male"	"Foreign Languages"	7
+"1994"	"Male"	"Foreign Languages"	5
+"1995"	"Male"	"Foreign Languages"	8
+"1996"	"Male"	"Foreign Languages"	10
+"1997"	"Male"	"Foreign Languages"	11
+"1998"	"Male"	"Foreign Languages"	13
+"1999"	"Male"	"Foreign Languages"	11
+"2000"	"Male"	"Foreign Languages"	7
+"2001"	"Male"	"Foreign Languages"	17
+"2002"	"Male"	"Foreign Languages"	11
+"2003"	"Male"	"Foreign Languages"	23
+"2004"	"Male"	"Foreign Languages"	23
+"2005"	"Male"	"Foreign Languages"	26
+"2006"	"Male"	"Foreign Languages"	18
+"2007"	"Male"	"Foreign Languages"	10
+"2008"	"Male"	"Foreign Languages"	31
+"2009"	"Male"	"Foreign Languages"	26
+"2010"	"Male"	"Foreign Languages"	35
+"2011"	"Male"	"Foreign Languages"	29
+"1966"	"Female"	"History"	5
+"1967"	"Female"	"History"	7
+"1968"	"Female"	"History"	18
+"1969"	"Female"	"History"	21
+"1970"	"Female"	"History"	11
+"1971"	"Female"	"History"	16
+"1972"	"Female"	"History"	33
+"1973"	"Female"	"History"	35
+"1974"	"Female"	"History"	27
+"1975"	"Female"	"History"	26
+"1976"	"Female"	"History"	11
+"1977"	"Female"	"History"	13
+"1978"	"Female"	"History"	14
+"1979"	"Female"	"History"	15
+"1980"	"Female"	"History"	10
+"1981"	"Female"	"History"	15
+"1982"	"Female"	"History"	6
+"1983"	"Female"	"History"	12
+"1984"	"Female"	"History"	8
+"1985"	"Female"	"History"	9
+"1986"	"Female"	"History"	10
+"1987"	"Female"	"History"	6
+"1988"	"Female"	"History"	7
+"1989"	"Female"	"History"	7
+"1990"	"Female"	"History"	5
+"1991"	"Female"	"History"	17
+"1992"	"Female"	"History"	14
+"1993"	"Female"	"History"	16
+"1994"	"Female"	"History"	24
+"1995"	"Female"	"History"	17
+"1996"	"Female"	"History"	6
+"1997"	"Female"	"History"	9
+"1998"	"Female"	"History"	8
+"1999"	"Female"	"History"	6
+"2000"	"Female"	"History"	18
+"2001"	"Female"	"History"	12
+"2002"	"Female"	"History"	12
+"2003"	"Female"	"History"	20
+"2004"	"Female"	"History"	26
+"2005"	"Female"	"History"	17
+"2006"	"Female"	"History"	24
+"2007"	"Female"	"History"	9
+"2008"	"Female"	"History"	16
+"2009"	"Female"	"History"	25
+"2010"	"Female"	"History"	11
+"2011"	"Female"	"History"	14
+"1966"	"Male"	"History"	16
+"1967"	"Male"	"History"	14
+"1968"	"Male"	"History"	16
+"1969"	"Male"	"History"	17
+"1970"	"Male"	"History"	17
+"1971"	"Male"	"History"	24
+"1972"	"Male"	"History"	43
+"1973"	"Male"	"History"	53
+"1974"	"Male"	"History"	36
+"1975"	"Male"	"History"	47
+"1976"	"Male"	"History"	26
+"1977"	"Male"	"History"	22
+"1978"	"Male"	"History"	19
+"1979"	"Male"	"History"	11
+"1980"	"Male"	"History"	22
+"1981"	"Male"	"History"	13
+"1982"	"Male"	"History"	12
+"1983"	"Male"	"History"	18
+"1984"	"Male"	"History"	17
+"1985"	"Male"	"History"	11
+"1986"	"Male"	"History"	12
+"1987"	"Male"	"History"	11
+"1988"	"Male"	"History"	16
+"1989"	"Male"	"History"	12
+"1990"	"Male"	"History"	31
+"1991"	"Male"	"History"	32
+"1992"	"Male"	"History"	49
+"1993"	"Male"	"History"	28
+"1994"	"Male"	"History"	37
+"1995"	"Male"	"History"	28
+"1996"	"Male"	"History"	33
+"1997"	"Male"	"History"	17
+"1998"	"Male"	"History"	15
+"1999"	"Male"	"History"	13
+"2000"	"Male"	"History"	28
+"2001"	"Male"	"History"	27
+"2002"	"Male"	"History"	18
+"2003"	"Male"	"History"	23
+"2004"	"Male"	"History"	31
+"2005"	"Male"	"History"	24
+"2006"	"Male"	"History"	24
+"2007"	"Male"	"History"	27
+"2008"	"Male"	"History"	21
+"2009"	"Male"	"History"	35
+"2010"	"Male"	"History"	29
+"2011"	"Male"	"History"	25
+"1966"	"Female"	"Humanities, Other"	1
+"1967"	"Female"	"Humanities, Other"	1
+"1968"	"Female"	"Humanities, Other"	6
+"1969"	"Female"	"Humanities, Other"	2
+"1970"	"Female"	"Humanities, Other"	1
+"1971"	"Female"	"Humanities, Other"	2
+"1972"	"Female"	"Humanities, Other"	1
+"1973"	"Female"	"Humanities, Other"	4
+"1974"	"Female"	"Humanities, Other"	0
+"1975"	"Female"	"Humanities, Other"	1
+"1976"	"Female"	"Humanities, Other"	0
+"1977"	"Female"	"Humanities, Other"	4
+"1978"	"Female"	"Humanities, Other"	1
+"1979"	"Female"	"Humanities, Other"	2
+"1980"	"Female"	"Humanities, Other"	0
+"1981"	"Female"	"Humanities, Other"	3
+"1982"	"Female"	"Humanities, Other"	0
+"1983"	"Female"	"Humanities, Other"	3
+"1984"	"Female"	"Humanities, Other"	1
+"1985"	"Female"	"Humanities, Other"	1
+"1986"	"Female"	"Humanities, Other"	1
+"1987"	"Female"	"Humanities, Other"	1
+"1988"	"Female"	"Humanities, Other"	0
+"1989"	"Female"	"Humanities, Other"	1
+"1990"	"Female"	"Humanities, Other"	3
+"1991"	"Female"	"Humanities, Other"	2
+"1992"	"Female"	"Humanities, Other"	6
+"1993"	"Female"	"Humanities, Other"	4
+"1994"	"Female"	"Humanities, Other"	3
+"1995"	"Female"	"Humanities, Other"	1
+"1996"	"Female"	"Humanities, Other"	2
+"1997"	"Female"	"Humanities, Other"	1
+"1998"	"Female"	"Humanities, Other"	4
+"1999"	"Female"	"Humanities, Other"	1
+"2000"	"Female"	"Humanities, Other"	3
+"2001"	"Female"	"Humanities, Other"	3
+"2002"	"Female"	"Humanities, Other"	4
+"2003"	"Female"	"Humanities, Other"	3
+"2004"	"Female"	"Humanities, Other"	4
+"2005"	"Female"	"Humanities, Other"	2
+"2006"	"Female"	"Humanities, Other"	7
+"2007"	"Female"	"Humanities, Other"	6
+"2008"	"Female"	"Humanities, Other"	2
+"2009"	"Female"	"Humanities, Other"	2
+"2010"	"Female"	"Humanities, Other"	4
+"2011"	"Female"	"Humanities, Other"	5
+"1966"	"Male"	"Humanities, Other"	2
+"1967"	"Male"	"Humanities, Other"	3
+"1968"	"Male"	"Humanities, Other"	3
+"1969"	"Male"	"Humanities, Other"	7
+"1970"	"Male"	"Humanities, Other"	7
+"1971"	"Male"	"Humanities, Other"	9
+"1972"	"Male"	"Humanities, Other"	15
+"1973"	"Male"	"Humanities, Other"	8
+"1974"	"Male"	"Humanities, Other"	12
+"1975"	"Male"	"Humanities, Other"	7
+"1976"	"Male"	"Humanities, Other"	3
+"1977"	"Male"	"Humanities, Other"	5
+"1978"	"Male"	"Humanities, Other"	8
+"1979"	"Male"	"Humanities, Other"	9
+"1980"	"Male"	"Humanities, Other"	2
+"1981"	"Male"	"Humanities, Other"	3
+"1982"	"Male"	"Humanities, Other"	2
+"1983"	"Male"	"Humanities, Other"	3
+"1984"	"Male"	"Humanities, Other"	4
+"1985"	"Male"	"Humanities, Other"	2
+"1986"	"Male"	"Humanities, Other"	1
+"1987"	"Male"	"Humanities, Other"	2
+"1988"	"Male"	"Humanities, Other"	2
+"1989"	"Male"	"Humanities, Other"	3
+"1990"	"Male"	"Humanities, Other"	6
+"1991"	"Male"	"Humanities, Other"	5
+"1992"	"Male"	"Humanities, Other"	9
+"1993"	"Male"	"Humanities, Other"	3
+"1994"	"Male"	"Humanities, Other"	6
+"1995"	"Male"	"Humanities, Other"	6
+"1996"	"Male"	"Humanities, Other"	7
+"1997"	"Male"	"Humanities, Other"	3
+"1998"	"Male"	"Humanities, Other"	8
+"1999"	"Male"	"Humanities, Other"	6
+"2000"	"Male"	"Humanities, Other"	5
+"2001"	"Male"	"Humanities, Other"	7
+"2002"	"Male"	"Humanities, Other"	7
+"2003"	"Male"	"Humanities, Other"	3
+"2004"	"Male"	"Humanities, Other"	13
+"2005"	"Male"	"Humanities, Other"	5
+"2006"	"Male"	"Humanities, Other"	2
+"2007"	"Male"	"Humanities, Other"	7
+"2008"	"Male"	"Humanities, Other"	4
+"2009"	"Male"	"Humanities, Other"	7
+"2010"	"Male"	"Humanities, Other"	9
+"2011"	"Male"	"Humanities, Other"	9
+"1966"	"Female"	"Life Sciences"	45
+"1967"	"Female"	"Life Sciences"	44
+"1968"	"Female"	"Life Sciences"	78
+"1969"	"Female"	"Life Sciences"	96
+"1970"	"Female"	"Life Sciences"	85
+"1971"	"Female"	"Life Sciences"	101
+"1972"	"Female"	"Life Sciences"	100
+"1973"	"Female"	"Life Sciences"	110
+"1974"	"Female"	"Life Sciences"	150
+"1975"	"Female"	"Life Sciences"	169
+"1976"	"Female"	"Life Sciences"	184
+"1977"	"Female"	"Life Sciences"	166
+"1978"	"Female"	"Life Sciences"	160
+"1979"	"Female"	"Life Sciences"	168
+"1980"	"Female"	"Life Sciences"	171
+"1981"	"Female"	"Life Sciences"	177
+"1982"	"Female"	"Life Sciences"	162
+"1983"	"Female"	"Life Sciences"	175
+"1984"	"Female"	"Life Sciences"	180
+"1985"	"Female"	"Life Sciences"	172
+"1986"	"Female"	"Life Sciences"	177
+"1987"	"Female"	"Life Sciences"	153
+"1988"	"Female"	"Life Sciences"	167
+"1989"	"Female"	"Life Sciences"	155
+"1990"	"Female"	"Life Sciences"	168
+"1991"	"Female"	"Life Sciences"	165
+"1992"	"Female"	"Life Sciences"	171
+"1993"	"Female"	"Life Sciences"	182
+"1994"	"Female"	"Life Sciences"	181
+"1995"	"Female"	"Life Sciences"	205
+"1996"	"Female"	"Life Sciences"	274
+"1997"	"Female"	"Life Sciences"	224
+"1998"	"Female"	"Life Sciences"	201
+"1999"	"Female"	"Life Sciences"	186
+"2000"	"Female"	"Life Sciences"	191
+"2001"	"Female"	"Life Sciences"	174
+"2002"	"Female"	"Life Sciences"	197
+"2003"	"Female"	"Life Sciences"	158
+"2004"	"Female"	"Life Sciences"	177
+"2005"	"Female"	"Life Sciences"	163
+"2006"	"Female"	"Life Sciences"	217
+"2007"	"Female"	"Life Sciences"	219
+"2008"	"Female"	"Life Sciences"	255
+"2009"	"Female"	"Life Sciences"	306
+"2010"	"Female"	"Life Sciences"	328
+"2011"	"Female"	"Life Sciences"	347
+"1966"	"Male"	"Life Sciences"	43
+"1967"	"Male"	"Life Sciences"	44
+"1968"	"Male"	"Life Sciences"	68
+"1969"	"Male"	"Life Sciences"	67
+"1970"	"Male"	"Life Sciences"	76
+"1971"	"Male"	"Life Sciences"	76
+"1972"	"Male"	"Life Sciences"	100
+"1973"	"Male"	"Life Sciences"	132
+"1974"	"Male"	"Life Sciences"	144
+"1975"	"Male"	"Life Sciences"	143
+"1976"	"Male"	"Life Sciences"	144
+"1977"	"Male"	"Life Sciences"	132
+"1978"	"Male"	"Life Sciences"	126
+"1979"	"Male"	"Life Sciences"	128
+"1980"	"Male"	"Life Sciences"	116
+"1981"	"Male"	"Life Sciences"	85
+"1982"	"Male"	"Life Sciences"	106
+"1983"	"Male"	"Life Sciences"	83
+"1984"	"Male"	"Life Sciences"	80
+"1985"	"Male"	"Life Sciences"	58
+"1986"	"Male"	"Life Sciences"	68
+"1987"	"Male"	"Life Sciences"	62
+"1988"	"Male"	"Life Sciences"	60
+"1989"	"Male"	"Life Sciences"	53
+"1990"	"Male"	"Life Sciences"	55
+"1991"	"Male"	"Life Sciences"	90
+"1992"	"Male"	"Life Sciences"	80
+"1993"	"Male"	"Life Sciences"	76
+"1994"	"Male"	"Life Sciences"	67
+"1995"	"Male"	"Life Sciences"	63
+"1996"	"Male"	"Life Sciences"	94
+"1997"	"Male"	"Life Sciences"	88
+"1998"	"Male"	"Life Sciences"	96
+"1999"	"Male"	"Life Sciences"	63
+"2000"	"Male"	"Life Sciences"	59
+"2001"	"Male"	"Life Sciences"	58
+"2002"	"Male"	"Life Sciences"	50
+"2003"	"Male"	"Life Sciences"	44
+"2004"	"Male"	"Life Sciences"	43
+"2005"	"Male"	"Life Sciences"	43
+"2006"	"Male"	"Life Sciences"	62
+"2007"	"Male"	"Life Sciences"	45
+"2008"	"Male"	"Life Sciences"	63
+"2009"	"Male"	"Life Sciences"	59
+"2010"	"Male"	"Life Sciences"	73
+"2011"	"Male"	"Life Sciences"	67
+"1966"	"Female"	"Math"	24
+"1967"	"Female"	"Math"	16
+"1968"	"Female"	"Math"	16
+"1969"	"Female"	"Math"	18
+"1970"	"Female"	"Math"	22
+"1971"	"Female"	"Math"	5
+"1972"	"Female"	"Math"	24
+"1973"	"Female"	"Math"	14
+"1974"	"Female"	"Math"	17
+"1975"	"Female"	"Math"	18
+"1976"	"Female"	"Math"	7
+"1977"	"Female"	"Math"	3
+"1978"	"Female"	"Math"	7
+"1979"	"Female"	"Math"	5
+"1980"	"Female"	"Math"	8
+"1981"	"Female"	"Math"	6
+"1982"	"Female"	"Math"	15
+"1983"	"Female"	"Math"	12
+"1984"	"Female"	"Math"	18
+"1985"	"Female"	"Math"	7
+"1986"	"Female"	"Math"	10
+"1987"	"Female"	"Math"	5
+"1988"	"Female"	"Math"	9
+"1989"	"Female"	"Math"	15
+"1990"	"Female"	"Math"	8
+"1991"	"Female"	"Math"	8
+"1992"	"Female"	"Math"	9
+"1993"	"Female"	"Math"	8
+"1994"	"Female"	"Math"	3
+"1995"	"Female"	"Math"	10
+"1996"	"Female"	"Math"	4
+"1997"	"Female"	"Math"	1
+"1998"	"Female"	"Math"	2
+"1999"	"Female"	"Math"	2
+"2000"	"Female"	"Math"	1
+"2001"	"Female"	"Math"	5
+"2002"	"Female"	"Math"	4
+"2003"	"Female"	"Math"	8
+"2004"	"Female"	"Math"	19
+"2005"	"Female"	"Math"	11
+"2006"	"Female"	"Math"	3
+"2007"	"Female"	"Math"	7
+"2008"	"Female"	"Math"	14
+"2009"	"Female"	"Math"	16
+"2010"	"Female"	"Math"	6
+"2011"	"Female"	"Math"	7
+"1966"	"Male"	"Math"	22
+"1967"	"Male"	"Math"	30
+"1968"	"Male"	"Math"	31
+"1969"	"Male"	"Math"	12
+"1970"	"Male"	"Math"	26
+"1971"	"Male"	"Math"	20
+"1972"	"Male"	"Math"	19
+"1973"	"Male"	"Math"	22
+"1974"	"Male"	"Math"	19
+"1975"	"Male"	"Math"	16
+"1976"	"Male"	"Math"	9
+"1977"	"Male"	"Math"	7
+"1978"	"Male"	"Math"	5
+"1979"	"Male"	"Math"	6
+"1980"	"Male"	"Math"	8
+"1981"	"Male"	"Math"	4
+"1982"	"Male"	"Math"	9
+"1983"	"Male"	"Math"	14
+"1984"	"Male"	"Math"	19
+"1985"	"Male"	"Math"	13
+"1986"	"Male"	"Math"	20
+"1987"	"Male"	"Math"	16
+"1988"	"Male"	"Math"	15
+"1989"	"Male"	"Math"	20
+"1990"	"Male"	"Math"	14
+"1991"	"Male"	"Math"	11
+"1992"	"Male"	"Math"	11
+"1993"	"Male"	"Math"	10
+"1994"	"Male"	"Math"	7
+"1995"	"Male"	"Math"	12
+"1996"	"Male"	"Math"	6
+"1997"	"Male"	"Math"	8
+"1998"	"Male"	"Math"	8
+"1999"	"Male"	"Math"	5
+"2000"	"Male"	"Math"	5
+"2001"	"Male"	"Math"	5
+"2002"	"Male"	"Math"	9
+"2003"	"Male"	"Math"	6
+"2004"	"Male"	"Math"	11
+"2005"	"Male"	"Math"	13
+"2006"	"Male"	"Math"	6
+"2007"	"Male"	"Math"	12
+"2008"	"Male"	"Math"	11
+"2009"	"Male"	"Math"	7
+"2010"	"Male"	"Math"	9
+"2011"	"Male"	"Math"	22
+"1966"	"Female"	"Other/Unknown"	0
+"1967"	"Female"	"Other/Unknown"	0
+"1968"	"Female"	"Other/Unknown"	0
+"1969"	"Female"	"Other/Unknown"	0
+"1970"	"Female"	"Other/Unknown"	0
+"1971"	"Female"	"Other/Unknown"	0
+"1972"	"Female"	"Other/Unknown"	0
+"1973"	"Female"	"Other/Unknown"	0
+"1974"	"Female"	"Other/Unknown"	0
+"1975"	"Female"	"Other/Unknown"	0
+"1976"	"Female"	"Other/Unknown"	0
+"1977"	"Female"	"Other/Unknown"	0
+"1978"	"Female"	"Other/Unknown"	0
+"1979"	"Female"	"Other/Unknown"	0
+"1980"	"Female"	"Other/Unknown"	0
+"1981"	"Female"	"Other/Unknown"	0
+"1982"	"Female"	"Other/Unknown"	0
+"1983"	"Female"	"Other/Unknown"	7
+"1984"	"Female"	"Other/Unknown"	8
+"1985"	"Female"	"Other/Unknown"	8
+"1986"	"Female"	"Other/Unknown"	8
+"1987"	"Female"	"Other/Unknown"	7
+"1988"	"Female"	"Other/Unknown"	8
+"1989"	"Female"	"Other/Unknown"	8
+"1990"	"Female"	"Other/Unknown"	9
+"1991"	"Female"	"Other/Unknown"	7
+"1992"	"Female"	"Other/Unknown"	17
+"1993"	"Female"	"Other/Unknown"	24
+"1994"	"Female"	"Other/Unknown"	25
+"1995"	"Female"	"Other/Unknown"	41
+"1996"	"Female"	"Other/Unknown"	27
+"1997"	"Female"	"Other/Unknown"	26
+"1998"	"Female"	"Other/Unknown"	29
+"1999"	"Female"	"Other/Unknown"	15
+"2000"	"Female"	"Other/Unknown"	13
+"2001"	"Female"	"Other/Unknown"	8
+"2002"	"Female"	"Other/Unknown"	15
+"2003"	"Female"	"Other/Unknown"	9
+"2004"	"Female"	"Other/Unknown"	5
+"2005"	"Female"	"Other/Unknown"	5
+"2006"	"Female"	"Other/Unknown"	7
+"2007"	"Female"	"Other/Unknown"	2
+"2008"	"Female"	"Other/Unknown"	2
+"2009"	"Female"	"Other/Unknown"	3
+"2010"	"Female"	"Other/Unknown"	7
+"2011"	"Female"	"Other/Unknown"	2
+"1966"	"Male"	"Other/Unknown"	0
+"1967"	"Male"	"Other/Unknown"	0
+"1968"	"Male"	"Other/Unknown"	0
+"1969"	"Male"	"Other/Unknown"	0
+"1970"	"Male"	"Other/Unknown"	0
+"1971"	"Male"	"Other/Unknown"	0
+"1972"	"Male"	"Other/Unknown"	0
+"1973"	"Male"	"Other/Unknown"	0
+"1974"	"Male"	"Other/Unknown"	0
+"1975"	"Male"	"Other/Unknown"	0
+"1976"	"Male"	"Other/Unknown"	0
+"1977"	"Male"	"Other/Unknown"	0
+"1978"	"Male"	"Other/Unknown"	0
+"1979"	"Male"	"Other/Unknown"	0
+"1980"	"Male"	"Other/Unknown"	0
+"1981"	"Male"	"Other/Unknown"	0
+"1982"	"Male"	"Other/Unknown"	0
+"1983"	"Male"	"Other/Unknown"	2
+"1984"	"Male"	"Other/Unknown"	3
+"1985"	"Male"	"Other/Unknown"	4
+"1986"	"Male"	"Other/Unknown"	0
+"1987"	"Male"	"Other/Unknown"	1
+"1988"	"Male"	"Other/Unknown"	0
+"1989"	"Male"	"Other/Unknown"	1
+"1990"	"Male"	"Other/Unknown"	7
+"1991"	"Male"	"Other/Unknown"	3
+"1992"	"Male"	"Other/Unknown"	8
+"1993"	"Male"	"Other/Unknown"	9
+"1994"	"Male"	"Other/Unknown"	9
+"1995"	"Male"	"Other/Unknown"	10
+"1996"	"Male"	"Other/Unknown"	8
+"1997"	"Male"	"Other/Unknown"	5
+"1998"	"Male"	"Other/Unknown"	8
+"1999"	"Male"	"Other/Unknown"	7
+"2000"	"Male"	"Other/Unknown"	7
+"2001"	"Male"	"Other/Unknown"	7
+"2002"	"Male"	"Other/Unknown"	3
+"2003"	"Male"	"Other/Unknown"	2
+"2004"	"Male"	"Other/Unknown"	2
+"2005"	"Male"	"Other/Unknown"	1
+"2006"	"Male"	"Other/Unknown"	1
+"2007"	"Male"	"Other/Unknown"	1
+"2008"	"Male"	"Other/Unknown"	1
+"2009"	"Male"	"Other/Unknown"	2
+"2010"	"Male"	"Other/Unknown"	6
+"2011"	"Male"	"Other/Unknown"	0
+"1966"	"Female"	"Physical Sciences"	2
+"1967"	"Female"	"Physical Sciences"	5
+"1968"	"Female"	"Physical Sciences"	2
+"1969"	"Female"	"Physical Sciences"	6
+"1970"	"Female"	"Physical Sciences"	12
+"1971"	"Female"	"Physical Sciences"	5
+"1972"	"Female"	"Physical Sciences"	7
+"1973"	"Female"	"Physical Sciences"	2
+"1974"	"Female"	"Physical Sciences"	4
+"1975"	"Female"	"Physical Sciences"	5
+"1976"	"Female"	"Physical Sciences"	4
+"1977"	"Female"	"Physical Sciences"	4
+"1978"	"Female"	"Physical Sciences"	5
+"1979"	"Female"	"Physical Sciences"	4
+"1980"	"Female"	"Physical Sciences"	5
+"1981"	"Female"	"Physical Sciences"	10
+"1982"	"Female"	"Physical Sciences"	5
+"1983"	"Female"	"Physical Sciences"	14
+"1984"	"Female"	"Physical Sciences"	16
+"1985"	"Female"	"Physical Sciences"	16
+"1986"	"Female"	"Physical Sciences"	5
+"1987"	"Female"	"Physical Sciences"	10
+"1988"	"Female"	"Physical Sciences"	12
+"1989"	"Female"	"Physical Sciences"	1
+"1990"	"Female"	"Physical Sciences"	2
+"1991"	"Female"	"Physical Sciences"	2
+"1992"	"Female"	"Physical Sciences"	8
+"1993"	"Female"	"Physical Sciences"	6
+"1994"	"Female"	"Physical Sciences"	13
+"1995"	"Female"	"Physical Sciences"	7
+"1996"	"Female"	"Physical Sciences"	9
+"1997"	"Female"	"Physical Sciences"	6
+"1998"	"Female"	"Physical Sciences"	16
+"1999"	"Female"	"Physical Sciences"	11
+"2000"	"Female"	"Physical Sciences"	11
+"2001"	"Female"	"Physical Sciences"	11
+"2002"	"Female"	"Physical Sciences"	8
+"2003"	"Female"	"Physical Sciences"	9
+"2004"	"Female"	"Physical Sciences"	5
+"2005"	"Female"	"Physical Sciences"	11
+"2006"	"Female"	"Physical Sciences"	10
+"2007"	"Female"	"Physical Sciences"	17
+"2008"	"Female"	"Physical Sciences"	9
+"2009"	"Female"	"Physical Sciences"	11
+"2010"	"Female"	"Physical Sciences"	24
+"2011"	"Female"	"Physical Sciences"	18
+"1966"	"Male"	"Physical Sciences"	16
+"1967"	"Male"	"Physical Sciences"	13
+"1968"	"Male"	"Physical Sciences"	18
+"1969"	"Male"	"Physical Sciences"	23
+"1970"	"Male"	"Physical Sciences"	19
+"1971"	"Male"	"Physical Sciences"	33
+"1972"	"Male"	"Physical Sciences"	25
+"1973"	"Male"	"Physical Sciences"	31
+"1974"	"Male"	"Physical Sciences"	31
+"1975"	"Male"	"Physical Sciences"	19
+"1976"	"Male"	"Physical Sciences"	16
+"1977"	"Male"	"Physical Sciences"	24
+"1978"	"Male"	"Physical Sciences"	29
+"1979"	"Male"	"Physical Sciences"	26
+"1980"	"Male"	"Physical Sciences"	15
+"1981"	"Male"	"Physical Sciences"	21
+"1982"	"Male"	"Physical Sciences"	30
+"1983"	"Male"	"Physical Sciences"	24
+"1984"	"Male"	"Physical Sciences"	33
+"1985"	"Male"	"Physical Sciences"	36
+"1986"	"Male"	"Physical Sciences"	17
+"1987"	"Male"	"Physical Sciences"	10
+"1988"	"Male"	"Physical Sciences"	13
+"1989"	"Male"	"Physical Sciences"	15
+"1990"	"Male"	"Physical Sciences"	10
+"1991"	"Male"	"Physical Sciences"	10
+"1992"	"Male"	"Physical Sciences"	8
+"1993"	"Male"	"Physical Sciences"	11
+"1994"	"Male"	"Physical Sciences"	15
+"1995"	"Male"	"Physical Sciences"	12
+"1996"	"Male"	"Physical Sciences"	16
+"1997"	"Male"	"Physical Sciences"	9
+"1998"	"Male"	"Physical Sciences"	14
+"1999"	"Male"	"Physical Sciences"	12
+"2000"	"Male"	"Physical Sciences"	8
+"2001"	"Male"	"Physical Sciences"	13
+"2002"	"Male"	"Physical Sciences"	20
+"2003"	"Male"	"Physical Sciences"	7
+"2004"	"Male"	"Physical Sciences"	9
+"2005"	"Male"	"Physical Sciences"	5
+"2006"	"Male"	"Physical Sciences"	9
+"2007"	"Male"	"Physical Sciences"	13
+"2008"	"Male"	"Physical Sciences"	14
+"2009"	"Male"	"Physical Sciences"	13
+"2010"	"Male"	"Physical Sciences"	10
+"2011"	"Male"	"Physical Sciences"	14
+"1966"	"Female"	"Political Science and Public Administration"	9
+"1967"	"Female"	"Political Science and Public Administration"	5
+"1968"	"Female"	"Political Science and Public Administration"	8
+"1969"	"Female"	"Political Science and Public Administration"	6
+"1970"	"Female"	"Political Science and Public Administration"	2
+"1971"	"Female"	"Political Science and Public Administration"	11
+"1972"	"Female"	"Political Science and Public Administration"	8
+"1973"	"Female"	"Political Science and Public Administration"	3
+"1974"	"Female"	"Political Science and Public Administration"	16
+"1975"	"Female"	"Political Science and Public Administration"	16
+"1976"	"Female"	"Political Science and Public Administration"	12
+"1977"	"Female"	"Political Science and Public Administration"	13
+"1978"	"Female"	"Political Science and Public Administration"	11
+"1979"	"Female"	"Political Science and Public Administration"	16
+"1980"	"Female"	"Political Science and Public Administration"	16
+"1981"	"Female"	"Political Science and Public Administration"	12
+"1982"	"Female"	"Political Science and Public Administration"	20
+"1983"	"Female"	"Political Science and Public Administration"	29
+"1984"	"Female"	"Political Science and Public Administration"	24
+"1985"	"Female"	"Political Science and Public Administration"	23
+"1986"	"Female"	"Political Science and Public Administration"	36
+"1987"	"Female"	"Political Science and Public Administration"	27
+"1988"	"Female"	"Political Science and Public Administration"	31
+"1989"	"Female"	"Political Science and Public Administration"	36
+"1990"	"Female"	"Political Science and Public Administration"	26
+"1991"	"Female"	"Political Science and Public Administration"	49
+"1992"	"Female"	"Political Science and Public Administration"	28
+"1993"	"Female"	"Political Science and Public Administration"	34
+"1994"	"Female"	"Political Science and Public Administration"	24
+"1995"	"Female"	"Political Science and Public Administration"	23
+"1996"	"Female"	"Political Science and Public Administration"	19
+"1997"	"Female"	"Political Science and Public Administration"	18
+"1998"	"Female"	"Political Science and Public Administration"	19
+"1999"	"Female"	"Political Science and Public Administration"	38
+"2000"	"Female"	"Political Science and Public Administration"	32
+"2001"	"Female"	"Political Science and Public Administration"	28
+"2002"	"Female"	"Political Science and Public Administration"	30
+"2003"	"Female"	"Political Science and Public Administration"	30
+"2004"	"Female"	"Political Science and Public Administration"	37
+"2005"	"Female"	"Political Science and Public Administration"	32
+"2006"	"Female"	"Political Science and Public Administration"	34
+"2007"	"Female"	"Political Science and Public Administration"	35
+"2008"	"Female"	"Political Science and Public Administration"	26
+"2009"	"Female"	"Political Science and Public Administration"	34
+"2010"	"Female"	"Political Science and Public Administration"	25
+"2011"	"Female"	"Political Science and Public Administration"	33
+"1966"	"Male"	"Political Science and Public Administration"	24
+"1967"	"Male"	"Political Science and Public Administration"	22
+"1968"	"Male"	"Political Science and Public Administration"	19
+"1969"	"Male"	"Political Science and Public Administration"	26
+"1970"	"Male"	"Political Science and Public Administration"	30
+"1971"	"Male"	"Political Science and Public Administration"	84
+"1972"	"Male"	"Political Science and Public Administration"	69
+"1973"	"Male"	"Political Science and Public Administration"	81
+"1974"	"Male"	"Political Science and Public Administration"	103
+"1975"	"Male"	"Political Science and Public Administration"	46
+"1976"	"Male"	"Political Science and Public Administration"	47
+"1977"	"Male"	"Political Science and Public Administration"	44
+"1978"	"Male"	"Political Science and Public Administration"	38
+"1979"	"Male"	"Political Science and Public Administration"	42
+"1980"	"Male"	"Political Science and Public Administration"	36
+"1981"	"Male"	"Political Science and Public Administration"	40
+"1982"	"Male"	"Political Science and Public Administration"	47
+"1983"	"Male"	"Political Science and Public Administration"	41
+"1984"	"Male"	"Political Science and Public Administration"	63
+"1985"	"Male"	"Political Science and Public Administration"	44
+"1986"	"Male"	"Political Science and Public Administration"	42
+"1987"	"Male"	"Political Science and Public Administration"	39
+"1988"	"Male"	"Political Science and Public Administration"	48
+"1989"	"Male"	"Political Science and Public Administration"	53
+"1990"	"Male"	"Political Science and Public Administration"	57
+"1991"	"Male"	"Political Science and Public Administration"	79
+"1992"	"Male"	"Political Science and Public Administration"	82
+"1993"	"Male"	"Political Science and Public Administration"	68
+"1994"	"Male"	"Political Science and Public Administration"	57
+"1995"	"Male"	"Political Science and Public Administration"	54
+"1996"	"Male"	"Political Science and Public Administration"	50
+"1997"	"Male"	"Political Science and Public Administration"	35
+"1998"	"Male"	"Political Science and Public Administration"	45
+"1999"	"Male"	"Political Science and Public Administration"	60
+"2000"	"Male"	"Political Science and Public Administration"	46
+"2001"	"Male"	"Political Science and Public Administration"	47
+"2002"	"Male"	"Political Science and Public Administration"	33
+"2003"	"Male"	"Political Science and Public Administration"	44
+"2004"	"Male"	"Political Science and Public Administration"	35
+"2005"	"Male"	"Political Science and Public Administration"	40
+"2006"	"Male"	"Political Science and Public Administration"	56
+"2007"	"Male"	"Political Science and Public Administration"	40
+"2008"	"Male"	"Political Science and Public Administration"	42
+"2009"	"Male"	"Political Science and Public Administration"	36
+"2010"	"Male"	"Political Science and Public Administration"	44
+"2011"	"Male"	"Political Science and Public Administration"	52
+"1966"	"Female"	"Psychology"	10
+"1967"	"Female"	"Psychology"	15
+"1968"	"Female"	"Psychology"	32
+"1969"	"Female"	"Psychology"	35
+"1970"	"Female"	"Psychology"	51
+"1971"	"Female"	"Psychology"	40
+"1972"	"Female"	"Psychology"	48
+"1973"	"Female"	"Psychology"	61
+"1974"	"Female"	"Psychology"	75
+"1975"	"Female"	"Psychology"	95
+"1976"	"Female"	"Psychology"	75
+"1977"	"Female"	"Psychology"	78
+"1978"	"Female"	"Psychology"	82
+"1979"	"Female"	"Psychology"	78
+"1980"	"Female"	"Psychology"	78
+"1981"	"Female"	"Psychology"	86
+"1982"	"Female"	"Psychology"	66
+"1983"	"Female"	"Psychology"	98
+"1984"	"Female"	"Psychology"	57
+"1985"	"Female"	"Psychology"	60
+"1986"	"Female"	"Psychology"	39
+"1987"	"Female"	"Psychology"	46
+"1988"	"Female"	"Psychology"	65
+"1989"	"Female"	"Psychology"	87
+"1990"	"Female"	"Psychology"	116
+"1991"	"Female"	"Psychology"	116
+"1992"	"Female"	"Psychology"	137
+"1993"	"Female"	"Psychology"	101
+"1994"	"Female"	"Psychology"	128
+"1995"	"Female"	"Psychology"	98
+"1996"	"Female"	"Psychology"	82
+"1997"	"Female"	"Psychology"	88
+"1998"	"Female"	"Psychology"	99
+"1999"	"Female"	"Psychology"	94
+"2000"	"Female"	"Psychology"	99
+"2001"	"Female"	"Psychology"	75
+"2002"	"Female"	"Psychology"	105
+"2003"	"Female"	"Psychology"	132
+"2004"	"Female"	"Psychology"	111
+"2005"	"Female"	"Psychology"	83
+"2006"	"Female"	"Psychology"	107
+"2007"	"Female"	"Psychology"	109
+"2008"	"Female"	"Psychology"	95
+"2009"	"Female"	"Psychology"	127
+"2010"	"Female"	"Psychology"	113
+"2011"	"Female"	"Psychology"	114
+"1966"	"Male"	"Psychology"	7
+"1967"	"Male"	"Psychology"	13
+"1968"	"Male"	"Psychology"	19
+"1969"	"Male"	"Psychology"	13
+"1970"	"Male"	"Psychology"	24
+"1971"	"Male"	"Psychology"	42
+"1972"	"Male"	"Psychology"	33
+"1973"	"Male"	"Psychology"	40
+"1974"	"Male"	"Psychology"	41
+"1975"	"Male"	"Psychology"	43
+"1976"	"Male"	"Psychology"	41
+"1977"	"Male"	"Psychology"	48
+"1978"	"Male"	"Psychology"	38
+"1979"	"Male"	"Psychology"	29
+"1980"	"Male"	"Psychology"	30
+"1981"	"Male"	"Psychology"	29
+"1982"	"Male"	"Psychology"	28
+"1983"	"Male"	"Psychology"	32
+"1984"	"Male"	"Psychology"	30
+"1985"	"Male"	"Psychology"	26
+"1986"	"Male"	"Psychology"	22
+"1987"	"Male"	"Psychology"	29
+"1988"	"Male"	"Psychology"	29
+"1989"	"Male"	"Psychology"	31
+"1990"	"Male"	"Psychology"	29
+"1991"	"Male"	"Psychology"	48
+"1992"	"Male"	"Psychology"	47
+"1993"	"Male"	"Psychology"	45
+"1994"	"Male"	"Psychology"	43
+"1995"	"Male"	"Psychology"	56
+"1996"	"Male"	"Psychology"	47
+"1997"	"Male"	"Psychology"	52
+"1998"	"Male"	"Psychology"	43
+"1999"	"Male"	"Psychology"	32
+"2000"	"Male"	"Psychology"	36
+"2001"	"Male"	"Psychology"	26
+"2002"	"Male"	"Psychology"	24
+"2003"	"Male"	"Psychology"	37
+"2004"	"Male"	"Psychology"	23
+"2005"	"Male"	"Psychology"	31
+"2006"	"Male"	"Psychology"	24
+"2007"	"Male"	"Psychology"	22
+"2008"	"Male"	"Psychology"	30
+"2009"	"Male"	"Psychology"	40
+"2010"	"Male"	"Psychology"	39
+"2011"	"Male"	"Psychology"	40
+"1966"	"Female"	"Social Sciences, Other"	1
+"1967"	"Female"	"Social Sciences, Other"	10
+"1968"	"Female"	"Social Sciences, Other"	8
+"1969"	"Female"	"Social Sciences, Other"	12
+"1970"	"Female"	"Social Sciences, Other"	15
+"1971"	"Female"	"Social Sciences, Other"	1
+"1972"	"Female"	"Social Sciences, Other"	11
+"1973"	"Female"	"Social Sciences, Other"	5
+"1974"	"Female"	"Social Sciences, Other"	47
+"1975"	"Female"	"Social Sciences, Other"	49
+"1976"	"Female"	"Social Sciences, Other"	12
+"1977"	"Female"	"Social Sciences, Other"	19
+"1978"	"Female"	"Social Sciences, Other"	10
+"1979"	"Female"	"Social Sciences, Other"	13
+"1980"	"Female"	"Social Sciences, Other"	17
+"1981"	"Female"	"Social Sciences, Other"	10
+"1982"	"Female"	"Social Sciences, Other"	14
+"1983"	"Female"	"Social Sciences, Other"	14
+"1984"	"Female"	"Social Sciences, Other"	7
+"1985"	"Female"	"Social Sciences, Other"	9
+"1986"	"Female"	"Social Sciences, Other"	6
+"1987"	"Female"	"Social Sciences, Other"	3
+"1988"	"Female"	"Social Sciences, Other"	2
+"1989"	"Female"	"Social Sciences, Other"	1
+"1990"	"Female"	"Social Sciences, Other"	2
+"1991"	"Female"	"Social Sciences, Other"	2
+"1992"	"Female"	"Social Sciences, Other"	7
+"1993"	"Female"	"Social Sciences, Other"	4
+"1994"	"Female"	"Social Sciences, Other"	2
+"1995"	"Female"	"Social Sciences, Other"	2
+"1996"	"Female"	"Social Sciences, Other"	2
+"1997"	"Female"	"Social Sciences, Other"	0
+"1998"	"Female"	"Social Sciences, Other"	2
+"1999"	"Female"	"Social Sciences, Other"	0
+"2000"	"Female"	"Social Sciences, Other"	0
+"2001"	"Female"	"Social Sciences, Other"	0
+"2002"	"Female"	"Social Sciences, Other"	1
+"2003"	"Female"	"Social Sciences, Other"	0
+"2004"	"Female"	"Social Sciences, Other"	0
+"2005"	"Female"	"Social Sciences, Other"	1
+"2006"	"Female"	"Social Sciences, Other"	0
+"2007"	"Female"	"Social Sciences, Other"	0
+"2008"	"Female"	"Social Sciences, Other"	3
+"2009"	"Female"	"Social Sciences, Other"	6
+"2010"	"Female"	"Social Sciences, Other"	8
+"2011"	"Female"	"Social Sciences, Other"	16
+"1966"	"Male"	"Social Sciences, Other"	2
+"1967"	"Male"	"Social Sciences, Other"	1
+"1968"	"Male"	"Social Sciences, Other"	3
+"1969"	"Male"	"Social Sciences, Other"	6
+"1970"	"Male"	"Social Sciences, Other"	5
+"1971"	"Male"	"Social Sciences, Other"	5
+"1972"	"Male"	"Social Sciences, Other"	4
+"1973"	"Male"	"Social Sciences, Other"	9
+"1974"	"Male"	"Social Sciences, Other"	25
+"1975"	"Male"	"Social Sciences, Other"	15
+"1976"	"Male"	"Social Sciences, Other"	11
+"1977"	"Male"	"Social Sciences, Other"	18
+"1978"	"Male"	"Social Sciences, Other"	12
+"1979"	"Male"	"Social Sciences, Other"	16
+"1980"	"Male"	"Social Sciences, Other"	11
+"1981"	"Male"	"Social Sciences, Other"	25
+"1982"	"Male"	"Social Sciences, Other"	19
+"1983"	"Male"	"Social Sciences, Other"	21
+"1984"	"Male"	"Social Sciences, Other"	19
+"1985"	"Male"	"Social Sciences, Other"	8
+"1986"	"Male"	"Social Sciences, Other"	9
+"1987"	"Male"	"Social Sciences, Other"	8
+"1988"	"Male"	"Social Sciences, Other"	2
+"1989"	"Male"	"Social Sciences, Other"	3
+"1990"	"Male"	"Social Sciences, Other"	16
+"1991"	"Male"	"Social Sciences, Other"	7
+"1992"	"Male"	"Social Sciences, Other"	13
+"1993"	"Male"	"Social Sciences, Other"	8
+"1994"	"Male"	"Social Sciences, Other"	5
+"1995"	"Male"	"Social Sciences, Other"	5
+"1996"	"Male"	"Social Sciences, Other"	5
+"1997"	"Male"	"Social Sciences, Other"	3
+"1998"	"Male"	"Social Sciences, Other"	0
+"1999"	"Male"	"Social Sciences, Other"	0
+"2000"	"Male"	"Social Sciences, Other"	1
+"2001"	"Male"	"Social Sciences, Other"	0
+"2002"	"Male"	"Social Sciences, Other"	0
+"2003"	"Male"	"Social Sciences, Other"	0
+"2004"	"Male"	"Social Sciences, Other"	1
+"2005"	"Male"	"Social Sciences, Other"	0
+"2006"	"Male"	"Social Sciences, Other"	0
+"2007"	"Male"	"Social Sciences, Other"	0
+"2008"	"Male"	"Social Sciences, Other"	2
+"2009"	"Male"	"Social Sciences, Other"	6
+"2010"	"Male"	"Social Sciences, Other"	6
+"2011"	"Male"	"Social Sciences, Other"	12
+"1966"	"Female"	"Sociology"	14
+"1967"	"Female"	"Sociology"	24
+"1968"	"Female"	"Sociology"	29
+"1969"	"Female"	"Sociology"	28
+"1970"	"Female"	"Sociology"	64
+"1971"	"Female"	"Sociology"	51
+"1972"	"Female"	"Sociology"	49
+"1973"	"Female"	"Sociology"	59
+"1974"	"Female"	"Sociology"	55
+"1975"	"Female"	"Sociology"	39
+"1976"	"Female"	"Sociology"	43
+"1977"	"Female"	"Sociology"	38
+"1978"	"Female"	"Sociology"	30
+"1979"	"Female"	"Sociology"	21
+"1980"	"Female"	"Sociology"	16
+"1981"	"Female"	"Sociology"	21
+"1982"	"Female"	"Sociology"	19
+"1983"	"Female"	"Sociology"	13
+"1984"	"Female"	"Sociology"	12
+"1985"	"Female"	"Sociology"	9
+"1986"	"Female"	"Sociology"	9
+"1987"	"Female"	"Sociology"	7
+"1988"	"Female"	"Sociology"	11
+"1989"	"Female"	"Sociology"	12
+"1990"	"Female"	"Sociology"	12
+"1991"	"Female"	"Sociology"	22
+"1992"	"Female"	"Sociology"	13
+"1993"	"Female"	"Sociology"	7
+"1994"	"Female"	"Sociology"	13
+"1995"	"Female"	"Sociology"	13
+"1996"	"Female"	"Sociology"	12
+"1997"	"Female"	"Sociology"	20
+"1998"	"Female"	"Sociology"	13
+"1999"	"Female"	"Sociology"	21
+"2000"	"Female"	"Sociology"	13
+"2001"	"Female"	"Sociology"	12
+"2002"	"Female"	"Sociology"	21
+"2003"	"Female"	"Sociology"	12
+"2004"	"Female"	"Sociology"	14
+"2005"	"Female"	"Sociology"	13
+"2006"	"Female"	"Sociology"	14
+"2007"	"Female"	"Sociology"	15
+"2008"	"Female"	"Sociology"	9
+"2009"	"Female"	"Sociology"	14
+"2010"	"Female"	"Sociology"	11
+"2011"	"Female"	"Sociology"	13
+"1966"	"Male"	"Sociology"	1
+"1967"	"Male"	"Sociology"	10
+"1968"	"Male"	"Sociology"	8
+"1969"	"Male"	"Sociology"	5
+"1970"	"Male"	"Sociology"	9
+"1971"	"Male"	"Sociology"	27
+"1972"	"Male"	"Sociology"	37
+"1973"	"Male"	"Sociology"	45
+"1974"	"Male"	"Sociology"	33
+"1975"	"Male"	"Sociology"	30
+"1976"	"Male"	"Sociology"	14
+"1977"	"Male"	"Sociology"	14
+"1978"	"Male"	"Sociology"	14
+"1979"	"Male"	"Sociology"	8
+"1980"	"Male"	"Sociology"	12
+"1981"	"Male"	"Sociology"	11
+"1982"	"Male"	"Sociology"	5
+"1983"	"Male"	"Sociology"	7
+"1984"	"Male"	"Sociology"	6
+"1985"	"Male"	"Sociology"	5
+"1986"	"Male"	"Sociology"	3
+"1987"	"Male"	"Sociology"	8
+"1988"	"Male"	"Sociology"	3
+"1989"	"Male"	"Sociology"	1
+"1990"	"Male"	"Sociology"	4
+"1991"	"Male"	"Sociology"	13
+"1992"	"Male"	"Sociology"	8
+"1993"	"Male"	"Sociology"	6
+"1994"	"Male"	"Sociology"	14
+"1995"	"Male"	"Sociology"	10
+"1996"	"Male"	"Sociology"	16
+"1997"	"Male"	"Sociology"	15
+"1998"	"Male"	"Sociology"	10
+"1999"	"Male"	"Sociology"	5
+"2000"	"Male"	"Sociology"	14
+"2001"	"Male"	"Sociology"	13
+"2002"	"Male"	"Sociology"	8
+"2003"	"Male"	"Sociology"	13
+"2004"	"Male"	"Sociology"	9
+"2005"	"Male"	"Sociology"	8
+"2006"	"Male"	"Sociology"	12
+"2007"	"Male"	"Sociology"	8
+"2008"	"Male"	"Sociology"	13
+"2009"	"Male"	"Sociology"	9
+"2010"	"Male"	"Sociology"	9
+"2011"	"Male"	"Sociology"	13
+"1966"	"Female"	"Vocational Studies and Home Economics"	38
+"1967"	"Female"	"Vocational Studies and Home Economics"	33
+"1968"	"Female"	"Vocational Studies and Home Economics"	31
+"1969"	"Female"	"Vocational Studies and Home Economics"	79
+"1970"	"Female"	"Vocational Studies and Home Economics"	96
+"1971"	"Female"	"Vocational Studies and Home Economics"	125
+"1972"	"Female"	"Vocational Studies and Home Economics"	96
+"1973"	"Female"	"Vocational Studies and Home Economics"	125
+"1974"	"Female"	"Vocational Studies and Home Economics"	137
+"1975"	"Female"	"Vocational Studies and Home Economics"	147
+"1976"	"Female"	"Vocational Studies and Home Economics"	145
+"1977"	"Female"	"Vocational Studies and Home Economics"	153
+"1978"	"Female"	"Vocational Studies and Home Economics"	150
+"1979"	"Female"	"Vocational Studies and Home Economics"	175
+"1980"	"Female"	"Vocational Studies and Home Economics"	172
+"1981"	"Female"	"Vocational Studies and Home Economics"	176
+"1982"	"Female"	"Vocational Studies and Home Economics"	179
+"1983"	"Female"	"Vocational Studies and Home Economics"	166
+"1984"	"Female"	"Vocational Studies and Home Economics"	155
+"1985"	"Female"	"Vocational Studies and Home Economics"	157
+"1986"	"Female"	"Vocational Studies and Home Economics"	123
+"1987"	"Female"	"Vocational Studies and Home Economics"	126
+"1988"	"Female"	"Vocational Studies and Home Economics"	165
+"1989"	"Female"	"Vocational Studies and Home Economics"	166
+"1990"	"Female"	"Vocational Studies and Home Economics"	217
+"1991"	"Female"	"Vocational Studies and Home Economics"	231
+"1992"	"Female"	"Vocational Studies and Home Economics"	219
+"1993"	"Female"	"Vocational Studies and Home Economics"	196
+"1994"	"Female"	"Vocational Studies and Home Economics"	224
+"1995"	"Female"	"Vocational Studies and Home Economics"	181
+"1996"	"Female"	"Vocational Studies and Home Economics"	225
+"1997"	"Female"	"Vocational Studies and Home Economics"	205
+"1998"	"Female"	"Vocational Studies and Home Economics"	187
+"1999"	"Female"	"Vocational Studies and Home Economics"	194
+"2000"	"Female"	"Vocational Studies and Home Economics"	177
+"2001"	"Female"	"Vocational Studies and Home Economics"	187
+"2002"	"Female"	"Vocational Studies and Home Economics"	198
+"2003"	"Female"	"Vocational Studies and Home Economics"	200
+"2004"	"Female"	"Vocational Studies and Home Economics"	197
+"2005"	"Female"	"Vocational Studies and Home Economics"	162
+"2006"	"Female"	"Vocational Studies and Home Economics"	173
+"2007"	"Female"	"Vocational Studies and Home Economics"	164
+"2008"	"Female"	"Vocational Studies and Home Economics"	157
+"2009"	"Female"	"Vocational Studies and Home Economics"	159
+"2010"	"Female"	"Vocational Studies and Home Economics"	213
+"2011"	"Female"	"Vocational Studies and Home Economics"	200
+"1966"	"Male"	"Vocational Studies and Home Economics"	0
+"1967"	"Male"	"Vocational Studies and Home Economics"	0
+"1968"	"Male"	"Vocational Studies and Home Economics"	0
+"1969"	"Male"	"Vocational Studies and Home Economics"	0
+"1970"	"Male"	"Vocational Studies and Home Economics"	0
+"1971"	"Male"	"Vocational Studies and Home Economics"	0
+"1972"	"Male"	"Vocational Studies and Home Economics"	0
+"1973"	"Male"	"Vocational Studies and Home Economics"	1
+"1974"	"Male"	"Vocational Studies and Home Economics"	0
+"1975"	"Male"	"Vocational Studies and Home Economics"	4
+"1976"	"Male"	"Vocational Studies and Home Economics"	1
+"1977"	"Male"	"Vocational Studies and Home Economics"	2
+"1978"	"Male"	"Vocational Studies and Home Economics"	4
+"1979"	"Male"	"Vocational Studies and Home Economics"	8
+"1980"	"Male"	"Vocational Studies and Home Economics"	8
+"1981"	"Male"	"Vocational Studies and Home Economics"	3
+"1982"	"Male"	"Vocational Studies and Home Economics"	3
+"1983"	"Male"	"Vocational Studies and Home Economics"	14
+"1984"	"Male"	"Vocational Studies and Home Economics"	13
+"1985"	"Male"	"Vocational Studies and Home Economics"	11
+"1986"	"Male"	"Vocational Studies and Home Economics"	20
+"1987"	"Male"	"Vocational Studies and Home Economics"	22
+"1988"	"Male"	"Vocational Studies and Home Economics"	45
+"1989"	"Male"	"Vocational Studies and Home Economics"	41
+"1990"	"Male"	"Vocational Studies and Home Economics"	48
+"1991"	"Male"	"Vocational Studies and Home Economics"	45
+"1992"	"Male"	"Vocational Studies and Home Economics"	66
+"1993"	"Male"	"Vocational Studies and Home Economics"	49
+"1994"	"Male"	"Vocational Studies and Home Economics"	39
+"1995"	"Male"	"Vocational Studies and Home Economics"	48
+"1996"	"Male"	"Vocational Studies and Home Economics"	29
+"1997"	"Male"	"Vocational Studies and Home Economics"	32
+"1998"	"Male"	"Vocational Studies and Home Economics"	20
+"1999"	"Male"	"Vocational Studies and Home Economics"	32
+"2000"	"Male"	"Vocational Studies and Home Economics"	18
+"2001"	"Male"	"Vocational Studies and Home Economics"	20
+"2002"	"Male"	"Vocational Studies and Home Economics"	16
+"2003"	"Male"	"Vocational Studies and Home Economics"	8
+"2004"	"Male"	"Vocational Studies and Home Economics"	5
+"2005"	"Male"	"Vocational Studies and Home Economics"	4
+"2006"	"Male"	"Vocational Studies and Home Economics"	4
+"2007"	"Male"	"Vocational Studies and Home Economics"	11
+"2008"	"Male"	"Vocational Studies and Home Economics"	7
+"2009"	"Male"	"Vocational Studies and Home Economics"	11
+"2010"	"Male"	"Vocational Studies and Home Economics"	7
+"2011"	"Male"	"Vocational Studies and Home Economics"	19

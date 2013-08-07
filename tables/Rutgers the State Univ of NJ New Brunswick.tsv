@@ -1,124 +1,2051 @@
-"year"	"gender"	"field"	"count"	"total"
-"1967"	"Female"	"6964"	0	0
-"1967"	"Gender"	"6964"	0	0
-"1967"	"Male"	"6964"	0	0
-"1972"	"Male"	"6964"	0	0
-"1972"	"Gender"	"6964"	0	0
-"1972"	"Female"	"6964"	0	0
-"1973"	"Gender"	"6964"	0	0
-"1973"	"Female"	"6964"	0	0
-"1973"	"Male"	"6964"	0	0
-"1974"	"Male"	"6964"	0	0
-"1974"	"Gender"	"6964"	0	0
-"1974"	"Female"	"6964"	0	0
-"1975"	"Female"	"6964"	0	0
-"1975"	"Male"	"6964"	0	0
-"1975"	"Gender"	"6964"	0	0
-"1976"	"Female"	"6964"	0	0
-"1976"	"Gender"	"6964"	0	0
-"1976"	"Male"	"6964"	0	0
-"1977"	"Gender"	"6964"	0	0
-"1977"	"Female"	"6964"	0	0
-"1977"	"Male"	"6964"	0	0
-"1978"	"Male"	"6964"	0	0
-"1978"	"Gender"	"6964"	0	0
-"1978"	"Female"	"6964"	0	0
-"1979"	"Female"	"6964"	0	0
-"1979"	"Male"	"6964"	0	0
-"1979"	"Gender"	"6964"	0	0
-"1980"	"Female"	"6964"	0	0
-"1980"	"Gender"	"6964"	0	0
-"1980"	"Male"	"6964"	0	0
-"1981"	"Gender"	"6964"	0	0
-"1981"	"Female"	"6964"	0	0
-"1981"	"Male"	"6964"	0	0
-"1982"	"Male"	"6964"	0	0
-"1982"	"Gender"	"6964"	0	0
-"1982"	"Female"	"6964"	0	0
-"1983"	"Female"	"6964"	0	0
-"1983"	"Male"	"6964"	0	0
-"1983"	"Gender"	"6964"	0	0
-"1984"	"Gender"	"6964"	0	0
-"1984"	"Male"	"6964"	0	0
-"1984"	"Female"	"6964"	0	0
-"1985"	"Male"	"6964"	0	0
-"1985"	"Female"	"6964"	0	0
-"1985"	"Gender"	"6964"	0	0
-"1986"	"Gender"	"6964"	0	0
-"1986"	"Female"	"6964"	0	0
-"1986"	"Male"	"6964"	0	0
-"1987"	"Male"	"6964"	0	0
-"1987"	"Gender"	"6964"	0	0
-"1987"	"Female"	"6964"	0	0
-"1988"	"Female"	"6964"	0	0
-"1988"	"Male"	"6964"	0	0
-"1988"	"Gender"	"6964"	0	0
-"1989"	"Female"	"6964"	0	0
-"1989"	"Gender"	"6964"	0	0
-"1989"	"Male"	"6964"	0	0
-"1990"	"Gender"	"6964"	0	0
-"1990"	"Female"	"6964"	0	0
-"1990"	"Male"	"6964"	0	0
-"1991"	"Male"	"6964"	0	0
-"1991"	"Gender"	"6964"	0	0
-"1991"	"Female"	"6964"	0	0
-"1992"	"Female"	"6964"	0	0
-"1992"	"Male"	"6964"	0	0
-"1992"	"Gender"	"6964"	0	0
-"1993"	"Female"	"6964"	0	0
-"1993"	"Gender"	"6964"	0	0
-"1993"	"Male"	"6964"	0	0
-"1994"	"Gender"	"6964"	0	0
-"1994"	"Female"	"6964"	0	0
-"1994"	"Male"	"6964"	0	0
-"1995"	"Male"	"6964"	0	0
-"1995"	"Gender"	"6964"	0	0
-"1995"	"Female"	"6964"	0	0
-"1996"	"Female"	"6964"	0	0
-"1996"	"Male"	"6964"	0	0
-"1996"	"Gender"	"6964"	0	0
-"1997"	"Gender"	"6964"	0	0
-"1997"	"Male"	"6964"	0	0
-"1997"	"Female"	"6964"	0	0
-"1998"	"Male"	"6964"	0	0
-"1998"	"Female"	"6964"	0	0
-"1998"	"Gender"	"6964"	0	0
-"1999"	"Gender"	"6964"	0	0
-"1999"	"Female"	"6964"	0	0
-"1999"	"Male"	"6964"	0	0
-"2000"	"Male"	"6964"	0	0
-"2000"	"Gender"	"6964"	0	0
-"2000"	"Female"	"6964"	0	0
-"2001"	"Female"	"6964"	0	0
-"2001"	"Male"	"6964"	0	0
-"2001"	"Gender"	"6964"	0	0
-"2002"	"Female"	"6964"	0	0
-"2002"	"Gender"	"6964"	0	0
-"2002"	"Male"	"6964"	0	0
-"2003"	"Gender"	"6964"	0	0
-"2003"	"Female"	"6964"	0	0
-"2003"	"Male"	"6964"	0	0
-"2004"	"Male"	"6964"	0	0
-"2004"	"Gender"	"6964"	0	0
-"2004"	"Female"	"6964"	0	0
-"2005"	"Female"	"6964"	0	0
-"2005"	"Male"	"6964"	0	0
-"2005"	"Gender"	"6964"	0	0
-"2006"	"Female"	"6964"	0	0
-"2006"	"Gender"	"6964"	0	0
-"2006"	"Male"	"6964"	0	0
-"2007"	"Gender"	"6964"	0	0
-"2007"	"Female"	"6964"	0	0
-"2007"	"Male"	"6964"	0	0
-"2008"	"Male"	"6964"	0	0
-"2008"	"Gender"	"6964"	0	0
-"2008"	"Female"	"6964"	0	0
-"2009"	"Female"	"6964"	0	0
-"2009"	"Male"	"6964"	0	0
-"2009"	"Gender"	"6964"	0	0
-"2010"	"Male"	"6964"	0	0
-"2010"	"Gender"	"6964"	0	0
-"2010"	"Female"	"6964"	0	0
-"2011"	"Female"	"6964"	0	0
-"2011"	"Gender"	"6964"	0	0
-"2011"	"Male"	"6964"	0	0
+"year"	"gender"	"field"	"count"
+"1967"	"Female"	"Agriculture"	5
+"1972"	"Female"	"Agriculture"	11
+"1973"	"Female"	"Agriculture"	18
+"1974"	"Female"	"Agriculture"	31
+"1975"	"Female"	"Agriculture"	43
+"1976"	"Female"	"Agriculture"	46
+"1977"	"Female"	"Agriculture"	92
+"1978"	"Female"	"Agriculture"	97
+"1979"	"Female"	"Agriculture"	112
+"1980"	"Female"	"Agriculture"	108
+"1981"	"Female"	"Agriculture"	142
+"1982"	"Female"	"Agriculture"	119
+"1983"	"Female"	"Agriculture"	85
+"1984"	"Female"	"Agriculture"	105
+"1985"	"Female"	"Agriculture"	66
+"1986"	"Female"	"Agriculture"	71
+"1987"	"Female"	"Agriculture"	62
+"1988"	"Female"	"Agriculture"	79
+"1989"	"Female"	"Agriculture"	71
+"1990"	"Female"	"Agriculture"	60
+"1991"	"Female"	"Agriculture"	57
+"1992"	"Female"	"Agriculture"	113
+"1993"	"Female"	"Agriculture"	101
+"1994"	"Female"	"Agriculture"	113
+"1995"	"Female"	"Agriculture"	148
+"1996"	"Female"	"Agriculture"	147
+"1997"	"Female"	"Agriculture"	146
+"1998"	"Female"	"Agriculture"	164
+"1999"	"Female"	"Agriculture"	157
+"2000"	"Female"	"Agriculture"	132
+"2001"	"Female"	"Agriculture"	120
+"2002"	"Female"	"Agriculture"	115
+"2003"	"Female"	"Agriculture"	119
+"2004"	"Female"	"Agriculture"	106
+"2005"	"Female"	"Agriculture"	94
+"2006"	"Female"	"Agriculture"	125
+"2007"	"Female"	"Agriculture"	100
+"2008"	"Female"	"Agriculture"	115
+"2009"	"Female"	"Agriculture"	105
+"2010"	"Female"	"Agriculture"	104
+"2011"	"Female"	"Agriculture"	127
+"1967"	"Male"	"Agriculture"	67
+"1972"	"Male"	"Agriculture"	126
+"1973"	"Male"	"Agriculture"	156
+"1974"	"Male"	"Agriculture"	156
+"1975"	"Male"	"Agriculture"	165
+"1976"	"Male"	"Agriculture"	99
+"1977"	"Male"	"Agriculture"	121
+"1978"	"Male"	"Agriculture"	117
+"1979"	"Male"	"Agriculture"	122
+"1980"	"Male"	"Agriculture"	124
+"1981"	"Male"	"Agriculture"	112
+"1982"	"Male"	"Agriculture"	97
+"1983"	"Male"	"Agriculture"	79
+"1984"	"Male"	"Agriculture"	77
+"1985"	"Male"	"Agriculture"	66
+"1986"	"Male"	"Agriculture"	55
+"1987"	"Male"	"Agriculture"	50
+"1988"	"Male"	"Agriculture"	38
+"1989"	"Male"	"Agriculture"	51
+"1990"	"Male"	"Agriculture"	43
+"1991"	"Male"	"Agriculture"	41
+"1992"	"Male"	"Agriculture"	92
+"1993"	"Male"	"Agriculture"	111
+"1994"	"Male"	"Agriculture"	114
+"1995"	"Male"	"Agriculture"	126
+"1996"	"Male"	"Agriculture"	130
+"1997"	"Male"	"Agriculture"	136
+"1998"	"Male"	"Agriculture"	114
+"1999"	"Male"	"Agriculture"	103
+"2000"	"Male"	"Agriculture"	86
+"2001"	"Male"	"Agriculture"	76
+"2002"	"Male"	"Agriculture"	70
+"2003"	"Male"	"Agriculture"	69
+"2004"	"Male"	"Agriculture"	45
+"2005"	"Male"	"Agriculture"	49
+"2006"	"Male"	"Agriculture"	52
+"2007"	"Male"	"Agriculture"	56
+"2008"	"Male"	"Agriculture"	55
+"2009"	"Male"	"Agriculture"	64
+"2010"	"Male"	"Agriculture"	66
+"2011"	"Male"	"Agriculture"	86
+"1967"	"Female"	"Anthropology"	0
+"1972"	"Female"	"Anthropology"	5
+"1973"	"Female"	"Anthropology"	11
+"1974"	"Female"	"Anthropology"	17
+"1975"	"Female"	"Anthropology"	22
+"1976"	"Female"	"Anthropology"	18
+"1977"	"Female"	"Anthropology"	14
+"1978"	"Female"	"Anthropology"	12
+"1979"	"Female"	"Anthropology"	18
+"1980"	"Female"	"Anthropology"	15
+"1981"	"Female"	"Anthropology"	10
+"1982"	"Female"	"Anthropology"	10
+"1983"	"Female"	"Anthropology"	7
+"1984"	"Female"	"Anthropology"	12
+"1985"	"Female"	"Anthropology"	9
+"1986"	"Female"	"Anthropology"	6
+"1987"	"Female"	"Anthropology"	12
+"1988"	"Female"	"Anthropology"	14
+"1989"	"Female"	"Anthropology"	15
+"1990"	"Female"	"Anthropology"	14
+"1991"	"Female"	"Anthropology"	20
+"1992"	"Female"	"Anthropology"	17
+"1993"	"Female"	"Anthropology"	23
+"1994"	"Female"	"Anthropology"	20
+"1995"	"Female"	"Anthropology"	8
+"1996"	"Female"	"Anthropology"	23
+"1997"	"Female"	"Anthropology"	29
+"1998"	"Female"	"Anthropology"	42
+"1999"	"Female"	"Anthropology"	30
+"2000"	"Female"	"Anthropology"	30
+"2001"	"Female"	"Anthropology"	40
+"2002"	"Female"	"Anthropology"	43
+"2003"	"Female"	"Anthropology"	42
+"2004"	"Female"	"Anthropology"	46
+"2005"	"Female"	"Anthropology"	38
+"2006"	"Female"	"Anthropology"	39
+"2007"	"Female"	"Anthropology"	28
+"2008"	"Female"	"Anthropology"	25
+"2009"	"Female"	"Anthropology"	27
+"2010"	"Female"	"Anthropology"	34
+"2011"	"Female"	"Anthropology"	33
+"1967"	"Male"	"Anthropology"	0
+"1972"	"Male"	"Anthropology"	2
+"1973"	"Male"	"Anthropology"	15
+"1974"	"Male"	"Anthropology"	12
+"1975"	"Male"	"Anthropology"	8
+"1976"	"Male"	"Anthropology"	18
+"1977"	"Male"	"Anthropology"	1
+"1978"	"Male"	"Anthropology"	8
+"1979"	"Male"	"Anthropology"	5
+"1980"	"Male"	"Anthropology"	9
+"1981"	"Male"	"Anthropology"	17
+"1982"	"Male"	"Anthropology"	4
+"1983"	"Male"	"Anthropology"	5
+"1984"	"Male"	"Anthropology"	4
+"1985"	"Male"	"Anthropology"	10
+"1986"	"Male"	"Anthropology"	4
+"1987"	"Male"	"Anthropology"	6
+"1988"	"Male"	"Anthropology"	3
+"1989"	"Male"	"Anthropology"	6
+"1990"	"Male"	"Anthropology"	8
+"1991"	"Male"	"Anthropology"	11
+"1992"	"Male"	"Anthropology"	10
+"1993"	"Male"	"Anthropology"	12
+"1994"	"Male"	"Anthropology"	11
+"1995"	"Male"	"Anthropology"	13
+"1996"	"Male"	"Anthropology"	19
+"1997"	"Male"	"Anthropology"	23
+"1998"	"Male"	"Anthropology"	20
+"1999"	"Male"	"Anthropology"	14
+"2000"	"Male"	"Anthropology"	20
+"2001"	"Male"	"Anthropology"	15
+"2002"	"Male"	"Anthropology"	21
+"2003"	"Male"	"Anthropology"	13
+"2004"	"Male"	"Anthropology"	22
+"2005"	"Male"	"Anthropology"	20
+"2006"	"Male"	"Anthropology"	19
+"2007"	"Male"	"Anthropology"	13
+"2008"	"Male"	"Anthropology"	15
+"2009"	"Male"	"Anthropology"	24
+"2010"	"Male"	"Anthropology"	24
+"2011"	"Male"	"Anthropology"	32
+"1967"	"Female"	"Area and Ethnic Studies"	18
+"1972"	"Female"	"Area and Ethnic Studies"	48
+"1973"	"Female"	"Area and Ethnic Studies"	39
+"1974"	"Female"	"Area and Ethnic Studies"	39
+"1975"	"Female"	"Area and Ethnic Studies"	51
+"1976"	"Female"	"Area and Ethnic Studies"	50
+"1977"	"Female"	"Area and Ethnic Studies"	51
+"1978"	"Female"	"Area and Ethnic Studies"	33
+"1979"	"Female"	"Area and Ethnic Studies"	26
+"1980"	"Female"	"Area and Ethnic Studies"	18
+"1981"	"Female"	"Area and Ethnic Studies"	29
+"1982"	"Female"	"Area and Ethnic Studies"	28
+"1983"	"Female"	"Area and Ethnic Studies"	22
+"1984"	"Female"	"Area and Ethnic Studies"	26
+"1985"	"Female"	"Area and Ethnic Studies"	21
+"1986"	"Female"	"Area and Ethnic Studies"	20
+"1987"	"Female"	"Area and Ethnic Studies"	24
+"1988"	"Female"	"Area and Ethnic Studies"	17
+"1989"	"Female"	"Area and Ethnic Studies"	24
+"1990"	"Female"	"Area and Ethnic Studies"	27
+"1991"	"Female"	"Area and Ethnic Studies"	21
+"1992"	"Female"	"Area and Ethnic Studies"	42
+"1993"	"Female"	"Area and Ethnic Studies"	63
+"1994"	"Female"	"Area and Ethnic Studies"	46
+"1995"	"Female"	"Area and Ethnic Studies"	46
+"1996"	"Female"	"Area and Ethnic Studies"	43
+"1997"	"Female"	"Area and Ethnic Studies"	47
+"1998"	"Female"	"Area and Ethnic Studies"	48
+"1999"	"Female"	"Area and Ethnic Studies"	45
+"2000"	"Female"	"Area and Ethnic Studies"	50
+"2001"	"Female"	"Area and Ethnic Studies"	72
+"2002"	"Female"	"Area and Ethnic Studies"	74
+"2003"	"Female"	"Area and Ethnic Studies"	64
+"2004"	"Female"	"Area and Ethnic Studies"	43
+"2005"	"Female"	"Area and Ethnic Studies"	65
+"2006"	"Female"	"Area and Ethnic Studies"	60
+"2007"	"Female"	"Area and Ethnic Studies"	56
+"2008"	"Female"	"Area and Ethnic Studies"	47
+"2009"	"Female"	"Area and Ethnic Studies"	49
+"2010"	"Female"	"Area and Ethnic Studies"	33
+"2011"	"Female"	"Area and Ethnic Studies"	44
+"1967"	"Male"	"Area and Ethnic Studies"	20
+"1972"	"Male"	"Area and Ethnic Studies"	12
+"1973"	"Male"	"Area and Ethnic Studies"	7
+"1974"	"Male"	"Area and Ethnic Studies"	4
+"1975"	"Male"	"Area and Ethnic Studies"	7
+"1976"	"Male"	"Area and Ethnic Studies"	13
+"1977"	"Male"	"Area and Ethnic Studies"	12
+"1978"	"Male"	"Area and Ethnic Studies"	5
+"1979"	"Male"	"Area and Ethnic Studies"	4
+"1980"	"Male"	"Area and Ethnic Studies"	5
+"1981"	"Male"	"Area and Ethnic Studies"	4
+"1982"	"Male"	"Area and Ethnic Studies"	7
+"1983"	"Male"	"Area and Ethnic Studies"	13
+"1984"	"Male"	"Area and Ethnic Studies"	12
+"1985"	"Male"	"Area and Ethnic Studies"	8
+"1986"	"Male"	"Area and Ethnic Studies"	7
+"1987"	"Male"	"Area and Ethnic Studies"	16
+"1988"	"Male"	"Area and Ethnic Studies"	9
+"1989"	"Male"	"Area and Ethnic Studies"	22
+"1990"	"Male"	"Area and Ethnic Studies"	13
+"1991"	"Male"	"Area and Ethnic Studies"	13
+"1992"	"Male"	"Area and Ethnic Studies"	20
+"1993"	"Male"	"Area and Ethnic Studies"	24
+"1994"	"Male"	"Area and Ethnic Studies"	21
+"1995"	"Male"	"Area and Ethnic Studies"	17
+"1996"	"Male"	"Area and Ethnic Studies"	23
+"1997"	"Male"	"Area and Ethnic Studies"	25
+"1998"	"Male"	"Area and Ethnic Studies"	28
+"1999"	"Male"	"Area and Ethnic Studies"	14
+"2000"	"Male"	"Area and Ethnic Studies"	22
+"2001"	"Male"	"Area and Ethnic Studies"	21
+"2002"	"Male"	"Area and Ethnic Studies"	31
+"2003"	"Male"	"Area and Ethnic Studies"	23
+"2004"	"Male"	"Area and Ethnic Studies"	25
+"2005"	"Male"	"Area and Ethnic Studies"	30
+"2006"	"Male"	"Area and Ethnic Studies"	31
+"2007"	"Male"	"Area and Ethnic Studies"	46
+"2008"	"Male"	"Area and Ethnic Studies"	20
+"2009"	"Male"	"Area and Ethnic Studies"	34
+"2010"	"Male"	"Area and Ethnic Studies"	32
+"2011"	"Male"	"Area and Ethnic Studies"	23
+"1967"	"Female"	"Art/Architecture"	43
+"1972"	"Female"	"Art/Architecture"	58
+"1973"	"Female"	"Art/Architecture"	94
+"1974"	"Female"	"Art/Architecture"	85
+"1975"	"Female"	"Art/Architecture"	109
+"1976"	"Female"	"Art/Architecture"	157
+"1977"	"Female"	"Art/Architecture"	163
+"1978"	"Female"	"Art/Architecture"	140
+"1979"	"Female"	"Art/Architecture"	122
+"1980"	"Female"	"Art/Architecture"	162
+"1981"	"Female"	"Art/Architecture"	159
+"1982"	"Female"	"Art/Architecture"	183
+"1983"	"Female"	"Art/Architecture"	134
+"1984"	"Female"	"Art/Architecture"	121
+"1985"	"Female"	"Art/Architecture"	122
+"1986"	"Female"	"Art/Architecture"	123
+"1987"	"Female"	"Art/Architecture"	99
+"1988"	"Female"	"Art/Architecture"	136
+"1989"	"Female"	"Art/Architecture"	167
+"1990"	"Female"	"Art/Architecture"	139
+"1991"	"Female"	"Art/Architecture"	150
+"1992"	"Female"	"Art/Architecture"	140
+"1993"	"Female"	"Art/Architecture"	149
+"1994"	"Female"	"Art/Architecture"	137
+"1995"	"Female"	"Art/Architecture"	126
+"1996"	"Female"	"Art/Architecture"	123
+"1997"	"Female"	"Art/Architecture"	146
+"1998"	"Female"	"Art/Architecture"	174
+"1999"	"Female"	"Art/Architecture"	128
+"2000"	"Female"	"Art/Architecture"	164
+"2001"	"Female"	"Art/Architecture"	179
+"2002"	"Female"	"Art/Architecture"	193
+"2003"	"Female"	"Art/Architecture"	187
+"2004"	"Female"	"Art/Architecture"	187
+"2005"	"Female"	"Art/Architecture"	202
+"2006"	"Female"	"Art/Architecture"	170
+"2007"	"Female"	"Art/Architecture"	174
+"2008"	"Female"	"Art/Architecture"	147
+"2009"	"Female"	"Art/Architecture"	176
+"2010"	"Female"	"Art/Architecture"	146
+"2011"	"Female"	"Art/Architecture"	146
+"1967"	"Male"	"Art/Architecture"	42
+"1972"	"Male"	"Art/Architecture"	41
+"1973"	"Male"	"Art/Architecture"	43
+"1974"	"Male"	"Art/Architecture"	46
+"1975"	"Male"	"Art/Architecture"	77
+"1976"	"Male"	"Art/Architecture"	78
+"1977"	"Male"	"Art/Architecture"	92
+"1978"	"Male"	"Art/Architecture"	85
+"1979"	"Male"	"Art/Architecture"	89
+"1980"	"Male"	"Art/Architecture"	67
+"1981"	"Male"	"Art/Architecture"	85
+"1982"	"Male"	"Art/Architecture"	86
+"1983"	"Male"	"Art/Architecture"	85
+"1984"	"Male"	"Art/Architecture"	74
+"1985"	"Male"	"Art/Architecture"	68
+"1986"	"Male"	"Art/Architecture"	105
+"1987"	"Male"	"Art/Architecture"	89
+"1988"	"Male"	"Art/Architecture"	96
+"1989"	"Male"	"Art/Architecture"	87
+"1990"	"Male"	"Art/Architecture"	113
+"1991"	"Male"	"Art/Architecture"	98
+"1992"	"Male"	"Art/Architecture"	107
+"1993"	"Male"	"Art/Architecture"	103
+"1994"	"Male"	"Art/Architecture"	115
+"1995"	"Male"	"Art/Architecture"	92
+"1996"	"Male"	"Art/Architecture"	86
+"1997"	"Male"	"Art/Architecture"	81
+"1998"	"Male"	"Art/Architecture"	119
+"1999"	"Male"	"Art/Architecture"	109
+"2000"	"Male"	"Art/Architecture"	102
+"2001"	"Male"	"Art/Architecture"	99
+"2002"	"Male"	"Art/Architecture"	123
+"2003"	"Male"	"Art/Architecture"	119
+"2004"	"Male"	"Art/Architecture"	88
+"2005"	"Male"	"Art/Architecture"	131
+"2006"	"Male"	"Art/Architecture"	98
+"2007"	"Male"	"Art/Architecture"	98
+"2008"	"Male"	"Art/Architecture"	106
+"2009"	"Male"	"Art/Architecture"	99
+"2010"	"Male"	"Art/Architecture"	113
+"2011"	"Male"	"Art/Architecture"	92
+"1967"	"Female"	"Business"	9
+"1972"	"Female"	"Business"	32
+"1973"	"Female"	"Business"	38
+"1974"	"Female"	"Business"	25
+"1975"	"Female"	"Business"	68
+"1976"	"Female"	"Business"	70
+"1977"	"Female"	"Business"	91
+"1978"	"Female"	"Business"	137
+"1979"	"Female"	"Business"	143
+"1980"	"Female"	"Business"	168
+"1981"	"Female"	"Business"	187
+"1982"	"Female"	"Business"	224
+"1983"	"Female"	"Business"	267
+"1984"	"Female"	"Business"	210
+"1985"	"Female"	"Business"	200
+"1986"	"Female"	"Business"	276
+"1987"	"Female"	"Business"	262
+"1988"	"Female"	"Business"	254
+"1989"	"Female"	"Business"	313
+"1990"	"Female"	"Business"	249
+"1991"	"Female"	"Business"	202
+"1992"	"Female"	"Business"	244
+"1993"	"Female"	"Business"	212
+"1994"	"Female"	"Business"	222
+"1995"	"Female"	"Business"	203
+"1996"	"Female"	"Business"	175
+"1997"	"Female"	"Business"	171
+"1998"	"Female"	"Business"	171
+"1999"	"Female"	"Business"	180
+"2000"	"Female"	"Business"	246
+"2001"	"Female"	"Business"	182
+"2002"	"Female"	"Business"	226
+"2003"	"Female"	"Business"	228
+"2004"	"Female"	"Business"	254
+"2005"	"Female"	"Business"	209
+"2006"	"Female"	"Business"	226
+"2007"	"Female"	"Business"	211
+"2008"	"Female"	"Business"	194
+"2009"	"Female"	"Business"	191
+"2010"	"Female"	"Business"	198
+"2011"	"Female"	"Business"	230
+"1967"	"Male"	"Business"	303
+"1972"	"Male"	"Business"	537
+"1973"	"Male"	"Business"	533
+"1974"	"Male"	"Business"	601
+"1975"	"Male"	"Business"	633
+"1976"	"Male"	"Business"	343
+"1977"	"Male"	"Business"	406
+"1978"	"Male"	"Business"	384
+"1979"	"Male"	"Business"	311
+"1980"	"Male"	"Business"	316
+"1981"	"Male"	"Business"	308
+"1982"	"Male"	"Business"	353
+"1983"	"Male"	"Business"	303
+"1984"	"Male"	"Business"	253
+"1985"	"Male"	"Business"	258
+"1986"	"Male"	"Business"	385
+"1987"	"Male"	"Business"	186
+"1988"	"Male"	"Business"	180
+"1989"	"Male"	"Business"	198
+"1990"	"Male"	"Business"	189
+"1991"	"Male"	"Business"	193
+"1992"	"Male"	"Business"	167
+"1993"	"Male"	"Business"	205
+"1994"	"Male"	"Business"	178
+"1995"	"Male"	"Business"	173
+"1996"	"Male"	"Business"	198
+"1997"	"Male"	"Business"	168
+"1998"	"Male"	"Business"	212
+"1999"	"Male"	"Business"	169
+"2000"	"Male"	"Business"	215
+"2001"	"Male"	"Business"	183
+"2002"	"Male"	"Business"	182
+"2003"	"Male"	"Business"	203
+"2004"	"Male"	"Business"	215
+"2005"	"Male"	"Business"	180
+"2006"	"Male"	"Business"	204
+"2007"	"Male"	"Business"	234
+"2008"	"Male"	"Business"	218
+"2009"	"Male"	"Business"	228
+"2010"	"Male"	"Business"	235
+"2011"	"Male"	"Business"	272
+"1967"	"Female"	"Communication and Library Science"	7
+"1972"	"Female"	"Communication and Library Science"	11
+"1973"	"Female"	"Communication and Library Science"	15
+"1974"	"Female"	"Communication and Library Science"	25
+"1975"	"Female"	"Communication and Library Science"	27
+"1976"	"Female"	"Communication and Library Science"	32
+"1977"	"Female"	"Communication and Library Science"	50
+"1978"	"Female"	"Communication and Library Science"	69
+"1979"	"Female"	"Communication and Library Science"	84
+"1980"	"Female"	"Communication and Library Science"	121
+"1981"	"Female"	"Communication and Library Science"	154
+"1982"	"Female"	"Communication and Library Science"	198
+"1983"	"Female"	"Communication and Library Science"	249
+"1984"	"Female"	"Communication and Library Science"	240
+"1985"	"Female"	"Communication and Library Science"	228
+"1986"	"Female"	"Communication and Library Science"	232
+"1987"	"Female"	"Communication and Library Science"	265
+"1988"	"Female"	"Communication and Library Science"	197
+"1989"	"Female"	"Communication and Library Science"	248
+"1990"	"Female"	"Communication and Library Science"	290
+"1991"	"Female"	"Communication and Library Science"	254
+"1992"	"Female"	"Communication and Library Science"	268
+"1993"	"Female"	"Communication and Library Science"	269
+"1994"	"Female"	"Communication and Library Science"	243
+"1995"	"Female"	"Communication and Library Science"	190
+"1996"	"Female"	"Communication and Library Science"	218
+"1997"	"Female"	"Communication and Library Science"	220
+"1998"	"Female"	"Communication and Library Science"	232
+"1999"	"Female"	"Communication and Library Science"	232
+"2000"	"Female"	"Communication and Library Science"	276
+"2001"	"Female"	"Communication and Library Science"	302
+"2002"	"Female"	"Communication and Library Science"	338
+"2003"	"Female"	"Communication and Library Science"	314
+"2004"	"Female"	"Communication and Library Science"	315
+"2005"	"Female"	"Communication and Library Science"	355
+"2006"	"Female"	"Communication and Library Science"	371
+"2007"	"Female"	"Communication and Library Science"	371
+"2008"	"Female"	"Communication and Library Science"	346
+"2009"	"Female"	"Communication and Library Science"	368
+"2010"	"Female"	"Communication and Library Science"	387
+"2011"	"Female"	"Communication and Library Science"	428
+"1967"	"Male"	"Communication and Library Science"	11
+"1972"	"Male"	"Communication and Library Science"	33
+"1973"	"Male"	"Communication and Library Science"	36
+"1974"	"Male"	"Communication and Library Science"	33
+"1975"	"Male"	"Communication and Library Science"	29
+"1976"	"Male"	"Communication and Library Science"	34
+"1977"	"Male"	"Communication and Library Science"	47
+"1978"	"Male"	"Communication and Library Science"	59
+"1979"	"Male"	"Communication and Library Science"	75
+"1980"	"Male"	"Communication and Library Science"	97
+"1981"	"Male"	"Communication and Library Science"	94
+"1982"	"Male"	"Communication and Library Science"	94
+"1983"	"Male"	"Communication and Library Science"	114
+"1984"	"Male"	"Communication and Library Science"	85
+"1985"	"Male"	"Communication and Library Science"	76
+"1986"	"Male"	"Communication and Library Science"	113
+"1987"	"Male"	"Communication and Library Science"	118
+"1988"	"Male"	"Communication and Library Science"	87
+"1989"	"Male"	"Communication and Library Science"	113
+"1990"	"Male"	"Communication and Library Science"	108
+"1991"	"Male"	"Communication and Library Science"	93
+"1992"	"Male"	"Communication and Library Science"	127
+"1993"	"Male"	"Communication and Library Science"	105
+"1994"	"Male"	"Communication and Library Science"	107
+"1995"	"Male"	"Communication and Library Science"	112
+"1996"	"Male"	"Communication and Library Science"	114
+"1997"	"Male"	"Communication and Library Science"	111
+"1998"	"Male"	"Communication and Library Science"	118
+"1999"	"Male"	"Communication and Library Science"	117
+"2000"	"Male"	"Communication and Library Science"	136
+"2001"	"Male"	"Communication and Library Science"	140
+"2002"	"Male"	"Communication and Library Science"	148
+"2003"	"Male"	"Communication and Library Science"	119
+"2004"	"Male"	"Communication and Library Science"	137
+"2005"	"Male"	"Communication and Library Science"	110
+"2006"	"Male"	"Communication and Library Science"	180
+"2007"	"Male"	"Communication and Library Science"	164
+"2008"	"Male"	"Communication and Library Science"	169
+"2009"	"Male"	"Communication and Library Science"	186
+"2010"	"Male"	"Communication and Library Science"	180
+"2011"	"Male"	"Communication and Library Science"	205
+"1967"	"Female"	"Computer Science"	0
+"1972"	"Female"	"Computer Science"	1
+"1973"	"Female"	"Computer Science"	15
+"1974"	"Female"	"Computer Science"	2
+"1975"	"Female"	"Computer Science"	5
+"1976"	"Female"	"Computer Science"	6
+"1977"	"Female"	"Computer Science"	6
+"1978"	"Female"	"Computer Science"	23
+"1979"	"Female"	"Computer Science"	29
+"1980"	"Female"	"Computer Science"	53
+"1981"	"Female"	"Computer Science"	52
+"1982"	"Female"	"Computer Science"	76
+"1983"	"Female"	"Computer Science"	65
+"1984"	"Female"	"Computer Science"	83
+"1985"	"Female"	"Computer Science"	102
+"1986"	"Female"	"Computer Science"	96
+"1987"	"Female"	"Computer Science"	77
+"1988"	"Female"	"Computer Science"	43
+"1989"	"Female"	"Computer Science"	48
+"1990"	"Female"	"Computer Science"	53
+"1991"	"Female"	"Computer Science"	43
+"1992"	"Female"	"Computer Science"	33
+"1993"	"Female"	"Computer Science"	33
+"1994"	"Female"	"Computer Science"	42
+"1995"	"Female"	"Computer Science"	32
+"1996"	"Female"	"Computer Science"	43
+"1997"	"Female"	"Computer Science"	35
+"1998"	"Female"	"Computer Science"	33
+"1999"	"Female"	"Computer Science"	60
+"2000"	"Female"	"Computer Science"	73
+"2001"	"Female"	"Computer Science"	80
+"2002"	"Female"	"Computer Science"	97
+"2003"	"Female"	"Computer Science"	129
+"2004"	"Female"	"Computer Science"	91
+"2005"	"Female"	"Computer Science"	51
+"2006"	"Female"	"Computer Science"	32
+"2007"	"Female"	"Computer Science"	35
+"2008"	"Female"	"Computer Science"	19
+"2009"	"Female"	"Computer Science"	24
+"2010"	"Female"	"Computer Science"	22
+"2011"	"Female"	"Computer Science"	29
+"1967"	"Male"	"Computer Science"	0
+"1972"	"Male"	"Computer Science"	6
+"1973"	"Male"	"Computer Science"	16
+"1974"	"Male"	"Computer Science"	14
+"1975"	"Male"	"Computer Science"	15
+"1976"	"Male"	"Computer Science"	16
+"1977"	"Male"	"Computer Science"	25
+"1978"	"Male"	"Computer Science"	37
+"1979"	"Male"	"Computer Science"	45
+"1980"	"Male"	"Computer Science"	69
+"1981"	"Male"	"Computer Science"	86
+"1982"	"Male"	"Computer Science"	104
+"1983"	"Male"	"Computer Science"	114
+"1984"	"Male"	"Computer Science"	124
+"1985"	"Male"	"Computer Science"	151
+"1986"	"Male"	"Computer Science"	142
+"1987"	"Male"	"Computer Science"	150
+"1988"	"Male"	"Computer Science"	120
+"1989"	"Male"	"Computer Science"	106
+"1990"	"Male"	"Computer Science"	111
+"1991"	"Male"	"Computer Science"	88
+"1992"	"Male"	"Computer Science"	106
+"1993"	"Male"	"Computer Science"	106
+"1994"	"Male"	"Computer Science"	101
+"1995"	"Male"	"Computer Science"	96
+"1996"	"Male"	"Computer Science"	116
+"1997"	"Male"	"Computer Science"	104
+"1998"	"Male"	"Computer Science"	119
+"1999"	"Male"	"Computer Science"	152
+"2000"	"Male"	"Computer Science"	210
+"2001"	"Male"	"Computer Science"	256
+"2002"	"Male"	"Computer Science"	259
+"2003"	"Male"	"Computer Science"	297
+"2004"	"Male"	"Computer Science"	249
+"2005"	"Male"	"Computer Science"	214
+"2006"	"Male"	"Computer Science"	162
+"2007"	"Male"	"Computer Science"	120
+"2008"	"Male"	"Computer Science"	104
+"2009"	"Male"	"Computer Science"	113
+"2010"	"Male"	"Computer Science"	130
+"2011"	"Male"	"Computer Science"	135
+"1967"	"Female"	"Economics"	19
+"1972"	"Female"	"Economics"	23
+"1973"	"Female"	"Economics"	27
+"1974"	"Female"	"Economics"	30
+"1975"	"Female"	"Economics"	41
+"1976"	"Female"	"Economics"	40
+"1977"	"Female"	"Economics"	68
+"1978"	"Female"	"Economics"	76
+"1979"	"Female"	"Economics"	95
+"1980"	"Female"	"Economics"	108
+"1981"	"Female"	"Economics"	129
+"1982"	"Female"	"Economics"	171
+"1983"	"Female"	"Economics"	216
+"1984"	"Female"	"Economics"	285
+"1985"	"Female"	"Economics"	355
+"1986"	"Female"	"Economics"	326
+"1987"	"Female"	"Economics"	343
+"1988"	"Female"	"Economics"	251
+"1989"	"Female"	"Economics"	288
+"1990"	"Female"	"Economics"	275
+"1991"	"Female"	"Economics"	169
+"1992"	"Female"	"Economics"	165
+"1993"	"Female"	"Economics"	124
+"1994"	"Female"	"Economics"	111
+"1995"	"Female"	"Economics"	93
+"1996"	"Female"	"Economics"	87
+"1997"	"Female"	"Economics"	90
+"1998"	"Female"	"Economics"	118
+"1999"	"Female"	"Economics"	97
+"2000"	"Female"	"Economics"	158
+"2001"	"Female"	"Economics"	173
+"2002"	"Female"	"Economics"	175
+"2003"	"Female"	"Economics"	196
+"2004"	"Female"	"Economics"	191
+"2005"	"Female"	"Economics"	186
+"2006"	"Female"	"Economics"	139
+"2007"	"Female"	"Economics"	113
+"2008"	"Female"	"Economics"	110
+"2009"	"Female"	"Economics"	120
+"2010"	"Female"	"Economics"	137
+"2011"	"Female"	"Economics"	97
+"1967"	"Male"	"Economics"	100
+"1972"	"Male"	"Economics"	150
+"1973"	"Male"	"Economics"	145
+"1974"	"Male"	"Economics"	150
+"1975"	"Male"	"Economics"	145
+"1976"	"Male"	"Economics"	98
+"1977"	"Male"	"Economics"	161
+"1978"	"Male"	"Economics"	150
+"1979"	"Male"	"Economics"	184
+"1980"	"Male"	"Economics"	180
+"1981"	"Male"	"Economics"	187
+"1982"	"Male"	"Economics"	206
+"1983"	"Male"	"Economics"	227
+"1984"	"Male"	"Economics"	256
+"1985"	"Male"	"Economics"	321
+"1986"	"Male"	"Economics"	322
+"1987"	"Male"	"Economics"	387
+"1988"	"Male"	"Economics"	415
+"1989"	"Male"	"Economics"	423
+"1990"	"Male"	"Economics"	388
+"1991"	"Male"	"Economics"	347
+"1992"	"Male"	"Economics"	259
+"1993"	"Male"	"Economics"	226
+"1994"	"Male"	"Economics"	190
+"1995"	"Male"	"Economics"	186
+"1996"	"Male"	"Economics"	172
+"1997"	"Male"	"Economics"	168
+"1998"	"Male"	"Economics"	178
+"1999"	"Male"	"Economics"	210
+"2000"	"Male"	"Economics"	262
+"2001"	"Male"	"Economics"	247
+"2002"	"Male"	"Economics"	285
+"2003"	"Male"	"Economics"	308
+"2004"	"Male"	"Economics"	330
+"2005"	"Male"	"Economics"	311
+"2006"	"Male"	"Economics"	272
+"2007"	"Male"	"Economics"	241
+"2008"	"Male"	"Economics"	221
+"2009"	"Male"	"Economics"	284
+"2010"	"Male"	"Economics"	321
+"2011"	"Male"	"Economics"	286
+"1967"	"Female"	"Education"	35
+"1972"	"Female"	"Education"	74
+"1973"	"Female"	"Education"	61
+"1974"	"Female"	"Education"	79
+"1975"	"Female"	"Education"	113
+"1976"	"Female"	"Education"	108
+"1977"	"Female"	"Education"	121
+"1978"	"Female"	"Education"	127
+"1979"	"Female"	"Education"	105
+"1980"	"Female"	"Education"	68
+"1981"	"Female"	"Education"	59
+"1982"	"Female"	"Education"	53
+"1983"	"Female"	"Education"	45
+"1984"	"Female"	"Education"	41
+"1985"	"Female"	"Education"	39
+"1986"	"Female"	"Education"	49
+"1987"	"Female"	"Education"	57
+"1988"	"Female"	"Education"	69
+"1989"	"Female"	"Education"	72
+"1990"	"Female"	"Education"	65
+"1991"	"Female"	"Education"	53
+"1992"	"Female"	"Education"	53
+"1993"	"Female"	"Education"	64
+"1994"	"Female"	"Education"	69
+"1995"	"Female"	"Education"	72
+"1996"	"Female"	"Education"	73
+"1997"	"Female"	"Education"	92
+"1998"	"Female"	"Education"	94
+"1999"	"Female"	"Education"	80
+"2000"	"Female"	"Education"	69
+"2001"	"Female"	"Education"	52
+"2002"	"Female"	"Education"	50
+"2003"	"Female"	"Education"	60
+"2004"	"Female"	"Education"	74
+"2005"	"Female"	"Education"	72
+"2006"	"Female"	"Education"	95
+"2007"	"Female"	"Education"	66
+"2008"	"Female"	"Education"	0
+"2009"	"Female"	"Education"	0
+"2010"	"Female"	"Education"	0
+"2011"	"Female"	"Education"	0
+"1967"	"Male"	"Education"	17
+"1972"	"Male"	"Education"	10
+"1973"	"Male"	"Education"	34
+"1974"	"Male"	"Education"	53
+"1975"	"Male"	"Education"	50
+"1976"	"Male"	"Education"	35
+"1977"	"Male"	"Education"	41
+"1978"	"Male"	"Education"	25
+"1979"	"Male"	"Education"	27
+"1980"	"Male"	"Education"	39
+"1981"	"Male"	"Education"	20
+"1982"	"Male"	"Education"	24
+"1983"	"Male"	"Education"	16
+"1984"	"Male"	"Education"	13
+"1985"	"Male"	"Education"	15
+"1986"	"Male"	"Education"	21
+"1987"	"Male"	"Education"	24
+"1988"	"Male"	"Education"	30
+"1989"	"Male"	"Education"	53
+"1990"	"Male"	"Education"	46
+"1991"	"Male"	"Education"	31
+"1992"	"Male"	"Education"	23
+"1993"	"Male"	"Education"	30
+"1994"	"Male"	"Education"	47
+"1995"	"Male"	"Education"	67
+"1996"	"Male"	"Education"	47
+"1997"	"Male"	"Education"	60
+"1998"	"Male"	"Education"	44
+"1999"	"Male"	"Education"	57
+"2000"	"Male"	"Education"	51
+"2001"	"Male"	"Education"	27
+"2002"	"Male"	"Education"	42
+"2003"	"Male"	"Education"	48
+"2004"	"Male"	"Education"	36
+"2005"	"Male"	"Education"	74
+"2006"	"Male"	"Education"	60
+"2007"	"Male"	"Education"	103
+"2008"	"Male"	"Education"	0
+"2009"	"Male"	"Education"	0
+"2010"	"Male"	"Education"	0
+"2011"	"Male"	"Education"	0
+"1967"	"Female"	"Engineering"	1
+"1972"	"Female"	"Engineering"	11
+"1973"	"Female"	"Engineering"	12
+"1974"	"Female"	"Engineering"	13
+"1975"	"Female"	"Engineering"	19
+"1976"	"Female"	"Engineering"	35
+"1977"	"Female"	"Engineering"	31
+"1978"	"Female"	"Engineering"	32
+"1979"	"Female"	"Engineering"	52
+"1980"	"Female"	"Engineering"	76
+"1981"	"Female"	"Engineering"	90
+"1982"	"Female"	"Engineering"	91
+"1983"	"Female"	"Engineering"	123
+"1984"	"Female"	"Engineering"	129
+"1985"	"Female"	"Engineering"	122
+"1986"	"Female"	"Engineering"	135
+"1987"	"Female"	"Engineering"	148
+"1988"	"Female"	"Engineering"	127
+"1989"	"Female"	"Engineering"	94
+"1990"	"Female"	"Engineering"	109
+"1991"	"Female"	"Engineering"	97
+"1992"	"Female"	"Engineering"	92
+"1993"	"Female"	"Engineering"	86
+"1994"	"Female"	"Engineering"	97
+"1995"	"Female"	"Engineering"	97
+"1996"	"Female"	"Engineering"	106
+"1997"	"Female"	"Engineering"	89
+"1998"	"Female"	"Engineering"	82
+"1999"	"Female"	"Engineering"	97
+"2000"	"Female"	"Engineering"	92
+"2001"	"Female"	"Engineering"	111
+"2002"	"Female"	"Engineering"	106
+"2003"	"Female"	"Engineering"	104
+"2004"	"Female"	"Engineering"	101
+"2005"	"Female"	"Engineering"	104
+"2006"	"Female"	"Engineering"	102
+"2007"	"Female"	"Engineering"	78
+"2008"	"Female"	"Engineering"	78
+"2009"	"Female"	"Engineering"	79
+"2010"	"Female"	"Engineering"	86
+"2011"	"Female"	"Engineering"	94
+"1967"	"Male"	"Engineering"	165
+"1972"	"Male"	"Engineering"	201
+"1973"	"Male"	"Engineering"	184
+"1974"	"Male"	"Engineering"	162
+"1975"	"Male"	"Engineering"	153
+"1976"	"Male"	"Engineering"	184
+"1977"	"Male"	"Engineering"	197
+"1978"	"Male"	"Engineering"	243
+"1979"	"Male"	"Engineering"	330
+"1980"	"Male"	"Engineering"	352
+"1981"	"Male"	"Engineering"	348
+"1982"	"Male"	"Engineering"	414
+"1983"	"Male"	"Engineering"	484
+"1984"	"Male"	"Engineering"	473
+"1985"	"Male"	"Engineering"	440
+"1986"	"Male"	"Engineering"	475
+"1987"	"Male"	"Engineering"	425
+"1988"	"Male"	"Engineering"	415
+"1989"	"Male"	"Engineering"	379
+"1990"	"Male"	"Engineering"	400
+"1991"	"Male"	"Engineering"	376
+"1992"	"Male"	"Engineering"	371
+"1993"	"Male"	"Engineering"	369
+"1994"	"Male"	"Engineering"	424
+"1995"	"Male"	"Engineering"	342
+"1996"	"Male"	"Engineering"	397
+"1997"	"Male"	"Engineering"	353
+"1998"	"Male"	"Engineering"	317
+"1999"	"Male"	"Engineering"	324
+"2000"	"Male"	"Engineering"	299
+"2001"	"Male"	"Engineering"	303
+"2002"	"Male"	"Engineering"	314
+"2003"	"Male"	"Engineering"	313
+"2004"	"Male"	"Engineering"	354
+"2005"	"Male"	"Engineering"	339
+"2006"	"Male"	"Engineering"	410
+"2007"	"Male"	"Engineering"	365
+"2008"	"Male"	"Engineering"	371
+"2009"	"Male"	"Engineering"	382
+"2010"	"Male"	"Engineering"	449
+"2011"	"Male"	"Engineering"	412
+"1967"	"Female"	"English and Literature"	159
+"1972"	"Female"	"English and Literature"	157
+"1973"	"Female"	"English and Literature"	207
+"1974"	"Female"	"English and Literature"	202
+"1975"	"Female"	"English and Literature"	215
+"1976"	"Female"	"English and Literature"	230
+"1977"	"Female"	"English and Literature"	172
+"1978"	"Female"	"English and Literature"	163
+"1979"	"Female"	"English and Literature"	138
+"1980"	"Female"	"English and Literature"	188
+"1981"	"Female"	"English and Literature"	187
+"1982"	"Female"	"English and Literature"	203
+"1983"	"Female"	"English and Literature"	190
+"1984"	"Female"	"English and Literature"	170
+"1985"	"Female"	"English and Literature"	199
+"1986"	"Female"	"English and Literature"	212
+"1987"	"Female"	"English and Literature"	180
+"1988"	"Female"	"English and Literature"	211
+"1989"	"Female"	"English and Literature"	251
+"1990"	"Female"	"English and Literature"	278
+"1991"	"Female"	"English and Literature"	271
+"1992"	"Female"	"English and Literature"	334
+"1993"	"Female"	"English and Literature"	268
+"1994"	"Female"	"English and Literature"	263
+"1995"	"Female"	"English and Literature"	230
+"1996"	"Female"	"English and Literature"	199
+"1997"	"Female"	"English and Literature"	205
+"1998"	"Female"	"English and Literature"	197
+"1999"	"Female"	"English and Literature"	211
+"2000"	"Female"	"English and Literature"	209
+"2001"	"Female"	"English and Literature"	218
+"2002"	"Female"	"English and Literature"	208
+"2003"	"Female"	"English and Literature"	215
+"2004"	"Female"	"English and Literature"	243
+"2005"	"Female"	"English and Literature"	205
+"2006"	"Female"	"English and Literature"	177
+"2007"	"Female"	"English and Literature"	202
+"2008"	"Female"	"English and Literature"	176
+"2009"	"Female"	"English and Literature"	178
+"2010"	"Female"	"English and Literature"	153
+"2011"	"Female"	"English and Literature"	168
+"1967"	"Male"	"English and Literature"	89
+"1972"	"Male"	"English and Literature"	151
+"1973"	"Male"	"English and Literature"	187
+"1974"	"Male"	"English and Literature"	154
+"1975"	"Male"	"English and Literature"	118
+"1976"	"Male"	"English and Literature"	103
+"1977"	"Male"	"English and Literature"	103
+"1978"	"Male"	"English and Literature"	79
+"1979"	"Male"	"English and Literature"	92
+"1980"	"Male"	"English and Literature"	115
+"1981"	"Male"	"English and Literature"	127
+"1982"	"Male"	"English and Literature"	130
+"1983"	"Male"	"English and Literature"	149
+"1984"	"Male"	"English and Literature"	111
+"1985"	"Male"	"English and Literature"	93
+"1986"	"Male"	"English and Literature"	90
+"1987"	"Male"	"English and Literature"	87
+"1988"	"Male"	"English and Literature"	125
+"1989"	"Male"	"English and Literature"	124
+"1990"	"Male"	"English and Literature"	145
+"1991"	"Male"	"English and Literature"	125
+"1992"	"Male"	"English and Literature"	142
+"1993"	"Male"	"English and Literature"	150
+"1994"	"Male"	"English and Literature"	117
+"1995"	"Male"	"English and Literature"	120
+"1996"	"Male"	"English and Literature"	85
+"1997"	"Male"	"English and Literature"	98
+"1998"	"Male"	"English and Literature"	88
+"1999"	"Male"	"English and Literature"	88
+"2000"	"Male"	"English and Literature"	106
+"2001"	"Male"	"English and Literature"	98
+"2002"	"Male"	"English and Literature"	105
+"2003"	"Male"	"English and Literature"	104
+"2004"	"Male"	"English and Literature"	103
+"2005"	"Male"	"English and Literature"	88
+"2006"	"Male"	"English and Literature"	91
+"2007"	"Male"	"English and Literature"	87
+"2008"	"Male"	"English and Literature"	95
+"2009"	"Male"	"English and Literature"	75
+"2010"	"Male"	"English and Literature"	87
+"2011"	"Male"	"English and Literature"	99
+"1967"	"Female"	"Foreign Languages"	96
+"1972"	"Female"	"Foreign Languages"	76
+"1973"	"Female"	"Foreign Languages"	104
+"1974"	"Female"	"Foreign Languages"	95
+"1975"	"Female"	"Foreign Languages"	104
+"1976"	"Female"	"Foreign Languages"	99
+"1977"	"Female"	"Foreign Languages"	133
+"1978"	"Female"	"Foreign Languages"	84
+"1979"	"Female"	"Foreign Languages"	93
+"1980"	"Female"	"Foreign Languages"	101
+"1981"	"Female"	"Foreign Languages"	95
+"1982"	"Female"	"Foreign Languages"	69
+"1983"	"Female"	"Foreign Languages"	85
+"1984"	"Female"	"Foreign Languages"	71
+"1985"	"Female"	"Foreign Languages"	82
+"1986"	"Female"	"Foreign Languages"	85
+"1987"	"Female"	"Foreign Languages"	88
+"1988"	"Female"	"Foreign Languages"	76
+"1989"	"Female"	"Foreign Languages"	99
+"1990"	"Female"	"Foreign Languages"	91
+"1991"	"Female"	"Foreign Languages"	113
+"1992"	"Female"	"Foreign Languages"	97
+"1993"	"Female"	"Foreign Languages"	98
+"1994"	"Female"	"Foreign Languages"	69
+"1995"	"Female"	"Foreign Languages"	83
+"1996"	"Female"	"Foreign Languages"	76
+"1997"	"Female"	"Foreign Languages"	97
+"1998"	"Female"	"Foreign Languages"	86
+"1999"	"Female"	"Foreign Languages"	91
+"2000"	"Female"	"Foreign Languages"	93
+"2001"	"Female"	"Foreign Languages"	99
+"2002"	"Female"	"Foreign Languages"	92
+"2003"	"Female"	"Foreign Languages"	94
+"2004"	"Female"	"Foreign Languages"	80
+"2005"	"Female"	"Foreign Languages"	93
+"2006"	"Female"	"Foreign Languages"	73
+"2007"	"Female"	"Foreign Languages"	71
+"2008"	"Female"	"Foreign Languages"	84
+"2009"	"Female"	"Foreign Languages"	64
+"2010"	"Female"	"Foreign Languages"	67
+"2011"	"Female"	"Foreign Languages"	64
+"1967"	"Male"	"Foreign Languages"	42
+"1972"	"Male"	"Foreign Languages"	35
+"1973"	"Male"	"Foreign Languages"	34
+"1974"	"Male"	"Foreign Languages"	40
+"1975"	"Male"	"Foreign Languages"	35
+"1976"	"Male"	"Foreign Languages"	22
+"1977"	"Male"	"Foreign Languages"	26
+"1978"	"Male"	"Foreign Languages"	22
+"1979"	"Male"	"Foreign Languages"	16
+"1980"	"Male"	"Foreign Languages"	20
+"1981"	"Male"	"Foreign Languages"	27
+"1982"	"Male"	"Foreign Languages"	21
+"1983"	"Male"	"Foreign Languages"	19
+"1984"	"Male"	"Foreign Languages"	29
+"1985"	"Male"	"Foreign Languages"	30
+"1986"	"Male"	"Foreign Languages"	23
+"1987"	"Male"	"Foreign Languages"	31
+"1988"	"Male"	"Foreign Languages"	19
+"1989"	"Male"	"Foreign Languages"	22
+"1990"	"Male"	"Foreign Languages"	23
+"1991"	"Male"	"Foreign Languages"	32
+"1992"	"Male"	"Foreign Languages"	40
+"1993"	"Male"	"Foreign Languages"	27
+"1994"	"Male"	"Foreign Languages"	30
+"1995"	"Male"	"Foreign Languages"	22
+"1996"	"Male"	"Foreign Languages"	22
+"1997"	"Male"	"Foreign Languages"	18
+"1998"	"Male"	"Foreign Languages"	15
+"1999"	"Male"	"Foreign Languages"	31
+"2000"	"Male"	"Foreign Languages"	22
+"2001"	"Male"	"Foreign Languages"	17
+"2002"	"Male"	"Foreign Languages"	29
+"2003"	"Male"	"Foreign Languages"	27
+"2004"	"Male"	"Foreign Languages"	26
+"2005"	"Male"	"Foreign Languages"	17
+"2006"	"Male"	"Foreign Languages"	29
+"2007"	"Male"	"Foreign Languages"	14
+"2008"	"Male"	"Foreign Languages"	27
+"2009"	"Male"	"Foreign Languages"	21
+"2010"	"Male"	"Foreign Languages"	19
+"2011"	"Male"	"Foreign Languages"	27
+"1967"	"Female"	"History"	63
+"1972"	"Female"	"History"	71
+"1973"	"Female"	"History"	54
+"1974"	"Female"	"History"	66
+"1975"	"Female"	"History"	74
+"1976"	"Female"	"History"	64
+"1977"	"Female"	"History"	104
+"1978"	"Female"	"History"	75
+"1979"	"Female"	"History"	80
+"1980"	"Female"	"History"	57
+"1981"	"Female"	"History"	60
+"1982"	"Female"	"History"	67
+"1983"	"Female"	"History"	51
+"1984"	"Female"	"History"	30
+"1985"	"Female"	"History"	31
+"1986"	"Female"	"History"	47
+"1987"	"Female"	"History"	49
+"1988"	"Female"	"History"	64
+"1989"	"Female"	"History"	62
+"1990"	"Female"	"History"	102
+"1991"	"Female"	"History"	91
+"1992"	"Female"	"History"	104
+"1993"	"Female"	"History"	102
+"1994"	"Female"	"History"	100
+"1995"	"Female"	"History"	99
+"1996"	"Female"	"History"	99
+"1997"	"Female"	"History"	98
+"1998"	"Female"	"History"	107
+"1999"	"Female"	"History"	92
+"2000"	"Female"	"History"	83
+"2001"	"Female"	"History"	104
+"2002"	"Female"	"History"	105
+"2003"	"Female"	"History"	110
+"2004"	"Female"	"History"	107
+"2005"	"Female"	"History"	130
+"2006"	"Female"	"History"	125
+"2007"	"Female"	"History"	111
+"2008"	"Female"	"History"	103
+"2009"	"Female"	"History"	101
+"2010"	"Female"	"History"	104
+"2011"	"Female"	"History"	99
+"1967"	"Male"	"History"	255
+"1972"	"Male"	"History"	188
+"1973"	"Male"	"History"	167
+"1974"	"Male"	"History"	177
+"1975"	"Male"	"History"	143
+"1976"	"Male"	"History"	137
+"1977"	"Male"	"History"	133
+"1978"	"Male"	"History"	101
+"1979"	"Male"	"History"	105
+"1980"	"Male"	"History"	87
+"1981"	"Male"	"History"	85
+"1982"	"Male"	"History"	69
+"1983"	"Male"	"History"	74
+"1984"	"Male"	"History"	57
+"1985"	"Male"	"History"	58
+"1986"	"Male"	"History"	61
+"1987"	"Male"	"History"	83
+"1988"	"Male"	"History"	95
+"1989"	"Male"	"History"	110
+"1990"	"Male"	"History"	112
+"1991"	"Male"	"History"	153
+"1992"	"Male"	"History"	156
+"1993"	"Male"	"History"	162
+"1994"	"Male"	"History"	131
+"1995"	"Male"	"History"	126
+"1996"	"Male"	"History"	140
+"1997"	"Male"	"History"	119
+"1998"	"Male"	"History"	113
+"1999"	"Male"	"History"	130
+"2000"	"Male"	"History"	131
+"2001"	"Male"	"History"	119
+"2002"	"Male"	"History"	149
+"2003"	"Male"	"History"	151
+"2004"	"Male"	"History"	126
+"2005"	"Male"	"History"	161
+"2006"	"Male"	"History"	142
+"2007"	"Male"	"History"	174
+"2008"	"Male"	"History"	146
+"2009"	"Male"	"History"	156
+"2010"	"Male"	"History"	152
+"2011"	"Male"	"History"	153
+"1967"	"Female"	"Humanities, Other"	11
+"1972"	"Female"	"Humanities, Other"	7
+"1973"	"Female"	"Humanities, Other"	4
+"1974"	"Female"	"Humanities, Other"	5
+"1975"	"Female"	"Humanities, Other"	8
+"1976"	"Female"	"Humanities, Other"	14
+"1977"	"Female"	"Humanities, Other"	9
+"1978"	"Female"	"Humanities, Other"	12
+"1979"	"Female"	"Humanities, Other"	13
+"1980"	"Female"	"Humanities, Other"	2
+"1981"	"Female"	"Humanities, Other"	4
+"1982"	"Female"	"Humanities, Other"	11
+"1983"	"Female"	"Humanities, Other"	0
+"1984"	"Female"	"Humanities, Other"	3
+"1985"	"Female"	"Humanities, Other"	4
+"1986"	"Female"	"Humanities, Other"	9
+"1987"	"Female"	"Humanities, Other"	4
+"1988"	"Female"	"Humanities, Other"	6
+"1989"	"Female"	"Humanities, Other"	7
+"1990"	"Female"	"Humanities, Other"	13
+"1991"	"Female"	"Humanities, Other"	7
+"1992"	"Female"	"Humanities, Other"	18
+"1993"	"Female"	"Humanities, Other"	11
+"1994"	"Female"	"Humanities, Other"	14
+"1995"	"Female"	"Humanities, Other"	9
+"1996"	"Female"	"Humanities, Other"	10
+"1997"	"Female"	"Humanities, Other"	8
+"1998"	"Female"	"Humanities, Other"	9
+"1999"	"Female"	"Humanities, Other"	6
+"2000"	"Female"	"Humanities, Other"	11
+"2001"	"Female"	"Humanities, Other"	12
+"2002"	"Female"	"Humanities, Other"	13
+"2003"	"Female"	"Humanities, Other"	5
+"2004"	"Female"	"Humanities, Other"	16
+"2005"	"Female"	"Humanities, Other"	19
+"2006"	"Female"	"Humanities, Other"	19
+"2007"	"Female"	"Humanities, Other"	22
+"2008"	"Female"	"Humanities, Other"	13
+"2009"	"Female"	"Humanities, Other"	14
+"2010"	"Female"	"Humanities, Other"	13
+"2011"	"Female"	"Humanities, Other"	14
+"1967"	"Male"	"Humanities, Other"	19
+"1972"	"Male"	"Humanities, Other"	19
+"1973"	"Male"	"Humanities, Other"	15
+"1974"	"Male"	"Humanities, Other"	26
+"1975"	"Male"	"Humanities, Other"	23
+"1976"	"Male"	"Humanities, Other"	15
+"1977"	"Male"	"Humanities, Other"	15
+"1978"	"Male"	"Humanities, Other"	13
+"1979"	"Male"	"Humanities, Other"	15
+"1980"	"Male"	"Humanities, Other"	10
+"1981"	"Male"	"Humanities, Other"	10
+"1982"	"Male"	"Humanities, Other"	8
+"1983"	"Male"	"Humanities, Other"	0
+"1984"	"Male"	"Humanities, Other"	10
+"1985"	"Male"	"Humanities, Other"	8
+"1986"	"Male"	"Humanities, Other"	7
+"1987"	"Male"	"Humanities, Other"	17
+"1988"	"Male"	"Humanities, Other"	16
+"1989"	"Male"	"Humanities, Other"	31
+"1990"	"Male"	"Humanities, Other"	22
+"1991"	"Male"	"Humanities, Other"	17
+"1992"	"Male"	"Humanities, Other"	19
+"1993"	"Male"	"Humanities, Other"	24
+"1994"	"Male"	"Humanities, Other"	22
+"1995"	"Male"	"Humanities, Other"	13
+"1996"	"Male"	"Humanities, Other"	19
+"1997"	"Male"	"Humanities, Other"	26
+"1998"	"Male"	"Humanities, Other"	27
+"1999"	"Male"	"Humanities, Other"	18
+"2000"	"Male"	"Humanities, Other"	24
+"2001"	"Male"	"Humanities, Other"	26
+"2002"	"Male"	"Humanities, Other"	20
+"2003"	"Male"	"Humanities, Other"	26
+"2004"	"Male"	"Humanities, Other"	29
+"2005"	"Male"	"Humanities, Other"	48
+"2006"	"Male"	"Humanities, Other"	50
+"2007"	"Male"	"Humanities, Other"	41
+"2008"	"Male"	"Humanities, Other"	39
+"2009"	"Male"	"Humanities, Other"	46
+"2010"	"Male"	"Humanities, Other"	52
+"2011"	"Male"	"Humanities, Other"	41
+"1967"	"Female"	"Life Sciences"	91
+"1972"	"Female"	"Life Sciences"	47
+"1973"	"Female"	"Life Sciences"	52
+"1974"	"Female"	"Life Sciences"	91
+"1975"	"Female"	"Life Sciences"	118
+"1976"	"Female"	"Life Sciences"	178
+"1977"	"Female"	"Life Sciences"	274
+"1978"	"Female"	"Life Sciences"	302
+"1979"	"Female"	"Life Sciences"	310
+"1980"	"Female"	"Life Sciences"	299
+"1981"	"Female"	"Life Sciences"	296
+"1982"	"Female"	"Life Sciences"	301
+"1983"	"Female"	"Life Sciences"	274
+"1984"	"Female"	"Life Sciences"	216
+"1985"	"Female"	"Life Sciences"	291
+"1986"	"Female"	"Life Sciences"	259
+"1987"	"Female"	"Life Sciences"	290
+"1988"	"Female"	"Life Sciences"	287
+"1989"	"Female"	"Life Sciences"	313
+"1990"	"Female"	"Life Sciences"	312
+"1991"	"Female"	"Life Sciences"	333
+"1992"	"Female"	"Life Sciences"	321
+"1993"	"Female"	"Life Sciences"	340
+"1994"	"Female"	"Life Sciences"	335
+"1995"	"Female"	"Life Sciences"	389
+"1996"	"Female"	"Life Sciences"	369
+"1997"	"Female"	"Life Sciences"	405
+"1998"	"Female"	"Life Sciences"	463
+"1999"	"Female"	"Life Sciences"	484
+"2000"	"Female"	"Life Sciences"	476
+"2001"	"Female"	"Life Sciences"	428
+"2002"	"Female"	"Life Sciences"	432
+"2003"	"Female"	"Life Sciences"	417
+"2004"	"Female"	"Life Sciences"	374
+"2005"	"Female"	"Life Sciences"	385
+"2006"	"Female"	"Life Sciences"	370
+"2007"	"Female"	"Life Sciences"	410
+"2008"	"Female"	"Life Sciences"	521
+"2009"	"Female"	"Life Sciences"	550
+"2010"	"Female"	"Life Sciences"	519
+"2011"	"Female"	"Life Sciences"	563
+"1967"	"Male"	"Life Sciences"	235
+"1972"	"Male"	"Life Sciences"	210
+"1973"	"Male"	"Life Sciences"	219
+"1974"	"Male"	"Life Sciences"	258
+"1975"	"Male"	"Life Sciences"	286
+"1976"	"Male"	"Life Sciences"	358
+"1977"	"Male"	"Life Sciences"	395
+"1978"	"Male"	"Life Sciences"	350
+"1979"	"Male"	"Life Sciences"	379
+"1980"	"Male"	"Life Sciences"	336
+"1981"	"Male"	"Life Sciences"	299
+"1982"	"Male"	"Life Sciences"	258
+"1983"	"Male"	"Life Sciences"	263
+"1984"	"Male"	"Life Sciences"	174
+"1985"	"Male"	"Life Sciences"	200
+"1986"	"Male"	"Life Sciences"	254
+"1987"	"Male"	"Life Sciences"	259
+"1988"	"Male"	"Life Sciences"	211
+"1989"	"Male"	"Life Sciences"	234
+"1990"	"Male"	"Life Sciences"	272
+"1991"	"Male"	"Life Sciences"	255
+"1992"	"Male"	"Life Sciences"	221
+"1993"	"Male"	"Life Sciences"	185
+"1994"	"Male"	"Life Sciences"	226
+"1995"	"Male"	"Life Sciences"	245
+"1996"	"Male"	"Life Sciences"	252
+"1997"	"Male"	"Life Sciences"	286
+"1998"	"Male"	"Life Sciences"	304
+"1999"	"Male"	"Life Sciences"	277
+"2000"	"Male"	"Life Sciences"	294
+"2001"	"Male"	"Life Sciences"	268
+"2002"	"Male"	"Life Sciences"	220
+"2003"	"Male"	"Life Sciences"	233
+"2004"	"Male"	"Life Sciences"	166
+"2005"	"Male"	"Life Sciences"	209
+"2006"	"Male"	"Life Sciences"	226
+"2007"	"Male"	"Life Sciences"	245
+"2008"	"Male"	"Life Sciences"	362
+"2009"	"Male"	"Life Sciences"	364
+"2010"	"Male"	"Life Sciences"	401
+"2011"	"Male"	"Life Sciences"	447
+"1967"	"Female"	"Math"	45
+"1972"	"Female"	"Math"	51
+"1973"	"Female"	"Math"	56
+"1974"	"Female"	"Math"	58
+"1975"	"Female"	"Math"	50
+"1976"	"Female"	"Math"	46
+"1977"	"Female"	"Math"	55
+"1978"	"Female"	"Math"	50
+"1979"	"Female"	"Math"	31
+"1980"	"Female"	"Math"	38
+"1981"	"Female"	"Math"	28
+"1982"	"Female"	"Math"	26
+"1983"	"Female"	"Math"	39
+"1984"	"Female"	"Math"	38
+"1985"	"Female"	"Math"	32
+"1986"	"Female"	"Math"	38
+"1987"	"Female"	"Math"	43
+"1988"	"Female"	"Math"	45
+"1989"	"Female"	"Math"	43
+"1990"	"Female"	"Math"	32
+"1991"	"Female"	"Math"	46
+"1992"	"Female"	"Math"	44
+"1993"	"Female"	"Math"	45
+"1994"	"Female"	"Math"	43
+"1995"	"Female"	"Math"	46
+"1996"	"Female"	"Math"	40
+"1997"	"Female"	"Math"	34
+"1998"	"Female"	"Math"	38
+"1999"	"Female"	"Math"	35
+"2000"	"Female"	"Math"	38
+"2001"	"Female"	"Math"	32
+"2002"	"Female"	"Math"	19
+"2003"	"Female"	"Math"	29
+"2004"	"Female"	"Math"	26
+"2005"	"Female"	"Math"	45
+"2006"	"Female"	"Math"	40
+"2007"	"Female"	"Math"	34
+"2008"	"Female"	"Math"	36
+"2009"	"Female"	"Math"	31
+"2010"	"Female"	"Math"	22
+"2011"	"Female"	"Math"	49
+"1967"	"Male"	"Math"	46
+"1972"	"Male"	"Math"	55
+"1973"	"Male"	"Math"	50
+"1974"	"Male"	"Math"	52
+"1975"	"Male"	"Math"	46
+"1976"	"Male"	"Math"	41
+"1977"	"Male"	"Math"	42
+"1978"	"Male"	"Math"	31
+"1979"	"Male"	"Math"	24
+"1980"	"Male"	"Math"	40
+"1981"	"Male"	"Math"	22
+"1982"	"Male"	"Math"	38
+"1983"	"Male"	"Math"	36
+"1984"	"Male"	"Math"	45
+"1985"	"Male"	"Math"	39
+"1986"	"Male"	"Math"	42
+"1987"	"Male"	"Math"	37
+"1988"	"Male"	"Math"	42
+"1989"	"Male"	"Math"	34
+"1990"	"Male"	"Math"	30
+"1991"	"Male"	"Math"	46
+"1992"	"Male"	"Math"	35
+"1993"	"Male"	"Math"	47
+"1994"	"Male"	"Math"	41
+"1995"	"Male"	"Math"	38
+"1996"	"Male"	"Math"	40
+"1997"	"Male"	"Math"	40
+"1998"	"Male"	"Math"	39
+"1999"	"Male"	"Math"	16
+"2000"	"Male"	"Math"	25
+"2001"	"Male"	"Math"	36
+"2002"	"Male"	"Math"	26
+"2003"	"Male"	"Math"	25
+"2004"	"Male"	"Math"	42
+"2005"	"Male"	"Math"	52
+"2006"	"Male"	"Math"	51
+"2007"	"Male"	"Math"	48
+"2008"	"Male"	"Math"	44
+"2009"	"Male"	"Math"	61
+"2010"	"Male"	"Math"	54
+"2011"	"Male"	"Math"	65
+"1967"	"Female"	"Other/Unknown"	5
+"1972"	"Female"	"Other/Unknown"	2
+"1973"	"Female"	"Other/Unknown"	9
+"1974"	"Female"	"Other/Unknown"	8
+"1975"	"Female"	"Other/Unknown"	12
+"1976"	"Female"	"Other/Unknown"	104
+"1977"	"Female"	"Other/Unknown"	98
+"1978"	"Female"	"Other/Unknown"	99
+"1979"	"Female"	"Other/Unknown"	101
+"1980"	"Female"	"Other/Unknown"	105
+"1981"	"Female"	"Other/Unknown"	113
+"1982"	"Female"	"Other/Unknown"	88
+"1983"	"Female"	"Other/Unknown"	121
+"1984"	"Female"	"Other/Unknown"	79
+"1985"	"Female"	"Other/Unknown"	73
+"1986"	"Female"	"Other/Unknown"	96
+"1987"	"Female"	"Other/Unknown"	105
+"1988"	"Female"	"Other/Unknown"	80
+"1989"	"Female"	"Other/Unknown"	7
+"1990"	"Female"	"Other/Unknown"	5
+"1991"	"Female"	"Other/Unknown"	0
+"1992"	"Female"	"Other/Unknown"	7
+"1993"	"Female"	"Other/Unknown"	7
+"1994"	"Female"	"Other/Unknown"	7
+"1995"	"Female"	"Other/Unknown"	2
+"1996"	"Female"	"Other/Unknown"	1
+"1997"	"Female"	"Other/Unknown"	4
+"1998"	"Female"	"Other/Unknown"	1
+"1999"	"Female"	"Other/Unknown"	4
+"2000"	"Female"	"Other/Unknown"	2
+"2001"	"Female"	"Other/Unknown"	4
+"2002"	"Female"	"Other/Unknown"	4
+"2003"	"Female"	"Other/Unknown"	3
+"2004"	"Female"	"Other/Unknown"	3
+"2005"	"Female"	"Other/Unknown"	2
+"2006"	"Female"	"Other/Unknown"	1
+"2007"	"Female"	"Other/Unknown"	2
+"2008"	"Female"	"Other/Unknown"	6
+"2009"	"Female"	"Other/Unknown"	1
+"2010"	"Female"	"Other/Unknown"	9
+"2011"	"Female"	"Other/Unknown"	5
+"1967"	"Male"	"Other/Unknown"	1
+"1972"	"Male"	"Other/Unknown"	1
+"1973"	"Male"	"Other/Unknown"	10
+"1974"	"Male"	"Other/Unknown"	5
+"1975"	"Male"	"Other/Unknown"	3
+"1976"	"Male"	"Other/Unknown"	38
+"1977"	"Male"	"Other/Unknown"	13
+"1978"	"Male"	"Other/Unknown"	14
+"1979"	"Male"	"Other/Unknown"	12
+"1980"	"Male"	"Other/Unknown"	11
+"1981"	"Male"	"Other/Unknown"	8
+"1982"	"Male"	"Other/Unknown"	10
+"1983"	"Male"	"Other/Unknown"	4
+"1984"	"Male"	"Other/Unknown"	9
+"1985"	"Male"	"Other/Unknown"	8
+"1986"	"Male"	"Other/Unknown"	1
+"1987"	"Male"	"Other/Unknown"	7
+"1988"	"Male"	"Other/Unknown"	11
+"1989"	"Male"	"Other/Unknown"	1
+"1990"	"Male"	"Other/Unknown"	7
+"1991"	"Male"	"Other/Unknown"	1
+"1992"	"Male"	"Other/Unknown"	2
+"1993"	"Male"	"Other/Unknown"	8
+"1994"	"Male"	"Other/Unknown"	13
+"1995"	"Male"	"Other/Unknown"	3
+"1996"	"Male"	"Other/Unknown"	3
+"1997"	"Male"	"Other/Unknown"	4
+"1998"	"Male"	"Other/Unknown"	1
+"1999"	"Male"	"Other/Unknown"	4
+"2000"	"Male"	"Other/Unknown"	2
+"2001"	"Male"	"Other/Unknown"	6
+"2002"	"Male"	"Other/Unknown"	3
+"2003"	"Male"	"Other/Unknown"	3
+"2004"	"Male"	"Other/Unknown"	1
+"2005"	"Male"	"Other/Unknown"	1
+"2006"	"Male"	"Other/Unknown"	0
+"2007"	"Male"	"Other/Unknown"	1
+"2008"	"Male"	"Other/Unknown"	0
+"2009"	"Male"	"Other/Unknown"	0
+"2010"	"Male"	"Other/Unknown"	10
+"2011"	"Male"	"Other/Unknown"	5
+"1967"	"Female"	"Physical Sciences"	75
+"1972"	"Female"	"Physical Sciences"	16
+"1973"	"Female"	"Physical Sciences"	21
+"1974"	"Female"	"Physical Sciences"	16
+"1975"	"Female"	"Physical Sciences"	23
+"1976"	"Female"	"Physical Sciences"	43
+"1977"	"Female"	"Physical Sciences"	42
+"1978"	"Female"	"Physical Sciences"	39
+"1979"	"Female"	"Physical Sciences"	41
+"1980"	"Female"	"Physical Sciences"	35
+"1981"	"Female"	"Physical Sciences"	58
+"1982"	"Female"	"Physical Sciences"	64
+"1983"	"Female"	"Physical Sciences"	39
+"1984"	"Female"	"Physical Sciences"	32
+"1985"	"Female"	"Physical Sciences"	40
+"1986"	"Female"	"Physical Sciences"	51
+"1987"	"Female"	"Physical Sciences"	39
+"1988"	"Female"	"Physical Sciences"	29
+"1989"	"Female"	"Physical Sciences"	28
+"1990"	"Female"	"Physical Sciences"	24
+"1991"	"Female"	"Physical Sciences"	37
+"1992"	"Female"	"Physical Sciences"	36
+"1993"	"Female"	"Physical Sciences"	40
+"1994"	"Female"	"Physical Sciences"	31
+"1995"	"Female"	"Physical Sciences"	49
+"1996"	"Female"	"Physical Sciences"	45
+"1997"	"Female"	"Physical Sciences"	61
+"1998"	"Female"	"Physical Sciences"	57
+"1999"	"Female"	"Physical Sciences"	49
+"2000"	"Female"	"Physical Sciences"	54
+"2001"	"Female"	"Physical Sciences"	52
+"2002"	"Female"	"Physical Sciences"	54
+"2003"	"Female"	"Physical Sciences"	43
+"2004"	"Female"	"Physical Sciences"	56
+"2005"	"Female"	"Physical Sciences"	58
+"2006"	"Female"	"Physical Sciences"	47
+"2007"	"Female"	"Physical Sciences"	63
+"2008"	"Female"	"Physical Sciences"	57
+"2009"	"Female"	"Physical Sciences"	48
+"2010"	"Female"	"Physical Sciences"	32
+"2011"	"Female"	"Physical Sciences"	50
+"1967"	"Male"	"Physical Sciences"	185
+"1972"	"Male"	"Physical Sciences"	112
+"1973"	"Male"	"Physical Sciences"	117
+"1974"	"Male"	"Physical Sciences"	97
+"1975"	"Male"	"Physical Sciences"	84
+"1976"	"Male"	"Physical Sciences"	74
+"1977"	"Male"	"Physical Sciences"	76
+"1978"	"Male"	"Physical Sciences"	111
+"1979"	"Male"	"Physical Sciences"	110
+"1980"	"Male"	"Physical Sciences"	90
+"1981"	"Male"	"Physical Sciences"	116
+"1982"	"Male"	"Physical Sciences"	111
+"1983"	"Male"	"Physical Sciences"	93
+"1984"	"Male"	"Physical Sciences"	80
+"1985"	"Male"	"Physical Sciences"	81
+"1986"	"Male"	"Physical Sciences"	86
+"1987"	"Male"	"Physical Sciences"	93
+"1988"	"Male"	"Physical Sciences"	58
+"1989"	"Male"	"Physical Sciences"	64
+"1990"	"Male"	"Physical Sciences"	67
+"1991"	"Male"	"Physical Sciences"	62
+"1992"	"Male"	"Physical Sciences"	59
+"1993"	"Male"	"Physical Sciences"	70
+"1994"	"Male"	"Physical Sciences"	74
+"1995"	"Male"	"Physical Sciences"	71
+"1996"	"Male"	"Physical Sciences"	85
+"1997"	"Male"	"Physical Sciences"	56
+"1998"	"Male"	"Physical Sciences"	54
+"1999"	"Male"	"Physical Sciences"	51
+"2000"	"Male"	"Physical Sciences"	75
+"2001"	"Male"	"Physical Sciences"	64
+"2002"	"Male"	"Physical Sciences"	50
+"2003"	"Male"	"Physical Sciences"	55
+"2004"	"Male"	"Physical Sciences"	50
+"2005"	"Male"	"Physical Sciences"	51
+"2006"	"Male"	"Physical Sciences"	53
+"2007"	"Male"	"Physical Sciences"	51
+"2008"	"Male"	"Physical Sciences"	69
+"2009"	"Male"	"Physical Sciences"	60
+"2010"	"Male"	"Physical Sciences"	65
+"2011"	"Male"	"Physical Sciences"	90
+"1967"	"Female"	"Political Science and Public Administration"	36
+"1972"	"Female"	"Political Science and Public Administration"	24
+"1973"	"Female"	"Political Science and Public Administration"	35
+"1974"	"Female"	"Political Science and Public Administration"	38
+"1975"	"Female"	"Political Science and Public Administration"	41
+"1976"	"Female"	"Political Science and Public Administration"	49
+"1977"	"Female"	"Political Science and Public Administration"	46
+"1978"	"Female"	"Political Science and Public Administration"	66
+"1979"	"Female"	"Political Science and Public Administration"	71
+"1980"	"Female"	"Political Science and Public Administration"	58
+"1981"	"Female"	"Political Science and Public Administration"	94
+"1982"	"Female"	"Political Science and Public Administration"	85
+"1983"	"Female"	"Political Science and Public Administration"	98
+"1984"	"Female"	"Political Science and Public Administration"	75
+"1985"	"Female"	"Political Science and Public Administration"	75
+"1986"	"Female"	"Political Science and Public Administration"	91
+"1987"	"Female"	"Political Science and Public Administration"	92
+"1988"	"Female"	"Political Science and Public Administration"	106
+"1989"	"Female"	"Political Science and Public Administration"	125
+"1990"	"Female"	"Political Science and Public Administration"	167
+"1991"	"Female"	"Political Science and Public Administration"	177
+"1992"	"Female"	"Political Science and Public Administration"	135
+"1993"	"Female"	"Political Science and Public Administration"	138
+"1994"	"Female"	"Political Science and Public Administration"	141
+"1995"	"Female"	"Political Science and Public Administration"	133
+"1996"	"Female"	"Political Science and Public Administration"	133
+"1997"	"Female"	"Political Science and Public Administration"	121
+"1998"	"Female"	"Political Science and Public Administration"	96
+"1999"	"Female"	"Political Science and Public Administration"	116
+"2000"	"Female"	"Political Science and Public Administration"	117
+"2001"	"Female"	"Political Science and Public Administration"	125
+"2002"	"Female"	"Political Science and Public Administration"	161
+"2003"	"Female"	"Political Science and Public Administration"	134
+"2004"	"Female"	"Political Science and Public Administration"	139
+"2005"	"Female"	"Political Science and Public Administration"	132
+"2006"	"Female"	"Political Science and Public Administration"	134
+"2007"	"Female"	"Political Science and Public Administration"	125
+"2008"	"Female"	"Political Science and Public Administration"	100
+"2009"	"Female"	"Political Science and Public Administration"	139
+"2010"	"Female"	"Political Science and Public Administration"	138
+"2011"	"Female"	"Political Science and Public Administration"	143
+"1967"	"Male"	"Political Science and Public Administration"	144
+"1972"	"Male"	"Political Science and Public Administration"	111
+"1973"	"Male"	"Political Science and Public Administration"	162
+"1974"	"Male"	"Political Science and Public Administration"	149
+"1975"	"Male"	"Political Science and Public Administration"	137
+"1976"	"Male"	"Political Science and Public Administration"	98
+"1977"	"Male"	"Political Science and Public Administration"	101
+"1978"	"Male"	"Political Science and Public Administration"	108
+"1979"	"Male"	"Political Science and Public Administration"	146
+"1980"	"Male"	"Political Science and Public Administration"	136
+"1981"	"Male"	"Political Science and Public Administration"	117
+"1982"	"Male"	"Political Science and Public Administration"	138
+"1983"	"Male"	"Political Science and Public Administration"	140
+"1984"	"Male"	"Political Science and Public Administration"	110
+"1985"	"Male"	"Political Science and Public Administration"	113
+"1986"	"Male"	"Political Science and Public Administration"	113
+"1987"	"Male"	"Political Science and Public Administration"	140
+"1988"	"Male"	"Political Science and Public Administration"	132
+"1989"	"Male"	"Political Science and Public Administration"	147
+"1990"	"Male"	"Political Science and Public Administration"	156
+"1991"	"Male"	"Political Science and Public Administration"	167
+"1992"	"Male"	"Political Science and Public Administration"	144
+"1993"	"Male"	"Political Science and Public Administration"	178
+"1994"	"Male"	"Political Science and Public Administration"	156
+"1995"	"Male"	"Political Science and Public Administration"	130
+"1996"	"Male"	"Political Science and Public Administration"	142
+"1997"	"Male"	"Political Science and Public Administration"	124
+"1998"	"Male"	"Political Science and Public Administration"	112
+"1999"	"Male"	"Political Science and Public Administration"	117
+"2000"	"Male"	"Political Science and Public Administration"	118
+"2001"	"Male"	"Political Science and Public Administration"	116
+"2002"	"Male"	"Political Science and Public Administration"	128
+"2003"	"Male"	"Political Science and Public Administration"	148
+"2004"	"Male"	"Political Science and Public Administration"	151
+"2005"	"Male"	"Political Science and Public Administration"	173
+"2006"	"Male"	"Political Science and Public Administration"	179
+"2007"	"Male"	"Political Science and Public Administration"	137
+"2008"	"Male"	"Political Science and Public Administration"	173
+"2009"	"Male"	"Political Science and Public Administration"	146
+"2010"	"Male"	"Political Science and Public Administration"	181
+"2011"	"Male"	"Political Science and Public Administration"	167
+"1967"	"Female"	"Psychology"	69
+"1972"	"Female"	"Psychology"	109
+"1973"	"Female"	"Psychology"	121
+"1974"	"Female"	"Psychology"	103
+"1975"	"Female"	"Psychology"	166
+"1976"	"Female"	"Psychology"	169
+"1977"	"Female"	"Psychology"	200
+"1978"	"Female"	"Psychology"	191
+"1979"	"Female"	"Psychology"	169
+"1980"	"Female"	"Psychology"	185
+"1981"	"Female"	"Psychology"	244
+"1982"	"Female"	"Psychology"	253
+"1983"	"Female"	"Psychology"	239
+"1984"	"Female"	"Psychology"	205
+"1985"	"Female"	"Psychology"	229
+"1986"	"Female"	"Psychology"	203
+"1987"	"Female"	"Psychology"	223
+"1988"	"Female"	"Psychology"	247
+"1989"	"Female"	"Psychology"	339
+"1990"	"Female"	"Psychology"	364
+"1991"	"Female"	"Psychology"	342
+"1992"	"Female"	"Psychology"	343
+"1993"	"Female"	"Psychology"	392
+"1994"	"Female"	"Psychology"	400
+"1995"	"Female"	"Psychology"	405
+"1996"	"Female"	"Psychology"	384
+"1997"	"Female"	"Psychology"	411
+"1998"	"Female"	"Psychology"	444
+"1999"	"Female"	"Psychology"	426
+"2000"	"Female"	"Psychology"	426
+"2001"	"Female"	"Psychology"	403
+"2002"	"Female"	"Psychology"	390
+"2003"	"Female"	"Psychology"	367
+"2004"	"Female"	"Psychology"	453
+"2005"	"Female"	"Psychology"	450
+"2006"	"Female"	"Psychology"	393
+"2007"	"Female"	"Psychology"	395
+"2008"	"Female"	"Psychology"	364
+"2009"	"Female"	"Psychology"	426
+"2010"	"Female"	"Psychology"	427
+"2011"	"Female"	"Psychology"	440
+"1967"	"Male"	"Psychology"	96
+"1972"	"Male"	"Psychology"	115
+"1973"	"Male"	"Psychology"	133
+"1974"	"Male"	"Psychology"	140
+"1975"	"Male"	"Psychology"	158
+"1976"	"Male"	"Psychology"	103
+"1977"	"Male"	"Psychology"	138
+"1978"	"Male"	"Psychology"	110
+"1979"	"Male"	"Psychology"	96
+"1980"	"Male"	"Psychology"	88
+"1981"	"Male"	"Psychology"	96
+"1982"	"Male"	"Psychology"	101
+"1983"	"Male"	"Psychology"	84
+"1984"	"Male"	"Psychology"	68
+"1985"	"Male"	"Psychology"	72
+"1986"	"Male"	"Psychology"	69
+"1987"	"Male"	"Psychology"	89
+"1988"	"Male"	"Psychology"	72
+"1989"	"Male"	"Psychology"	92
+"1990"	"Male"	"Psychology"	101
+"1991"	"Male"	"Psychology"	106
+"1992"	"Male"	"Psychology"	108
+"1993"	"Male"	"Psychology"	110
+"1994"	"Male"	"Psychology"	141
+"1995"	"Male"	"Psychology"	119
+"1996"	"Male"	"Psychology"	135
+"1997"	"Male"	"Psychology"	115
+"1998"	"Male"	"Psychology"	153
+"1999"	"Male"	"Psychology"	153
+"2000"	"Male"	"Psychology"	122
+"2001"	"Male"	"Psychology"	113
+"2002"	"Male"	"Psychology"	163
+"2003"	"Male"	"Psychology"	140
+"2004"	"Male"	"Psychology"	142
+"2005"	"Male"	"Psychology"	149
+"2006"	"Male"	"Psychology"	130
+"2007"	"Male"	"Psychology"	142
+"2008"	"Male"	"Psychology"	144
+"2009"	"Male"	"Psychology"	175
+"2010"	"Male"	"Psychology"	177
+"2011"	"Male"	"Psychology"	186
+"1967"	"Female"	"Religion"	0
+"1972"	"Female"	"Religion"	9
+"1973"	"Female"	"Religion"	5
+"1974"	"Female"	"Religion"	12
+"1975"	"Female"	"Religion"	13
+"1976"	"Female"	"Religion"	11
+"1977"	"Female"	"Religion"	13
+"1978"	"Female"	"Religion"	7
+"1979"	"Female"	"Religion"	3
+"1980"	"Female"	"Religion"	8
+"1981"	"Female"	"Religion"	4
+"1982"	"Female"	"Religion"	5
+"1983"	"Female"	"Religion"	0
+"1984"	"Female"	"Religion"	2
+"1985"	"Female"	"Religion"	4
+"1986"	"Female"	"Religion"	4
+"1987"	"Female"	"Religion"	4
+"1988"	"Female"	"Religion"	3
+"1989"	"Female"	"Religion"	2
+"1990"	"Female"	"Religion"	1
+"1991"	"Female"	"Religion"	4
+"1992"	"Female"	"Religion"	5
+"1993"	"Female"	"Religion"	4
+"1994"	"Female"	"Religion"	6
+"1995"	"Female"	"Religion"	3
+"1996"	"Female"	"Religion"	5
+"1997"	"Female"	"Religion"	2
+"1998"	"Female"	"Religion"	7
+"1999"	"Female"	"Religion"	5
+"2000"	"Female"	"Religion"	7
+"2001"	"Female"	"Religion"	5
+"2002"	"Female"	"Religion"	5
+"2003"	"Female"	"Religion"	17
+"2004"	"Female"	"Religion"	18
+"2005"	"Female"	"Religion"	14
+"2006"	"Female"	"Religion"	17
+"2007"	"Female"	"Religion"	17
+"2008"	"Female"	"Religion"	8
+"2009"	"Female"	"Religion"	12
+"2010"	"Female"	"Religion"	4
+"2011"	"Female"	"Religion"	11
+"1967"	"Male"	"Religion"	0
+"1972"	"Male"	"Religion"	4
+"1973"	"Male"	"Religion"	2
+"1974"	"Male"	"Religion"	12
+"1975"	"Male"	"Religion"	7
+"1976"	"Male"	"Religion"	4
+"1977"	"Male"	"Religion"	6
+"1978"	"Male"	"Religion"	2
+"1979"	"Male"	"Religion"	3
+"1980"	"Male"	"Religion"	3
+"1981"	"Male"	"Religion"	5
+"1982"	"Male"	"Religion"	9
+"1983"	"Male"	"Religion"	0
+"1984"	"Male"	"Religion"	3
+"1985"	"Male"	"Religion"	5
+"1986"	"Male"	"Religion"	3
+"1987"	"Male"	"Religion"	2
+"1988"	"Male"	"Religion"	2
+"1989"	"Male"	"Religion"	2
+"1990"	"Male"	"Religion"	7
+"1991"	"Male"	"Religion"	4
+"1992"	"Male"	"Religion"	1
+"1993"	"Male"	"Religion"	7
+"1994"	"Male"	"Religion"	2
+"1995"	"Male"	"Religion"	3
+"1996"	"Male"	"Religion"	4
+"1997"	"Male"	"Religion"	5
+"1998"	"Male"	"Religion"	3
+"1999"	"Male"	"Religion"	4
+"2000"	"Male"	"Religion"	4
+"2001"	"Male"	"Religion"	0
+"2002"	"Male"	"Religion"	4
+"2003"	"Male"	"Religion"	7
+"2004"	"Male"	"Religion"	6
+"2005"	"Male"	"Religion"	6
+"2006"	"Male"	"Religion"	4
+"2007"	"Male"	"Religion"	6
+"2008"	"Male"	"Religion"	7
+"2009"	"Male"	"Religion"	4
+"2010"	"Male"	"Religion"	7
+"2011"	"Male"	"Religion"	12
+"1967"	"Female"	"Social Sciences, Other"	27
+"1972"	"Female"	"Social Sciences, Other"	6
+"1973"	"Female"	"Social Sciences, Other"	26
+"1974"	"Female"	"Social Sciences, Other"	45
+"1975"	"Female"	"Social Sciences, Other"	5
+"1976"	"Female"	"Social Sciences, Other"	42
+"1977"	"Female"	"Social Sciences, Other"	35
+"1978"	"Female"	"Social Sciences, Other"	50
+"1979"	"Female"	"Social Sciences, Other"	48
+"1980"	"Female"	"Social Sciences, Other"	37
+"1981"	"Female"	"Social Sciences, Other"	32
+"1982"	"Female"	"Social Sciences, Other"	37
+"1983"	"Female"	"Social Sciences, Other"	18
+"1984"	"Female"	"Social Sciences, Other"	24
+"1985"	"Female"	"Social Sciences, Other"	17
+"1986"	"Female"	"Social Sciences, Other"	19
+"1987"	"Female"	"Social Sciences, Other"	55
+"1988"	"Female"	"Social Sciences, Other"	55
+"1989"	"Female"	"Social Sciences, Other"	53
+"1990"	"Female"	"Social Sciences, Other"	49
+"1991"	"Female"	"Social Sciences, Other"	38
+"1992"	"Female"	"Social Sciences, Other"	45
+"1993"	"Female"	"Social Sciences, Other"	43
+"1994"	"Female"	"Social Sciences, Other"	31
+"1995"	"Female"	"Social Sciences, Other"	24
+"1996"	"Female"	"Social Sciences, Other"	31
+"1997"	"Female"	"Social Sciences, Other"	30
+"1998"	"Female"	"Social Sciences, Other"	31
+"1999"	"Female"	"Social Sciences, Other"	36
+"2000"	"Female"	"Social Sciences, Other"	31
+"2001"	"Female"	"Social Sciences, Other"	43
+"2002"	"Female"	"Social Sciences, Other"	47
+"2003"	"Female"	"Social Sciences, Other"	33
+"2004"	"Female"	"Social Sciences, Other"	37
+"2005"	"Female"	"Social Sciences, Other"	52
+"2006"	"Female"	"Social Sciences, Other"	51
+"2007"	"Female"	"Social Sciences, Other"	42
+"2008"	"Female"	"Social Sciences, Other"	43
+"2009"	"Female"	"Social Sciences, Other"	44
+"2010"	"Female"	"Social Sciences, Other"	49
+"2011"	"Female"	"Social Sciences, Other"	42
+"1967"	"Male"	"Social Sciences, Other"	94
+"1972"	"Male"	"Social Sciences, Other"	35
+"1973"	"Male"	"Social Sciences, Other"	34
+"1974"	"Male"	"Social Sciences, Other"	52
+"1975"	"Male"	"Social Sciences, Other"	29
+"1976"	"Male"	"Social Sciences, Other"	47
+"1977"	"Male"	"Social Sciences, Other"	30
+"1978"	"Male"	"Social Sciences, Other"	25
+"1979"	"Male"	"Social Sciences, Other"	31
+"1980"	"Male"	"Social Sciences, Other"	35
+"1981"	"Male"	"Social Sciences, Other"	27
+"1982"	"Male"	"Social Sciences, Other"	35
+"1983"	"Male"	"Social Sciences, Other"	26
+"1984"	"Male"	"Social Sciences, Other"	21
+"1985"	"Male"	"Social Sciences, Other"	15
+"1986"	"Male"	"Social Sciences, Other"	19
+"1987"	"Male"	"Social Sciences, Other"	120
+"1988"	"Male"	"Social Sciences, Other"	97
+"1989"	"Male"	"Social Sciences, Other"	88
+"1990"	"Male"	"Social Sciences, Other"	88
+"1991"	"Male"	"Social Sciences, Other"	76
+"1992"	"Male"	"Social Sciences, Other"	79
+"1993"	"Male"	"Social Sciences, Other"	61
+"1994"	"Male"	"Social Sciences, Other"	71
+"1995"	"Male"	"Social Sciences, Other"	80
+"1996"	"Male"	"Social Sciences, Other"	56
+"1997"	"Male"	"Social Sciences, Other"	26
+"1998"	"Male"	"Social Sciences, Other"	42
+"1999"	"Male"	"Social Sciences, Other"	53
+"2000"	"Male"	"Social Sciences, Other"	47
+"2001"	"Male"	"Social Sciences, Other"	53
+"2002"	"Male"	"Social Sciences, Other"	60
+"2003"	"Male"	"Social Sciences, Other"	74
+"2004"	"Male"	"Social Sciences, Other"	74
+"2005"	"Male"	"Social Sciences, Other"	94
+"2006"	"Male"	"Social Sciences, Other"	98
+"2007"	"Male"	"Social Sciences, Other"	70
+"2008"	"Male"	"Social Sciences, Other"	62
+"2009"	"Male"	"Social Sciences, Other"	56
+"2010"	"Male"	"Social Sciences, Other"	73
+"2011"	"Male"	"Social Sciences, Other"	67
+"1967"	"Female"	"Social Service Professions"	0
+"1972"	"Female"	"Social Service Professions"	0
+"1973"	"Female"	"Social Service Professions"	0
+"1974"	"Female"	"Social Service Professions"	0
+"1975"	"Female"	"Social Service Professions"	54
+"1976"	"Female"	"Social Service Professions"	0
+"1977"	"Female"	"Social Service Professions"	0
+"1978"	"Female"	"Social Service Professions"	0
+"1979"	"Female"	"Social Service Professions"	0
+"1980"	"Female"	"Social Service Professions"	20
+"1981"	"Female"	"Social Service Professions"	23
+"1982"	"Female"	"Social Service Professions"	19
+"1983"	"Female"	"Social Service Professions"	2
+"1984"	"Female"	"Social Service Professions"	19
+"1985"	"Female"	"Social Service Professions"	21
+"1986"	"Female"	"Social Service Professions"	10
+"1987"	"Female"	"Social Service Professions"	27
+"1988"	"Female"	"Social Service Professions"	17
+"1989"	"Female"	"Social Service Professions"	18
+"1990"	"Female"	"Social Service Professions"	22
+"1991"	"Female"	"Social Service Professions"	19
+"1992"	"Female"	"Social Service Professions"	16
+"1993"	"Female"	"Social Service Professions"	13
+"1994"	"Female"	"Social Service Professions"	18
+"1995"	"Female"	"Social Service Professions"	24
+"1996"	"Female"	"Social Service Professions"	20
+"1997"	"Female"	"Social Service Professions"	20
+"1998"	"Female"	"Social Service Professions"	12
+"1999"	"Female"	"Social Service Professions"	24
+"2000"	"Female"	"Social Service Professions"	22
+"2001"	"Female"	"Social Service Professions"	18
+"2002"	"Female"	"Social Service Professions"	21
+"2003"	"Female"	"Social Service Professions"	12
+"2004"	"Female"	"Social Service Professions"	17
+"2005"	"Female"	"Social Service Professions"	20
+"2006"	"Female"	"Social Service Professions"	12
+"2007"	"Female"	"Social Service Professions"	19
+"2008"	"Female"	"Social Service Professions"	32
+"2009"	"Female"	"Social Service Professions"	30
+"2010"	"Female"	"Social Service Professions"	33
+"2011"	"Female"	"Social Service Professions"	42
+"1967"	"Male"	"Social Service Professions"	0
+"1972"	"Male"	"Social Service Professions"	0
+"1973"	"Male"	"Social Service Professions"	0
+"1974"	"Male"	"Social Service Professions"	0
+"1975"	"Male"	"Social Service Professions"	45
+"1976"	"Male"	"Social Service Professions"	0
+"1977"	"Male"	"Social Service Professions"	0
+"1978"	"Male"	"Social Service Professions"	0
+"1979"	"Male"	"Social Service Professions"	0
+"1980"	"Male"	"Social Service Professions"	1
+"1981"	"Male"	"Social Service Professions"	2
+"1982"	"Male"	"Social Service Professions"	4
+"1983"	"Male"	"Social Service Professions"	24
+"1984"	"Male"	"Social Service Professions"	3
+"1985"	"Male"	"Social Service Professions"	1
+"1986"	"Male"	"Social Service Professions"	1
+"1987"	"Male"	"Social Service Professions"	1
+"1988"	"Male"	"Social Service Professions"	4
+"1989"	"Male"	"Social Service Professions"	2
+"1990"	"Male"	"Social Service Professions"	1
+"1991"	"Male"	"Social Service Professions"	2
+"1992"	"Male"	"Social Service Professions"	1
+"1993"	"Male"	"Social Service Professions"	5
+"1994"	"Male"	"Social Service Professions"	1
+"1995"	"Male"	"Social Service Professions"	3
+"1996"	"Male"	"Social Service Professions"	0
+"1997"	"Male"	"Social Service Professions"	5
+"1998"	"Male"	"Social Service Professions"	3
+"1999"	"Male"	"Social Service Professions"	2
+"2000"	"Male"	"Social Service Professions"	1
+"2001"	"Male"	"Social Service Professions"	1
+"2002"	"Male"	"Social Service Professions"	2
+"2003"	"Male"	"Social Service Professions"	5
+"2004"	"Male"	"Social Service Professions"	0
+"2005"	"Male"	"Social Service Professions"	3
+"2006"	"Male"	"Social Service Professions"	1
+"2007"	"Male"	"Social Service Professions"	4
+"2008"	"Male"	"Social Service Professions"	0
+"2009"	"Male"	"Social Service Professions"	3
+"2010"	"Male"	"Social Service Professions"	3
+"2011"	"Male"	"Social Service Professions"	7
+"1967"	"Female"	"Sociology"	65
+"1972"	"Female"	"Sociology"	104
+"1973"	"Female"	"Sociology"	114
+"1974"	"Female"	"Sociology"	117
+"1975"	"Female"	"Sociology"	154
+"1976"	"Female"	"Sociology"	137
+"1977"	"Female"	"Sociology"	144
+"1978"	"Female"	"Sociology"	117
+"1979"	"Female"	"Sociology"	158
+"1980"	"Female"	"Sociology"	123
+"1981"	"Female"	"Sociology"	149
+"1982"	"Female"	"Sociology"	116
+"1983"	"Female"	"Sociology"	107
+"1984"	"Female"	"Sociology"	70
+"1985"	"Female"	"Sociology"	66
+"1986"	"Female"	"Sociology"	55
+"1987"	"Female"	"Sociology"	57
+"1988"	"Female"	"Sociology"	67
+"1989"	"Female"	"Sociology"	66
+"1990"	"Female"	"Sociology"	96
+"1991"	"Female"	"Sociology"	102
+"1992"	"Female"	"Sociology"	108
+"1993"	"Female"	"Sociology"	110
+"1994"	"Female"	"Sociology"	126
+"1995"	"Female"	"Sociology"	115
+"1996"	"Female"	"Sociology"	106
+"1997"	"Female"	"Sociology"	118
+"1998"	"Female"	"Sociology"	92
+"1999"	"Female"	"Sociology"	105
+"2000"	"Female"	"Sociology"	113
+"2001"	"Female"	"Sociology"	112
+"2002"	"Female"	"Sociology"	156
+"2003"	"Female"	"Sociology"	159
+"2004"	"Female"	"Sociology"	107
+"2005"	"Female"	"Sociology"	141
+"2006"	"Female"	"Sociology"	131
+"2007"	"Female"	"Sociology"	104
+"2008"	"Female"	"Sociology"	110
+"2009"	"Female"	"Sociology"	101
+"2010"	"Female"	"Sociology"	94
+"2011"	"Female"	"Sociology"	81
+"1967"	"Male"	"Sociology"	59
+"1972"	"Male"	"Sociology"	56
+"1973"	"Male"	"Sociology"	76
+"1974"	"Male"	"Sociology"	73
+"1975"	"Male"	"Sociology"	65
+"1976"	"Male"	"Sociology"	38
+"1977"	"Male"	"Sociology"	45
+"1978"	"Male"	"Sociology"	45
+"1979"	"Male"	"Sociology"	34
+"1980"	"Male"	"Sociology"	27
+"1981"	"Male"	"Sociology"	29
+"1982"	"Male"	"Sociology"	22
+"1983"	"Male"	"Sociology"	14
+"1984"	"Male"	"Sociology"	13
+"1985"	"Male"	"Sociology"	18
+"1986"	"Male"	"Sociology"	18
+"1987"	"Male"	"Sociology"	14
+"1988"	"Male"	"Sociology"	17
+"1989"	"Male"	"Sociology"	18
+"1990"	"Male"	"Sociology"	26
+"1991"	"Male"	"Sociology"	24
+"1992"	"Male"	"Sociology"	48
+"1993"	"Male"	"Sociology"	39
+"1994"	"Male"	"Sociology"	44
+"1995"	"Male"	"Sociology"	43
+"1996"	"Male"	"Sociology"	29
+"1997"	"Male"	"Sociology"	37
+"1998"	"Male"	"Sociology"	34
+"1999"	"Male"	"Sociology"	38
+"2000"	"Male"	"Sociology"	35
+"2001"	"Male"	"Sociology"	44
+"2002"	"Male"	"Sociology"	44
+"2003"	"Male"	"Sociology"	46
+"2004"	"Male"	"Sociology"	40
+"2005"	"Male"	"Sociology"	51
+"2006"	"Male"	"Sociology"	46
+"2007"	"Male"	"Sociology"	39
+"2008"	"Male"	"Sociology"	54
+"2009"	"Male"	"Sociology"	43
+"2010"	"Male"	"Sociology"	43
+"2011"	"Male"	"Sociology"	33
+"1967"	"Female"	"Vocational Studies and Home Economics"	34
+"1972"	"Female"	"Vocational Studies and Home Economics"	50
+"1973"	"Female"	"Vocational Studies and Home Economics"	53
+"1974"	"Female"	"Vocational Studies and Home Economics"	46
+"1975"	"Female"	"Vocational Studies and Home Economics"	66
+"1976"	"Female"	"Vocational Studies and Home Economics"	76
+"1977"	"Female"	"Vocational Studies and Home Economics"	103
+"1978"	"Female"	"Vocational Studies and Home Economics"	114
+"1979"	"Female"	"Vocational Studies and Home Economics"	127
+"1980"	"Female"	"Vocational Studies and Home Economics"	104
+"1981"	"Female"	"Vocational Studies and Home Economics"	102
+"1982"	"Female"	"Vocational Studies and Home Economics"	78
+"1983"	"Female"	"Vocational Studies and Home Economics"	85
+"1984"	"Female"	"Vocational Studies and Home Economics"	66
+"1985"	"Female"	"Vocational Studies and Home Economics"	65
+"1986"	"Female"	"Vocational Studies and Home Economics"	68
+"1987"	"Female"	"Vocational Studies and Home Economics"	76
+"1988"	"Female"	"Vocational Studies and Home Economics"	67
+"1989"	"Female"	"Vocational Studies and Home Economics"	46
+"1990"	"Female"	"Vocational Studies and Home Economics"	68
+"1991"	"Female"	"Vocational Studies and Home Economics"	56
+"1992"	"Female"	"Vocational Studies and Home Economics"	60
+"1993"	"Female"	"Vocational Studies and Home Economics"	44
+"1994"	"Female"	"Vocational Studies and Home Economics"	77
+"1995"	"Female"	"Vocational Studies and Home Economics"	70
+"1996"	"Female"	"Vocational Studies and Home Economics"	64
+"1997"	"Female"	"Vocational Studies and Home Economics"	76
+"1998"	"Female"	"Vocational Studies and Home Economics"	94
+"1999"	"Female"	"Vocational Studies and Home Economics"	87
+"2000"	"Female"	"Vocational Studies and Home Economics"	88
+"2001"	"Female"	"Vocational Studies and Home Economics"	81
+"2002"	"Female"	"Vocational Studies and Home Economics"	80
+"2003"	"Female"	"Vocational Studies and Home Economics"	98
+"2004"	"Female"	"Vocational Studies and Home Economics"	94
+"2005"	"Female"	"Vocational Studies and Home Economics"	132
+"2006"	"Female"	"Vocational Studies and Home Economics"	91
+"2007"	"Female"	"Vocational Studies and Home Economics"	91
+"2008"	"Female"	"Vocational Studies and Home Economics"	85
+"2009"	"Female"	"Vocational Studies and Home Economics"	83
+"2010"	"Female"	"Vocational Studies and Home Economics"	72
+"2011"	"Female"	"Vocational Studies and Home Economics"	77
+"1967"	"Male"	"Vocational Studies and Home Economics"	0
+"1972"	"Male"	"Vocational Studies and Home Economics"	0
+"1973"	"Male"	"Vocational Studies and Home Economics"	0
+"1974"	"Male"	"Vocational Studies and Home Economics"	0
+"1975"	"Male"	"Vocational Studies and Home Economics"	0
+"1976"	"Male"	"Vocational Studies and Home Economics"	12
+"1977"	"Male"	"Vocational Studies and Home Economics"	17
+"1978"	"Male"	"Vocational Studies and Home Economics"	17
+"1979"	"Male"	"Vocational Studies and Home Economics"	12
+"1980"	"Male"	"Vocational Studies and Home Economics"	14
+"1981"	"Male"	"Vocational Studies and Home Economics"	13
+"1982"	"Male"	"Vocational Studies and Home Economics"	13
+"1983"	"Male"	"Vocational Studies and Home Economics"	24
+"1984"	"Male"	"Vocational Studies and Home Economics"	15
+"1985"	"Male"	"Vocational Studies and Home Economics"	22
+"1986"	"Male"	"Vocational Studies and Home Economics"	23
+"1987"	"Male"	"Vocational Studies and Home Economics"	36
+"1988"	"Male"	"Vocational Studies and Home Economics"	25
+"1989"	"Male"	"Vocational Studies and Home Economics"	28
+"1990"	"Male"	"Vocational Studies and Home Economics"	34
+"1991"	"Male"	"Vocational Studies and Home Economics"	46
+"1992"	"Male"	"Vocational Studies and Home Economics"	55
+"1993"	"Male"	"Vocational Studies and Home Economics"	64
+"1994"	"Male"	"Vocational Studies and Home Economics"	87
+"1995"	"Male"	"Vocational Studies and Home Economics"	92
+"1996"	"Male"	"Vocational Studies and Home Economics"	106
+"1997"	"Male"	"Vocational Studies and Home Economics"	118
+"1998"	"Male"	"Vocational Studies and Home Economics"	137
+"1999"	"Male"	"Vocational Studies and Home Economics"	135
+"2000"	"Male"	"Vocational Studies and Home Economics"	132
+"2001"	"Male"	"Vocational Studies and Home Economics"	118
+"2002"	"Male"	"Vocational Studies and Home Economics"	96
+"2003"	"Male"	"Vocational Studies and Home Economics"	106
+"2004"	"Male"	"Vocational Studies and Home Economics"	99
+"2005"	"Male"	"Vocational Studies and Home Economics"	133
+"2006"	"Male"	"Vocational Studies and Home Economics"	146
+"2007"	"Male"	"Vocational Studies and Home Economics"	130
+"2008"	"Male"	"Vocational Studies and Home Economics"	134
+"2009"	"Male"	"Vocational Studies and Home Economics"	167
+"2010"	"Male"	"Vocational Studies and Home Economics"	148
+"2011"	"Male"	"Vocational Studies and Home Economics"	161

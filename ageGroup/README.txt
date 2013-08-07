@@ -1,0 +1,1 @@
+The shell script gets 23-year-old counts through 1980 from the census; the rest were pasted in by hand from Table 19 of the digest of education statistics (or some similar publication from online, I don't have the reference handy right now
