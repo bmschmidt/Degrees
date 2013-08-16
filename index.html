@@ -80,10 +80,10 @@ schools.append("text").text("Limit by specific institution: ")
 options = schools
     .append("select")
     .attr("id","schoolChoice")
+    .attr("class","datafile selector highlit")
     .on("change",function(value) {
         value = this.options[this.selectedIndex].__data__;
         changeFile(value);
-        nullify("typeChoice")
     })
     .selectAll("option")
     .data(schoolnames);
@@ -93,20 +93,23 @@ options
     .append("option")
     .text(function(d) {return(d)});
 
-
-function nullify(id) {
+function nullify(id,valueToSetTo) {
+   if (valueToSetTo===undefined) {valueToSetTo = ""}
     sel = document.getElementById(id);
     for(var i, j = 0; i = sel.options[j]; j++) {
-        if(i.value == "") {
-            sel.selectedIndex = j;
-            break;
+        if(i.value == valueToSetTo) {
+sel.selectedIndex = j;
+return
         }
     }
+//at the end, if the value hasn't been matched, set it to "";
+if(valueToSetTo!=="") {
+nullify(id);}
 }
 
 schools.append("br");
-schools.append("text").text("Limit by Carnegie Classification: ");
-options = d3.select("#schools").append("select").attr("id","typeChoice").selectAll("option").data(schooltypes);
+schools.append("text").text("Limit by Institution Type: ");
+options = d3.select("#schools").append("select").attr("id","typeChoice").attr("class","datafile selector highlit").selectAll("option").data(schooltypes);
 options.enter().append("option").attr("value",function(d) {return (d)}).text(function(d) {return(d)});
 d3.select("#typeChoice")
     .on("change",function(value) {
@@ -327,8 +330,12 @@ subtotal = function(data) {
 
 
 
-changeFile = function(filename){
+changeFile = function(filename) {
 
+   d3.selectAll(".datafile.selector").each(function(x) {
+        nullify(d3.select(this).attr("id"),filename)
+	})
+	
     if (filename==="") {//makes dropdown menus prettier
         filename = "data"
     }
@@ -430,7 +437,13 @@ var lastElements,currentElements,test,d1,n1; //debugging
 
 var stack = d3.layout.stack().values(function(d) {return d.values});
 var previousOrder = [];
+var previousFile
 var update = function(transtime) {
+	if (state.file!=previousFile) {
+	previousFile = state.file
+	changeFile(state.file)
+	return //the update call is inside the changeFile function, so we can just bail.
+}
 
     if (transtime===undefined) {transtime=4000}
 
