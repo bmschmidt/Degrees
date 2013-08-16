@@ -22,6 +22,19 @@ cat(toJSON(unique(table$institution)))
 head(schools)
 ```
 
+``` {r}
+elitePublic = c("University of California-Berkeley","University of California-Los Angeles","University of Colorado at Boulder","University of Illinois at Urbana-Champaign","University of Iowa","University of Michigan at Ann Arbor","University of Minnesota - Duluth","University of Minnesota - Twin Cities","University of Nebraska at Lincoln","University of Texas at Austin",
+"University of Virginia, Main Campus","University of Washington - Seattle","University of Wisconsin-Madison")
+
+Ivy = c("Harvard University","Princeton University","Yale University","Dartmouth College","University of Pennsylvania","Cornell University","Brown University")
+new  = table[table$institution %in% Ivy | table$institution %in% elitePublic,]
+new$institution[new$institution %in% Ivy] = "Ivy League"
+new$institution[new$institution %in% elitePublic] = "Selected State Flagships"
+table(new$institution)
+writeOutResults(new[new$level=="Bachelor's Degrees",])
+```
+
+
 ```{r}
 
 table = read.table("DegreeData.csv",sep=",",skip = 6,header=T

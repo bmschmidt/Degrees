@@ -1,6 +1,7 @@
 library(plyr)
 library(reshape2)
 library(ggplot2)
+library(rjson)
 
 loadCarnegieTable = function() {
   degrees = read.table("rawdata/CarnegiePublic.csv",sep=",",skip = 0,header=T
@@ -15,7 +16,7 @@ loadCarnegieTable = function() {
 }
 
 loadSchoolTable = function() {
-  degrees = read.table("rawdata/Schools.csv",sep=",",skip = 0,header=T
+  degrees = read.table("rawdata/Schmidt.csv",sep=",",skip = 0,header=T
                        ,colClasses = c("character","factor","factor","factor","character","character"),na.strings=c(".",'"."','"######"'))
   head(degrees)
   names(degrees) = c("year","gender","level","discipline","institution","FICE","majors")
@@ -54,9 +55,9 @@ writeOutResults = function(table) {
     limited = melt(xtabs(majors~year+gender+field,mytable))
     cat(as.character(mytable$institution[1]))
     names(limited) = c("year","gender","field","count")
-    totals = ddply(limited,.(year),function(row){data.frame(total=sum(row$count))})
-    limited = merge(limited,totals)
-    head(limited)
+    #totals = ddply(limited,.(year),function(row){data.frame(total=sum(row$count))})
+    #limited = merge(limited,totals)
+    #head(limited)
     write.table(limited,file=paste0("/Library/WebServer/Documents/Allfields/tables/",gsub("/",".",mytable$institution[1]),".tsv"),sep="\t",row.names=F)
   })
 }
