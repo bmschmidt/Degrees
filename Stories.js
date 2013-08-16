@@ -69,7 +69,7 @@ stories["CS"] =
              "gender":["Male","Female"],
              "field":["Computer Science"]},
       "Narrative":
-      "Computer Science is one of those 'practical' degrees lazy writers always trot out as an explanation of where college students have been majoring lately.But while the overall trend for CS has been upwards, the real story is a lot more complex."
+      "Computer Science is one of those 'practical' degrees lazy writers always trot out as an explanation of where college students have been majoring lately. But while the overall trend for CS has been upwards, the real story is a lot more interesting."
      },
      {
          "plotOptions":{
@@ -110,7 +110,7 @@ stories["CS"] =
              "startyear":1966,"endyear":2011
          },
       "Narrative":
-      "Female CS majors, on the other hand, peaked in 1986 and have been steadily diminishing since then ."
+      "Female CS majors, on the other hand, peaked in 1986 at 1.5% of all degrees: they've since plateaued at under a third of that."
      },
      {"plotOptions":{
              "gender":["Female"],
@@ -118,15 +118,36 @@ stories["CS"] =
              "startyear":1966,"endyear":1986
          },
       "Narrative":
-      "In the early days of computer science, women seemed poised. (Remember that in the 1940s and 1950s, programming was seen as a feminine form of labor."
+      "In the early days of computer science, women seemed poised to explode. But each of the busts in the total number of degrees has thinned female majors out, in particular."
      },
      {"plotOptions":{
              "gender":["Female","Male"],
              "field":["Computer Science"],
-             "startyear":1966,"endyear":1986,"denominator":"local",displayOrder : ["gender","field"]
+             "startyear":1966,"endyear":1986,
+	 "denominator":"local",
+	 displayOrder : ["gender","field"]
          },
       "Narrative":
-      "This is as true looking at women as a percentage of degrees"
+      "You can see this looking at women as a percentage of degrees: in 1986, the female share of degree had been gaining..."
+     },
+     {"plotOptions":{
+         "gender":["Female","Male"],
+         "field":["Computer Science"],
+	 "file":"data",
+         "startyear":1966,"endyear":2011,"denominator":"local",displayOrder : ["gender","field"]
+         },
+      "Narrative":
+      "But over the next 25 years, the male share of degrees crept back up."
+     },
+     {"plotOptions":{
+             "gender":["Female","Male"],
+             "field":["Computer Science"],
+	 "file":"Research I--public",
+             "startyear":1966,"endyear":2011,"denominator":"local",displayOrder : ["gender","field"]
+         },
+      "Narrative":
+      "This pattern is the worst at the large public research universities: just where you'd want to be getting talented women involved in CS."
      }
+
      ];
 

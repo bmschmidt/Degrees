@@ -18,7 +18,7 @@ body {
     }
     .navigation{opacity:0}
     .story {
-        font-size:20pt
+        font-size:16pt
     }
     .selector{fill:black;opacity:.25;font-size:14pt}
     .counttype.selector{font-size:12pt}
@@ -36,9 +36,13 @@ path {
     </head><body>
     <div id = "header">     <h1 font-style="sans-serif">What Do American College Students Major In?</h1></div>
     <div id="story" style="float:left:width:100%;height:10px">
-    <div id="back" style="width:8%;float:left"><text style="font-size:78px" class="navigation"><</text></div>
+    <div id="back" style="width:8%;float:left"><text id="backButton" style="font-size:78px" class="navigation"><</text></div>
     <div id="storyboard" style="width:84%;float:left;height:10px">
-    <text id="WhereTheTextForStoriesGoes"></text>
+    <text id="WhereTheTextForStoriesGoes" class="story">
+    Change the options to see the story in your discipline or university, or see some examples: <br>
+    <a href="#Business">Why Business majors aren't increasing</a><br>
+<a href="#CS">Computer Science's Gender Problem</a>
+</text>
     </div>
     <div id = "next" style="width:8%;float:left"><text class="navigation" style="font-size:78px">></text></div>
     </div>
@@ -48,8 +52,8 @@ path {
 
     <div id="options" style="float:left:width:100%;height:120px">
     <div id="schools" style="width:33%;float:left"><br></div>
-    <div id="years" style="width:34%;float:left;height:120px"><br><br><br></div>
-    <div id = "blank" style="width:33%;float:left"><text class="navigation" style="font-size:78px">></text></div>
+    <div id="years" style="width:34%;float:left;height:120px;display:none"><br><br><br></div>
+    <div id = "blank" style="width:33%;float:left"><text id="nextButton" class="navigation" style="font-size:78px">></text></div>
     </div>
 
 
@@ -120,7 +124,8 @@ d3.select("#typeChoice")
        );
 
 
-years = d3.select("#years").append("select").attr("id","startYearChoice").selectAll("option").data(d3.range(1946,2012))
+years = d3.select("#years")
+    .append("select").attr("id","startYearChoice").selectAll("option").data(d3.range(1946,2012)).style("position","relative").style("left","1000px")
 years.enter().append("option").text(function(d) {return(d)});
 d3.select("#startYearChoice")
     .on("change",function(value) {
@@ -131,7 +136,8 @@ d3.select("#startYearChoice")
 
 years = d3.select("#years").append("select").attr("id","endYearChoice").selectAll("option").data(d3.range(1946,2011))
 years.enter().append("option").text(function(d) {return(d)});
-d3.select("#endYearChoice").on("change",function(value) {value = this.options[this.selectedIndex].__data__; state.endyear = value; update()});
+d3.select("#endYearChoice")
+.on("change",function(value) {value = this.options[this.selectedIndex].__data__; state.endyear = value; update()});
 
 
 var state = {}; //Using this to store the state of the graph for reproduction
@@ -187,14 +193,21 @@ tellAStory = function(storyname) {
 
         setTimeout(update,1500)
 
-        d3.select("#next").on("click",function() {
-            switchToPane(i+1);
-        })
-            .selectAll("text")
-            .transition()
-            .delay(2000)
-            .duration(2000)
-            .style("opacity",function() {if (i<panels.length) {return 1}})
+
+	if (panels[i+1]===undefined) {
+	    d3.select("#next").on("click",function() {alert("closing");})
+	    d3.select("#nextButton").text("X")
+	} else {
+            d3.select("#next").attr("text",">").on("click",function() {
+		switchToPane(i+1);
+            })
+		.selectAll("text")
+		.transition()
+		.delay(2000)
+		.duration(2000)
+		.style("opacity",function() {if (i<panels.length) {return 1}})
+	    
+	}
 
         d3.select("#back").on("click",function() {
             switchToPane(i-1);
@@ -281,14 +294,7 @@ countnames
 countnames.on("click",function(d) {
     d3.selectAll(".counttype.selector").classed("highlit",false);
     d3.select(this).classed("highlit",true);
-    if (d.key != "local") {
-        state.denominator = d.key;
-        stack.offset("zero")
-    }
-    if (d.key=="local") {
-        state.denominator = "local";
-        stack.offset("expand")
-    }
+    state.denominator = d.key
     update();
 })
 
@@ -441,14 +447,16 @@ var stack = d3.layout.stack().values(function(d) {return d.values});
 var previousOrder = [];
 var previousFile
 var update = function(transtime) {
-
-	if (state.file!=previousFile) {
+    
+    if (state.file!=previousFile) {
 	previousFile = state.file
 	changeFile(state.file)
 	return //the update call is inside the changeFile function, so we can just bail.
-}
-
+    }
+    
     if (transtime===undefined) {transtime=4000}
+
+    state.denominator=="local" ? stack.offset("expand") : stack.offset("zero")
 
     x.domain([state.startyear,state.endyear]);
 
