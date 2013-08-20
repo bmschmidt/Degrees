@@ -1,36 +1,37 @@
 stories = {};
 
 
-stories["Humanities"] =
+stories["HumRatio"] =
     [
      {"plotOptions":{
-             "gender":["Male","Female"],
-	     "startyear":1966,
+	 "file":"longData",
+         "gender":["Male","Female"],
+	 "startyear":1966,
 	     "endyear":2011,
-             "field":["Area and Ethnic Studies","English and Literature","Foreign Languages","History","Humanities, Other"]},
+         "field":["Area and Ethnic Studies","English and Literature","Foreign Languages","History","Humanities, Other"]},
       "Narrative":
       "Are the humanities in decline? At first glance, it seems possible: they have declined from 17% of all degrees in 1966 to just 7% today."
      },
-     {
+	{"plotOptions":{"endyear":1985},
 	 "Narrative":"If they are in decline, though, it's not a straightforward one: the entire drop occurred between 1970 and 1985."
-     },
-     {"plotOptions":{"startyear":1983},
+	},
+	{"plotOptions":{"startyear":1981,"endyear":2011},
 	 "Narrative":"Over the last thirty years, humanities degrees have been mostly stable: a mild rise to about 1993, and a moderate decline since."
-     },
-     {"plotOptions":{"startyear":1983},
-      "Narrative":"That overall pattern gives the lie to any arguments that claim the humanities are being eroded by things like ethnic studies or a departure from the classics. Students aren't any less interested in majoring in history or English now than they were at the moment deconstructionism hit American shores."
-     },
-     {"plotOptions":{"startyear":1966},
-      "Narrative":"Degrees have been stable since 1983, but have dropped since 1966. So which is a better baseline to use?"
-     },
-     {"plotOptions":{"startyear":1965},
-      "Narrative":"These datasets start in 1966 because that's the first year we have digital, nationwide records on degrees. But it's not the first year that the government collected the information."
-     },
-     {"plotOptions":{"startyear":1947},
-      "Narrative":"Several years ago, I went through old government statistics on majors to see if 1966 was really the long-term baseline. It's not."
-     },
-     {"plotOptions":{"startyear":1947},
-      "Narrative":"In fact, what we've been using as a baseline is a long-term peak."
+	},
+	{"plotOptions":{"startyear":1983},
+	 "Narrative":"That overall pattern gives the lie to any arguments that claim the humanities are being eroded by things like ethnic studies or a departure from the classics. Students aren't any less interested in majoring in history or English now than they were at the moment deconstructionism hit American shores."
+	},
+	{"plotOptions":{"startyear":1966},
+	 "Narrative":"Degrees have been stable since 1983, but have dropped since 1966. So which is a better baseline to use?"
+	},
+	{"plotOptions":{"startyear":1965},
+	 "Narrative":"These datasets start in 1966 because that's the first year we have digital, nationwide records on degrees. But it's not the first year that the government collected the information."
+	},
+	{"plotOptions":{"startyear":1947},
+	 "Narrative":"Several years ago, I went through old government statistics on majors to see if 1966 was really the long-term baseline. It's not."
+	},
+	{"plotOptions":{"startyear":1947},
+	 "Narrative":"In fact, what we've been using as a baseline is a long-term peak."
      }
 
      ]
@@ -142,7 +143,7 @@ stories["CS"] =
      {"plotOptions":{
              "gender":["Female","Male"],
              "field":["Computer Science"],
-	 "file":"Research I--public",
+	 "file":"Research I--public.tsv",
              "startyear":1966,"endyear":2011,"denominator":"local",displayOrder : ["gender","field"]
          },
       "Narrative":
