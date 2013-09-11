@@ -526,7 +526,7 @@ var update = function(transtime) {
     svg
         .selectAll(".field.selector")
         .classed("highlit",function(d) {return (state.field.has(d))})
-        .style("font-size",function() {return (height/(2+field.length)) + "pt"})
+        .style("font-size",function() {return d3.min([(height/(2+field.length)),14]) + "pt"})
         .style("fill",function(d) {
             if (state.field.has(d) & state.displayOrder[0]=="field") {
                 return(color(d))
@@ -596,7 +596,6 @@ var update = function(transtime) {
         updatePlot = function(nested,doEverything) {
             nested = nested.sort(function(b,a) {return a.key < b.key ? -1 : a.key > b.key ? 1 : 0
                                                });
-
             var disciplines = stack(nested);
             if (state.ydomain===undefined) {
 
@@ -637,25 +636,21 @@ var update = function(transtime) {
                     .attr("d", function(d) { return area(d.values); })
 	            .filter(function(d) {return !(state.field.has(d.field) & state.gender.has(d.gender))}).each("end",function(d) {
 	 d3.select(this).remove();
-	  })
-
-//	  discipline.filter(function(d) {return exitElements.has(d.permaKey) }).each(function(d) {
-//	   var toCut = this;
-//	   setTimeout(function() {d3.select(toCut).remove()},transtime*3);
-//	  })
-                d1 = discipline;
+		    });
+		
+		d1 = discipline;
                 ds = disciplines;
                 xaxis.transition().duration(transtime)
                     .call(xAxis);
-
+		
                 yaxis.transition().duration(transtime)
                     .call(yAxis);
             }
         }
         updatePlot(entranceState,false);
         updatePlot(finalState,true);
-    }
-	  _gaq.push(['_trackPageview',"Degrees/#" + JSON.stringify(state)]);
+    };
+    _gaq.push(['_trackPageview',"Degrees/#" + JSON.stringify(state)]);
 }
 firstLoad()
 
