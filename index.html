@@ -46,8 +46,9 @@ path {
     </head>
 
 <body>
-    <div id = "header">     <h1 font-style="sans-serif">What Do American College Students Major In?</h1></div>
-
+  <div id = "header">     <h1 font-style="sans-serif">How College Majors Have Changed</h1>
+  </div>
+  
     <div id="chart"></div>
     <div id="yearButtons"></div>
     <div id="credits">
@@ -73,7 +74,7 @@ path {
 <div id=source>
 Source: <br>NCES HEGIS and IPEDS surveys, via <a href=http://webcaspar.nsf.gov>WebCASPAR</a>.
     <br>
-Made by <a href=http://bmschmidt.wordpress.com>Ben Schmidt</a>, 2013.
+Made by <a href=http://benschmidt.org>Ben Schmidt</a>, 2013.
 </source>
     <script src="./d3.v3.js"></script>
     <script src="./Stories.js"></script>
@@ -94,7 +95,11 @@ schoolnames = [
 schooltypes = ["","Associate of Arts.Two Year--private.tsv","Associate of Arts.Two Year--public.tsv","Baccalaureate.Liberal Arts I--private.tsv","Baccalaureate.Liberal Arts I--public.tsv","Baccalaureate.Liberal Arts II--private.tsv","Baccalaureate.Liberal Arts II--public.tsv","Doctoral I--private.tsv","Doctoral I--public.tsv","Doctoral II--private.tsv","Doctoral II--public.tsv","Master's.Comprehensive I--private.tsv","Master's.Comprehensive I--public.tsv","Master's.Comprehensive II--private.tsv","Master's.Comprehensive II--public.tsv","Research I--private.tsv","Research I--public.tsv","Research II--private.tsv","Research II--public.tsv","Ivy League", "Selected State Flagships"]
 
 schools = d3.select("#schools");
-schools.append("text").text("Limit by specific institution: ").append("br")
+schools.append("text").text("Limit by specific institution: ")
+.append("text").on("click",function() {
+alert("No particular reason: these are just the universities that popped into my head as potentially interesting. Too many of the schools are of the super-prestigious variety, but I tried to get a little bit of range, although I'm sure I'm missing some whole sectors. You can see the biases: in addition to the Ivy slant, they tend to be in Massachusetts, New Jersey, or Maine, because that's where I've spend time. NCES only lets you download about 20 at a time. Shoot me an e-mail if you want your school added, and I'll put it in the next update.")
+}).text("(Why these schools?)").style("color","red").append("br");
+
 options = schools
     .append("select")
     .attr("id","schoolChoice")
@@ -126,7 +131,12 @@ nullify(id);}
 }
 
 schools.append("br");
-schools.append("text").text("Limit by institution Type: ").append("br");
+schools.append("text").text("Limit by institution Type: ").append("text").on("click",function() {
+alert("Most use the NSF's default Carnegie classification, split by public/private. Many of these bins are extremely small, so be sure to change the y-axis to see how big the numbers are. 
+The 'Ivy League' is what you think except it doesn't include Columbia, because I forgot about it: 'Selected State Flagships is a group of state schools comparable in prestige to the Ivies: Michigan, Texas, Berkeley, etc. Further documentation available in the code.")
+}).text("(What are these categories?)").style("color","red").append("br")
+
+append("br");
 options = d3.select("#schools").append("select").attr("id","typeChoice").attr("class","datafile selector highlit").selectAll("option").data(schooltypes);
 options.enter().append("option").attr("value",function(d) {return (d)}).text(function(d) {return(d)});
 d3.select("#typeChoice")
@@ -566,6 +576,7 @@ var update = function(transtime) {
                     loctotal = totals[state.denominator][d.year]
                 }
                 d.y= d[numerator] / loctotal
+	if (!loctotal > 0) {d.y=0}
             }
         });
 
@@ -574,9 +585,8 @@ var update = function(transtime) {
         currentElements = []; nested.map(function(d) {if ((state.gender.has(d.gender) & state.field.has(d.field))) {currentElements.add(d.permaKey)}});
 
         enterElements = currentElements.filter(function(d){return lastElements.has(d)});
-        //console.log("New elements: " + enterElements.join(" "));
         exitElements = lastElements.filter(function(d) {return !currentElements.has(d)});
-        //console.log("Exiting elements: " + exitElements.join(" "));
+
         n1 = nested;
 
         finalState = nested.filter(function(d) {
