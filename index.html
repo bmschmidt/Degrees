@@ -46,7 +46,7 @@ path {
     </head>
 
 <body>
-  <div id = "header">     <h1 font-style="sans-serif">How College Majors Have Changed</h1>
+  <div id = "header">     <h1 font-style="sans-serif">Explore how College Majors Have Changed</h1>
   </div>
   
     <div id="chart"></div>
@@ -60,7 +60,7 @@ path {
     <div id="back" style="width:5%;float:left"><text id="backButton" style="font-size:78px" class="navigation"><</text></div>
     <div id="storyboard" style="width:70%;float:left;height:10px">
     <text id="WhereTheTextForStoriesGoes" class="story">
-    This is an interactive chart showing bachelor's degrees in the United States. Change the options to see the story in your discipline or university, and change the denominator. Or see some examples: <br>
+    This is an interactive chart showing bachelor's degrees in the United States. Change the options to see the story in your discipline or university, and change the y-axis to suit the ratio you think is most important. Or see some example stories: <br>
 <a href="#Business" style="font-size:12pt">Why Business majors aren't increasing;</a>
     <a href="#CS" style="font-size:12pt">Computer Science's Gender Problem;</a>
 <a href="#HumRatio" style="font-size:12pt">Why the humanities aren't in "crisis"</a>
@@ -72,7 +72,7 @@ path {
 <br>
     </div>
 <div id=source>
-Source: <br>NCES HEGIS and IPEDS surveys, via <a href=http://webcaspar.nsf.gov>WebCASPAR</a>.
+Source: <br>NCES HEGIS and IPEDS surveys, via <a href=http://webcaspar.nsf.gov>NSF's WebCASPAR</a>. I've grouped up their degree categories a bit: but remember that divisions between the sciences, social sciences, etc. are fundamentally arbitrary and historically contingent.
     <br>
 Made by <a href=http://benschmidt.org>Ben Schmidt</a>, 2013.
 </source>
@@ -98,7 +98,7 @@ schools = d3.select("#schools");
 schools.append("text").text("Limit by specific institution: ")
 .append("text").on("click",function() {
 alert("No particular reason: these are just the universities that popped into my head as potentially interesting. Too many of the schools are of the super-prestigious variety, but I tried to get a little bit of range, although I'm sure I'm missing some whole sectors. You can see the biases: in addition to the Ivy slant, they tend to be in Massachusetts, New Jersey, or Maine, because that's where I've spend time. NCES only lets you download about 20 at a time. Shoot me an e-mail if you want your school added, and I'll put it in the next update.")
-}).text("(Why these schools?)").style("color","red").append("br");
+}).text("(Why these schools?)").style("color","blue").append("br");
 
 options = schools
     .append("select")
@@ -131,12 +131,11 @@ nullify(id);}
 }
 
 schools.append("br");
-schools.append("text").text("Limit by institution Type: ").append("text").on("click",function() {
-alert("Most use the NSF's default Carnegie classification, split by public/private. Many of these bins are extremely small, so be sure to change the y-axis to see how big the numbers are. 
-The 'Ivy League' is what you think except it doesn't include Columbia, because I forgot about it: 'Selected State Flagships is a group of state schools comparable in prestige to the Ivies: Michigan, Texas, Berkeley, etc. Further documentation available in the code.")
-}).text("(What are these categories?)").style("color","red").append("br")
+schools.append("text").text("Limit by institution type: ").append("text").on("click",function() {
+alert("Most of these are the NSF default Carnegie classification, which I have split by public/private. They seem to be the old 1995 classes, which includes the now-obsolete 'Research I' designation. Many of these bins are extremely small, so be sure to change the y-axis to see how big the numbers are. The 'Ivy League' is what you'd think except it doesn't include Columbia, because I forgot about it. 'Selected State Flagships' is a group of state schools comparable in quality to the Ivies: Michigan, UT-Austin, Berkeley, etc.")
+}).text("(What are these categories?)").style("color","blue").append("br");
 
-append("br");
+
 options = d3.select("#schools").append("select").attr("id","typeChoice").attr("class","datafile selector highlit").selectAll("option").data(schooltypes);
 options.enter().append("option").attr("value",function(d) {return (d)}).text(function(d) {return(d)});
 d3.select("#typeChoice")
@@ -219,8 +218,8 @@ tellAStory = function(storyname) {
 
 
 	if (panels[i+1]===undefined) {
-	    d3.select("#next").on("click",function() {alert("closing");})
-	    d3.select("#nextButton").text("X")
+	    d3.select("#next").on("click",function() {location.href = 'http://benschmidt.org/Degrees';})
+	    d3.select("#next").text("Return to Default Chart").style("font-size",13).style("font-color","red")
 	} else {
             d3.select("#next").attr("text",">").on("click",function() {
 		switchToPane(i+1);
@@ -366,7 +365,7 @@ subtotal = function(data) {
 
 
 changeFile = function(filename) {
-
+	d3.selectAll(".area").transition().attr("opacity",0).remove()
    d3.selectAll(".datafile.selector").each(function(x) {
         nullify(d3.select(this).attr("id"),filename)
 	})

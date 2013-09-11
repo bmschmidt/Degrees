@@ -13,7 +13,7 @@ stories["HumRatio"] =
       "Are the humanities in decline? At first glance, it seems possible: they have declined from 17% of all degrees in 1966 to just 7% today."
      },
 	{"plotOptions":{"endyear":1985},
-	 "Narrative":"If they are in decline, though, it's not a straightforward one: the entire drop occurred between 1970 and 1985."
+	 "Narrative":"If they are in decline, though, it's not an ongoing one: the entire drop occurred between 1970 and 1985."
 	},
 	{"plotOptions":{"startyear":1981,"endyear":2011},
 	 "Narrative":"Over the last thirty years, humanities degrees have been mostly stable: a mild rise to about 1993, and a moderate decline since."
