@@ -14,19 +14,18 @@ writeOutResults(table[table$level=="Bachelor's Degrees",])
 
 Then, get the individual school counts. I'm just concatenating together a bunch of individual webcaspar school files for this.
 ``` {r}
-schools = loadSchoolTable()
+schools = loadSchoolTable(c("rawdata/Schmidt.csv","rawdata/Schools2.csv"))
 table = cleanupTable(schools)
 table = reformatDisciplines(table)
 writeOutResults(table[table$level=="Bachelor's Degrees",])
-cat(toJSON(unique(table$institution)))
+cat("schoolnames =",toJSON(c("",sort(unique(table$institution)))),"longdata",file="listOfSchools.json")
 head(schools)
 ```
 
 ``` {r}
-elitePublic = c("University of California-Berkeley","University of California-Los Angeles","University of Colorado at Boulder","University of Illinois at Urbana-Champaign","University of Iowa","University of Michigan at Ann Arbor","University of Minnesota - Duluth","University of Minnesota - Twin Cities","University of Nebraska at Lincoln","University of Texas at Austin",
-"University of Virginia, Main Campus","University of Washington - Seattle","University of Wisconsin-Madison")
+elitePublic = c("University of California-Berkeley","University of California-Los Angeles","University of Colorado at Boulder","University of Illinois at Urbana-Champaign","University of Iowa","University of Michigan at Ann Arbor","University of Minnesota - Twin Cities","University of Nebraska at Lincoln","University of Texas at Austin","University of Virginia, Main Campus","University of Washington - Seattle","University of Wisconsin-Madison")
 
-Ivy = c("Harvard University","Princeton University","Yale University","Dartmouth College","University of Pennsylvania","Cornell University","Brown University")
+Ivy = c("Harvard University","Princeton University","Yale University","Dartmouth College","University of Pennsylvania","Cornell University","Brown University","Columbia University")
 new  = table[table$institution %in% Ivy | table$institution %in% elitePublic,]
 new$institution[new$institution %in% Ivy] = "Ivy League"
 new$institution[new$institution %in% elitePublic] = "Selected State Flagships"

@@ -15,11 +15,16 @@ loadCarnegieTable = function() {
   return(degrees[,c("year","gender","level","institution","discipline","majors")])
 }
 
-loadSchoolTable = function() {
-  degrees = read.table("rawdata/Schmidt.csv",sep=",",skip = 0,header=T
-                       ,colClasses = c("character","factor","factor","factor","character","character"),na.strings=c(".",'"."','"######"'))
-  head(degrees)
-  names(degrees) = c("year","gender","level","discipline","institution","FICE","majors")
+loadSchoolTable = function(files = c("rawdata/Schools2.csv")) {
+  raw = lapply(files, function(name) {
+    degrees = read.table(name,sep=",",skip = 0,header=T
+                         ,colClasses = c("character","factor","factor","factor","character","character"),na.strings=c(".",'"."','"######"'))
+    head(degrees)
+    names(degrees) = c("year","gender","level","discipline","institution","FICE","majors");
+    return(degrees)
+  })
+  degrees = do.call(rbind,raw)
+  degrees = degrees[!duplicated(degrees),] #Multiple batched might have duplicates
   return(degrees[,c("year","gender","level","institution","discipline","majors")])
 }
 
@@ -58,6 +63,6 @@ writeOutResults = function(table) {
     #totals = ddply(limited,.(year),function(row){data.frame(total=sum(row$count))})
     #limited = merge(limited,totals)
     #head(limited)
-    write.table(limited,file=paste0("/Library/WebServer/Documents/Allfields/tables/",gsub("/",".",mytable$institution[1]),".tsv"),sep="\t",row.names=F)
+    write.table(limited,file=paste0("/var/www/Degrees/tables/",gsub("/",".",mytable$institution[1]),".tsv"),sep="\t",row.names=F)
   })
 }

@@ -46,7 +46,7 @@ path {
     </head>
 
 <body>
-  <div id = "header">     <h1 font-style="sans-serif">Explore how College Majors Have Changed</h1>
+  <div id = "header">     <h1 font-style="sans-serif">Explore American College Majors</h1>
   </div>
   
     <div id="chart"></div>
@@ -85,12 +85,7 @@ Made by <a href=http://benschmidt.org>Ben Schmidt</a>, 2013.
 var margin = {top: 20, right: 420, bottom: 30, left: 120},
 width = window.innerWidth - margin.left - margin.right,
 height = d3.max([window.innerHeight-290 - margin.top - margin.bottom,270]);
-
-schoolnames = [
-    "",
-    "data.tsv",
-    "longData",
-    "Babson College","Bates College","Boston College","Boston University","Bowdoin College","Brandeis University","Brigham Young University, Main Campus","Brown University","California State Polytechnic U-San Luis Obispo","California State University-Bakersfield","California State University-Fresno","California State University-Fullerton","California State University-Los Angeles","City University","Clark University","Colby College","College of the Holy Cross","Cornell University, All Campuses","Dartmouth College","Drexel University","Emory University","Fisk University","Fitchburg State College","George Mason University","Georgetown University","Harvard University","Haverford College","Howard University","Lesley College","Massachusetts Institute of Technology","Miami-Dade Community College","Michigan State University","New York University","Northeastern University","Northwestern Univ","Ohio State University, Main Campus","Princeton University","Rensselaer Polytechnic Institute","Rice University","Richard Stockton College of New Jersey","Rutgers the State Univ of NJ New Brunswick","Salem State College","Smith College","Southern Methodist University","St Olaf College","Stanford University","Stevens Institute of Technology","Texas A&M University Main Campus","Tufts University","University of California-Berkeley","University of California-Davis","University of California-Irvine","University of California-Los Angeles","University of Chicago","University of Colorado at Boulder","University of Colorado at Denver","University of Connecticut","University of Connecticut, All Campuses","University of Georgia","University of Illinois at Chicago","University of Illinois at Urbana-Champaign","University of Iowa","University of Maine","University of Maryland at College Park","University of Massachusetts at Amherst","University of Massachusetts at Boston","University of Massachusetts at Dartmouth","University of Massachusetts Lowell","University of Michigan at Ann Arbor","University of Minnesota - Duluth","University of Minnesota - Twin Cities","University of Nebraska at Lincoln","University of Pennsylvania","University of Rhode Island","University of Southern Maine","University of Texas at Arlington","University of Texas at Austin","University of Texas at Dallas","University of Texas at Permian Basin","University of Virginia, Main Campus","University of Washington - Seattle","University of Wisconsin-Madison","University of Wisconsin-Milwaukee","Washington University","Wellesley College","Williams College","Yale University"]
+schoolnames = ["","Babson College","Bates College","Boston College","Boston University","Bowdoin College","Brandeis University","Brigham Young University, Main Campus","Brown University","California State Polytechnic U-San Luis Obispo","California State University-Bakersfield","California State University-Fresno","California State University-Fullerton","California State University-Los Angeles","City University","Clark University","Colby College","College of the Holy Cross","Columbia University in the City of New York","Cornell University, All Campuses","Dartmouth College","Drexel University","Emory University","Fisk University","Fitchburg State College","George Mason University","Georgetown University","Harvard University","Haverford College","Hofstra University","Howard University","Lesley College","Massachusetts Institute of Technology","Miami-Dade Community College","Michigan State University","Monmouth College","Monmouth University","New York University","Northeastern University","Northwestern Univ","Ohio State University, Main Campus","Pomona College","Princeton University","Reed College","Rensselaer Polytechnic Institute","Rice University","Richard Stockton College of New Jersey","Rutgers the State Univ of NJ New Brunswick","Salem State College","Smith College","Southern Methodist University","St Olaf College","Stanford University","Stevens Institute of Technology","Texas A&M University Main Campus","Tufts University","University of AK Fairbanks, All Campuses","University of Alabama","University of California-Berkeley","University of California-Davis","University of California-Irvine","University of California-Los Angeles","University of Chicago","University of Colorado at Boulder","University of Colorado at Denver","University of Connecticut","University of Connecticut, All Campuses","University of Georgia","University of Illinois at Chicago","University of Illinois at Urbana-Champaign","University of Iowa","University of Maine","University of Maryland at College Park","University of Massachusetts Lowell","University of Massachusetts at Amherst","University of Massachusetts at Boston","University of Massachusetts at Dartmouth","University of Michigan at Ann Arbor","University of Minnesota - Duluth","University of Minnesota - Twin Cities","University of Nebraska at Lincoln","University of Pennsylvania","University of Rhode Island","University of Southern California","University of Southern Maine","University of Texas at Arlington","University of Texas at Austin","University of Texas at Dallas","University of Texas at Permian Basin","University of Vermont","University of Virginia, Main Campus","University of Washington - Seattle","University of Wisconsin-Madison","University of Wisconsin-Milwaukee","Valparaiso University","Vanderbilt University","Washington University","Washington and Lee University","Wellesley College","Wesleyan University","Williams College","Worcester Polytechnic Institute","Yale University"]
 
 schooltypes = ["","Associate of Arts.Two Year--private.tsv","Associate of Arts.Two Year--public.tsv","Baccalaureate.Liberal Arts I--private.tsv","Baccalaureate.Liberal Arts I--public.tsv","Baccalaureate.Liberal Arts II--private.tsv","Baccalaureate.Liberal Arts II--public.tsv","Doctoral I--private.tsv","Doctoral I--public.tsv","Doctoral II--private.tsv","Doctoral II--public.tsv","Master's.Comprehensive I--private.tsv","Master's.Comprehensive I--public.tsv","Master's.Comprehensive II--private.tsv","Master's.Comprehensive II--public.tsv","Research I--private.tsv","Research I--public.tsv","Research II--private.tsv","Research II--public.tsv","Ivy League", "Selected State Flagships"]
 
@@ -132,7 +127,7 @@ nullify(id);}
 
 schools.append("br");
 schools.append("text").text("Limit by institution type: ").append("text").on("click",function() {
-alert("Most of these are the NSF default Carnegie classification, which I have split by public/private. They seem to be the old 1995 classes, which includes the now-obsolete 'Research I' designation. Many of these bins are extremely small, so be sure to change the y-axis to see how big the numbers are. The 'Ivy League' is what you'd think except it doesn't include Columbia, because I forgot about it. 'Selected State Flagships' is a group of state schools comparable in quality to the Ivies: Michigan, UT-Austin, Berkeley, etc.")
+alert("Most of these are the NSF default Carnegie classification, which I have split by public/private. They seem to be the old 1995 classes, which includes the now-obsolete 'Research I' designation. Many of these bins are extremely small, so be sure to change the y-axis to see how big the numbers are--associate's colleges don't give out many bachelor's degrees, by definition. The 'Ivy League' is what you'd think. Just as the Ivies are some but not all of the best private schools, 'Selected State Flagships' is a group of some of the best public schools that I picked somewhat at random: Berkeley, UCLA, Boulder, UIUC, Iowa, Michigan, Minnesota, Nebraska, Austin, UVA, Washington, and Madison.")
 }).text("(What are these categories?)").style("color","blue").append("br");
 
 
@@ -155,7 +150,6 @@ d3.select("#startYearChoice")
         value = this.options[this.selectedIndex].__data__;
         state.startyear = value;
         update()});
-
 
 years = d3.select("#years").append("select").attr("id","endYearChoice").selectAll("option").data(d3.range(1946,2011))
 years.enter().append("option").text(function(d) {return(d)});
@@ -337,7 +331,7 @@ var dataPoints;
 var field,color,fieldChoiceScale,savedFieldColors;
 
 window.onhashchange = function() {
-    tellAStory(window.location.hash.substr(1));
+    parseHashString()
 };
 
 
@@ -471,13 +465,36 @@ firstLoad = function() {
             }
             update()
         });
-        if (window.location.hash.substr(1)) {
-            tellAStory(window.location.hash.substr(1))
-        } else {
-            update(150)
-        }
+	hasAHash = parseHashString()
+	if (hasAHash) {
+	    update();
+	} else {
+	    update(150)
+	};
+	
     })
 };
+
+function parseHashString() {
+    hashString = decodeURIComponent(window.location.hash.substr(1));
+    if (!hashString) {return false}
+    if (stories[hashString]) {
+	tellAStory(hashString);
+	return true;
+    }
+    else if (schoolnames.has(hashString)) {
+	changeFile(hashString);
+	return true;
+    } else {
+	try {
+            state = JSON.parse(hashString);
+	    return true;
+	} catch (e) {
+            return false;
+	}
+    }
+    return false
+}
 
 var lastElements,currentElements,test,d1,n1; //debugging
 

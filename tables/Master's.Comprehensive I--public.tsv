@@ -1,2301 +1,2301 @@
-"year"	"gender"	"field"	"count"	"total"
-"1966"	"Female"	"Agriculture"	11	110790
-"1966"	"Male"	"Life Sciences"	3518	110790
-"1966"	"Female"	"Foreign Languages"	1527	110790
-"1966"	"Female"	"Social Service Professions"	371	110790
-"1966"	"Female"	"Business"	1275	110790
-"1966"	"Male"	"Political Science and Public Administration"	1674	110790
-"1966"	"Male"	"Agriculture"	1052	110790
-"1966"	"Female"	"Math"	1536	110790
-"1966"	"Female"	"Education"	32212	110790
-"1966"	"Male"	"Social Service Professions"	164	110790
-"1966"	"Male"	"Business"	10105	110790
-"1966"	"Female"	"Psychology"	1083	110790
-"1966"	"Female"	"History"	1511	110790
-"1966"	"Male"	"Math"	3427	110790
-"1966"	"Male"	"Education"	11976	110790
-"1966"	"Female"	"Sociology"	1517	110790
-"1966"	"Female"	"Other/Unknown"	236	110790
-"1966"	"Male"	"Anthropology"	109	110790
-"1966"	"Male"	"History"	3189	110790
-"1966"	"Female"	"Social Sciences, Other"	2094	110790
-"1966"	"Female"	"Religion"	0	110790
-"1966"	"Male"	"Communication and Library Science"	238	110790
-"1966"	"Male"	"Other/Unknown"	361	110790
-"1966"	"Female"	"Area and Ethnic Studies"	47	110790
-"1966"	"Female"	"Vocational Studies and Home Economics"	942	110790
-"1966"	"Male"	"Engineering"	3032	110790
-"1966"	"Male"	"Religion"	0	110790
-"1966"	"Female"	"Computer Science"	2	110790
-"1966"	"Female"	"Physical Sciences"	570	110790
-"1966"	"Male"	"Humanities, Other"	181	110790
-"1966"	"Male"	"Vocational Studies and Home Economics"	8	110790
-"1966"	"Female"	"English and Literature"	5201	110790
-"1966"	"Male"	"Art/Architecture"	1457	110790
-"1966"	"Male"	"Physical Sciences"	4310	110790
-"1966"	"Female"	"Art/Architecture"	1605	110790
-"1966"	"Female"	"Life Sciences"	2303	110790
-"1966"	"Male"	"Economics"	1246	110790
-"1966"	"Male"	"Social Sciences, Other"	4018	110790
-"1966"	"Female"	"Economics"	99	110790
-"1966"	"Female"	"Political Science and Public Administration"	348	110790
-"1966"	"Male"	"Foreign Languages"	636	110790
-"1966"	"Male"	"Psychology"	1611	110790
-"1966"	"Female"	"Communication and Library Science"	409	110790
-"1966"	"Female"	"Anthropology"	150	110790
-"1966"	"Male"	"Sociology"	1154	110790
-"1966"	"Female"	"Engineering"	12	110790
-"1966"	"Male"	"Area and Ethnic Studies"	25	110790
-"1966"	"Female"	"Humanities, Other"	87	110790
-"1966"	"Male"	"Computer Science"	8	110790
-"1966"	"Male"	"English and Literature"	2143	110790
-"1967"	"Male"	"Life Sciences"	3920	121360
-"1967"	"Male"	"Political Science and Public Administration"	2088	121360
-"1967"	"Female"	"Agriculture"	21	121360
-"1967"	"Male"	"Social Service Professions"	162	121360
-"1967"	"Female"	"Business"	1422	121360
-"1967"	"Male"	"Math"	3708	121360
-"1967"	"Male"	"Education"	12343	121360
-"1967"	"Female"	"Education"	32544	121360
-"1967"	"Male"	"Anthropology"	148	121360
-"1967"	"Female"	"English and Literature"	6227	121360
-"1967"	"Male"	"History"	3695	121360
-"1967"	"Female"	"History"	1824	121360
-"1967"	"Male"	"Communication and Library Science"	251	121360
-"1967"	"Male"	"Foreign Languages"	785	121360
-"1967"	"Female"	"Life Sciences"	2503	121360
-"1967"	"Female"	"Humanities, Other"	63	121360
-"1967"	"Male"	"Engineering"	3315	121360
-"1967"	"Female"	"Anthropology"	221	121360
-"1967"	"Female"	"Computer Science"	5	121360
-"1967"	"Female"	"Foreign Languages"	1972	121360
-"1967"	"Male"	"Humanities, Other"	229	121360
-"1967"	"Female"	"Communication and Library Science"	457	121360
-"1967"	"Male"	"Economics"	1483	121360
-"1967"	"Male"	"Agriculture"	1200	121360
-"1967"	"Male"	"Computer Science"	13	121360
-"1967"	"Female"	"Art/Architecture"	2078	121360
-"1967"	"Female"	"Religion"	0	121360
-"1967"	"Male"	"Business"	11524	121360
-"1967"	"Male"	"English and Literature"	2550	121360
-"1967"	"Female"	"Economics"	128	121360
-"1967"	"Female"	"Vocational Studies and Home Economics"	1093	121360
-"1967"	"Male"	"Art/Architecture"	1829	121360
-"1967"	"Male"	"Religion"	0	121360
-"1967"	"Female"	"Sociology"	1999	121360
-"1967"	"Male"	"Area and Ethnic Studies"	35	121360
-"1967"	"Female"	"Other/Unknown"	192	121360
-"1967"	"Male"	"Vocational Studies and Home Economics"	15	121360
-"1967"	"Female"	"Area and Ethnic Studies"	54	121360
-"1967"	"Female"	"Math"	1846	121360
-"1967"	"Male"	"Physical Sciences"	3942	121360
-"1967"	"Male"	"Sociology"	1473	121360
-"1967"	"Female"	"Political Science and Public Administration"	482	121360
-"1967"	"Female"	"Psychology"	1255	121360
-"1967"	"Male"	"Social Sciences, Other"	4197	121360
-"1967"	"Female"	"Physical Sciences"	567	121360
-"1967"	"Female"	"Social Service Professions"	423	121360
-"1967"	"Male"	"Psychology"	1993	121360
-"1967"	"Female"	"Engineering"	20	121360
-"1967"	"Female"	"Social Sciences, Other"	2541	121360
-"1967"	"Male"	"Other/Unknown"	525	121360
-"1968"	"Male"	"Political Science and Public Administration"	2651	142326
-"1968"	"Male"	"Life Sciences"	4458	142326
-"1968"	"Female"	"History"	2301	142326
-"1968"	"Female"	"Education"	37435	142326
-"1968"	"Male"	"History"	4359	142326
-"1968"	"Male"	"Humanities, Other"	295	142326
-"1968"	"Male"	"Communication and Library Science"	291	142326
-"1968"	"Female"	"Vocational Studies and Home Economics"	1386	142326
-"1968"	"Male"	"Social Service Professions"	263	142326
-"1968"	"Female"	"Computer Science"	9	142326
-"1968"	"Male"	"Engineering"	3743	142326
-"1968"	"Male"	"Anthropology"	150	142326
-"1968"	"Female"	"Agriculture"	26	142326
-"1968"	"Female"	"English and Literature"	7548	142326
-"1968"	"Female"	"Foreign Languages"	2423	142326
-"1968"	"Female"	"Art/Architecture"	2717	142326
-"1968"	"Female"	"Religion"	0	142326
-"1968"	"Female"	"Life Sciences"	2986	142326
-"1968"	"Female"	"Area and Ethnic Studies"	78	142326
-"1968"	"Female"	"Economics"	189	142326
-"1968"	"Male"	"Social Sciences, Other"	4869	142326
-"1968"	"Male"	"Math"	3996	142326
-"1968"	"Male"	"Art/Architecture"	2133	142326
-"1968"	"Male"	"Education"	13538	142326
-"1968"	"Male"	"Area and Ethnic Studies"	50	142326
-"1968"	"Female"	"Business"	1763	142326
-"1968"	"Male"	"Economics"	1653	142326
-"1968"	"Male"	"Vocational Studies and Home Economics"	15	142326
-"1968"	"Male"	"Agriculture"	1324	142326
-"1968"	"Male"	"Physical Sciences"	4092	142326
-"1968"	"Male"	"Foreign Languages"	865	142326
-"1968"	"Male"	"Psychology"	2483	142326
-"1968"	"Male"	"Business"	14343	142326
-"1968"	"Female"	"Psychology"	1732	142326
-"1968"	"Female"	"Anthropology"	264	142326
-"1968"	"Male"	"Sociology"	1796	142326
-"1968"	"Male"	"Religion"	0	142326
-"1968"	"Female"	"Sociology"	2554	142326
-"1968"	"Female"	"Other/Unknown"	185	142326
-"1968"	"Female"	"Physical Sciences"	808	142326
-"1968"	"Female"	"Social Service Professions"	580	142326
-"1968"	"Male"	"Other/Unknown"	469	142326
-"1968"	"Female"	"Math"	2325	142326
-"1968"	"Male"	"Computer Science"	80	142326
-"1968"	"Female"	"Communication and Library Science"	528	142326
-"1968"	"Female"	"Political Science and Public Administration"	559	142326
-"1968"	"Female"	"Humanities, Other"	95	142326
-"1968"	"Male"	"English and Literature"	2979	142326
-"1968"	"Female"	"Engineering"	22	142326
-"1968"	"Female"	"Social Sciences, Other"	2918	142326
-"1969"	"Male"	"Life Sciences"	5211	170951
-"1969"	"Female"	"Life Sciences"	3555	170951
-"1969"	"Female"	"Education"	42501	170951
-"1969"	"Male"	"History"	5680	170951
-"1969"	"Female"	"English and Literature"	9220	170951
-"1969"	"Female"	"History"	2950	170951
-"1969"	"Male"	"Engineering"	4549	170951
-"1969"	"Female"	"Business"	2353	170951
-"1969"	"Female"	"Art/Architecture"	3576	170951
-"1969"	"Female"	"Humanities, Other"	120	170951
-"1969"	"Male"	"English and Literature"	3287	170951
-"1969"	"Male"	"Physical Sciences"	4746	170951
-"1969"	"Female"	"Agriculture"	49	170951
-"1969"	"Female"	"Political Science and Public Administration"	641	170951
-"1969"	"Male"	"Art/Architecture"	2945	170951
-"1969"	"Female"	"Economics"	194	170951
-"1969"	"Female"	"Other/Unknown"	278	170951
-"1969"	"Male"	"Economics"	2035	170951
-"1969"	"Male"	"Political Science and Public Administration"	3418	170951
-"1969"	"Male"	"Humanities, Other"	388	170951
-"1969"	"Female"	"Math"	2768	170951
-"1969"	"Male"	"Foreign Languages"	1019	170951
-"1969"	"Male"	"Social Service Professions"	283	170951
-"1969"	"Male"	"Business"	17634	170951
-"1969"	"Female"	"Psychology"	2492	170951
-"1969"	"Female"	"Anthropology"	352	170951
-"1969"	"Male"	"Math"	4745	170951
-"1969"	"Male"	"Education"	15324	170951
-"1969"	"Female"	"Foreign Languages"	3069	170951
-"1969"	"Female"	"Communication and Library Science"	753	170951
-"1969"	"Male"	"Psychology"	3297	170951
-"1969"	"Male"	"Anthropology"	217	170951
-"1969"	"Male"	"Computer Science"	130	170951
-"1969"	"Female"	"Engineering"	28	170951
-"1969"	"Female"	"Religion"	0	170951
-"1969"	"Male"	"Communication and Library Science"	404	170951
-"1969"	"Male"	"Other/Unknown"	456	170951
-"1969"	"Female"	"Area and Ethnic Studies"	104	170951
-"1969"	"Female"	"Vocational Studies and Home Economics"	1636	170951
-"1969"	"Male"	"Area and Ethnic Studies"	65	170951
-"1969"	"Male"	"Religion"	0	170951
-"1969"	"Female"	"Computer Science"	27	170951
-"1969"	"Female"	"Physical Sciences"	901	170951
-"1969"	"Male"	"Social Sciences, Other"	5668	170951
-"1969"	"Male"	"Vocational Studies and Home Economics"	16	170951
-"1969"	"Male"	"Agriculture"	1499	170951
-"1969"	"Female"	"Social Sciences, Other"	3731	170951
-"1969"	"Female"	"Sociology"	3499	170951
-"1969"	"Male"	"Sociology"	2453	170951
-"1969"	"Female"	"Social Service Professions"	685	170951
-"1970"	"Male"	"Physical Sciences"	4831	191517
-"1970"	"Female"	"Vocational Studies and Home Economics"	1889	191517
-"1970"	"Male"	"Social Sciences, Other"	6466	191517
-"1970"	"Male"	"Computer Science"	241	191517
-"1970"	"Female"	"Economics"	225	191517
-"1970"	"Female"	"English and Literature"	9786	191517
-"1970"	"Female"	"Political Science and Public Administration"	689	191517
-"1970"	"Male"	"English and Literature"	3835	191517
-"1970"	"Female"	"Social Service Professions"	795	191517
-"1970"	"Female"	"Foreign Languages"	3062	191517
-"1970"	"Male"	"Economics"	2263	191517
-"1970"	"Female"	"Business"	2675	191517
-"1970"	"Male"	"Political Science and Public Administration"	3899	191517
-"1970"	"Male"	"Social Service Professions"	351	191517
-"1970"	"Female"	"Education"	45696	191517
-"1970"	"Male"	"Foreign Languages"	996	191517
-"1970"	"Male"	"Other/Unknown"	721	191517
-"1970"	"Male"	"Business"	21763	191517
-"1970"	"Male"	"Engineering"	5275	191517
-"1970"	"Female"	"Sociology"	4252	191517
-"1970"	"Male"	"Education"	16859	191517
-"1970"	"Female"	"Computer Science"	46	191517
-"1970"	"Male"	"Vocational Studies and Home Economics"	32	191517
-"1970"	"Female"	"Other/Unknown"	290	191517
-"1970"	"Female"	"Social Sciences, Other"	4036	191517
-"1970"	"Male"	"Sociology"	3152	191517
-"1970"	"Female"	"Engineering"	72	191517
-"1970"	"Female"	"Religion"	0	191517
-"1970"	"Male"	"Communication and Library Science"	513	191517
-"1970"	"Female"	"Life Sciences"	4020	191517
-"1970"	"Female"	"Area and Ethnic Studies"	146	191517
-"1970"	"Male"	"Life Sciences"	5756	191517
-"1970"	"Female"	"Psychology"	3145	191517
-"1970"	"Male"	"Religion"	0	191517
-"1970"	"Female"	"Agriculture"	62	191517
-"1970"	"Male"	"History"	6471	191517
-"1970"	"Male"	"Humanities, Other"	430	191517
-"1970"	"Female"	"Communication and Library Science"	735	191517
-"1970"	"Male"	"Anthropology"	298	191517
-"1970"	"Male"	"Math"	4919	191517
-"1970"	"Male"	"Agriculture"	1824	191517
-"1970"	"Female"	"Art/Architecture"	3786	191517
-"1970"	"Female"	"History"	3469	191517
-"1970"	"Male"	"Art/Architecture"	3400	191517
-"1970"	"Female"	"Humanities, Other"	128	191517
-"1970"	"Male"	"Area and Ethnic Studies"	82	191517
-"1970"	"Male"	"Psychology"	3952	191517
-"1970"	"Female"	"Physical Sciences"	950	191517
-"1970"	"Female"	"Math"	2843	191517
-"1970"	"Female"	"Anthropology"	391	191517
-"1971"	"Female"	"Economics"	387	213593
-"1971"	"Male"	"Social Sciences, Other"	6762	213593
-"1971"	"Female"	"Social Sciences, Other"	4509	213593
-"1971"	"Male"	"Computer Science"	353	213593
-"1971"	"Male"	"Foreign Languages"	1092	213593
-"1971"	"Female"	"Education"	49453	213593
-"1971"	"Male"	"English and Literature"	4791	213593
-"1971"	"Female"	"Vocational Studies and Home Economics"	2472	213593
-"1971"	"Male"	"Engineering"	5972	213593
-"1971"	"Female"	"Humanities, Other"	145	213593
-"1971"	"Male"	"Communication and Library Science"	1053	213593
-"1971"	"Female"	"Sociology"	4761	213593
-"1971"	"Female"	"Social Service Professions"	956	213593
-"1971"	"Female"	"English and Literature"	12225	213593
-"1971"	"Male"	"Economics"	2508	213593
-"1971"	"Female"	"Business"	3231	213593
-"1971"	"Male"	"History"	7135	213593
-"1971"	"Female"	"Engineering"	567	213593
-"1971"	"Male"	"Agriculture"	2005	213593
-"1971"	"Female"	"Art/Architecture"	3645	213593
-"1971"	"Female"	"Life Sciences"	4522	213593
-"1971"	"Female"	"Agriculture"	41	213593
-"1971"	"Male"	"Business"	24722	213593
-"1971"	"Male"	"Education"	19820	213593
-"1971"	"Female"	"History"	3899	213593
-"1971"	"Male"	"Anthropology"	406	213593
-"1971"	"Female"	"Foreign Languages"	3208	213593
-"1971"	"Male"	"Humanities, Other"	474	213593
-"1971"	"Male"	"Area and Ethnic Studies"	139	213593
-"1971"	"Female"	"Religion"	19	213593
-"1971"	"Male"	"Political Science and Public Administration"	4240	213593
-"1971"	"Male"	"Sociology"	3448	213593
-"1971"	"Male"	"Social Service Professions"	436	213593
-"1971"	"Female"	"Psychology"	3740	213593
-"1971"	"Male"	"Math"	4172	213593
-"1971"	"Female"	"Area and Ethnic Studies"	204	213593
-"1971"	"Male"	"Other/Unknown"	1821	213593
-"1971"	"Male"	"Religion"	12	213593
-"1971"	"Female"	"Communication and Library Science"	892	213593
-"1971"	"Male"	"Life Sciences"	5911	213593
-"1971"	"Male"	"Vocational Studies and Home Economics"	828	213593
-"1971"	"Male"	"Art/Architecture"	2837	213593
-"1971"	"Male"	"Physical Sciences"	3785	213593
-"1971"	"Female"	"Other/Unknown"	564	213593
-"1971"	"Male"	"Psychology"	4601	213593
-"1971"	"Female"	"Political Science and Public Administration"	944	213593
-"1971"	"Female"	"Anthropology"	482	213593
-"1971"	"Female"	"Computer Science"	62	213593
-"1971"	"Female"	"Physical Sciences"	688	213593
-"1971"	"Female"	"Math"	2654	213593
-"1972"	"Male"	"English and Literature"	5258	231377
-"1972"	"Female"	"English and Literature"	11943	231377
-"1972"	"Female"	"Life Sciences"	5289	231377
-"1972"	"Female"	"Economics"	251	231377
-"1972"	"Female"	"Education"	53769	231377
-"1972"	"Male"	"Education"	21400	231377
-"1972"	"Female"	"Social Sciences, Other"	4445	231377
-"1972"	"Male"	"Engineering"	6218	231377
-"1972"	"Male"	"Humanities, Other"	536	231377
-"1972"	"Male"	"Communication and Library Science"	1323	231377
-"1972"	"Female"	"Art/Architecture"	4115	231377
-"1972"	"Female"	"Engineering"	684	231377
-"1972"	"Male"	"Sociology"	3981	231377
-"1972"	"Female"	"Humanities, Other"	185	231377
-"1972"	"Female"	"Sociology"	5293	231377
-"1972"	"Male"	"Social Sciences, Other"	7027	231377
-"1972"	"Female"	"Vocational Studies and Home Economics"	2915	231377
-"1972"	"Female"	"Foreign Languages"	3276	231377
-"1972"	"Male"	"Economics"	2384	231377
-"1972"	"Male"	"Anthropology"	461	231377
-"1972"	"Male"	"Computer Science"	660	231377
-"1972"	"Male"	"Political Science and Public Administration"	4849	231377
-"1972"	"Male"	"Foreign Languages"	1026	231377
-"1972"	"Female"	"Math"	2609	231377
-"1972"	"Female"	"Religion"	4	231377
-"1972"	"Male"	"Life Sciences"	6258	231377
-"1972"	"Female"	"Area and Ethnic Studies"	241	231377
-"1972"	"Male"	"Business"	26907	231377
-"1972"	"Male"	"Math"	3901	231377
-"1972"	"Female"	"Business"	3712	231377
-"1972"	"Female"	"Computer Science"	121	231377
-"1972"	"Male"	"Vocational Studies and Home Economics"	1179	231377
-"1972"	"Male"	"Area and Ethnic Studies"	189	231377
-"1972"	"Male"	"Physical Sciences"	3871	231377
-"1972"	"Male"	"History"	7267	231377
-"1972"	"Male"	"Social Service Professions"	592	231377
-"1972"	"Male"	"Agriculture"	2203	231377
-"1972"	"Female"	"History"	4025	231377
-"1972"	"Female"	"Agriculture"	66	231377
-"1972"	"Male"	"Art/Architecture"	3430	231377
-"1972"	"Male"	"Other/Unknown"	2401	231377
-"1972"	"Male"	"Religion"	20	231377
-"1972"	"Female"	"Other/Unknown"	712	231377
-"1972"	"Male"	"Psychology"	5136	231377
-"1972"	"Female"	"Social Service Professions"	1345	231377
-"1972"	"Female"	"Psychology"	4547	231377
-"1972"	"Female"	"Anthropology"	599	231377
-"1972"	"Female"	"Communication and Library Science"	1024	231377
-"1972"	"Female"	"Political Science and Public Administration"	950	231377
-"1972"	"Female"	"Physical Sciences"	780	231377
-"1973"	"Male"	"English and Literature"	5312	244637
-"1973"	"Male"	"Vocational Studies and Home Economics"	1770	244637
-"1973"	"Male"	"History"	6813	244637
-"1973"	"Female"	"Education"	55511	244637
-"1973"	"Female"	"Life Sciences"	6670	244637
-"1973"	"Male"	"Engineering"	6705	244637
-"1973"	"Male"	"Social Sciences, Other"	6869	244637
-"1973"	"Female"	"Humanities, Other"	185	244637
-"1973"	"Female"	"Art/Architecture"	4402	244637
-"1973"	"Male"	"Foreign Languages"	1037	244637
-"1973"	"Female"	"Agriculture"	91	244637
-"1973"	"Female"	"Business"	4288	244637
-"1973"	"Female"	"Foreign Languages"	3409	244637
-"1973"	"Male"	"Social Service Professions"	829	244637
-"1973"	"Male"	"Physical Sciences"	3854	244637
-"1973"	"Male"	"Communication and Library Science"	1540	244637
-"1973"	"Female"	"Engineering"	669	244637
-"1973"	"Female"	"Area and Ethnic Studies"	332	244637
-"1973"	"Male"	"Education"	22408	244637
-"1973"	"Female"	"Sociology"	5641	244637
-"1973"	"Female"	"Vocational Studies and Home Economics"	3345	244637
-"1973"	"Male"	"Life Sciences"	7241	244637
-"1973"	"Female"	"English and Literature"	11451	244637
-"1973"	"Female"	"Social Sciences, Other"	4233	244637
-"1973"	"Female"	"Other/Unknown"	1037	244637
-"1973"	"Male"	"Computer Science"	796	244637
-"1973"	"Male"	"Agriculture"	2330	244637
-"1973"	"Female"	"Math"	2600	244637
-"1973"	"Female"	"Anthropology"	581	244637
-"1973"	"Female"	"Religion"	15	244637
-"1973"	"Male"	"Other/Unknown"	2576	244637
-"1973"	"Female"	"History"	3721	244637
-"1973"	"Female"	"Physical Sciences"	733	244637
-"1973"	"Male"	"Humanities, Other"	577	244637
-"1973"	"Female"	"Computer Science"	150	244637
-"1973"	"Male"	"Area and Ethnic Studies"	260	244637
-"1973"	"Male"	"Business"	28736	244637
-"1973"	"Female"	"Communication and Library Science"	1364	244637
-"1973"	"Male"	"Anthropology"	566	244637
-"1973"	"Male"	"Sociology"	4454	244637
-"1973"	"Female"	"Social Service Professions"	1842	244637
-"1973"	"Female"	"Economics"	293	244637
-"1973"	"Male"	"Art/Architecture"	3660	244637
-"1973"	"Female"	"Political Science and Public Administration"	1145	244637
-"1973"	"Male"	"Political Science and Public Administration"	5609	244637
-"1973"	"Male"	"Religion"	36	244637
-"1973"	"Female"	"Psychology"	5185	244637
-"1973"	"Male"	"Economics"	2435	244637
-"1973"	"Male"	"Psychology"	5801	244637
-"1973"	"Male"	"Math"	3530	244637
-"1974"	"Male"	"Social Service Professions"	1211	252562
-"1974"	"Male"	"Social Sciences, Other"	5988	252562
-"1974"	"Male"	"Computer Science"	946	252562
-"1974"	"Male"	"Vocational Studies and Home Economics"	3003	252562
-"1974"	"Female"	"Computer Science"	172	252562
-"1974"	"Female"	"Art/Architecture"	4965	252562
-"1974"	"Male"	"Sociology"	4619	252562
-"1974"	"Male"	"Humanities, Other"	572	252562
-"1974"	"Female"	"English and Literature"	10059	252562
-"1974"	"Male"	"Physical Sciences"	4068	252562
-"1974"	"Female"	"Religion"	28	252562
-"1974"	"Female"	"Vocational Studies and Home Economics"	4009	252562
-"1974"	"Female"	"Social Service Professions"	2238	252562
-"1974"	"Male"	"Art/Architecture"	4192	252562
-"1974"	"Female"	"Sociology"	5978	252562
-"1974"	"Female"	"Social Sciences, Other"	3696	252562
-"1974"	"Male"	"Political Science and Public Administration"	5867	252562
-"1974"	"Female"	"Business"	5337	252562
-"1974"	"Male"	"Economics"	2491	252562
-"1974"	"Male"	"Anthropology"	519	252562
-"1974"	"Female"	"Engineering"	970	252562
-"1974"	"Male"	"Communication and Library Science"	1894	252562
-"1974"	"Female"	"Psychology"	6244	252562
-"1974"	"Male"	"Business"	29711	252562
-"1974"	"Female"	"Economics"	374	252562
-"1974"	"Male"	"Engineering"	6921	252562
-"1974"	"Male"	"Religion"	64	252562
-"1974"	"Female"	"Physical Sciences"	862	252562
-"1974"	"Male"	"Psychology"	6324	252562
-"1974"	"Female"	"Communication and Library Science"	1576	252562
-"1974"	"Female"	"Other/Unknown"	2100	252562
-"1974"	"Female"	"Education"	53958	252562
-"1974"	"Male"	"Other/Unknown"	4183	252562
-"1974"	"Male"	"History"	6268	252562
-"1974"	"Male"	"Agriculture"	2496	252562
-"1974"	"Female"	"Foreign Languages"	3373	252562
-"1974"	"Female"	"History"	3379	252562
-"1974"	"Male"	"English and Literature"	4881	252562
-"1974"	"Female"	"Political Science and Public Administration"	1164	252562
-"1974"	"Female"	"Area and Ethnic Studies"	325	252562
-"1974"	"Male"	"Math"	3341	252562
-"1974"	"Female"	"Agriculture"	164	252562
-"1974"	"Male"	"Area and Ethnic Studies"	286	252562
-"1974"	"Male"	"Life Sciences"	8082	252562
-"1974"	"Female"	"Life Sciences"	8260	252562
-"1974"	"Male"	"Education"	20895	252562
-"1974"	"Female"	"Anthropology"	654	252562
-"1974"	"Female"	"Humanities, Other"	213	252562
-"1974"	"Male"	"Foreign Languages"	1108	252562
-"1974"	"Female"	"Math"	2534	252562
-"1975"	"Male"	"Physical Sciences"	3803	241863
-"1975"	"Female"	"Business"	6569	241863
-"1975"	"Male"	"Communication and Library Science"	2019	241863
-"1975"	"Female"	"English and Literature"	8282	241863
-"1975"	"Male"	"Political Science and Public Administration"	5417	241863
-"1975"	"Male"	"Computer Science"	876	241863
-"1975"	"Male"	"Engineering"	6641	241863
-"1975"	"Male"	"Humanities, Other"	565	241863
-"1975"	"Male"	"Business"	28753	241863
-"1975"	"Male"	"Vocational Studies and Home Economics"	3341	241863
-"1975"	"Female"	"Social Sciences, Other"	3167	241863
-"1975"	"Female"	"Art/Architecture"	5379	241863
-"1975"	"Male"	"Economics"	2221	241863
-"1975"	"Female"	"Vocational Studies and Home Economics"	4476	241863
-"1975"	"Female"	"Religion"	34	241863
-"1975"	"Female"	"Political Science and Public Administration"	1419	241863
-"1975"	"Female"	"Computer Science"	285	241863
-"1975"	"Male"	"Foreign Languages"	891	241863
-"1975"	"Female"	"Economics"	416	241863
-"1975"	"Female"	"Social Service Professions"	2724	241863
-"1975"	"Female"	"Communication and Library Science"	1749	241863
-"1975"	"Female"	"Foreign Languages"	3053	241863
-"1975"	"Male"	"Social Sciences, Other"	5213	241863
-"1975"	"Male"	"Sociology"	4195	241863
-"1975"	"Female"	"Engineering"	1155	241863
-"1975"	"Male"	"Religion"	72	241863
-"1975"	"Female"	"Physical Sciences"	962	241863
-"1975"	"Female"	"Psychology"	6564	241863
-"1975"	"Male"	"English and Literature"	4245	241863
-"1975"	"Male"	"Area and Ethnic Studies"	269	241863
-"1975"	"Male"	"Psychology"	6055	241863
-"1975"	"Male"	"Education"	19026	241863
-"1975"	"Male"	"Math"	2665	241863
-"1975"	"Male"	"Social Service Professions"	1125	241863
-"1975"	"Female"	"Other/Unknown"	3630	241863
-"1975"	"Female"	"Education"	48318	241863
-"1975"	"Female"	"Life Sciences"	9977	241863
-"1975"	"Female"	"History"	2761	241863
-"1975"	"Male"	"Life Sciences"	8162	241863
-"1975"	"Female"	"Humanities, Other"	214	241863
-"1975"	"Male"	"Art/Architecture"	4360	241863
-"1975"	"Female"	"Math"	2288	241863
-"1975"	"Male"	"History"	5211	241863
-"1975"	"Female"	"Agriculture"	205	241863
-"1975"	"Male"	"Agriculture"	2244	241863
-"1975"	"Female"	"Sociology"	5411	241863
-"1975"	"Male"	"Other/Unknown"	4134	241863
-"1975"	"Male"	"Anthropology"	448	241863
-"1975"	"Female"	"Area and Ethnic Studies"	278	241863
-"1975"	"Female"	"Anthropology"	596	241863
-"1976"	"Male"	"Computer Science"	1089	237868
-"1976"	"Female"	"English and Literature"	7149	237868
-"1976"	"Male"	"Economics"	2062	237868
-"1976"	"Male"	"Business"	29566	237868
-"1976"	"Female"	"Economics"	431	237868
-"1976"	"Female"	"Business"	8057	237868
-"1976"	"Male"	"Political Science and Public Administration"	5356	237868
-"1976"	"Female"	"Foreign Languages"	2622	237868
-"1976"	"Male"	"Foreign Languages"	768	237868
-"1976"	"Female"	"Engineering"	1267	237868
-"1976"	"Male"	"Humanities, Other"	434	237868
-"1976"	"Female"	"Communication and Library Science"	1961	237868
-"1976"	"Male"	"Education"	17691	237868
-"1976"	"Male"	"English and Literature"	3990	237868
-"1976"	"Female"	"Social Sciences, Other"	2709	237868
-"1976"	"Male"	"Communication and Library Science"	2294	237868
-"1976"	"Male"	"Psychology"	5820	237868
-"1976"	"Female"	"Vocational Studies and Home Economics"	5337	237868
-"1976"	"Male"	"Physical Sciences"	4011	237868
-"1976"	"Male"	"Engineering"	6303	237868
-"1976"	"Female"	"Education"	43820	237868
-"1976"	"Female"	"Computer Science"	352	237868
-"1976"	"Female"	"Psychology"	6949	237868
-"1976"	"Male"	"Vocational Studies and Home Economics"	4060	237868
-"1976"	"Male"	"Area and Ethnic Studies"	291	237868
-"1976"	"Male"	"Art/Architecture"	4611	237868
-"1976"	"Male"	"Social Sciences, Other"	4631	237868
-"1976"	"Male"	"History"	4445	237868
-"1976"	"Female"	"Religion"	34	237868
-"1976"	"Male"	"Religion"	74	237868
-"1976"	"Female"	"Political Science and Public Administration"	1411	237868
-"1976"	"Female"	"Life Sciences"	11011	237868
-"1976"	"Female"	"Social Service Professions"	2800	237868
-"1976"	"Male"	"Life Sciences"	8062	237868
-"1976"	"Female"	"Humanities, Other"	156	237868
-"1976"	"Male"	"Math"	2386	237868
-"1976"	"Male"	"Anthropology"	404	237868
-"1976"	"Male"	"Sociology"	3577	237868
-"1976"	"Female"	"Physical Sciences"	977	237868
-"1976"	"Female"	"Math"	1870	237868
-"1976"	"Female"	"Art/Architecture"	5605	237868
-"1976"	"Female"	"Sociology"	4861	237868
-"1976"	"Female"	"Other/Unknown"	4519	237868
-"1976"	"Male"	"Other/Unknown"	5309	237868
-"1976"	"Female"	"History"	2216	237868
-"1976"	"Male"	"Agriculture"	2292	237868
-"1976"	"Female"	"Area and Ethnic Studies"	312	237868
-"1976"	"Male"	"Social Service Professions"	1047	237868
-"1976"	"Female"	"Agriculture"	317	237868
-"1976"	"Female"	"Anthropology"	552	237868
-"1977"	"Male"	"Humanities, Other"	453	233421
-"1977"	"Female"	"Engineering"	1299	233421
-"1977"	"Female"	"English and Literature"	6024	233421
-"1977"	"Male"	"Social Sciences, Other"	4052	233421
-"1977"	"Male"	"Computer Science"	1237	233421
-"1977"	"Female"	"Foreign Languages"	2348	233421
-"1977"	"Male"	"English and Literature"	3209	233421
-"1977"	"Male"	"Political Science and Public Administration"	4792	233421
-"1977"	"Male"	"Foreign Languages"	723	233421
-"1977"	"Female"	"Social Sciences, Other"	2418	233421
-"1977"	"Male"	"Vocational Studies and Home Economics"	4336	233421
-"1977"	"Male"	"Religion"	70	233421
-"1977"	"Female"	"History"	2059	233421
-"1977"	"Male"	"History"	3952	233421
-"1977"	"Male"	"Engineering"	6694	233421
-"1977"	"Female"	"Social Service Professions"	3100	233421
-"1977"	"Male"	"Life Sciences"	7948	233421
-"1977"	"Male"	"Psychology"	5315	233421
-"1977"	"Male"	"Area and Ethnic Studies"	230	233421
-"1977"	"Female"	"Religion"	36	233421
-"1977"	"Female"	"Education"	40015	233421
-"1977"	"Female"	"Art/Architecture"	5692	233421
-"1977"	"Female"	"Business"	9871	233421
-"1977"	"Female"	"Area and Ethnic Studies"	283	233421
-"1977"	"Female"	"Humanities, Other"	164	233421
-"1977"	"Female"	"Economics"	567	233421
-"1977"	"Female"	"Life Sciences"	11720	233421
-"1977"	"Female"	"Computer Science"	471	233421
-"1977"	"Female"	"Physical Sciences"	1132	233421
-"1977"	"Male"	"Social Service Professions"	1095	233421
-"1977"	"Female"	"Math"	1711	233421
-"1977"	"Male"	"Anthropology"	432	233421
-"1977"	"Male"	"Physical Sciences"	4117	233421
-"1977"	"Male"	"Other/Unknown"	5457	233421
-"1977"	"Male"	"Business"	29892	233421
-"1977"	"Male"	"Education"	16622	233421
-"1977"	"Female"	"Psychology"	7126	233421
-"1977"	"Male"	"Art/Architecture"	4466	233421
-"1977"	"Female"	"Vocational Studies and Home Economics"	5529	233421
-"1977"	"Male"	"Agriculture"	2394	233421
-"1977"	"Female"	"Agriculture"	393	233421
-"1977"	"Male"	"Sociology"	3086	233421
-"1977"	"Male"	"Economics"	1978	233421
-"1977"	"Female"	"Other/Unknown"	5316	233421
-"1977"	"Female"	"Communication and Library Science"	2332	233421
-"1977"	"Male"	"Communication and Library Science"	2569	233421
-"1977"	"Female"	"Anthropology"	576	233421
-"1977"	"Female"	"Sociology"	4575	233421
-"1977"	"Male"	"Math"	2032	233421
-"1977"	"Female"	"Political Science and Public Administration"	1513	233421
-"1978"	"Male"	"Social Sciences, Other"	3652	231774
-"1978"	"Male"	"Area and Ethnic Studies"	235	231774
-"1978"	"Female"	"Computer Science"	567	231774
-"1978"	"Female"	"Math"	1414	231774
-"1978"	"Male"	"Vocational Studies and Home Economics"	4339	231774
-"1978"	"Female"	"Humanities, Other"	172	231774
-"1978"	"Female"	"Agriculture"	548	231774
-"1978"	"Male"	"Humanities, Other"	387	231774
-"1978"	"Female"	"Religion"	34	231774
-"1978"	"Female"	"Social Service Professions"	3345	231774
-"1978"	"Male"	"Anthropology"	361	231774
-"1978"	"Male"	"Art/Architecture"	4500	231774
-"1978"	"Female"	"Social Sciences, Other"	2228	231774
-"1978"	"Male"	"Sociology"	2754	231774
-"1978"	"Male"	"Communication and Library Science"	2631	231774
-"1978"	"Male"	"Physical Sciences"	3960	231774
-"1978"	"Female"	"Life Sciences"	12609	231774
-"1978"	"Female"	"Art/Architecture"	5787	231774
-"1978"	"Female"	"Physical Sciences"	1232	231774
-"1978"	"Male"	"Life Sciences"	7622	231774
-"1978"	"Female"	"Anthropology"	508	231774
-"1978"	"Male"	"Math"	1745	231774
-"1978"	"Female"	"Other/Unknown"	5359	231774
-"1978"	"Female"	"Communication and Library Science"	2466	231774
-"1978"	"Male"	"Social Service Professions"	1114	231774
-"1978"	"Male"	"Computer Science"	1403	231774
-"1978"	"Male"	"Agriculture"	2491	231774
-"1978"	"Female"	"Vocational Studies and Home Economics"	5911	231774
-"1978"	"Male"	"Other/Unknown"	5284	231774
-"1978"	"Male"	"Religion"	64	231774
-"1978"	"Female"	"Sociology"	4444	231774
-"1978"	"Female"	"Political Science and Public Administration"	1590	231774
-"1978"	"Male"	"Engineering"	7153	231774
-"1978"	"Female"	"Foreign Languages"	2149	231774
-"1978"	"Female"	"History"	1767	231774
-"1978"	"Male"	"Education"	15500	231774
-"1978"	"Male"	"Political Science and Public Administration"	4540	231774
-"1978"	"Female"	"Engineering"	1605	231774
-"1978"	"Female"	"English and Literature"	5713	231774
-"1978"	"Male"	"Economics"	2043	231774
-"1978"	"Male"	"History"	3516	231774
-"1978"	"Female"	"Economics"	632	231774
-"1978"	"Female"	"Education"	38315	231774
-"1978"	"Female"	"Area and Ethnic Studies"	284	231774
-"1978"	"Male"	"Business"	30003	231774
-"1978"	"Male"	"Psychology"	4821	231774
-"1978"	"Male"	"English and Literature"	3132	231774
-"1978"	"Female"	"Business"	12177	231774
-"1978"	"Male"	"Foreign Languages"	682	231774
-"1978"	"Female"	"Psychology"	6986	231774
-"1979"	"Male"	"Vocational Studies and Home Economics"	4000	226824
-"1979"	"Female"	"Computer Science"	806	226824
-"1979"	"Male"	"Area and Ethnic Studies"	173	226824
-"1979"	"Female"	"Social Sciences, Other"	2156	226824
-"1979"	"Male"	"Sociology"	2319	226824
-"1979"	"Male"	"Other/Unknown"	4413	226824
-"1979"	"Male"	"Computer Science"	1672	226824
-"1979"	"Male"	"Social Sciences, Other"	3283	226824
-"1979"	"Male"	"Communication and Library Science"	2595	226824
-"1979"	"Male"	"Engineering"	7768	226824
-"1979"	"Female"	"Social Service Professions"	3688	226824
-"1979"	"Female"	"Sociology"	4007	226824
-"1979"	"Male"	"Humanities, Other"	364	226824
-"1979"	"Female"	"Other/Unknown"	5498	226824
-"1979"	"Male"	"Social Service Professions"	991	226824
-"1979"	"Female"	"Agriculture"	668	226824
-"1979"	"Female"	"English and Literature"	5307	226824
-"1979"	"Male"	"Agriculture"	2486	226824
-"1979"	"Female"	"Art/Architecture"	6039	226824
-"1979"	"Male"	"Physical Sciences"	3842	226824
-"1979"	"Female"	"Area and Ethnic Studies"	255	226824
-"1979"	"Female"	"Physical Sciences"	1212	226824
-"1979"	"Female"	"Economics"	716	226824
-"1979"	"Male"	"English and Literature"	2839	226824
-"1979"	"Female"	"Anthropology"	465	226824
-"1979"	"Male"	"Education"	14284	226824
-"1979"	"Male"	"Psychology"	4315	226824
-"1979"	"Female"	"Communication and Library Science"	2667	226824
-"1979"	"Female"	"Business"	14500	226824
-"1979"	"Male"	"Economics"	2137	226824
-"1979"	"Female"	"Religion"	29	226824
-"1979"	"Female"	"Vocational Studies and Home Economics"	6152	226824
-"1979"	"Female"	"Life Sciences"	13013	226824
-"1979"	"Female"	"Education"	35950	226824
-"1979"	"Male"	"Business"	30226	226824
-"1979"	"Male"	"Religion"	81	226824
-"1979"	"Male"	"Political Science and Public Administration"	4118	226824
-"1979"	"Male"	"Anthropology"	315	226824
-"1979"	"Male"	"Art/Architecture"	4249	226824
-"1979"	"Male"	"Life Sciences"	6816	226824
-"1979"	"Female"	"Math"	1373	226824
-"1979"	"Female"	"Engineering"	1617	226824
-"1979"	"Female"	"Foreign Languages"	1856	226824
-"1979"	"Female"	"Humanities, Other"	125	226824
-"1979"	"Female"	"Political Science and Public Administration"	1701	226824
-"1979"	"Male"	"History"	3098	226824
-"1979"	"Male"	"Math"	1675	226824
-"1979"	"Female"	"History"	1574	226824
-"1979"	"Female"	"Psychology"	6768	226824
-"1979"	"Male"	"Foreign Languages"	623	226824
-"1980"	"Male"	"Communication and Library Science"	2714	226158
-"1980"	"Male"	"Engineering"	8442	226158
-"1980"	"Male"	"Computer Science"	2101	226158
-"1980"	"Male"	"Vocational Studies and Home Economics"	3969	226158
-"1980"	"Male"	"Area and Ethnic Studies"	158	226158
-"1980"	"Male"	"Physical Sciences"	3707	226158
-"1980"	"Female"	"Physical Sciences"	1238	226158
-"1980"	"Male"	"Religion"	66	226158
-"1980"	"Male"	"Social Sciences, Other"	2911	226158
-"1980"	"Female"	"Life Sciences"	13343	226158
-"1980"	"Female"	"English and Literature"	5066	226158
-"1980"	"Male"	"Education"	12926	226158
-"1980"	"Female"	"Political Science and Public Administration"	1958	226158
-"1980"	"Female"	"Economics"	847	226158
-"1980"	"Female"	"Social Sciences, Other"	2122	226158
-"1980"	"Female"	"Psychology"	6885	226158
-"1980"	"Male"	"Life Sciences"	6242	226158
-"1980"	"Male"	"Psychology"	3873	226158
-"1980"	"Female"	"Business"	17435	226158
-"1980"	"Male"	"Humanities, Other"	300	226158
-"1980"	"Male"	"Sociology"	2033	226158
-"1980"	"Female"	"Vocational Studies and Home Economics"	6522	226158
-"1980"	"Female"	"Engineering"	1889	226158
-"1980"	"Male"	"Economics"	2099	226158
-"1980"	"Male"	"Other/Unknown"	4369	226158
-"1980"	"Male"	"Business"	30952	226158
-"1980"	"Female"	"Area and Ethnic Studies"	234	226158
-"1980"	"Female"	"Communication and Library Science"	2847	226158
-"1980"	"Female"	"Computer Science"	1077	226158
-"1980"	"Female"	"History"	1386	226158
-"1980"	"Female"	"Agriculture"	762	226158
-"1980"	"Female"	"Math"	1212	226158
-"1980"	"Male"	"Political Science and Public Administration"	3971	226158
-"1980"	"Female"	"Foreign Languages"	1647	226158
-"1980"	"Male"	"Social Service Professions"	929	226158
-"1980"	"Male"	"English and Literature"	2558	226158
-"1980"	"Male"	"Art/Architecture"	4196	226158
-"1980"	"Female"	"Art/Architecture"	5975	226158
-"1980"	"Female"	"Humanities, Other"	148	226158
-"1980"	"Female"	"Anthropology"	470	226158
-"1980"	"Male"	"History"	2524	226158
-"1980"	"Female"	"Social Service Professions"	3735	226158
-"1980"	"Male"	"Math"	1496	226158
-"1980"	"Female"	"Religion"	25	226158
-"1980"	"Female"	"Other/Unknown"	5771	226158
-"1980"	"Female"	"Education"	34038	226158
-"1980"	"Male"	"Foreign Languages"	538	226158
-"1980"	"Male"	"Anthropology"	290	226158
-"1980"	"Female"	"Sociology"	3861	226158
-"1980"	"Male"	"Agriculture"	2301	226158
-"1981"	"Female"	"Engineering"	2059	223787
-"1981"	"Female"	"Area and Ethnic Studies"	194	223787
-"1981"	"Female"	"Psychology"	6804	223787
-"1981"	"Male"	"Computer Science"	2751	223787
-"1981"	"Female"	"English and Literature"	4899	223787
-"1981"	"Male"	"Engineering"	9186	223787
-"1981"	"Female"	"History"	1303	223787
-"1981"	"Male"	"English and Literature"	2390	223787
-"1981"	"Male"	"Area and Ethnic Studies"	146	223787
-"1981"	"Male"	"Vocational Studies and Home Economics"	3494	223787
-"1981"	"Female"	"Foreign Languages"	1543	223787
-"1981"	"Female"	"Social Sciences, Other"	1932	223787
-"1981"	"Female"	"Religion"	38	223787
-"1981"	"Male"	"Political Science and Public Administration"	3693	223787
-"1981"	"Female"	"Vocational Studies and Home Economics"	6494	223787
-"1981"	"Male"	"Communication and Library Science"	2891	223787
-"1981"	"Female"	"Humanities, Other"	150	223787
-"1981"	"Male"	"Religion"	59	223787
-"1981"	"Female"	"Physical Sciences"	1324	223787
-"1981"	"Female"	"Economics"	870	223787
-"1981"	"Male"	"Education"	11222	223787
-"1981"	"Female"	"Computer Science"	1540	223787
-"1981"	"Male"	"Humanities, Other"	329	223787
-"1981"	"Female"	"Other/Unknown"	6034	223787
-"1981"	"Male"	"Physical Sciences"	3805	223787
-"1981"	"Female"	"Business"	20213	223787
-"1981"	"Male"	"History"	2281	223787
-"1981"	"Male"	"Social Sciences, Other"	2664	223787
-"1981"	"Female"	"Art/Architecture"	5824	223787
-"1981"	"Male"	"Foreign Languages"	444	223787
-"1981"	"Female"	"Agriculture"	735	223787
-"1981"	"Female"	"Political Science and Public Administration"	1832	223787
-"1981"	"Male"	"Business"	31753	223787
-"1981"	"Female"	"Anthropology"	393	223787
-"1981"	"Male"	"Anthropology"	230	223787
-"1981"	"Male"	"Psychology"	3524	223787
-"1981"	"Male"	"Life Sciences"	5635	223787
-"1981"	"Female"	"Education"	31313	223787
-"1981"	"Male"	"Other/Unknown"	4230	223787
-"1981"	"Male"	"Economics"	2113	223787
-"1981"	"Male"	"Agriculture"	2135	223787
-"1981"	"Male"	"Social Service Professions"	835	223787
-"1981"	"Female"	"Sociology"	3759	223787
-"1981"	"Female"	"Social Service Professions"	3759	223787
-"1981"	"Male"	"Art/Architecture"	3941	223787
-"1981"	"Female"	"Math"	1211	223787
-"1981"	"Female"	"Communication and Library Science"	3348	223787
-"1981"	"Male"	"Sociology"	1703	223787
-"1981"	"Female"	"Life Sciences"	13279	223787
-"1981"	"Male"	"Math"	1483	223787
-"1982"	"Male"	"Political Science and Public Administration"	3583	226595
-"1982"	"Female"	"Physical Sciences"	1417	226595
-"1982"	"Female"	"Humanities, Other"	122	226595
-"1982"	"Male"	"Area and Ethnic Studies"	120	226595
-"1982"	"Female"	"Computer Science"	2129	226595
-"1982"	"Female"	"Art/Architecture"	5630	226595
-"1982"	"Male"	"Communication and Library Science"	3267	226595
-"1982"	"Female"	"Psychology"	6998	226595
-"1982"	"Male"	"Religion"	54	226595
-"1982"	"Male"	"Engineering"	10050	226595
-"1982"	"Female"	"Vocational Studies and Home Economics"	6305	226595
-"1982"	"Female"	"Social Sciences, Other"	1770	226595
-"1982"	"Male"	"Humanities, Other"	304	226595
-"1982"	"Male"	"Art/Architecture"	3808	226595
-"1982"	"Female"	"Agriculture"	822	226595
-"1982"	"Female"	"Religion"	35	226595
-"1982"	"Male"	"History"	2057	226595
-"1982"	"Male"	"Anthropology"	200	226595
-"1982"	"Male"	"Social Sciences, Other"	2463	226595
-"1982"	"Female"	"Life Sciences"	13693	226595
-"1982"	"Male"	"Computer Science"	3528	226595
-"1982"	"Male"	"Other/Unknown"	4240	226595
-"1982"	"Female"	"Political Science and Public Administration"	2059	226595
-"1982"	"Female"	"History"	1141	226595
-"1982"	"Male"	"Business"	33319	226595
-"1982"	"Male"	"Vocational Studies and Home Economics"	3232	226595
-"1982"	"Male"	"Psychology"	3297	226595
-"1982"	"Female"	"Anthropology"	386	226595
-"1982"	"Male"	"Physical Sciences"	3845	226595
-"1982"	"Female"	"English and Literature"	4803	226595
-"1982"	"Female"	"Communication and Library Science"	3832	226595
-"1982"	"Female"	"Business"	23163	226595
-"1982"	"Female"	"Engineering"	2232	226595
-"1982"	"Male"	"Economics"	2042	226595
-"1982"	"Male"	"Agriculture"	2106	226595
-"1982"	"Male"	"Foreign Languages"	416	226595
-"1982"	"Female"	"Area and Ethnic Studies"	237	226595
-"1982"	"Female"	"Sociology"	3615	226595
-"1982"	"Female"	"Social Service Professions"	3741	226595
-"1982"	"Male"	"Life Sciences"	5285	226595
-"1982"	"Female"	"Economics"	922	226595
-"1982"	"Female"	"Math"	1230	226595
-"1982"	"Male"	"Sociology"	1529	226595
-"1982"	"Male"	"Education"	10150	226595
-"1982"	"Male"	"Social Service Professions"	756	226595
-"1982"	"Male"	"English and Literature"	2371	226595
-"1982"	"Female"	"Education"	29311	226595
-"1982"	"Male"	"Math"	1432	226595
-"1982"	"Female"	"Other/Unknown"	6169	226595
-"1982"	"Female"	"Foreign Languages"	1379	226595
-"1983"	"Female"	"Social Sciences, Other"	1496	226109
-"1983"	"Female"	"Humanities, Other"	140	226109
-"1983"	"Female"	"Vocational Studies and Home Economics"	5991	226109
-"1983"	"Male"	"Area and Ethnic Studies"	128	226109
-"1983"	"Male"	"Engineering"	11519	226109
-"1983"	"Male"	"Communication and Library Science"	3767	226109
-"1983"	"Male"	"Humanities, Other"	285	226109
-"1983"	"Female"	"Religion"	49	226109
-"1983"	"Male"	"Vocational Studies and Home Economics"	3224	226109
-"1983"	"Female"	"Life Sciences"	12900	226109
-"1983"	"Female"	"English and Literature"	4392	226109
-"1983"	"Male"	"Social Sciences, Other"	1957	226109
-"1983"	"Female"	"Business"	25712	226109
-"1983"	"Male"	"Religion"	89	226109
-"1983"	"Female"	"Art/Architecture"	5646	226109
-"1983"	"Female"	"Physical Sciences"	1475	226109
-"1983"	"Female"	"Computer Science"	2789	226109
-"1983"	"Male"	"Art/Architecture"	3802	226109
-"1983"	"Male"	"Business"	33386	226109
-"1983"	"Male"	"Political Science and Public Administration"	3307	226109
-"1983"	"Male"	"Sociology"	1281	226109
-"1983"	"Male"	"Physical Sciences"	3966	226109
-"1983"	"Female"	"Engineering"	2998	226109
-"1983"	"Male"	"Computer Science"	4611	226109
-"1983"	"Male"	"Math"	1457	226109
-"1983"	"Male"	"Other/Unknown"	4182	226109
-"1983"	"Male"	"English and Literature"	2082	226109
-"1983"	"Female"	"Area and Ethnic Studies"	217	226109
-"1983"	"Female"	"Other/Unknown"	6036	226109
-"1983"	"Male"	"Life Sciences"	4602	226109
-"1983"	"Female"	"Anthropology"	347	226109
-"1983"	"Female"	"Social Service Professions"	3197	226109
-"1983"	"Male"	"Economics"	1954	226109
-"1983"	"Female"	"Foreign Languages"	1189	226109
-"1983"	"Female"	"Communication and Library Science"	4656	226109
-"1983"	"Female"	"Math"	1214	226109
-"1983"	"Female"	"Education"	28048	226109
-"1983"	"Female"	"Political Science and Public Administration"	2000	226109
-"1983"	"Male"	"Agriculture"	1923	226109
-"1983"	"Female"	"Psychology"	6709	226109
-"1983"	"Male"	"Anthropology"	204	226109
-"1983"	"Female"	"Agriculture"	777	226109
-"1983"	"Male"	"Education"	9477	226109
-"1983"	"Female"	"Economics"	942	226109
-"1983"	"Female"	"History"	1117	226109
-"1983"	"Male"	"History"	1792	226109
-"1983"	"Female"	"Sociology"	2982	226109
-"1983"	"Male"	"Psychology"	3147	226109
-"1983"	"Male"	"Foreign Languages"	370	226109
-"1983"	"Male"	"Social Service Professions"	578	226109
-"1984"	"Male"	"Communication and Library Science"	4131	228472
-"1984"	"Male"	"Political Science and Public Administration"	3282	228472
-"1984"	"Female"	"Computer Science"	3674	228472
-"1984"	"Female"	"Engineering"	3201	228472
-"1984"	"Female"	"Physical Sciences"	1501	228472
-"1984"	"Female"	"Vocational Studies and Home Economics"	5830	228472
-"1984"	"Male"	"Other/Unknown"	4186	228472
-"1984"	"Female"	"History"	1004	228472
-"1984"	"Female"	"Business"	27601	228472
-"1984"	"Male"	"Religion"	53	228472
-"1984"	"Female"	"Other/Unknown"	6118	228472
-"1984"	"Male"	"Sociology"	1263	228472
-"1984"	"Female"	"Social Sciences, Other"	1325	228472
-"1984"	"Male"	"History"	1928	228472
-"1984"	"Male"	"Computer Science"	5740	228472
-"1984"	"Male"	"Social Sciences, Other"	1665	228472
-"1984"	"Female"	"Humanities, Other"	137	228472
-"1984"	"Female"	"Psychology"	6630	228472
-"1984"	"Female"	"Sociology"	2743	228472
-"1984"	"Male"	"Engineering"	12029	228472
-"1984"	"Female"	"Area and Ethnic Studies"	231	228472
-"1984"	"Male"	"Vocational Studies and Home Economics"	3307	228472
-"1984"	"Male"	"Area and Ethnic Studies"	141	228472
-"1984"	"Male"	"Art/Architecture"	3737	228472
-"1984"	"Female"	"Agriculture"	711	228472
-"1984"	"Female"	"Religion"	43	228472
-"1984"	"Female"	"English and Literature"	4426	228472
-"1984"	"Male"	"Anthropology"	203	228472
-"1984"	"Female"	"Math"	1377	228472
-"1984"	"Female"	"Art/Architecture"	5543	228472
-"1984"	"Female"	"Economics"	966	228472
-"1984"	"Female"	"Education"	26336	228472
-"1984"	"Female"	"Political Science and Public Administration"	1888	228472
-"1984"	"Male"	"Business"	33678	228472
-"1984"	"Male"	"Physical Sciences"	3881	228472
-"1984"	"Male"	"Humanities, Other"	275	228472
-"1984"	"Male"	"Psychology"	3060	228472
-"1984"	"Male"	"Education"	8858	228472
-"1984"	"Female"	"Life Sciences"	13050	228472
-"1984"	"Male"	"Social Service Professions"	559	228472
-"1984"	"Male"	"Economics"	1966	228472
-"1984"	"Male"	"Foreign Languages"	429	228472
-"1984"	"Male"	"English and Literature"	2178	228472
-"1984"	"Male"	"Math"	1624	228472
-"1984"	"Male"	"Agriculture"	1732	228472
-"1984"	"Male"	"Life Sciences"	4640	228472
-"1984"	"Female"	"Anthropology"	324	228472
-"1984"	"Female"	"Social Service Professions"	2938	228472
-"1984"	"Female"	"Foreign Languages"	1149	228472
-"1984"	"Female"	"Communication and Library Science"	5181	228472
-"1985"	"Female"	"Vocational Studies and Home Economics"	5731	230116
-"1985"	"Female"	"Humanities, Other"	134	230116
-"1985"	"Female"	"Social Sciences, Other"	1254	230116
-"1985"	"Female"	"Engineering"	3414	230116
-"1985"	"Female"	"Religion"	34	230116
-"1985"	"Male"	"Anthropology"	195	230116
-"1985"	"Female"	"Life Sciences"	13058	230116
-"1985"	"Female"	"English and Literature"	4500	230116
-"1985"	"Female"	"Education"	25363	230116
-"1985"	"Female"	"Physical Sciences"	1478	230116
-"1985"	"Male"	"Engineering"	12446	230116
-"1985"	"Male"	"Communication and Library Science"	4301	230116
-"1985"	"Male"	"Humanities, Other"	279	230116
-"1985"	"Male"	"Area and Ethnic Studies"	107	230116
-"1985"	"Male"	"Education"	8349	230116
-"1985"	"Female"	"Area and Ethnic Studies"	161	230116
-"1985"	"Male"	"Sociology"	1041	230116
-"1985"	"Female"	"Foreign Languages"	1185	230116
-"1985"	"Male"	"Social Service Professions"	423	230116
-"1985"	"Female"	"Business"	29104	230116
-"1985"	"Female"	"Art/Architecture"	5400	230116
-"1985"	"Male"	"Other/Unknown"	4294	230116
-"1985"	"Female"	"Political Science and Public Administration"	1950	230116
-"1985"	"Male"	"Religion"	60	230116
-"1985"	"Female"	"Sociology"	2436	230116
-"1985"	"Male"	"Vocational Studies and Home Economics"	3296	230116
-"1985"	"Female"	"Computer Science"	4144	230116
-"1985"	"Male"	"Art/Architecture"	3757	230116
-"1985"	"Male"	"Physical Sciences"	3809	230116
-"1985"	"Male"	"Political Science and Public Administration"	3279	230116
-"1985"	"Male"	"Social Sciences, Other"	1580	230116
-"1985"	"Female"	"Communication and Library Science"	5375	230116
-"1985"	"Male"	"History"	1877	230116
-"1985"	"Male"	"Computer Science"	6673	230116
-"1985"	"Male"	"Business"	34251	230116
-"1985"	"Female"	"Psychology"	6705	230116
-"1985"	"Male"	"English and Literature"	2252	230116
-"1985"	"Male"	"Psychology"	2903	230116
-"1985"	"Female"	"Other/Unknown"	6338	230116
-"1985"	"Male"	"Life Sciences"	4501	230116
-"1985"	"Female"	"Anthropology"	282	230116
-"1985"	"Male"	"Foreign Languages"	362	230116
-"1985"	"Female"	"Math"	1674	230116
-"1985"	"Male"	"Economics"	1799	230116
-"1985"	"Male"	"Agriculture"	1696	230116
-"1985"	"Female"	"Economics"	850	230116
-"1985"	"Female"	"Social Service Professions"	2542	230116
-"1985"	"Female"	"Agriculture"	685	230116
-"1985"	"Male"	"Math"	1850	230116
-"1985"	"Female"	"History"	939	230116
-"1986"	"Male"	"Engineering"	12652	233547
-"1986"	"Male"	"Political Science and Public Administration"	3348	233547
-"1986"	"Female"	"Engineering"	3384	233547
-"1986"	"Female"	"Religion"	33	233547
-"1986"	"Female"	"English and Literature"	4711	233547
-"1986"	"Male"	"Religion"	45	233547
-"1986"	"Female"	"Other/Unknown"	6551	233547
-"1986"	"Male"	"Area and Ethnic Studies"	90	233547
-"1986"	"Male"	"English and Literature"	2370	233547
-"1986"	"Male"	"Anthropology"	185	233547
-"1986"	"Male"	"Communication and Library Science"	4389	233547
-"1986"	"Female"	"Vocational Studies and Home Economics"	5736	233547
-"1986"	"Male"	"Physical Sciences"	3574	233547
-"1986"	"Female"	"Humanities, Other"	151	233547
-"1986"	"Female"	"Art/Architecture"	5178	233547
-"1986"	"Female"	"Physical Sciences"	1421	233547
-"1986"	"Female"	"Psychology"	6913	233547
-"1986"	"Female"	"Computer Science"	4331	233547
-"1986"	"Female"	"Social Sciences, Other"	1199	233547
-"1986"	"Male"	"Humanities, Other"	244	233547
-"1986"	"Female"	"Foreign Languages"	1161	233547
-"1986"	"Female"	"Agriculture"	651	233547
-"1986"	"Male"	"History"	1876	233547
-"1986"	"Male"	"Social Service Professions"	459	233547
-"1986"	"Male"	"Computer Science"	7373	233547
-"1986"	"Male"	"Other/Unknown"	4294	233547
-"1986"	"Male"	"Foreign Languages"	411	233547
-"1986"	"Female"	"Education"	25078	233547
-"1986"	"Female"	"Political Science and Public Administration"	2165	233547
-"1986"	"Female"	"Area and Ethnic Studies"	172	233547
-"1986"	"Female"	"History"	986	233547
-"1986"	"Male"	"Vocational Studies and Home Economics"	3331	233547
-"1986"	"Male"	"Psychology"	2906	233547
-"1986"	"Male"	"Education"	8299	233547
-"1986"	"Male"	"Sociology"	1066	233547
-"1986"	"Female"	"Communication and Library Science"	5587	233547
-"1986"	"Female"	"Economics"	836	233547
-"1986"	"Male"	"Economics"	1784	233547
-"1986"	"Male"	"Social Sciences, Other"	1598	233547
-"1986"	"Female"	"Life Sciences"	13601	233547
-"1986"	"Female"	"Math"	1817	233547
-"1986"	"Male"	"Agriculture"	1633	233547
-"1986"	"Male"	"Life Sciences"	4657	233547
-"1986"	"Female"	"Sociology"	2485	233547
-"1986"	"Female"	"Anthropology"	313	233547
-"1986"	"Female"	"Social Service Professions"	2528	233547
-"1986"	"Male"	"Math"	2005	233547
-"1986"	"Male"	"Art/Architecture"	3520	233547
-"1986"	"Male"	"Business"	33964	233547
-"1986"	"Female"	"Business"	30486	233547
-"1987"	"Male"	"History"	1957	233429
-"1987"	"Female"	"Physical Sciences"	1340	233429
-"1987"	"Female"	"Humanities, Other"	129	233429
-"1987"	"Male"	"Physical Sciences"	3393	233429
-"1987"	"Female"	"Engineering"	3384	233429
-"1987"	"Female"	"Art/Architecture"	5121	233429
-"1987"	"Male"	"Area and Ethnic Studies"	101	233429
-"1987"	"Female"	"Vocational Studies and Home Economics"	5593	233429
-"1987"	"Male"	"Communication and Library Science"	4418	233429
-"1987"	"Male"	"Humanities, Other"	249	233429
-"1987"	"Male"	"Engineering"	12548	233429
-"1987"	"Male"	"Political Science and Public Administration"	3307	233429
-"1987"	"Female"	"Communication and Library Science"	5853	233429
-"1987"	"Female"	"English and Literature"	5028	233429
-"1987"	"Male"	"Anthropology"	172	233429
-"1987"	"Male"	"Social Sciences, Other"	1633	233429
-"1987"	"Female"	"Life Sciences"	13219	233429
-"1987"	"Male"	"Computer Science"	7120	233429
-"1987"	"Female"	"Education"	24895	233429
-"1987"	"Female"	"Political Science and Public Administration"	2045	233429
-"1987"	"Female"	"History"	1024	233429
-"1987"	"Female"	"Social Sciences, Other"	1235	233429
-"1987"	"Male"	"Vocational Studies and Home Economics"	3498	233429
-"1987"	"Female"	"Computer Science"	4046	233429
-"1987"	"Male"	"Education"	7983	233429
-"1987"	"Male"	"Sociology"	1104	233429
-"1987"	"Female"	"Agriculture"	564	233429
-"1987"	"Female"	"Foreign Languages"	1147	233429
-"1987"	"Female"	"Business"	30980	233429
-"1987"	"Male"	"Social Service Professions"	490	233429
-"1987"	"Female"	"Math"	1944	233429
-"1987"	"Male"	"Other/Unknown"	4513	233429
-"1987"	"Male"	"Agriculture"	1395	233429
-"1987"	"Female"	"Area and Ethnic Studies"	151	233429
-"1987"	"Male"	"Business"	33608	233429
-"1987"	"Female"	"Social Service Professions"	2851	233429
-"1987"	"Male"	"Life Sciences"	4702	233429
-"1987"	"Male"	"Psychology"	2869	233429
-"1987"	"Male"	"Art/Architecture"	3482	233429
-"1987"	"Female"	"Other/Unknown"	7005	233429
-"1987"	"Female"	"Psychology"	6908	233429
-"1987"	"Female"	"Religion"	40	233429
-"1987"	"Male"	"English and Literature"	2479	233429
-"1987"	"Male"	"Religion"	51	233429
-"1987"	"Female"	"Sociology"	2404	233429
-"1987"	"Male"	"Math"	1934	233429
-"1987"	"Female"	"Economics"	893	233429
-"1987"	"Female"	"Anthropology"	317	233429
-"1987"	"Male"	"Economics"	1880	233429
-"1987"	"Male"	"Foreign Languages"	427	233429
-"1988"	"Female"	"English and Literature"	5351	233061
-"1988"	"Female"	"Business"	30740	233061
-"1988"	"Female"	"Communication and Library Science"	6156	233061
-"1988"	"Male"	"Communication and Library Science"	4583	233061
-"1988"	"Female"	"Engineering"	3050	233061
-"1988"	"Female"	"Humanities, Other"	121	233061
-"1988"	"Female"	"Life Sciences"	12948	233061
-"1988"	"Male"	"Political Science and Public Administration"	3295	233061
-"1988"	"Male"	"Other/Unknown"	4805	233061
-"1988"	"Female"	"Religion"	28	233061
-"1988"	"Male"	"Engineering"	12022	233061
-"1988"	"Male"	"Business"	33443	233061
-"1988"	"Male"	"Humanities, Other"	260	233061
-"1988"	"Male"	"Vocational Studies and Home Economics"	3744	233061
-"1988"	"Female"	"Social Sciences, Other"	1240	233061
-"1988"	"Male"	"Sociology"	1139	233061
-"1988"	"Female"	"Other/Unknown"	7471	233061
-"1988"	"Male"	"Area and Ethnic Studies"	85	233061
-"1988"	"Male"	"Physical Sciences"	2899	233061
-"1988"	"Male"	"Anthropology"	163	233061
-"1988"	"Female"	"Vocational Studies and Home Economics"	5621	233061
-"1988"	"Male"	"Social Sciences, Other"	1646	233061
-"1988"	"Female"	"Psychology"	7366	233061
-"1988"	"Male"	"English and Literature"	2584	233061
-"1988"	"Male"	"Religion"	25	233061
-"1988"	"Female"	"Physical Sciences"	1287	233061
-"1988"	"Male"	"Life Sciences"	4339	233061
-"1988"	"Female"	"Economics"	870	233061
-"1988"	"Female"	"Computer Science"	3073	233061
-"1988"	"Male"	"Psychology"	2893	233061
-"1988"	"Female"	"Foreign Languages"	1074	233061
-"1988"	"Female"	"Agriculture"	561	233061
-"1988"	"Male"	"Social Service Professions"	481	233061
-"1988"	"Male"	"Computer Science"	6105	233061
-"1988"	"Male"	"Economics"	1937	233061
-"1988"	"Female"	"Area and Ethnic Studies"	126	233061
-"1988"	"Male"	"Foreign Languages"	384	233061
-"1988"	"Female"	"Art/Architecture"	4857	233061
-"1988"	"Female"	"Sociology"	2405	233061
-"1988"	"Male"	"Education"	8191	233061
-"1988"	"Female"	"History"	1081	233061
-"1988"	"Female"	"Social Service Professions"	2900	233061
-"1988"	"Female"	"Math"	1689	233061
-"1988"	"Female"	"Political Science and Public Administration"	2065	233061
-"1988"	"Male"	"Art/Architecture"	3430	233061
-"1988"	"Male"	"History"	2085	233061
-"1988"	"Female"	"Education"	26865	233061
-"1988"	"Male"	"Math"	1971	233061
-"1988"	"Female"	"Anthropology"	260	233061
-"1988"	"Male"	"Agriculture"	1347	233061
-"1989"	"Female"	"Vocational Studies and Home Economics"	5608	240069
-"1989"	"Male"	"Sociology"	1167	240069
-"1989"	"Female"	"Engineering"	3020	240069
-"1989"	"Male"	"Other/Unknown"	5076	240069
-"1989"	"Female"	"History"	1214	240069
-"1989"	"Female"	"Social Sciences, Other"	1289	240069
-"1989"	"Male"	"Computer Science"	5877	240069
-"1989"	"Male"	"Engineering"	11917	240069
-"1989"	"Male"	"Area and Ethnic Studies"	82	240069
-"1989"	"Male"	"History"	2249	240069
-"1989"	"Female"	"Other/Unknown"	8098	240069
-"1989"	"Male"	"Anthropology"	183	240069
-"1989"	"Male"	"Social Sciences, Other"	1599	240069
-"1989"	"Female"	"Humanities, Other"	125	240069
-"1989"	"Male"	"Social Service Professions"	513	240069
-"1989"	"Female"	"Physical Sciences"	1256	240069
-"1989"	"Female"	"Political Science and Public Administration"	2265	240069
-"1989"	"Female"	"Area and Ethnic Studies"	132	240069
-"1989"	"Male"	"Vocational Studies and Home Economics"	4162	240069
-"1989"	"Male"	"Humanities, Other"	251	240069
-"1989"	"Female"	"Communication and Library Science"	6479	240069
-"1989"	"Male"	"Political Science and Public Administration"	3400	240069
-"1989"	"Male"	"Physical Sciences"	2739	240069
-"1989"	"Female"	"English and Literature"	5801	240069
-"1989"	"Male"	"Economics"	2004	240069
-"1989"	"Female"	"Business"	31371	240069
-"1989"	"Female"	"Life Sciences"	13007	240069
-"1989"	"Male"	"Communication and Library Science"	4835	240069
-"1989"	"Female"	"Art/Architecture"	5056	240069
-"1989"	"Male"	"Agriculture"	1310	240069
-"1989"	"Female"	"Sociology"	2561	240069
-"1989"	"Female"	"Economics"	896	240069
-"1989"	"Female"	"Social Service Professions"	3110	240069
-"1989"	"Male"	"Education"	8572	240069
-"1989"	"Female"	"Anthropology"	296	240069
-"1989"	"Male"	"Art/Architecture"	3569	240069
-"1989"	"Female"	"Agriculture"	518	240069
-"1989"	"Female"	"Foreign Languages"	1225	240069
-"1989"	"Female"	"Religion"	37	240069
-"1989"	"Female"	"Math"	1754	240069
-"1989"	"Male"	"Business"	33365	240069
-"1989"	"Female"	"Education"	28880	240069
-"1989"	"Female"	"Computer Science"	2803	240069
-"1989"	"Male"	"English and Literature"	2687	240069
-"1989"	"Male"	"Foreign Languages"	422	240069
-"1989"	"Male"	"Math"	1902	240069
-"1989"	"Female"	"Psychology"	7935	240069
-"1989"	"Male"	"Psychology"	3024	240069
-"1989"	"Male"	"Religion"	32	240069
-"1989"	"Male"	"Life Sciences"	4396	240069
-"1990"	"Female"	"Humanities, Other"	166	248904
-"1990"	"Female"	"Physical Sciences"	1286	248904
-"1990"	"Male"	"Sociology"	1355	248904
-"1990"	"Male"	"Physical Sciences"	2601	248904
-"1990"	"Female"	"Engineering"	2997	248904
-"1990"	"Male"	"Anthropology"	215	248904
-"1990"	"Female"	"Business"	31353	248904
-"1990"	"Female"	"Life Sciences"	13137	248904
-"1990"	"Male"	"Business"	33902	248904
-"1990"	"Male"	"Communication and Library Science"	4909	248904
-"1990"	"Male"	"Education"	8982	248904
-"1990"	"Female"	"Social Sciences, Other"	1367	248904
-"1990"	"Female"	"Communication and Library Science"	6646	248904
-"1990"	"Female"	"English and Literature"	6643	248904
-"1990"	"Male"	"Area and Ethnic Studies"	93	248904
-"1990"	"Female"	"Religion"	32	248904
-"1990"	"Male"	"Social Service Professions"	561	248904
-"1990"	"Female"	"Vocational Studies and Home Economics"	5755	248904
-"1990"	"Female"	"Education"	31231	248904
-"1990"	"Male"	"Engineering"	11619	248904
-"1990"	"Female"	"Area and Ethnic Studies"	167	248904
-"1990"	"Male"	"Religion"	45	248904
-"1990"	"Male"	"Humanities, Other"	319	248904
-"1990"	"Male"	"Vocational Studies and Home Economics"	4255	248904
-"1990"	"Female"	"Anthropology"	342	248904
-"1990"	"Female"	"Other/Unknown"	8675	248904
-"1990"	"Male"	"Political Science and Public Administration"	3711	248904
-"1990"	"Female"	"Agriculture"	518	248904
-"1990"	"Male"	"Art/Architecture"	3756	248904
-"1990"	"Male"	"History"	2503	248904
-"1990"	"Male"	"Computer Science"	5221	248904
-"1990"	"Male"	"Other/Unknown"	5475	248904
-"1990"	"Female"	"Political Science and Public Administration"	2573	248904
-"1990"	"Male"	"English and Literature"	2973	248904
-"1990"	"Female"	"Art/Architecture"	5322	248904
-"1990"	"Female"	"Sociology"	2774	248904
-"1990"	"Male"	"Life Sciences"	4554	248904
-"1990"	"Male"	"Psychology"	3338	248904
-"1990"	"Female"	"Computer Science"	2416	248904
-"1990"	"Female"	"Math"	1742	248904
-"1990"	"Female"	"Foreign Languages"	1322	248904
-"1990"	"Female"	"Psychology"	9223	248904
-"1990"	"Male"	"Agriculture"	1224	248904
-"1990"	"Female"	"Social Service Professions"	3307	248904
-"1990"	"Male"	"Social Sciences, Other"	1805	248904
-"1990"	"Male"	"Math"	1733	248904
-"1990"	"Female"	"Economics"	899	248904
-"1990"	"Male"	"Foreign Languages"	447	248904
-"1990"	"Male"	"Economics"	2060	248904
-"1990"	"Female"	"History"	1355	248904
-"1991"	"Male"	"Religion"	34	261788
-"1991"	"Female"	"Religion"	47	261788
-"1991"	"Female"	"Social Sciences, Other"	1534	261788
-"1991"	"Female"	"Engineering"	3128	261788
-"1991"	"Male"	"Area and Ethnic Studies"	124	261788
-"1991"	"Male"	"Sociology"	1385	261788
-"1991"	"Male"	"Anthropology"	251	261788
-"1991"	"Female"	"English and Literature"	7443	261788
-"1991"	"Female"	"Vocational Studies and Home Economics"	6182	261788
-"1991"	"Male"	"Engineering"	11028	261788
-"1991"	"Male"	"English and Literature"	3411	261788
-"1991"	"Female"	"Art/Architecture"	5779	261788
-"1991"	"Female"	"Physical Sciences"	1308	261788
-"1991"	"Male"	"Physical Sciences"	2628	261788
-"1991"	"Male"	"Psychology"	3568	261788
-"1991"	"Female"	"Anthropology"	355	261788
-"1991"	"Female"	"Other/Unknown"	9804	261788
-"1991"	"Female"	"Communication and Library Science"	7219	261788
-"1991"	"Female"	"Agriculture"	506	261788
-"1991"	"Male"	"History"	2903	261788
-"1991"	"Male"	"Social Service Professions"	560	261788
-"1991"	"Male"	"Computer Science"	4797	261788
-"1991"	"Male"	"Other/Unknown"	5773	261788
-"1991"	"Female"	"Humanities, Other"	157	261788
-"1991"	"Female"	"Education"	34625	261788
-"1991"	"Female"	"Political Science and Public Administration"	2979	261788
-"1991"	"Female"	"Area and Ethnic Studies"	203	261788
-"1991"	"Female"	"History"	1624	261788
-"1991"	"Male"	"Vocational Studies and Home Economics"	4615	261788
-"1991"	"Male"	"Humanities, Other"	352	261788
-"1991"	"Female"	"Foreign Languages"	1432	261788
-"1991"	"Male"	"Art/Architecture"	3951	261788
-"1991"	"Male"	"Political Science and Public Administration"	3936	261788
-"1991"	"Male"	"Communication and Library Science"	5039	261788
-"1991"	"Male"	"Economics"	2182	261788
-"1991"	"Male"	"Social Sciences, Other"	1898	261788
-"1991"	"Male"	"Foreign Languages"	515	261788
-"1991"	"Female"	"Economics"	926	261788
-"1991"	"Male"	"Agriculture"	1086	261788
-"1991"	"Female"	"Psychology"	10554	261788
-"1991"	"Female"	"Sociology"	3253	261788
-"1991"	"Female"	"Life Sciences"	13690	261788
-"1991"	"Female"	"Social Service Professions"	3488	261788
-"1991"	"Male"	"Education"	9421	261788
-"1991"	"Female"	"Business"	32039	261788
-"1991"	"Male"	"Life Sciences"	4794	261788
-"1991"	"Male"	"Business"	33637	261788
-"1991"	"Male"	"Math"	1766	261788
-"1991"	"Female"	"Computer Science"	2110	261788
-"1991"	"Female"	"Math"	1749	261788
-"1992"	"Male"	"History"	3150	274989
-"1992"	"Female"	"Engineering"	2875	274989
-"1992"	"Male"	"Vocational Studies and Home Economics"	5209	274989
-"1992"	"Male"	"Area and Ethnic Studies"	143	274989
-"1992"	"Male"	"Physical Sciences"	2570	274989
-"1992"	"Female"	"Vocational Studies and Home Economics"	6455	274989
-"1992"	"Female"	"Physical Sciences"	1262	274989
-"1992"	"Male"	"Engineering"	11187	274989
-"1992"	"Female"	"Humanities, Other"	190	274989
-"1992"	"Male"	"Sociology"	1614	274989
-"1992"	"Female"	"English and Literature"	7919	274989
-"1992"	"Male"	"Education"	9632	274989
-"1992"	"Female"	"Communication and Library Science"	7816	274989
-"1992"	"Female"	"Life Sciences"	14962	274989
-"1992"	"Male"	"Communication and Library Science"	5556	274989
-"1992"	"Female"	"Religion"	41	274989
-"1992"	"Female"	"Political Science and Public Administration"	3138	274989
-"1992"	"Female"	"History"	1775	274989
-"1992"	"Male"	"Psychology"	3910	274989
-"1992"	"Female"	"Art/Architecture"	6115	274989
-"1992"	"Female"	"Computer Science"	1995	274989
-"1992"	"Female"	"Economics"	955	274989
-"1992"	"Female"	"Social Sciences, Other"	1732	274989
-"1992"	"Male"	"Political Science and Public Administration"	4379	274989
-"1992"	"Female"	"Agriculture"	743	274989
-"1992"	"Male"	"Anthropology"	269	274989
-"1992"	"Female"	"Business"	32707	274989
-"1992"	"Male"	"Computer Science"	4679	274989
-"1992"	"Female"	"Education"	33959	274989
-"1992"	"Male"	"Social Sciences, Other"	2107	274989
-"1992"	"Male"	"Religion"	49	274989
-"1992"	"Female"	"Area and Ethnic Studies"	238	274989
-"1992"	"Male"	"Humanities, Other"	414	274989
-"1992"	"Female"	"Anthropology"	492	274989
-"1992"	"Male"	"Social Service Professions"	588	274989
-"1992"	"Female"	"Other/Unknown"	11099	274989
-"1992"	"Female"	"Social Service Professions"	3903	274989
-"1992"	"Female"	"Foreign Languages"	1517	274989
-"1992"	"Female"	"Psychology"	11871	274989
-"1992"	"Female"	"Math"	1822	274989
-"1992"	"Male"	"Economics"	2302	274989
-"1992"	"Male"	"Other/Unknown"	6107	274989
-"1992"	"Male"	"Life Sciences"	5441	274989
-"1992"	"Male"	"English and Literature"	3506	274989
-"1992"	"Female"	"Sociology"	3678	274989
-"1992"	"Male"	"Business"	34776	274989
-"1992"	"Male"	"Math"	1834	274989
-"1992"	"Male"	"Art/Architecture"	4311	274989
-"1992"	"Male"	"Foreign Languages"	515	274989
-"1992"	"Male"	"Agriculture"	1482	274989
-"1993"	"Male"	"Psychology"	4109	287946
-"1993"	"Male"	"Humanities, Other"	438	287946
-"1993"	"Male"	"Area and Ethnic Studies"	161	287946
-"1993"	"Male"	"Sociology"	1835	287946
-"1993"	"Female"	"English and Literature"	8213	287946
-"1993"	"Female"	"Vocational Studies and Home Economics"	6659	287946
-"1993"	"Female"	"Engineering"	3222	287946
-"1993"	"Female"	"Life Sciences"	16882	287946
-"1993"	"Female"	"Humanities, Other"	216	287946
-"1993"	"Female"	"Physical Sciences"	1400	287946
-"1993"	"Female"	"Area and Ethnic Studies"	284	287946
-"1993"	"Male"	"English and Literature"	3801	287946
-"1993"	"Female"	"Other/Unknown"	14439	287946
-"1993"	"Female"	"Communication and Library Science"	7868	287946
-"1993"	"Female"	"Foreign Languages"	1645	287946
-"1993"	"Female"	"Economics"	971	287946
-"1993"	"Female"	"Religion"	51	287946
-"1993"	"Male"	"Computer Science"	4668	287946
-"1993"	"Male"	"Other/Unknown"	7202	287946
-"1993"	"Male"	"Physical Sciences"	2695	287946
-"1993"	"Male"	"Social Sciences, Other"	2159	287946
-"1993"	"Male"	"Engineering"	11324	287946
-"1993"	"Female"	"Sociology"	4120	287946
-"1993"	"Male"	"Life Sciences"	6170	287946
-"1993"	"Male"	"Business"	34415	287946
-"1993"	"Male"	"Vocational Studies and Home Economics"	5762	287946
-"1993"	"Female"	"Social Sciences, Other"	1792	287946
-"1993"	"Female"	"Social Service Professions"	4137	287946
-"1993"	"Female"	"Agriculture"	816	287946
-"1993"	"Male"	"Social Service Professions"	659	287946
-"1993"	"Female"	"Math"	1791	287946
-"1993"	"Male"	"Anthropology"	301	287946
-"1993"	"Male"	"Communication and Library Science"	5806	287946
-"1993"	"Male"	"Foreign Languages"	600	287946
-"1993"	"Female"	"Art/Architecture"	6380	287946
-"1993"	"Female"	"Political Science and Public Administration"	3470	287946
-"1993"	"Female"	"History"	1965	287946
-"1993"	"Male"	"Art/Architecture"	4534	287946
-"1993"	"Female"	"Anthropology"	502	287946
-"1993"	"Male"	"Education"	10044	287946
-"1993"	"Female"	"Business"	33168	287946
-"1993"	"Male"	"Religion"	47	287946
-"1993"	"Male"	"History"	3325	287946
-"1993"	"Female"	"Education"	33454	287946
-"1993"	"Male"	"Agriculture"	1702	287946
-"1993"	"Male"	"Economics"	2100	287946
-"1993"	"Male"	"Math"	1712	287946
-"1993"	"Male"	"Political Science and Public Administration"	4522	287946
-"1993"	"Female"	"Computer Science"	1956	287946
-"1993"	"Female"	"Psychology"	12454	287946
-"1994"	"Female"	"Area and Ethnic Studies"	321	292881
-"1994"	"Female"	"Humanities, Other"	202	292881
-"1994"	"Female"	"Communication and Library Science"	7642	292881
-"1994"	"Male"	"Anthropology"	329	292881
-"1994"	"Female"	"History"	2074	292881
-"1994"	"Male"	"History"	3662	292881
-"1994"	"Male"	"Physical Sciences"	2981	292881
-"1994"	"Female"	"Other/Unknown"	13637	292881
-"1994"	"Male"	"Vocational Studies and Home Economics"	6446	292881
-"1994"	"Female"	"Sociology"	4444	292881
-"1994"	"Male"	"Communication and Library Science"	5954	292881
-"1994"	"Female"	"Vocational Studies and Home Economics"	7182	292881
-"1994"	"Male"	"Computer Science"	4588	292881
-"1994"	"Male"	"Other/Unknown"	6599	292881
-"1994"	"Male"	"Engineering"	11159	292881
-"1994"	"Male"	"Psychology"	4553	292881
-"1994"	"Male"	"Humanities, Other"	449	292881
-"1994"	"Female"	"Physical Sciences"	1509	292881
-"1994"	"Male"	"Area and Ethnic Studies"	172	292881
-"1994"	"Male"	"Sociology"	2031	292881
-"1994"	"Female"	"English and Literature"	8153	292881
-"1994"	"Male"	"Education"	10656	292881
-"1994"	"Male"	"Social Service Professions"	763	292881
-"1994"	"Female"	"Life Sciences"	18661	292881
-"1994"	"Female"	"Education"	32722	292881
-"1994"	"Female"	"Engineering"	3254	292881
-"1994"	"Female"	"Political Science and Public Administration"	3470	292881
-"1994"	"Male"	"Math"	1803	292881
-"1994"	"Female"	"Economics"	912	292881
-"1994"	"Female"	"Anthropology"	606	292881
-"1994"	"Female"	"Computer Science"	1949	292881
-"1994"	"Female"	"Religion"	41	292881
-"1994"	"Female"	"Social Sciences, Other"	1889	292881
-"1994"	"Male"	"Political Science and Public Administration"	4440	292881
-"1994"	"Male"	"Economics"	2058	292881
-"1994"	"Male"	"Social Sciences, Other"	2458	292881
-"1994"	"Female"	"Business"	32183	292881
-"1994"	"Male"	"Religion"	48	292881
-"1994"	"Female"	"Art/Architecture"	6488	292881
-"1994"	"Male"	"Life Sciences"	7067	292881
-"1994"	"Male"	"English and Literature"	3815	292881
-"1994"	"Female"	"Agriculture"	969	292881
-"1994"	"Male"	"Business"	33591	292881
-"1994"	"Female"	"Foreign Languages"	1658	292881
-"1994"	"Female"	"Psychology"	13654	292881
-"1994"	"Female"	"Math"	1803	292881
-"1994"	"Female"	"Social Service Professions"	4523	292881
-"1994"	"Male"	"Agriculture"	1924	292881
-"1994"	"Male"	"Foreign Languages"	598	292881
-"1994"	"Male"	"Art/Architecture"	4791	292881
-"1995"	"Male"	"Humanities, Other"	493	290571
-"1995"	"Male"	"Education"	11232	290571
-"1995"	"Female"	"Engineering"	3674	290571
-"1995"	"Male"	"Other/Unknown"	6628	290571
-"1995"	"Female"	"Life Sciences"	20028	290571
-"1995"	"Female"	"Area and Ethnic Studies"	287	290571
-"1995"	"Female"	"Other/Unknown"	13437	290571
-"1995"	"Female"	"Anthropology"	644	290571
-"1995"	"Male"	"Engineering"	11389	290571
-"1995"	"Male"	"Physical Sciences"	3062	290571
-"1995"	"Female"	"English and Literature"	8044	290571
-"1995"	"Male"	"Area and Ethnic Studies"	193	290571
-"1995"	"Male"	"Anthropology"	376	290571
-"1995"	"Male"	"Social Service Professions"	794	290571
-"1995"	"Female"	"Humanities, Other"	246	290571
-"1995"	"Female"	"Vocational Studies and Home Economics"	7351	290571
-"1995"	"Female"	"Physical Sciences"	1611	290571
-"1995"	"Male"	"Math"	1777	290571
-"1995"	"Male"	"Religion"	64	290571
-"1995"	"Male"	"Psychology"	4684	290571
-"1995"	"Male"	"Life Sciences"	7915	290571
-"1995"	"Female"	"Economics"	865	290571
-"1995"	"Male"	"Sociology"	2145	290571
-"1995"	"Female"	"Communication and Library Science"	7079	290571
-"1995"	"Female"	"Agriculture"	1061	290571
-"1995"	"Female"	"Religion"	40	290571
-"1995"	"Male"	"History"	3560	290571
-"1995"	"Male"	"Computer Science"	4639	290571
-"1995"	"Female"	"Education"	31511	290571
-"1995"	"Female"	"Political Science and Public Administration"	3227	290571
-"1995"	"Male"	"English and Literature"	3692	290571
-"1995"	"Female"	"Art/Architecture"	6538	290571
-"1995"	"Female"	"Sociology"	4513	290571
-"1995"	"Female"	"History"	2032	290571
-"1995"	"Male"	"Business"	31340	290571
-"1995"	"Male"	"Vocational Studies and Home Economics"	6870	290571
-"1995"	"Female"	"Social Sciences, Other"	1840	290571
-"1995"	"Female"	"Foreign Languages"	1704	290571
-"1995"	"Male"	"Art/Architecture"	4981	290571
-"1995"	"Male"	"Agriculture"	2213	290571
-"1995"	"Female"	"Math"	1761	290571
-"1995"	"Female"	"Business"	29957	290571
-"1995"	"Male"	"Communication and Library Science"	5584	290571
-"1995"	"Female"	"Psychology"	13648	290571
-"1995"	"Male"	"Social Sciences, Other"	2404	290571
-"1995"	"Male"	"Political Science and Public Administration"	4172	290571
-"1995"	"Female"	"Social Service Professions"	4854	290571
-"1995"	"Male"	"Foreign Languages"	617	290571
-"1995"	"Male"	"Economics"	1832	290571
-"1995"	"Female"	"Computer Science"	1963	290571
-"1996"	"Female"	"Engineering"	3757	288547
-"1996"	"Male"	"English and Literature"	3822	288547
-"1996"	"Female"	"Anthropology"	716	288547
-"1996"	"Male"	"Psychology"	4724	288547
-"1996"	"Male"	"Engineering"	11161	288547
-"1996"	"Female"	"Social Sciences, Other"	1956	288547
-"1996"	"Male"	"Area and Ethnic Studies"	170	288547
-"1996"	"Male"	"Anthropology"	406	288547
-"1996"	"Female"	"Area and Ethnic Studies"	339	288547
-"1996"	"Female"	"Vocational Studies and Home Economics"	7662	288547
-"1996"	"Female"	"Physical Sciences"	1690	288547
-"1996"	"Female"	"Education"	31337	288547
-"1996"	"Male"	"Other/Unknown"	6575	288547
-"1996"	"Female"	"English and Literature"	7836	288547
-"1996"	"Female"	"Communication and Library Science"	6941	288547
-"1996"	"Female"	"Sociology"	4802	288547
-"1996"	"Male"	"Sociology"	2220	288547
-"1996"	"Female"	"Religion"	64	288547
-"1996"	"Male"	"Computer Science"	4461	288547
-"1996"	"Male"	"Vocational Studies and Home Economics"	6750	288547
-"1996"	"Female"	"Humanities, Other"	221	288547
-"1996"	"Male"	"Social Sciences, Other"	2304	288547
-"1996"	"Female"	"Art/Architecture"	6404	288547
-"1996"	"Female"	"History"	2032	288547
-"1996"	"Male"	"Religion"	49	288547
-"1996"	"Female"	"Economics"	752	288547
-"1996"	"Male"	"Education"	11506	288547
-"1996"	"Female"	"Foreign Languages"	1739	288547
-"1996"	"Male"	"Political Science and Public Administration"	3953	288547
-"1996"	"Female"	"Other/Unknown"	13617	288547
-"1996"	"Male"	"Physical Sciences"	3090	288547
-"1996"	"Male"	"Economics"	1687	288547
-"1996"	"Female"	"Business"	28326	288547
-"1996"	"Male"	"Foreign Languages"	635	288547
-"1996"	"Female"	"Psychology"	14019	288547
-"1996"	"Male"	"Agriculture"	2393	288547
-"1996"	"Female"	"Computer Science"	1787	288547
-"1996"	"Male"	"Business"	28652	288547
-"1996"	"Male"	"Art/Architecture"	5132	288547
-"1996"	"Male"	"Humanities, Other"	482	288547
-"1996"	"Female"	"Agriculture"	1283	288547
-"1996"	"Female"	"Social Service Professions"	5303	288547
-"1996"	"Female"	"Life Sciences"	21204	288547
-"1996"	"Male"	"History"	3466	288547
-"1996"	"Female"	"Math"	1561	288547
-"1996"	"Male"	"Life Sciences"	8426	288547
-"1996"	"Female"	"Political Science and Public Administration"	3238	288547
-"1996"	"Male"	"Communication and Library Science"	5291	288547
-"1996"	"Male"	"Social Service Professions"	905	288547
-"1996"	"Male"	"Math"	1701	288547
-"1997"	"Female"	"Vocational Studies and Home Economics"	7766	289051
-"1997"	"Male"	"Anthropology"	493	289051
-"1997"	"Female"	"Sociology"	5037	289051
-"1997"	"Female"	"Humanities, Other"	231	289051
-"1997"	"Male"	"Other/Unknown"	6692	289051
-"1997"	"Male"	"Education"	11489	289051
-"1997"	"Male"	"Business"	28153	289051
-"1997"	"Female"	"Engineering"	3853	289051
-"1997"	"Male"	"Area and Ethnic Studies"	196	289051
-"1997"	"Female"	"History"	2053	289051
-"1997"	"Male"	"Sociology"	2334	289051
-"1997"	"Male"	"Foreign Languages"	659	289051
-"1997"	"Male"	"Social Sciences, Other"	2371	289051
-"1997"	"Female"	"Social Sciences, Other"	2046	289051
-"1997"	"Female"	"Life Sciences"	21942	289051
-"1997"	"Female"	"Area and Ethnic Studies"	354	289051
-"1997"	"Male"	"Humanities, Other"	484	289051
-"1997"	"Female"	"Computer Science"	1823	289051
-"1997"	"Male"	"Engineering"	10730	289051
-"1997"	"Male"	"Vocational Studies and Home Economics"	6664	289051
-"1997"	"Male"	"History"	3488	289051
-"1997"	"Male"	"Political Science and Public Administration"	3594	289051
-"1997"	"Male"	"Psychology"	4716	289051
-"1997"	"Male"	"Social Service Professions"	972	289051
-"1997"	"Female"	"Religion"	60	289051
-"1997"	"Female"	"Education"	31042	289051
-"1997"	"Female"	"Physical Sciences"	1825	289051
-"1997"	"Male"	"Math"	1580	289051
-"1997"	"Male"	"Agriculture"	2399	289051
-"1997"	"Female"	"Anthropology"	728	289051
-"1997"	"Female"	"Foreign Languages"	1710	289051
-"1997"	"Male"	"Religion"	76	289051
-"1997"	"Female"	"Communication and Library Science"	7221	289051
-"1997"	"Female"	"English and Literature"	7648	289051
-"1997"	"Male"	"Communication and Library Science"	5444	289051
-"1997"	"Male"	"Art/Architecture"	4956	289051
-"1997"	"Male"	"Physical Sciences"	2995	289051
-"1997"	"Male"	"Computer Science"	4370	289051
-"1997"	"Female"	"Other/Unknown"	13828	289051
-"1997"	"Male"	"Life Sciences"	8918	289051
-"1997"	"Male"	"English and Literature"	3604	289051
-"1997"	"Female"	"Art/Architecture"	6232	289051
-"1997"	"Female"	"Business"	27998	289051
-"1997"	"Male"	"Economics"	1584	289051
-"1997"	"Female"	"Economics"	710	289051
-"1997"	"Female"	"Social Service Professions"	5632	289051
-"1997"	"Female"	"Agriculture"	1453	289051
-"1997"	"Female"	"Political Science and Public Administration"	2978	289051
-"1997"	"Female"	"Math"	1526	289051
-"1997"	"Female"	"Psychology"	14394	289051
-"1998"	"Female"	"Humanities, Other"	255	290730
-"1998"	"Male"	"Communication and Library Science"	5388	290730
-"1998"	"Male"	"History"	3551	290730
-"1998"	"Female"	"Engineering"	3879	290730
-"1998"	"Female"	"History"	2182	290730
-"1998"	"Male"	"Computer Science"	4947	290730
-"1998"	"Male"	"Foreign Languages"	661	290730
-"1998"	"Male"	"Humanities, Other"	531	290730
-"1998"	"Male"	"Math"	1558	290730
-"1998"	"Male"	"Engineering"	10761	290730
-"1998"	"Female"	"English and Literature"	7819	290730
-"1998"	"Female"	"Social Sciences, Other"	2063	290730
-"1998"	"Female"	"Sociology"	5145	290730
-"1998"	"Female"	"Computer Science"	1874	290730
-"1998"	"Female"	"Business"	27481	290730
-"1998"	"Female"	"Religion"	74	290730
-"1998"	"Male"	"Other/Unknown"	6861	290730
-"1998"	"Male"	"English and Literature"	3671	290730
-"1998"	"Male"	"Agriculture"	2391	290730
-"1998"	"Male"	"Business"	28002	290730
-"1998"	"Female"	"Physical Sciences"	1846	290730
-"1998"	"Male"	"Religion"	60	290730
-"1998"	"Male"	"Psychology"	4749	290730
-"1998"	"Female"	"Communication and Library Science"	7381	290730
-"1998"	"Female"	"Other/Unknown"	14224	290730
-"1998"	"Male"	"Sociology"	2377	290730
-"1998"	"Female"	"Life Sciences"	22330	290730
-"1998"	"Male"	"Physical Sciences"	2848	290730
-"1998"	"Male"	"Economics"	1504	290730
-"1998"	"Male"	"Social Service Professions"	884	290730
-"1998"	"Female"	"Economics"	651	290730
-"1998"	"Male"	"Social Sciences, Other"	2391	290730
-"1998"	"Female"	"Vocational Studies and Home Economics"	7792	290730
-"1998"	"Male"	"Life Sciences"	8779	290730
-"1998"	"Male"	"Vocational Studies and Home Economics"	6627	290730
-"1998"	"Female"	"Area and Ethnic Studies"	360	290730
-"1998"	"Male"	"Education"	11656	290730
-"1998"	"Female"	"Foreign Languages"	1836	290730
-"1998"	"Male"	"Anthropology"	492	290730
-"1998"	"Male"	"Area and Ethnic Studies"	222	290730
-"1998"	"Female"	"Math"	1486	290730
-"1998"	"Female"	"Psychology"	14457	290730
-"1998"	"Female"	"Art/Architecture"	6356	290730
-"1998"	"Female"	"Political Science and Public Administration"	2879	290730
-"1998"	"Female"	"Education"	31284	290730
-"1998"	"Female"	"Anthropology"	789	290730
-"1998"	"Male"	"Art/Architecture"	5033	290730
-"1998"	"Female"	"Social Service Professions"	5522	290730
-"1998"	"Male"	"Political Science and Public Administration"	3389	290730
-"1998"	"Female"	"Agriculture"	1432	290730
-"1999"	"Male"	"Communication and Library Science"	5457	290735
-"1999"	"Female"	"Humanities, Other"	275	290735
-"1999"	"Male"	"Religion"	62	290735
-"1999"	"Female"	"Life Sciences"	22721	290735
-"1999"	"Female"	"Communication and Library Science"	7692	290735
-"1999"	"Female"	"Religion"	72	290735
-"1999"	"Male"	"Social Service Professions"	845	290735
-"1999"	"Male"	"Other/Unknown"	6792	290735
-"1999"	"Male"	"Physical Sciences"	2660	290735
-"1999"	"Female"	"History"	2120	290735
-"1999"	"Female"	"Physical Sciences"	1769	290735
-"1999"	"Male"	"Life Sciences"	8452	290735
-"1999"	"Male"	"Math"	1449	290735
-"1999"	"Female"	"Computer Science"	1789	290735
-"1999"	"Female"	"Other/Unknown"	15169	290735
-"1999"	"Male"	"History"	3301	290735
-"1999"	"Male"	"Humanities, Other"	487	290735
-"1999"	"Female"	"Math"	1488	290735
-"1999"	"Male"	"Computer Science"	4977	290735
-"1999"	"Male"	"Anthropology"	412	290735
-"1999"	"Female"	"Business"	28384	290735
-"1999"	"Female"	"Education"	31205	290735
-"1999"	"Male"	"Agriculture"	2418	290735
-"1999"	"Female"	"Vocational Studies and Home Economics"	7693	290735
-"1999"	"Female"	"Political Science and Public Administration"	2901	290735
-"1999"	"Female"	"Area and Ethnic Studies"	399	290735
-"1999"	"Male"	"Psychology"	4522	290735
-"1999"	"Male"	"Education"	11663	290735
-"1999"	"Female"	"Engineering"	3820	290735
-"1999"	"Male"	"Sociology"	2178	290735
-"1999"	"Female"	"English and Literature"	7964	290735
-"1999"	"Male"	"Economics"	1456	290735
-"1999"	"Male"	"Social Sciences, Other"	2207	290735
-"1999"	"Male"	"English and Literature"	3523	290735
-"1999"	"Female"	"Economics"	664	290735
-"1999"	"Female"	"Psychology"	14301	290735
-"1999"	"Female"	"Anthropology"	764	290735
-"1999"	"Male"	"Art/Architecture"	5036	290735
-"1999"	"Female"	"Social Sciences, Other"	2019	290735
-"1999"	"Female"	"Sociology"	5342	290735
-"1999"	"Male"	"Area and Ethnic Studies"	212	290735
-"1999"	"Male"	"Business"	28085	290735
-"1999"	"Female"	"Foreign Languages"	2017	290735
-"1999"	"Male"	"Vocational Studies and Home Economics"	6137	290735
-"1999"	"Male"	"Foreign Languages"	702	290735
-"1999"	"Female"	"Agriculture"	1505	290735
-"1999"	"Male"	"Engineering"	10241	290735
-"1999"	"Male"	"Political Science and Public Administration"	3143	290735
-"1999"	"Female"	"Social Service Professions"	5524	290735
-"1999"	"Female"	"Art/Architecture"	6721	290735
-"2000"	"Male"	"Computer Science"	6007	296900
-"2000"	"Female"	"Engineering"	4035	296900
-"2000"	"Male"	"Anthropology"	436	296900
-"2000"	"Male"	"Sociology"	2203	296900
-"2000"	"Female"	"Psychology"	14280	296900
-"2000"	"Male"	"Psychology"	4041	296900
-"2000"	"Male"	"Education"	11791	296900
-"2000"	"Female"	"Physical Sciences"	1898	296900
-"2000"	"Female"	"Anthropology"	837	296900
-"2000"	"Male"	"Vocational Studies and Home Economics"	6021	296900
-"2000"	"Female"	"Vocational Studies and Home Economics"	8101	296900
-"2000"	"Male"	"Agriculture"	2444	296900
-"2000"	"Female"	"Social Sciences, Other"	2062	296900
-"2000"	"Male"	"Communication and Library Science"	5651	296900
-"2000"	"Female"	"Other/Unknown"	15642	296900
-"2000"	"Female"	"Religion"	69	296900
-"2000"	"Female"	"Education"	31305	296900
-"2000"	"Female"	"Economics"	716	296900
-"2000"	"Female"	"Sociology"	5457	296900
-"2000"	"Male"	"Engineering"	9980	296900
-"2000"	"Female"	"Area and Ethnic Studies"	431	296900
-"2000"	"Male"	"Economics"	1401	296900
-"2000"	"Male"	"Political Science and Public Administration"	3014	296900
-"2000"	"Male"	"English and Literature"	3550	296900
-"2000"	"Male"	"Physical Sciences"	2561	296900
-"2000"	"Male"	"Foreign Languages"	697	296900
-"2000"	"Male"	"Social Service Professions"	834	296900
-"2000"	"Male"	"Religion"	69	296900
-"2000"	"Male"	"Social Sciences, Other"	2258	296900
-"2000"	"Male"	"Other/Unknown"	6762	296900
-"2000"	"Male"	"Business"	29627	296900
-"2000"	"Female"	"Social Service Professions"	5496	296900
-"2000"	"Female"	"Communication and Library Science"	8334	296900
-"2000"	"Female"	"English and Literature"	7899	296900
-"2000"	"Male"	"Area and Ethnic Studies"	213	296900
-"2000"	"Female"	"Math"	1479	296900
-"2000"	"Female"	"History"	2153	296900
-"2000"	"Male"	"History"	3329	296900
-"2000"	"Female"	"Business"	30650	296900
-"2000"	"Female"	"Agriculture"	1574	296900
-"2000"	"Male"	"Art/Architecture"	5303	296900
-"2000"	"Female"	"Humanities, Other"	256	296900
-"2000"	"Female"	"Computer Science"	2349	296900
-"2000"	"Female"	"Life Sciences"	21878	296900
-"2000"	"Male"	"Humanities, Other"	529	296900
-"2000"	"Female"	"Political Science and Public Administration"	2852	296900
-"2000"	"Female"	"Art/Architecture"	7122	296900
-"2000"	"Male"	"Life Sciences"	7962	296900
-"2000"	"Male"	"Math"	1327	296900
-"2000"	"Female"	"Foreign Languages"	2015	296900
-"2001"	"Male"	"Sociology"	2156	296423
-"2001"	"Male"	"Vocational Studies and Home Economics"	5741	296423
-"2001"	"Female"	"Area and Ethnic Studies"	413	296423
-"2001"	"Male"	"Social Service Professions"	772	296423
-"2001"	"Female"	"Vocational Studies and Home Economics"	8070	296423
-"2001"	"Male"	"History"	3324	296423
-"2001"	"Female"	"Education"	30580	296423
-"2001"	"Male"	"Education"	10986	296423
-"2001"	"Male"	"Anthropology"	417	296423
-"2001"	"Male"	"Social Sciences, Other"	2239	296423
-"2001"	"Male"	"Engineering"	9910	296423
-"2001"	"Male"	"Economics"	1431	296423
-"2001"	"Female"	"Anthropology"	811	296423
-"2001"	"Female"	"Sociology"	5456	296423
-"2001"	"Female"	"Engineering"	3913	296423
-"2001"	"Male"	"Foreign Languages"	716	296423
-"2001"	"Female"	"English and Literature"	8168	296423
-"2001"	"Male"	"Area and Ethnic Studies"	204	296423
-"2001"	"Male"	"English and Literature"	3500	296423
-"2001"	"Male"	"Computer Science"	6859	296423
-"2001"	"Female"	"Business"	31530	296423
-"2001"	"Male"	"Business"	30656	296423
-"2001"	"Female"	"History"	2235	296423
-"2001"	"Female"	"Art/Architecture"	7332	296423
-"2001"	"Female"	"Social Sciences, Other"	2198	296423
-"2001"	"Female"	"Social Service Professions"	5191	296423
-"2001"	"Female"	"Agriculture"	1520	296423
-"2001"	"Male"	"Communication and Library Science"	5812	296423
-"2001"	"Male"	"Political Science and Public Administration"	2802	296423
-"2001"	"Male"	"Other/Unknown"	6890	296423
-"2001"	"Female"	"Math"	1364	296423
-"2001"	"Female"	"Economics"	718	296423
-"2001"	"Male"	"Agriculture"	2152	296423
-"2001"	"Female"	"Communication and Library Science"	8767	296423
-"2001"	"Female"	"Psychology"	14233	296423
-"2001"	"Male"	"Art/Architecture"	5316	296423
-"2001"	"Female"	"Life Sciences"	20714	296423
-"2001"	"Female"	"Other/Unknown"	16313	296423
-"2001"	"Male"	"Psychology"	3901	296423
-"2001"	"Female"	"Foreign Languages"	2064	296423
-"2001"	"Male"	"Math"	1247	296423
-"2001"	"Female"	"Humanities, Other"	249	296423
-"2001"	"Male"	"Humanities, Other"	497	296423
-"2001"	"Female"	"Computer Science"	2761	296423
-"2001"	"Male"	"Religion"	71	296423
-"2001"	"Male"	"Physical Sciences"	2375	296423
-"2001"	"Female"	"Religion"	62	296423
-"2001"	"Female"	"Physical Sciences"	1726	296423
-"2001"	"Male"	"Life Sciences"	7230	296423
-"2001"	"Female"	"Political Science and Public Administration"	2831	296423
-"2002"	"Male"	"Sociology"	2083	308098
-"2002"	"Male"	"Social Service Professions"	707	308098
-"2002"	"Female"	"Sociology"	5653	308098
-"2002"	"Female"	"Education"	30798	308098
-"2002"	"Male"	"Anthropology"	452	308098
-"2002"	"Female"	"Vocational Studies and Home Economics"	8335	308098
-"2002"	"Male"	"Vocational Studies and Home Economics"	5710	308098
-"2002"	"Female"	"History"	2404	308098
-"2002"	"Male"	"Engineering"	10037	308098
-"2002"	"Female"	"Social Sciences, Other"	2331	308098
-"2002"	"Male"	"Foreign Languages"	715	308098
-"2002"	"Female"	"English and Literature"	8734	308098
-"2002"	"Male"	"History"	3466	308098
-"2002"	"Male"	"English and Literature"	3696	308098
-"2002"	"Male"	"Other/Unknown"	7197	308098
-"2002"	"Male"	"Education"	10857	308098
-"2002"	"Female"	"Area and Ethnic Studies"	444	308098
-"2002"	"Female"	"Engineering"	3996	308098
-"2002"	"Female"	"Other/Unknown"	17432	308098
-"2002"	"Female"	"Communication and Library Science"	9786	308098
-"2002"	"Female"	"Social Service Professions"	4920	308098
-"2002"	"Female"	"Life Sciences"	20390	308098
-"2002"	"Male"	"Communication and Library Science"	6001	308098
-"2002"	"Male"	"Economics"	1461	308098
-"2002"	"Female"	"Business"	33321	308098
-"2002"	"Male"	"Math"	1435	308098
-"2002"	"Female"	"Anthropology"	921	308098
-"2002"	"Female"	"Art/Architecture"	8216	308098
-"2002"	"Male"	"Humanities, Other"	596	308098
-"2002"	"Male"	"Psychology"	3985	308098
-"2002"	"Male"	"Area and Ethnic Studies"	239	308098
-"2002"	"Male"	"Physical Sciences"	2361	308098
-"2002"	"Female"	"Humanities, Other"	322	308098
-"2002"	"Male"	"Political Science and Public Administration"	2953	308098
-"2002"	"Male"	"Computer Science"	7630	308098
-"2002"	"Male"	"Business"	32126	308098
-"2002"	"Male"	"Agriculture"	2149	308098
-"2002"	"Female"	"Physical Sciences"	1897	308098
-"2002"	"Male"	"Social Sciences, Other"	2330	308098
-"2002"	"Male"	"Art/Architecture"	5808	308098
-"2002"	"Female"	"Agriculture"	1691	308098
-"2002"	"Female"	"Religion"	80	308098
-"2002"	"Female"	"Foreign Languages"	2130	308098
-"2002"	"Female"	"Math"	1466	308098
-"2002"	"Female"	"Political Science and Public Administration"	3055	308098
-"2002"	"Female"	"Computer Science"	3021	308098
-"2002"	"Male"	"Life Sciences"	6766	308098
-"2002"	"Female"	"Psychology"	15091	308098
-"2002"	"Male"	"Religion"	100	308098
-"2002"	"Female"	"Economics"	804	308098
-"2003"	"Male"	"Engineering"	10298	317267
-"2003"	"Female"	"Humanities, Other"	323	317267
-"2003"	"Male"	"Foreign Languages"	748	317267
-"2003"	"Male"	"Sociology"	2034	317267
-"2003"	"Female"	"Other/Unknown"	17479	317267
-"2003"	"Male"	"English and Literature"	3719	317267
-"2003"	"Female"	"English and Literature"	9030	317267
-"2003"	"Female"	"Social Service Professions"	4935	317267
-"2003"	"Male"	"Vocational Studies and Home Economics"	5581	317267
-"2003"	"Female"	"Engineering"	4161	317267
-"2003"	"Male"	"Social Service Professions"	680	317267
-"2003"	"Male"	"Computer Science"	8520	317267
-"2003"	"Female"	"Life Sciences"	20545	317267
-"2003"	"Male"	"History"	3624	317267
-"2003"	"Male"	"Humanities, Other"	677	317267
-"2003"	"Female"	"Vocational Studies and Home Economics"	8665	317267
-"2003"	"Female"	"History"	2565	317267
-"2003"	"Female"	"Education"	31893	317267
-"2003"	"Male"	"Other/Unknown"	7154	317267
-"2003"	"Male"	"Education"	10762	317267
-"2003"	"Male"	"Psychology"	3993	317267
-"2003"	"Female"	"Communication and Library Science"	10562	317267
-"2003"	"Male"	"Economics"	1552	317267
-"2003"	"Female"	"Business"	35123	317267
-"2003"	"Female"	"Math"	1451	317267
-"2003"	"Male"	"Physical Sciences"	2265	317267
-"2003"	"Female"	"Religion"	91	317267
-"2003"	"Male"	"Communication and Library Science"	6209	317267
-"2003"	"Female"	"Psychology"	15203	317267
-"2003"	"Male"	"Math"	1463	317267
-"2003"	"Female"	"Sociology"	5660	317267
-"2003"	"Female"	"Physical Sciences"	1908	317267
-"2003"	"Male"	"Religion"	84	317267
-"2003"	"Female"	"Computer Science"	3354	317267
-"2003"	"Male"	"Art/Architecture"	6158	317267
-"2003"	"Male"	"Anthropology"	451	317267
-"2003"	"Female"	"Social Sciences, Other"	2301	317267
-"2003"	"Male"	"Area and Ethnic Studies"	227	317267
-"2003"	"Male"	"Agriculture"	1991	317267
-"2003"	"Male"	"Business"	33373	317267
-"2003"	"Female"	"Economics"	856	317267
-"2003"	"Male"	"Life Sciences"	6429	317267
-"2003"	"Female"	"Foreign Languages"	2171	317267
-"2003"	"Female"	"Anthropology"	938	317267
-"2003"	"Male"	"Social Sciences, Other"	2371	317267
-"2003"	"Male"	"Political Science and Public Administration"	3279	317267
-"2003"	"Female"	"Agriculture"	1595	317267
-"2003"	"Female"	"Political Science and Public Administration"	3459	317267
-"2003"	"Female"	"Art/Architecture"	8916	317267
-"2003"	"Female"	"Area and Ethnic Studies"	441	317267
-"2004"	"Female"	"Engineering"	4182	326725
-"2004"	"Female"	"Communication and Library Science"	11016	326725
-"2004"	"Female"	"Physical Sciences"	1911	326725
-"2004"	"Male"	"Communication and Library Science"	6401	326725
-"2004"	"Female"	"Business"	36644	326725
-"2004"	"Female"	"Computer Science"	2931	326725
-"2004"	"Male"	"Computer Science"	8626	326725
-"2004"	"Female"	"Social Sciences, Other"	2464	326725
-"2004"	"Male"	"Physical Sciences"	2325	326725
-"2004"	"Male"	"Area and Ethnic Studies"	253	326725
-"2004"	"Female"	"Anthropology"	963	326725
-"2004"	"Female"	"Sociology"	5786	326725
-"2004"	"Male"	"Psychology"	4013	326725
-"2004"	"Female"	"Religion"	105	326725
-"2004"	"Female"	"Social Service Professions"	4672	326725
-"2004"	"Male"	"Political Science and Public Administration"	3576	326725
-"2004"	"Female"	"Foreign Languages"	2191	326725
-"2004"	"Male"	"Economics"	1805	326725
-"2004"	"Male"	"History"	3917	326725
-"2004"	"Female"	"Education"	31675	326725
-"2004"	"Male"	"Business"	35259	326725
-"2004"	"Male"	"Sociology"	2155	326725
-"2004"	"Male"	"Engineering"	10296	326725
-"2004"	"Female"	"Vocational Studies and Home Economics"	9234	326725
-"2004"	"Female"	"Political Science and Public Administration"	3885	326725
-"2004"	"Male"	"Education"	10855	326725
-"2004"	"Male"	"Art/Architecture"	6501	326725
-"2004"	"Male"	"Life Sciences"	6382	326725
-"2004"	"Female"	"English and Literature"	9186	326725
-"2004"	"Male"	"Agriculture"	1931	326725
-"2004"	"Male"	"Anthropology"	453	326725
-"2004"	"Female"	"Other/Unknown"	17491	326725
-"2004"	"Male"	"Social Service Professions"	619	326725
-"2004"	"Male"	"Math"	1504	326725
-"2004"	"Female"	"Psychology"	15636	326725
-"2004"	"Female"	"Economics"	901	326725
-"2004"	"Female"	"Area and Ethnic Studies"	467	326725
-"2004"	"Male"	"Humanities, Other"	720	326725
-"2004"	"Male"	"Religion"	114	326725
-"2004"	"Male"	"Vocational Studies and Home Economics"	5927	326725
-"2004"	"Female"	"Humanities, Other"	307	326725
-"2004"	"Male"	"Social Sciences, Other"	2527	326725
-"2004"	"Male"	"Foreign Languages"	770	326725
-"2004"	"Female"	"Art/Architecture"	9637	326725
-"2004"	"Female"	"Math"	1473	326725
-"2004"	"Male"	"English and Literature"	3840	326725
-"2004"	"Male"	"Other/Unknown"	7383	326725
-"2004"	"Female"	"History"	2764	326725
-"2004"	"Female"	"Agriculture"	1470	326725
-"2004"	"Female"	"Life Sciences"	21582	326725
-"2005"	"Male"	"Economics"	1722	335061
-"2005"	"Male"	"Computer Science"	7892	335061
-"2005"	"Male"	"Psychology"	4289	335061
-"2005"	"Male"	"Sociology"	2234	335061
-"2005"	"Male"	"Communication and Library Science"	6591	335061
-"2005"	"Male"	"Area and Ethnic Studies"	249	335061
-"2005"	"Female"	"Communication and Library Science"	11587	335061
-"2005"	"Male"	"Education"	10661	335061
-"2005"	"Female"	"Business"	36631	335061
-"2005"	"Female"	"Education"	31393	335061
-"2005"	"Female"	"Social Sciences, Other"	2579	335061
-"2005"	"Male"	"Vocational Studies and Home Economics"	6217	335061
-"2005"	"Male"	"History"	4274	335061
-"2005"	"Female"	"Vocational Studies and Home Economics"	9943	335061
-"2005"	"Female"	"Area and Ethnic Studies"	486	335061
-"2005"	"Female"	"History"	2876	335061
-"2005"	"Female"	"Economics"	894	335061
-"2005"	"Female"	"Social Service Professions"	4694	335061
-"2005"	"Female"	"Agriculture"	1649	335061
-"2005"	"Male"	"Political Science and Public Administration"	3812	335061
-"2005"	"Male"	"Religion"	104	335061
-"2005"	"Female"	"Engineering"	4301	335061
-"2005"	"Female"	"Religion"	131	335061
-"2005"	"Male"	"Social Service Professions"	640	335061
-"2005"	"Female"	"English and Literature"	9233	335061
-"2005"	"Male"	"Business"	35773	335061
-"2005"	"Male"	"Engineering"	10769	335061
-"2005"	"Female"	"Humanities, Other"	341	335061
-"2005"	"Female"	"Computer Science"	2380	335061
-"2005"	"Female"	"Political Science and Public Administration"	4316	335061
-"2005"	"Female"	"Sociology"	6091	335061
-"2005"	"Female"	"Physical Sciences"	2112	335061
-"2005"	"Male"	"Humanities, Other"	749	335061
-"2005"	"Male"	"Agriculture"	1940	335061
-"2005"	"Female"	"Art/Architecture"	10142	335061
-"2005"	"Male"	"Anthropology"	471	335061
-"2005"	"Male"	"Foreign Languages"	780	335061
-"2005"	"Female"	"Anthropology"	981	335061
-"2005"	"Male"	"Math"	1693	335061
-"2005"	"Male"	"Social Sciences, Other"	2531	335061
-"2005"	"Female"	"Psychology"	16328	335061
-"2005"	"Female"	"Foreign Languages"	2414	335061
-"2005"	"Female"	"Math"	1565	335061
-"2005"	"Male"	"Art/Architecture"	6898	335061
-"2005"	"Female"	"Other/Unknown"	17923	335061
-"2005"	"Male"	"Other/Unknown"	7318	335061
-"2005"	"Male"	"Physical Sciences"	2378	335061
-"2005"	"Male"	"English and Literature"	3981	335061
-"2005"	"Male"	"Life Sciences"	6947	335061
-"2005"	"Female"	"Life Sciences"	23158	335061
-"2006"	"Male"	"Engineering"	11620	346889
-"2006"	"Male"	"Economics"	1844	346889
-"2006"	"Male"	"Political Science and Public Administration"	4155	346889
-"2006"	"Male"	"Sociology"	2301	346889
-"2006"	"Male"	"Computer Science"	6950	346889
-"2006"	"Female"	"Communication and Library Science"	11628	346889
-"2006"	"Male"	"Education"	11235	346889
-"2006"	"Female"	"Economics"	864	346889
-"2006"	"Female"	"Social Sciences, Other"	2677	346889
-"2006"	"Female"	"Agriculture"	1626	346889
-"2006"	"Female"	"English and Literature"	9811	346889
-"2006"	"Male"	"Psychology"	4460	346889
-"2006"	"Female"	"Business"	36148	346889
-"2006"	"Female"	"Education"	32320	346889
-"2006"	"Male"	"Social Service Professions"	653	346889
-"2006"	"Female"	"Engineering"	4524	346889
-"2006"	"Male"	"Communication and Library Science"	7107	346889
-"2006"	"Female"	"Area and Ethnic Studies"	536	346889
-"2006"	"Female"	"Anthropology"	1018	346889
-"2006"	"Female"	"Computer Science"	1799	346889
-"2006"	"Male"	"Business"	36498	346889
-"2006"	"Female"	"Social Service Professions"	4858	346889
-"2006"	"Female"	"Foreign Languages"	2475	346889
-"2006"	"Male"	"Humanities, Other"	754	346889
-"2006"	"Female"	"Sociology"	5961	346889
-"2006"	"Male"	"History"	4486	346889
-"2006"	"Female"	"Other/Unknown"	18621	346889
-"2006"	"Female"	"Religion"	117	346889
-"2006"	"Male"	"Vocational Studies and Home Economics"	6687	346889
-"2006"	"Male"	"English and Literature"	4009	346889
-"2006"	"Male"	"Social Sciences, Other"	2686	346889
-"2006"	"Female"	"Vocational Studies and Home Economics"	10755	346889
-"2006"	"Male"	"Math"	1727	346889
-"2006"	"Female"	"History"	3170	346889
-"2006"	"Male"	"Religion"	150	346889
-"2006"	"Female"	"Physical Sciences"	2300	346889
-"2006"	"Male"	"Life Sciences"	7616	346889
-"2006"	"Male"	"Area and Ethnic Studies"	287	346889
-"2006"	"Male"	"Anthropology"	518	346889
-"2006"	"Female"	"Psychology"	17122	346889
-"2006"	"Male"	"Foreign Languages"	857	346889
-"2006"	"Female"	"Math"	1759	346889
-"2006"	"Male"	"Agriculture"	1993	346889
-"2006"	"Female"	"Life Sciences"	25367	346889
-"2006"	"Male"	"Other/Unknown"	7627	346889
-"2006"	"Female"	"Humanities, Other"	353	346889
-"2006"	"Female"	"Political Science and Public Administration"	4482	346889
-"2006"	"Male"	"Art/Architecture"	7092	346889
-"2006"	"Female"	"Art/Architecture"	10615	346889
-"2006"	"Male"	"Physical Sciences"	2671	346889
-"2007"	"Male"	"Sociology"	2327	354291
-"2007"	"Male"	"Engineering"	11651	354291
-"2007"	"Male"	"Economics"	1858	354291
-"2007"	"Female"	"Communication and Library Science"	11933	354291
-"2007"	"Female"	"Social Service Professions"	5193	354291
-"2007"	"Male"	"Foreign Languages"	902	354291
-"2007"	"Female"	"Social Sciences, Other"	2656	354291
-"2007"	"Male"	"History"	4806	354291
-"2007"	"Male"	"Social Sciences, Other"	2796	354291
-"2007"	"Female"	"Vocational Studies and Home Economics"	11178	354291
-"2007"	"Female"	"Engineering"	4462	354291
-"2007"	"Female"	"Sociology"	6244	354291
-"2007"	"Male"	"Psychology"	4645	354291
-"2007"	"Female"	"Foreign Languages"	2544	354291
-"2007"	"Female"	"History"	3275	354291
-"2007"	"Male"	"Vocational Studies and Home Economics"	7328	354291
-"2007"	"Female"	"Business"	35895	354291
-"2007"	"Male"	"Communication and Library Science"	7274	354291
-"2007"	"Female"	"English and Literature"	9697	354291
-"2007"	"Male"	"Social Service Professions"	705	354291
-"2007"	"Male"	"English and Literature"	4142	354291
-"2007"	"Female"	"Psychology"	17514	354291
-"2007"	"Male"	"Business"	38062	354291
-"2007"	"Male"	"Math"	1805	354291
-"2007"	"Female"	"Anthropology"	1037	354291
-"2007"	"Male"	"Art/Architecture"	7261	354291
-"2007"	"Male"	"Education"	11311	354291
-"2007"	"Female"	"Agriculture"	1603	354291
-"2007"	"Male"	"Political Science and Public Administration"	4272	354291
-"2007"	"Female"	"Other/Unknown"	18865	354291
-"2007"	"Male"	"Anthropology"	482	354291
-"2007"	"Female"	"Math"	1755	354291
-"2007"	"Female"	"Religion"	104	354291
-"2007"	"Female"	"Education"	31627	354291
-"2007"	"Female"	"Humanities, Other"	406	354291
-"2007"	"Male"	"Other/Unknown"	7817	354291
-"2007"	"Female"	"Area and Ethnic Studies"	560	354291
-"2007"	"Female"	"Computer Science"	1355	354291
-"2007"	"Male"	"Religion"	109	354291
-"2007"	"Female"	"Physical Sciences"	2303	354291
-"2007"	"Male"	"Humanities, Other"	863	354291
-"2007"	"Male"	"Area and Ethnic Studies"	294	354291
-"2007"	"Female"	"Life Sciences"	27432	354291
-"2007"	"Male"	"Computer Science"	6098	354291
-"2007"	"Male"	"Life Sciences"	8636	354291
-"2007"	"Male"	"Physical Sciences"	2776	354291
-"2007"	"Female"	"Political Science and Public Administration"	4494	354291
-"2007"	"Female"	"Art/Architecture"	10947	354291
-"2007"	"Male"	"Agriculture"	2099	354291
-"2007"	"Female"	"Economics"	893	354291
-"2008"	"Male"	"Area and Ethnic Studies"	340	363374
-"2008"	"Female"	"Anthropology"	1124	363374
-"2008"	"Male"	"Anthropology"	588	363374
-"2008"	"Male"	"Art/Architecture"	7414	363374
-"2008"	"Female"	"Vocational Studies and Home Economics"	11558	363374
-"2008"	"Female"	"Agriculture"	1930	363374
-"2008"	"Female"	"Art/Architecture"	10961	363374
-"2008"	"Male"	"Economics"	2020	363374
-"2008"	"Male"	"Political Science and Public Administration"	4439	363374
-"2008"	"Female"	"Business"	36905	363374
-"2008"	"Female"	"Social Service Professions"	5475	363374
-"2008"	"Male"	"Agriculture"	2152	363374
-"2008"	"Male"	"Social Service Professions"	658	363374
-"2008"	"Female"	"Education"	30961	363374
-"2008"	"Female"	"Psychology"	18163	363374
-"2008"	"Male"	"Business"	39463	363374
-"2008"	"Male"	"Math"	1867	363374
-"2008"	"Female"	"Political Science and Public Administration"	4549	363374
-"2008"	"Female"	"Sociology"	6134	363374
-"2008"	"Female"	"Communication and Library Science"	12189	363374
-"2008"	"Male"	"Psychology"	5020	363374
-"2008"	"Male"	"Humanities, Other"	887	363374
-"2008"	"Female"	"Other/Unknown"	18652	363374
-"2008"	"Female"	"Engineering"	4582	363374
-"2008"	"Male"	"Sociology"	2385	363374
-"2008"	"Male"	"Communication and Library Science"	7625	363374
-"2008"	"Female"	"Religion"	122	363374
-"2008"	"Female"	"Area and Ethnic Studies"	570	363374
-"2008"	"Female"	"Humanities, Other"	391	363374
-"2008"	"Male"	"Engineering"	12139	363374
-"2008"	"Female"	"Foreign Languages"	2630	363374
-"2008"	"Female"	"Computer Science"	1140	363374
-"2008"	"Female"	"Physical Sciences"	2546	363374
-"2008"	"Male"	"Education"	11487	363374
-"2008"	"Male"	"Physical Sciences"	2863	363374
-"2008"	"Female"	"Social Sciences, Other"	2884	363374
-"2008"	"Male"	"Computer Science"	5710	363374
-"2008"	"Male"	"Vocational Studies and Home Economics"	7414	363374
-"2008"	"Female"	"Economics"	978	363374
-"2008"	"Female"	"Life Sciences"	29443	363374
-"2008"	"Male"	"Foreign Languages"	890	363374
-"2008"	"Male"	"Social Sciences, Other"	2872	363374
-"2008"	"Male"	"Religion"	101	363374
-"2008"	"Female"	"Math"	1741	363374
-"2008"	"Male"	"History"	4940	363374
-"2008"	"Male"	"Life Sciences"	9663	363374
-"2008"	"Female"	"History"	3233	363374
-"2008"	"Male"	"Other/Unknown"	8033	363374
-"2008"	"Male"	"English and Literature"	4083	363374
-"2008"	"Female"	"English and Literature"	9460	363374
-"2009"	"Male"	"Art/Architecture"	7742	373846
-"2009"	"Male"	"Math"	1968	373846
-"2009"	"Female"	"Life Sciences"	31918	373846
-"2009"	"Male"	"Foreign Languages"	910	373846
-"2009"	"Male"	"Computer Science"	5543	373846
-"2009"	"Male"	"Psychology"	5194	373846
-"2009"	"Female"	"Political Science and Public Administration"	4517	373846
-"2009"	"Male"	"Engineering"	12793	373846
-"2009"	"Female"	"Education"	32016	373846
-"2009"	"Male"	"Area and Ethnic Studies"	302	373846
-"2009"	"Male"	"Economics"	2156	373846
-"2009"	"Male"	"Education"	11545	373846
-"2009"	"Male"	"Anthropology"	575	373846
-"2009"	"Female"	"Business"	37777	373846
-"2009"	"Female"	"Anthropology"	1184	373846
-"2009"	"Male"	"Sociology"	2406	373846
-"2009"	"Male"	"Communication and Library Science"	7749	373846
-"2009"	"Female"	"Religion"	128	373846
-"2009"	"Female"	"Communication and Library Science"	12596	373846
-"2009"	"Female"	"Humanities, Other"	430	373846
-"2009"	"Female"	"Economics"	922	373846
-"2009"	"Female"	"Vocational Studies and Home Economics"	11339	373846
-"2009"	"Female"	"Agriculture"	1815	373846
-"2009"	"Female"	"Physical Sciences"	2457	373846
-"2009"	"Male"	"Religion"	116	373846
-"2009"	"Female"	"Social Service Professions"	5510	373846
-"2009"	"Female"	"Other/Unknown"	18540	373846
-"2009"	"Female"	"Social Sciences, Other"	2898	373846
-"2009"	"Female"	"Engineering"	4804	373846
-"2009"	"Female"	"Art/Architecture"	10974	373846
-"2009"	"Male"	"Physical Sciences"	3016	373846
-"2009"	"Male"	"Social Service Professions"	682	373846
-"2009"	"Male"	"English and Literature"	4378	373846
-"2009"	"Male"	"Business"	41122	373846
-"2009"	"Male"	"Social Sciences, Other"	3006	373846
-"2009"	"Male"	"Humanities, Other"	918	373846
-"2009"	"Male"	"Life Sciences"	10350	373846
-"2009"	"Male"	"Vocational Studies and Home Economics"	7728	373846
-"2009"	"Female"	"Sociology"	6321	373846
-"2009"	"Female"	"Math"	1764	373846
-"2009"	"Male"	"Political Science and Public Administration"	4565	373846
-"2009"	"Female"	"Area and Ethnic Studies"	573	373846
-"2009"	"Male"	"Agriculture"	2231	373846
-"2009"	"Female"	"Psychology"	18500	373846
-"2009"	"Female"	"Foreign Languages"	2646	373846
-"2009"	"Female"	"History"	3297	373846
-"2009"	"Male"	"Other/Unknown"	8333	373846
-"2009"	"Male"	"History"	5053	373846
-"2009"	"Female"	"English and Literature"	9438	373846
-"2009"	"Female"	"Computer Science"	1101	373846
-"2010"	"Female"	"Education"	31474	381321
-"2010"	"Male"	"Art/Architecture"	8038	381321
-"2010"	"Male"	"Math"	2110	381321
-"2010"	"Female"	"Communication and Library Science"	13095	381321
-"2010"	"Male"	"Area and Ethnic Studies"	301	381321
-"2010"	"Male"	"Economics"	2293	381321
-"2010"	"Female"	"Art/Architecture"	11723	381321
-"2010"	"Male"	"Communication and Library Science"	7868	381321
-"2010"	"Male"	"Computer Science"	5596	381321
-"2010"	"Female"	"Anthropology"	1289	381321
-"2010"	"Female"	"Economics"	992	381321
-"2010"	"Male"	"Engineering"	13245	381321
-"2010"	"Male"	"Social Service Professions"	727	381321
-"2010"	"Female"	"Agriculture"	1894	381321
-"2010"	"Male"	"Education"	11126	381321
-"2010"	"Female"	"Social Service Professions"	5537	381321
-"2010"	"Male"	"Anthropology"	613	381321
-"2010"	"Female"	"Business"	37695	381321
-"2010"	"Female"	"Social Sciences, Other"	2858	381321
-"2010"	"Male"	"Agriculture"	2253	381321
-"2010"	"Male"	"Physical Sciences"	3239	381321
-"2010"	"Female"	"Life Sciences"	33822	381321
-"2010"	"Female"	"Religion"	136	381321
-"2010"	"Male"	"Business"	41994	381321
-"2010"	"Male"	"Social Sciences, Other"	3098	381321
-"2010"	"Female"	"Political Science and Public Administration"	4686	381321
-"2010"	"Female"	"Vocational Studies and Home Economics"	11293	381321
-"2010"	"Female"	"Physical Sciences"	2679	381321
-"2010"	"Male"	"Psychology"	5304	381321
-"2010"	"Female"	"Foreign Languages"	2658	381321
-"2010"	"Male"	"Humanities, Other"	960	381321
-"2010"	"Male"	"Political Science and Public Administration"	4707	381321
-"2010"	"Male"	"Sociology"	2470	381321
-"2010"	"Female"	"Math"	1853	381321
-"2010"	"Male"	"Foreign Languages"	972	381321
-"2010"	"Male"	"English and Literature"	4286	381321
-"2010"	"Female"	"Humanities, Other"	413	381321
-"2010"	"Female"	"Psychology"	19136	381321
-"2010"	"Male"	"History"	5188	381321
-"2010"	"Female"	"History"	3439	381321
-"2010"	"Male"	"Life Sciences"	11679	381321
-"2010"	"Female"	"Sociology"	6173	381321
-"2010"	"Male"	"Other/Unknown"	8524	381321
-"2010"	"Female"	"Other/Unknown"	18280	381321
-"2010"	"Female"	"Engineering"	4575	381321
-"2010"	"Male"	"Religion"	138	381321
-"2010"	"Female"	"Area and Ethnic Studies"	506	381321
-"2010"	"Male"	"Vocational Studies and Home Economics"	7944	381321
-"2010"	"Female"	"Computer Science"	1153	381321
-"2010"	"Female"	"English and Literature"	9289	381321
-"2011"	"Female"	"Life Sciences"	36872	392577
-"2011"	"Female"	"Political Science and Public Administration"	4808	392577
-"2011"	"Male"	"Foreign Languages"	908	392577
-"2011"	"Female"	"Social Service Professions"	5595	392577
-"2011"	"Male"	"Math"	2185	392577
-"2011"	"Female"	"Anthropology"	1408	392577
-"2011"	"Male"	"Sociology"	2425	392577
-"2011"	"Male"	"Psychology"	5653	392577
-"2011"	"Female"	"Communication and Library Science"	13165	392577
-"2011"	"Female"	"Humanities, Other"	410	392577
-"2011"	"Male"	"Computer Science"	6280	392577
-"2011"	"Male"	"Physical Sciences"	3409	392577
-"2011"	"Female"	"Art/Architecture"	11804	392577
-"2011"	"Female"	"Physical Sciences"	2885	392577
-"2011"	"Male"	"English and Literature"	4194	392577
-"2011"	"Male"	"Social Sciences, Other"	3147	392577
-"2011"	"Female"	"Economics"	946	392577
-"2011"	"Female"	"Social Sciences, Other"	2879	392577
-"2011"	"Male"	"Life Sciences"	12888	392577
-"2011"	"Female"	"Agriculture"	2115	392577
-"2011"	"Female"	"Foreign Languages"	2618	392577
-"2011"	"Male"	"Economics"	2473	392577
-"2011"	"Male"	"Political Science and Public Administration"	5045	392577
-"2011"	"Female"	"Business"	38759	392577
-"2011"	"Female"	"Math"	1920	392577
-"2011"	"Male"	"Agriculture"	2427	392577
-"2011"	"Male"	"Social Service Professions"	754	392577
-"2011"	"Female"	"Education"	31616	392577
-"2011"	"Female"	"Psychology"	20030	392577
-"2011"	"Male"	"Business"	43138	392577
-"2011"	"Male"	"Art/Architecture"	8115	392577
-"2011"	"Female"	"History"	3488	392577
-"2011"	"Female"	"Sociology"	6461	392577
-"2011"	"Male"	"Education"	10900	392577
-"2011"	"Male"	"Anthropology"	630	392577
-"2011"	"Female"	"Other/Unknown"	17561	392577
-"2011"	"Female"	"Engineering"	4889	392577
-"2011"	"Male"	"History"	5260	392577
-"2011"	"Male"	"Communication and Library Science"	8177	392577
-"2011"	"Female"	"Religion"	143	392577
-"2011"	"Female"	"Area and Ethnic Studies"	552	392577
-"2011"	"Male"	"Other/Unknown"	8290	392577
-"2011"	"Male"	"Engineering"	13501	392577
-"2011"	"Female"	"Vocational Studies and Home Economics"	11612	392577
-"2011"	"Female"	"Computer Science"	1220	392577
-"2011"	"Male"	"Religion"	125	392577
-"2011"	"Male"	"Area and Ethnic Studies"	314	392577
-"2011"	"Male"	"Humanities, Other"	949	392577
-"2011"	"Female"	"English and Literature"	9162	392577
-"2011"	"Male"	"Vocational Studies and Home Economics"	8472	392577
+"year"	"gender"	"field"	"count"
+1966	"Female"	"Agriculture"	11
+1967	"Female"	"Agriculture"	21
+1968	"Female"	"Agriculture"	26
+1969	"Female"	"Agriculture"	49
+1970	"Female"	"Agriculture"	62
+1971	"Female"	"Agriculture"	41
+1972	"Female"	"Agriculture"	66
+1973	"Female"	"Agriculture"	91
+1974	"Female"	"Agriculture"	164
+1975	"Female"	"Agriculture"	205
+1976	"Female"	"Agriculture"	317
+1977	"Female"	"Agriculture"	393
+1978	"Female"	"Agriculture"	548
+1979	"Female"	"Agriculture"	668
+1980	"Female"	"Agriculture"	762
+1981	"Female"	"Agriculture"	735
+1982	"Female"	"Agriculture"	822
+1983	"Female"	"Agriculture"	777
+1984	"Female"	"Agriculture"	711
+1985	"Female"	"Agriculture"	685
+1986	"Female"	"Agriculture"	651
+1987	"Female"	"Agriculture"	564
+1988	"Female"	"Agriculture"	561
+1989	"Female"	"Agriculture"	518
+1990	"Female"	"Agriculture"	518
+1991	"Female"	"Agriculture"	506
+1992	"Female"	"Agriculture"	743
+1993	"Female"	"Agriculture"	816
+1994	"Female"	"Agriculture"	969
+1995	"Female"	"Agriculture"	1061
+1996	"Female"	"Agriculture"	1283
+1997	"Female"	"Agriculture"	1453
+1998	"Female"	"Agriculture"	1432
+1999	"Female"	"Agriculture"	1505
+2000	"Female"	"Agriculture"	1574
+2001	"Female"	"Agriculture"	1520
+2002	"Female"	"Agriculture"	1691
+2003	"Female"	"Agriculture"	1595
+2004	"Female"	"Agriculture"	1470
+2005	"Female"	"Agriculture"	1649
+2006	"Female"	"Agriculture"	1626
+2007	"Female"	"Agriculture"	1603
+2008	"Female"	"Agriculture"	1930
+2009	"Female"	"Agriculture"	1815
+2010	"Female"	"Agriculture"	1894
+2011	"Female"	"Agriculture"	2115
+1966	"Male"	"Agriculture"	1052
+1967	"Male"	"Agriculture"	1200
+1968	"Male"	"Agriculture"	1324
+1969	"Male"	"Agriculture"	1499
+1970	"Male"	"Agriculture"	1824
+1971	"Male"	"Agriculture"	2005
+1972	"Male"	"Agriculture"	2203
+1973	"Male"	"Agriculture"	2330
+1974	"Male"	"Agriculture"	2496
+1975	"Male"	"Agriculture"	2244
+1976	"Male"	"Agriculture"	2292
+1977	"Male"	"Agriculture"	2394
+1978	"Male"	"Agriculture"	2491
+1979	"Male"	"Agriculture"	2486
+1980	"Male"	"Agriculture"	2301
+1981	"Male"	"Agriculture"	2135
+1982	"Male"	"Agriculture"	2106
+1983	"Male"	"Agriculture"	1923
+1984	"Male"	"Agriculture"	1732
+1985	"Male"	"Agriculture"	1696
+1986	"Male"	"Agriculture"	1633
+1987	"Male"	"Agriculture"	1395
+1988	"Male"	"Agriculture"	1347
+1989	"Male"	"Agriculture"	1310
+1990	"Male"	"Agriculture"	1224
+1991	"Male"	"Agriculture"	1086
+1992	"Male"	"Agriculture"	1482
+1993	"Male"	"Agriculture"	1702
+1994	"Male"	"Agriculture"	1924
+1995	"Male"	"Agriculture"	2213
+1996	"Male"	"Agriculture"	2393
+1997	"Male"	"Agriculture"	2399
+1998	"Male"	"Agriculture"	2391
+1999	"Male"	"Agriculture"	2418
+2000	"Male"	"Agriculture"	2444
+2001	"Male"	"Agriculture"	2152
+2002	"Male"	"Agriculture"	2149
+2003	"Male"	"Agriculture"	1991
+2004	"Male"	"Agriculture"	1931
+2005	"Male"	"Agriculture"	1940
+2006	"Male"	"Agriculture"	1993
+2007	"Male"	"Agriculture"	2099
+2008	"Male"	"Agriculture"	2152
+2009	"Male"	"Agriculture"	2231
+2010	"Male"	"Agriculture"	2253
+2011	"Male"	"Agriculture"	2427
+1966	"Female"	"Anthropology"	150
+1967	"Female"	"Anthropology"	221
+1968	"Female"	"Anthropology"	264
+1969	"Female"	"Anthropology"	352
+1970	"Female"	"Anthropology"	391
+1971	"Female"	"Anthropology"	482
+1972	"Female"	"Anthropology"	599
+1973	"Female"	"Anthropology"	581
+1974	"Female"	"Anthropology"	654
+1975	"Female"	"Anthropology"	596
+1976	"Female"	"Anthropology"	552
+1977	"Female"	"Anthropology"	576
+1978	"Female"	"Anthropology"	508
+1979	"Female"	"Anthropology"	465
+1980	"Female"	"Anthropology"	470
+1981	"Female"	"Anthropology"	393
+1982	"Female"	"Anthropology"	386
+1983	"Female"	"Anthropology"	347
+1984	"Female"	"Anthropology"	324
+1985	"Female"	"Anthropology"	282
+1986	"Female"	"Anthropology"	313
+1987	"Female"	"Anthropology"	317
+1988	"Female"	"Anthropology"	260
+1989	"Female"	"Anthropology"	296
+1990	"Female"	"Anthropology"	342
+1991	"Female"	"Anthropology"	355
+1992	"Female"	"Anthropology"	492
+1993	"Female"	"Anthropology"	502
+1994	"Female"	"Anthropology"	606
+1995	"Female"	"Anthropology"	644
+1996	"Female"	"Anthropology"	716
+1997	"Female"	"Anthropology"	728
+1998	"Female"	"Anthropology"	789
+1999	"Female"	"Anthropology"	764
+2000	"Female"	"Anthropology"	837
+2001	"Female"	"Anthropology"	811
+2002	"Female"	"Anthropology"	921
+2003	"Female"	"Anthropology"	938
+2004	"Female"	"Anthropology"	963
+2005	"Female"	"Anthropology"	981
+2006	"Female"	"Anthropology"	1018
+2007	"Female"	"Anthropology"	1037
+2008	"Female"	"Anthropology"	1124
+2009	"Female"	"Anthropology"	1184
+2010	"Female"	"Anthropology"	1289
+2011	"Female"	"Anthropology"	1408
+1966	"Male"	"Anthropology"	109
+1967	"Male"	"Anthropology"	148
+1968	"Male"	"Anthropology"	150
+1969	"Male"	"Anthropology"	217
+1970	"Male"	"Anthropology"	298
+1971	"Male"	"Anthropology"	406
+1972	"Male"	"Anthropology"	461
+1973	"Male"	"Anthropology"	566
+1974	"Male"	"Anthropology"	519
+1975	"Male"	"Anthropology"	448
+1976	"Male"	"Anthropology"	404
+1977	"Male"	"Anthropology"	432
+1978	"Male"	"Anthropology"	361
+1979	"Male"	"Anthropology"	315
+1980	"Male"	"Anthropology"	290
+1981	"Male"	"Anthropology"	230
+1982	"Male"	"Anthropology"	200
+1983	"Male"	"Anthropology"	204
+1984	"Male"	"Anthropology"	203
+1985	"Male"	"Anthropology"	195
+1986	"Male"	"Anthropology"	185
+1987	"Male"	"Anthropology"	172
+1988	"Male"	"Anthropology"	163
+1989	"Male"	"Anthropology"	183
+1990	"Male"	"Anthropology"	215
+1991	"Male"	"Anthropology"	251
+1992	"Male"	"Anthropology"	269
+1993	"Male"	"Anthropology"	301
+1994	"Male"	"Anthropology"	329
+1995	"Male"	"Anthropology"	376
+1996	"Male"	"Anthropology"	406
+1997	"Male"	"Anthropology"	493
+1998	"Male"	"Anthropology"	492
+1999	"Male"	"Anthropology"	412
+2000	"Male"	"Anthropology"	436
+2001	"Male"	"Anthropology"	417
+2002	"Male"	"Anthropology"	452
+2003	"Male"	"Anthropology"	451
+2004	"Male"	"Anthropology"	453
+2005	"Male"	"Anthropology"	471
+2006	"Male"	"Anthropology"	518
+2007	"Male"	"Anthropology"	482
+2008	"Male"	"Anthropology"	588
+2009	"Male"	"Anthropology"	575
+2010	"Male"	"Anthropology"	613
+2011	"Male"	"Anthropology"	630
+1966	"Female"	"Area and Ethnic Studies"	47
+1967	"Female"	"Area and Ethnic Studies"	54
+1968	"Female"	"Area and Ethnic Studies"	78
+1969	"Female"	"Area and Ethnic Studies"	104
+1970	"Female"	"Area and Ethnic Studies"	146
+1971	"Female"	"Area and Ethnic Studies"	204
+1972	"Female"	"Area and Ethnic Studies"	241
+1973	"Female"	"Area and Ethnic Studies"	332
+1974	"Female"	"Area and Ethnic Studies"	325
+1975	"Female"	"Area and Ethnic Studies"	278
+1976	"Female"	"Area and Ethnic Studies"	312
+1977	"Female"	"Area and Ethnic Studies"	283
+1978	"Female"	"Area and Ethnic Studies"	284
+1979	"Female"	"Area and Ethnic Studies"	255
+1980	"Female"	"Area and Ethnic Studies"	234
+1981	"Female"	"Area and Ethnic Studies"	194
+1982	"Female"	"Area and Ethnic Studies"	237
+1983	"Female"	"Area and Ethnic Studies"	217
+1984	"Female"	"Area and Ethnic Studies"	231
+1985	"Female"	"Area and Ethnic Studies"	161
+1986	"Female"	"Area and Ethnic Studies"	172
+1987	"Female"	"Area and Ethnic Studies"	151
+1988	"Female"	"Area and Ethnic Studies"	126
+1989	"Female"	"Area and Ethnic Studies"	132
+1990	"Female"	"Area and Ethnic Studies"	167
+1991	"Female"	"Area and Ethnic Studies"	203
+1992	"Female"	"Area and Ethnic Studies"	238
+1993	"Female"	"Area and Ethnic Studies"	284
+1994	"Female"	"Area and Ethnic Studies"	321
+1995	"Female"	"Area and Ethnic Studies"	287
+1996	"Female"	"Area and Ethnic Studies"	339
+1997	"Female"	"Area and Ethnic Studies"	354
+1998	"Female"	"Area and Ethnic Studies"	360
+1999	"Female"	"Area and Ethnic Studies"	399
+2000	"Female"	"Area and Ethnic Studies"	431
+2001	"Female"	"Area and Ethnic Studies"	413
+2002	"Female"	"Area and Ethnic Studies"	444
+2003	"Female"	"Area and Ethnic Studies"	441
+2004	"Female"	"Area and Ethnic Studies"	467
+2005	"Female"	"Area and Ethnic Studies"	486
+2006	"Female"	"Area and Ethnic Studies"	536
+2007	"Female"	"Area and Ethnic Studies"	560
+2008	"Female"	"Area and Ethnic Studies"	570
+2009	"Female"	"Area and Ethnic Studies"	573
+2010	"Female"	"Area and Ethnic Studies"	506
+2011	"Female"	"Area and Ethnic Studies"	552
+1966	"Male"	"Area and Ethnic Studies"	25
+1967	"Male"	"Area and Ethnic Studies"	35
+1968	"Male"	"Area and Ethnic Studies"	50
+1969	"Male"	"Area and Ethnic Studies"	65
+1970	"Male"	"Area and Ethnic Studies"	82
+1971	"Male"	"Area and Ethnic Studies"	139
+1972	"Male"	"Area and Ethnic Studies"	189
+1973	"Male"	"Area and Ethnic Studies"	260
+1974	"Male"	"Area and Ethnic Studies"	286
+1975	"Male"	"Area and Ethnic Studies"	269
+1976	"Male"	"Area and Ethnic Studies"	291
+1977	"Male"	"Area and Ethnic Studies"	230
+1978	"Male"	"Area and Ethnic Studies"	235
+1979	"Male"	"Area and Ethnic Studies"	173
+1980	"Male"	"Area and Ethnic Studies"	158
+1981	"Male"	"Area and Ethnic Studies"	146
+1982	"Male"	"Area and Ethnic Studies"	120
+1983	"Male"	"Area and Ethnic Studies"	128
+1984	"Male"	"Area and Ethnic Studies"	141
+1985	"Male"	"Area and Ethnic Studies"	107
+1986	"Male"	"Area and Ethnic Studies"	90
+1987	"Male"	"Area and Ethnic Studies"	101
+1988	"Male"	"Area and Ethnic Studies"	85
+1989	"Male"	"Area and Ethnic Studies"	82
+1990	"Male"	"Area and Ethnic Studies"	93
+1991	"Male"	"Area and Ethnic Studies"	124
+1992	"Male"	"Area and Ethnic Studies"	143
+1993	"Male"	"Area and Ethnic Studies"	161
+1994	"Male"	"Area and Ethnic Studies"	172
+1995	"Male"	"Area and Ethnic Studies"	193
+1996	"Male"	"Area and Ethnic Studies"	170
+1997	"Male"	"Area and Ethnic Studies"	196
+1998	"Male"	"Area and Ethnic Studies"	222
+1999	"Male"	"Area and Ethnic Studies"	212
+2000	"Male"	"Area and Ethnic Studies"	213
+2001	"Male"	"Area and Ethnic Studies"	204
+2002	"Male"	"Area and Ethnic Studies"	239
+2003	"Male"	"Area and Ethnic Studies"	227
+2004	"Male"	"Area and Ethnic Studies"	253
+2005	"Male"	"Area and Ethnic Studies"	249
+2006	"Male"	"Area and Ethnic Studies"	287
+2007	"Male"	"Area and Ethnic Studies"	294
+2008	"Male"	"Area and Ethnic Studies"	340
+2009	"Male"	"Area and Ethnic Studies"	302
+2010	"Male"	"Area and Ethnic Studies"	301
+2011	"Male"	"Area and Ethnic Studies"	314
+1966	"Female"	"Art/Architecture"	1605
+1967	"Female"	"Art/Architecture"	2078
+1968	"Female"	"Art/Architecture"	2717
+1969	"Female"	"Art/Architecture"	3576
+1970	"Female"	"Art/Architecture"	3786
+1971	"Female"	"Art/Architecture"	3645
+1972	"Female"	"Art/Architecture"	4115
+1973	"Female"	"Art/Architecture"	4402
+1974	"Female"	"Art/Architecture"	4965
+1975	"Female"	"Art/Architecture"	5379
+1976	"Female"	"Art/Architecture"	5605
+1977	"Female"	"Art/Architecture"	5692
+1978	"Female"	"Art/Architecture"	5787
+1979	"Female"	"Art/Architecture"	6039
+1980	"Female"	"Art/Architecture"	5975
+1981	"Female"	"Art/Architecture"	5824
+1982	"Female"	"Art/Architecture"	5630
+1983	"Female"	"Art/Architecture"	5646
+1984	"Female"	"Art/Architecture"	5543
+1985	"Female"	"Art/Architecture"	5400
+1986	"Female"	"Art/Architecture"	5178
+1987	"Female"	"Art/Architecture"	5121
+1988	"Female"	"Art/Architecture"	4857
+1989	"Female"	"Art/Architecture"	5056
+1990	"Female"	"Art/Architecture"	5322
+1991	"Female"	"Art/Architecture"	5779
+1992	"Female"	"Art/Architecture"	6115
+1993	"Female"	"Art/Architecture"	6380
+1994	"Female"	"Art/Architecture"	6488
+1995	"Female"	"Art/Architecture"	6538
+1996	"Female"	"Art/Architecture"	6404
+1997	"Female"	"Art/Architecture"	6232
+1998	"Female"	"Art/Architecture"	6356
+1999	"Female"	"Art/Architecture"	6721
+2000	"Female"	"Art/Architecture"	7122
+2001	"Female"	"Art/Architecture"	7332
+2002	"Female"	"Art/Architecture"	8216
+2003	"Female"	"Art/Architecture"	8916
+2004	"Female"	"Art/Architecture"	9637
+2005	"Female"	"Art/Architecture"	10142
+2006	"Female"	"Art/Architecture"	10615
+2007	"Female"	"Art/Architecture"	10947
+2008	"Female"	"Art/Architecture"	10961
+2009	"Female"	"Art/Architecture"	10974
+2010	"Female"	"Art/Architecture"	11723
+2011	"Female"	"Art/Architecture"	11804
+1966	"Male"	"Art/Architecture"	1457
+1967	"Male"	"Art/Architecture"	1829
+1968	"Male"	"Art/Architecture"	2133
+1969	"Male"	"Art/Architecture"	2945
+1970	"Male"	"Art/Architecture"	3400
+1971	"Male"	"Art/Architecture"	2837
+1972	"Male"	"Art/Architecture"	3430
+1973	"Male"	"Art/Architecture"	3660
+1974	"Male"	"Art/Architecture"	4192
+1975	"Male"	"Art/Architecture"	4360
+1976	"Male"	"Art/Architecture"	4611
+1977	"Male"	"Art/Architecture"	4466
+1978	"Male"	"Art/Architecture"	4500
+1979	"Male"	"Art/Architecture"	4249
+1980	"Male"	"Art/Architecture"	4196
+1981	"Male"	"Art/Architecture"	3941
+1982	"Male"	"Art/Architecture"	3808
+1983	"Male"	"Art/Architecture"	3802
+1984	"Male"	"Art/Architecture"	3737
+1985	"Male"	"Art/Architecture"	3757
+1986	"Male"	"Art/Architecture"	3520
+1987	"Male"	"Art/Architecture"	3482
+1988	"Male"	"Art/Architecture"	3430
+1989	"Male"	"Art/Architecture"	3569
+1990	"Male"	"Art/Architecture"	3756
+1991	"Male"	"Art/Architecture"	3951
+1992	"Male"	"Art/Architecture"	4311
+1993	"Male"	"Art/Architecture"	4534
+1994	"Male"	"Art/Architecture"	4791
+1995	"Male"	"Art/Architecture"	4981
+1996	"Male"	"Art/Architecture"	5132
+1997	"Male"	"Art/Architecture"	4956
+1998	"Male"	"Art/Architecture"	5033
+1999	"Male"	"Art/Architecture"	5036
+2000	"Male"	"Art/Architecture"	5303
+2001	"Male"	"Art/Architecture"	5316
+2002	"Male"	"Art/Architecture"	5808
+2003	"Male"	"Art/Architecture"	6158
+2004	"Male"	"Art/Architecture"	6501
+2005	"Male"	"Art/Architecture"	6898
+2006	"Male"	"Art/Architecture"	7092
+2007	"Male"	"Art/Architecture"	7261
+2008	"Male"	"Art/Architecture"	7414
+2009	"Male"	"Art/Architecture"	7742
+2010	"Male"	"Art/Architecture"	8038
+2011	"Male"	"Art/Architecture"	8115
+1966	"Female"	"Business"	1275
+1967	"Female"	"Business"	1422
+1968	"Female"	"Business"	1763
+1969	"Female"	"Business"	2353
+1970	"Female"	"Business"	2675
+1971	"Female"	"Business"	3231
+1972	"Female"	"Business"	3712
+1973	"Female"	"Business"	4288
+1974	"Female"	"Business"	5337
+1975	"Female"	"Business"	6569
+1976	"Female"	"Business"	8057
+1977	"Female"	"Business"	9871
+1978	"Female"	"Business"	12177
+1979	"Female"	"Business"	14500
+1980	"Female"	"Business"	17435
+1981	"Female"	"Business"	20213
+1982	"Female"	"Business"	23163
+1983	"Female"	"Business"	25712
+1984	"Female"	"Business"	27601
+1985	"Female"	"Business"	29104
+1986	"Female"	"Business"	30486
+1987	"Female"	"Business"	30980
+1988	"Female"	"Business"	30740
+1989	"Female"	"Business"	31371
+1990	"Female"	"Business"	31353
+1991	"Female"	"Business"	32039
+1992	"Female"	"Business"	32707
+1993	"Female"	"Business"	33168
+1994	"Female"	"Business"	32183
+1995	"Female"	"Business"	29957
+1996	"Female"	"Business"	28326
+1997	"Female"	"Business"	27998
+1998	"Female"	"Business"	27481
+1999	"Female"	"Business"	28384
+2000	"Female"	"Business"	30650
+2001	"Female"	"Business"	31530
+2002	"Female"	"Business"	33321
+2003	"Female"	"Business"	35123
+2004	"Female"	"Business"	36644
+2005	"Female"	"Business"	36631
+2006	"Female"	"Business"	36148
+2007	"Female"	"Business"	35895
+2008	"Female"	"Business"	36905
+2009	"Female"	"Business"	37777
+2010	"Female"	"Business"	37695
+2011	"Female"	"Business"	38759
+1966	"Male"	"Business"	10105
+1967	"Male"	"Business"	11524
+1968	"Male"	"Business"	14343
+1969	"Male"	"Business"	17634
+1970	"Male"	"Business"	21763
+1971	"Male"	"Business"	24722
+1972	"Male"	"Business"	26907
+1973	"Male"	"Business"	28736
+1974	"Male"	"Business"	29711
+1975	"Male"	"Business"	28753
+1976	"Male"	"Business"	29566
+1977	"Male"	"Business"	29892
+1978	"Male"	"Business"	30003
+1979	"Male"	"Business"	30226
+1980	"Male"	"Business"	30952
+1981	"Male"	"Business"	31753
+1982	"Male"	"Business"	33319
+1983	"Male"	"Business"	33386
+1984	"Male"	"Business"	33678
+1985	"Male"	"Business"	34251
+1986	"Male"	"Business"	33964
+1987	"Male"	"Business"	33608
+1988	"Male"	"Business"	33443
+1989	"Male"	"Business"	33365
+1990	"Male"	"Business"	33902
+1991	"Male"	"Business"	33637
+1992	"Male"	"Business"	34776
+1993	"Male"	"Business"	34415
+1994	"Male"	"Business"	33591
+1995	"Male"	"Business"	31340
+1996	"Male"	"Business"	28652
+1997	"Male"	"Business"	28153
+1998	"Male"	"Business"	28002
+1999	"Male"	"Business"	28085
+2000	"Male"	"Business"	29627
+2001	"Male"	"Business"	30656
+2002	"Male"	"Business"	32126
+2003	"Male"	"Business"	33373
+2004	"Male"	"Business"	35259
+2005	"Male"	"Business"	35773
+2006	"Male"	"Business"	36498
+2007	"Male"	"Business"	38062
+2008	"Male"	"Business"	39463
+2009	"Male"	"Business"	41122
+2010	"Male"	"Business"	41994
+2011	"Male"	"Business"	43138
+1966	"Female"	"Communication and Library Science"	409
+1967	"Female"	"Communication and Library Science"	457
+1968	"Female"	"Communication and Library Science"	528
+1969	"Female"	"Communication and Library Science"	753
+1970	"Female"	"Communication and Library Science"	735
+1971	"Female"	"Communication and Library Science"	892
+1972	"Female"	"Communication and Library Science"	1024
+1973	"Female"	"Communication and Library Science"	1364
+1974	"Female"	"Communication and Library Science"	1576
+1975	"Female"	"Communication and Library Science"	1749
+1976	"Female"	"Communication and Library Science"	1961
+1977	"Female"	"Communication and Library Science"	2332
+1978	"Female"	"Communication and Library Science"	2466
+1979	"Female"	"Communication and Library Science"	2667
+1980	"Female"	"Communication and Library Science"	2847
+1981	"Female"	"Communication and Library Science"	3348
+1982	"Female"	"Communication and Library Science"	3832
+1983	"Female"	"Communication and Library Science"	4656
+1984	"Female"	"Communication and Library Science"	5181
+1985	"Female"	"Communication and Library Science"	5375
+1986	"Female"	"Communication and Library Science"	5587
+1987	"Female"	"Communication and Library Science"	5853
+1988	"Female"	"Communication and Library Science"	6156
+1989	"Female"	"Communication and Library Science"	6479
+1990	"Female"	"Communication and Library Science"	6646
+1991	"Female"	"Communication and Library Science"	7219
+1992	"Female"	"Communication and Library Science"	7816
+1993	"Female"	"Communication and Library Science"	7868
+1994	"Female"	"Communication and Library Science"	7642
+1995	"Female"	"Communication and Library Science"	7079
+1996	"Female"	"Communication and Library Science"	6941
+1997	"Female"	"Communication and Library Science"	7221
+1998	"Female"	"Communication and Library Science"	7381
+1999	"Female"	"Communication and Library Science"	7692
+2000	"Female"	"Communication and Library Science"	8334
+2001	"Female"	"Communication and Library Science"	8767
+2002	"Female"	"Communication and Library Science"	9786
+2003	"Female"	"Communication and Library Science"	10562
+2004	"Female"	"Communication and Library Science"	11016
+2005	"Female"	"Communication and Library Science"	11587
+2006	"Female"	"Communication and Library Science"	11628
+2007	"Female"	"Communication and Library Science"	11933
+2008	"Female"	"Communication and Library Science"	12189
+2009	"Female"	"Communication and Library Science"	12596
+2010	"Female"	"Communication and Library Science"	13095
+2011	"Female"	"Communication and Library Science"	13165
+1966	"Male"	"Communication and Library Science"	238
+1967	"Male"	"Communication and Library Science"	251
+1968	"Male"	"Communication and Library Science"	291
+1969	"Male"	"Communication and Library Science"	404
+1970	"Male"	"Communication and Library Science"	513
+1971	"Male"	"Communication and Library Science"	1053
+1972	"Male"	"Communication and Library Science"	1323
+1973	"Male"	"Communication and Library Science"	1540
+1974	"Male"	"Communication and Library Science"	1894
+1975	"Male"	"Communication and Library Science"	2019
+1976	"Male"	"Communication and Library Science"	2294
+1977	"Male"	"Communication and Library Science"	2569
+1978	"Male"	"Communication and Library Science"	2631
+1979	"Male"	"Communication and Library Science"	2595
+1980	"Male"	"Communication and Library Science"	2714
+1981	"Male"	"Communication and Library Science"	2891
+1982	"Male"	"Communication and Library Science"	3267
+1983	"Male"	"Communication and Library Science"	3767
+1984	"Male"	"Communication and Library Science"	4131
+1985	"Male"	"Communication and Library Science"	4301
+1986	"Male"	"Communication and Library Science"	4389
+1987	"Male"	"Communication and Library Science"	4418
+1988	"Male"	"Communication and Library Science"	4583
+1989	"Male"	"Communication and Library Science"	4835
+1990	"Male"	"Communication and Library Science"	4909
+1991	"Male"	"Communication and Library Science"	5039
+1992	"Male"	"Communication and Library Science"	5556
+1993	"Male"	"Communication and Library Science"	5806
+1994	"Male"	"Communication and Library Science"	5954
+1995	"Male"	"Communication and Library Science"	5584
+1996	"Male"	"Communication and Library Science"	5291
+1997	"Male"	"Communication and Library Science"	5444
+1998	"Male"	"Communication and Library Science"	5388
+1999	"Male"	"Communication and Library Science"	5457
+2000	"Male"	"Communication and Library Science"	5651
+2001	"Male"	"Communication and Library Science"	5812
+2002	"Male"	"Communication and Library Science"	6001
+2003	"Male"	"Communication and Library Science"	6209
+2004	"Male"	"Communication and Library Science"	6401
+2005	"Male"	"Communication and Library Science"	6591
+2006	"Male"	"Communication and Library Science"	7107
+2007	"Male"	"Communication and Library Science"	7274
+2008	"Male"	"Communication and Library Science"	7625
+2009	"Male"	"Communication and Library Science"	7749
+2010	"Male"	"Communication and Library Science"	7868
+2011	"Male"	"Communication and Library Science"	8177
+1966	"Female"	"Computer Science"	2
+1967	"Female"	"Computer Science"	5
+1968	"Female"	"Computer Science"	9
+1969	"Female"	"Computer Science"	27
+1970	"Female"	"Computer Science"	46
+1971	"Female"	"Computer Science"	62
+1972	"Female"	"Computer Science"	121
+1973	"Female"	"Computer Science"	150
+1974	"Female"	"Computer Science"	172
+1975	"Female"	"Computer Science"	285
+1976	"Female"	"Computer Science"	352
+1977	"Female"	"Computer Science"	471
+1978	"Female"	"Computer Science"	567
+1979	"Female"	"Computer Science"	806
+1980	"Female"	"Computer Science"	1077
+1981	"Female"	"Computer Science"	1540
+1982	"Female"	"Computer Science"	2129
+1983	"Female"	"Computer Science"	2789
+1984	"Female"	"Computer Science"	3674
+1985	"Female"	"Computer Science"	4144
+1986	"Female"	"Computer Science"	4331
+1987	"Female"	"Computer Science"	4046
+1988	"Female"	"Computer Science"	3073
+1989	"Female"	"Computer Science"	2803
+1990	"Female"	"Computer Science"	2416
+1991	"Female"	"Computer Science"	2110
+1992	"Female"	"Computer Science"	1995
+1993	"Female"	"Computer Science"	1956
+1994	"Female"	"Computer Science"	1949
+1995	"Female"	"Computer Science"	1963
+1996	"Female"	"Computer Science"	1787
+1997	"Female"	"Computer Science"	1823
+1998	"Female"	"Computer Science"	1874
+1999	"Female"	"Computer Science"	1789
+2000	"Female"	"Computer Science"	2349
+2001	"Female"	"Computer Science"	2761
+2002	"Female"	"Computer Science"	3021
+2003	"Female"	"Computer Science"	3354
+2004	"Female"	"Computer Science"	2931
+2005	"Female"	"Computer Science"	2380
+2006	"Female"	"Computer Science"	1799
+2007	"Female"	"Computer Science"	1355
+2008	"Female"	"Computer Science"	1140
+2009	"Female"	"Computer Science"	1101
+2010	"Female"	"Computer Science"	1153
+2011	"Female"	"Computer Science"	1220
+1966	"Male"	"Computer Science"	8
+1967	"Male"	"Computer Science"	13
+1968	"Male"	"Computer Science"	80
+1969	"Male"	"Computer Science"	130
+1970	"Male"	"Computer Science"	241
+1971	"Male"	"Computer Science"	353
+1972	"Male"	"Computer Science"	660
+1973	"Male"	"Computer Science"	796
+1974	"Male"	"Computer Science"	946
+1975	"Male"	"Computer Science"	876
+1976	"Male"	"Computer Science"	1089
+1977	"Male"	"Computer Science"	1237
+1978	"Male"	"Computer Science"	1403
+1979	"Male"	"Computer Science"	1672
+1980	"Male"	"Computer Science"	2101
+1981	"Male"	"Computer Science"	2751
+1982	"Male"	"Computer Science"	3528
+1983	"Male"	"Computer Science"	4611
+1984	"Male"	"Computer Science"	5740
+1985	"Male"	"Computer Science"	6673
+1986	"Male"	"Computer Science"	7373
+1987	"Male"	"Computer Science"	7120
+1988	"Male"	"Computer Science"	6105
+1989	"Male"	"Computer Science"	5877
+1990	"Male"	"Computer Science"	5221
+1991	"Male"	"Computer Science"	4797
+1992	"Male"	"Computer Science"	4679
+1993	"Male"	"Computer Science"	4668
+1994	"Male"	"Computer Science"	4588
+1995	"Male"	"Computer Science"	4639
+1996	"Male"	"Computer Science"	4461
+1997	"Male"	"Computer Science"	4370
+1998	"Male"	"Computer Science"	4947
+1999	"Male"	"Computer Science"	4977
+2000	"Male"	"Computer Science"	6007
+2001	"Male"	"Computer Science"	6859
+2002	"Male"	"Computer Science"	7630
+2003	"Male"	"Computer Science"	8520
+2004	"Male"	"Computer Science"	8626
+2005	"Male"	"Computer Science"	7892
+2006	"Male"	"Computer Science"	6950
+2007	"Male"	"Computer Science"	6098
+2008	"Male"	"Computer Science"	5710
+2009	"Male"	"Computer Science"	5543
+2010	"Male"	"Computer Science"	5596
+2011	"Male"	"Computer Science"	6280
+1966	"Female"	"Economics"	99
+1967	"Female"	"Economics"	128
+1968	"Female"	"Economics"	189
+1969	"Female"	"Economics"	194
+1970	"Female"	"Economics"	225
+1971	"Female"	"Economics"	387
+1972	"Female"	"Economics"	251
+1973	"Female"	"Economics"	293
+1974	"Female"	"Economics"	374
+1975	"Female"	"Economics"	416
+1976	"Female"	"Economics"	431
+1977	"Female"	"Economics"	567
+1978	"Female"	"Economics"	632
+1979	"Female"	"Economics"	716
+1980	"Female"	"Economics"	847
+1981	"Female"	"Economics"	870
+1982	"Female"	"Economics"	922
+1983	"Female"	"Economics"	942
+1984	"Female"	"Economics"	966
+1985	"Female"	"Economics"	850
+1986	"Female"	"Economics"	836
+1987	"Female"	"Economics"	893
+1988	"Female"	"Economics"	870
+1989	"Female"	"Economics"	896
+1990	"Female"	"Economics"	899
+1991	"Female"	"Economics"	926
+1992	"Female"	"Economics"	955
+1993	"Female"	"Economics"	971
+1994	"Female"	"Economics"	912
+1995	"Female"	"Economics"	865
+1996	"Female"	"Economics"	752
+1997	"Female"	"Economics"	710
+1998	"Female"	"Economics"	651
+1999	"Female"	"Economics"	664
+2000	"Female"	"Economics"	716
+2001	"Female"	"Economics"	718
+2002	"Female"	"Economics"	804
+2003	"Female"	"Economics"	856
+2004	"Female"	"Economics"	901
+2005	"Female"	"Economics"	894
+2006	"Female"	"Economics"	864
+2007	"Female"	"Economics"	893
+2008	"Female"	"Economics"	978
+2009	"Female"	"Economics"	922
+2010	"Female"	"Economics"	992
+2011	"Female"	"Economics"	946
+1966	"Male"	"Economics"	1246
+1967	"Male"	"Economics"	1483
+1968	"Male"	"Economics"	1653
+1969	"Male"	"Economics"	2035
+1970	"Male"	"Economics"	2263
+1971	"Male"	"Economics"	2508
+1972	"Male"	"Economics"	2384
+1973	"Male"	"Economics"	2435
+1974	"Male"	"Economics"	2491
+1975	"Male"	"Economics"	2221
+1976	"Male"	"Economics"	2062
+1977	"Male"	"Economics"	1978
+1978	"Male"	"Economics"	2043
+1979	"Male"	"Economics"	2137
+1980	"Male"	"Economics"	2099
+1981	"Male"	"Economics"	2113
+1982	"Male"	"Economics"	2042
+1983	"Male"	"Economics"	1954
+1984	"Male"	"Economics"	1966
+1985	"Male"	"Economics"	1799
+1986	"Male"	"Economics"	1784
+1987	"Male"	"Economics"	1880
+1988	"Male"	"Economics"	1937
+1989	"Male"	"Economics"	2004
+1990	"Male"	"Economics"	2060
+1991	"Male"	"Economics"	2182
+1992	"Male"	"Economics"	2302
+1993	"Male"	"Economics"	2100
+1994	"Male"	"Economics"	2058
+1995	"Male"	"Economics"	1832
+1996	"Male"	"Economics"	1687
+1997	"Male"	"Economics"	1584
+1998	"Male"	"Economics"	1504
+1999	"Male"	"Economics"	1456
+2000	"Male"	"Economics"	1401
+2001	"Male"	"Economics"	1431
+2002	"Male"	"Economics"	1461
+2003	"Male"	"Economics"	1552
+2004	"Male"	"Economics"	1805
+2005	"Male"	"Economics"	1722
+2006	"Male"	"Economics"	1844
+2007	"Male"	"Economics"	1858
+2008	"Male"	"Economics"	2020
+2009	"Male"	"Economics"	2156
+2010	"Male"	"Economics"	2293
+2011	"Male"	"Economics"	2473
+1966	"Female"	"Education"	32212
+1967	"Female"	"Education"	32544
+1968	"Female"	"Education"	37435
+1969	"Female"	"Education"	42501
+1970	"Female"	"Education"	45696
+1971	"Female"	"Education"	49453
+1972	"Female"	"Education"	53769
+1973	"Female"	"Education"	55511
+1974	"Female"	"Education"	53958
+1975	"Female"	"Education"	48318
+1976	"Female"	"Education"	43820
+1977	"Female"	"Education"	40015
+1978	"Female"	"Education"	38315
+1979	"Female"	"Education"	35950
+1980	"Female"	"Education"	34038
+1981	"Female"	"Education"	31313
+1982	"Female"	"Education"	29311
+1983	"Female"	"Education"	28048
+1984	"Female"	"Education"	26336
+1985	"Female"	"Education"	25363
+1986	"Female"	"Education"	25078
+1987	"Female"	"Education"	24895
+1988	"Female"	"Education"	26865
+1989	"Female"	"Education"	28880
+1990	"Female"	"Education"	31231
+1991	"Female"	"Education"	34625
+1992	"Female"	"Education"	33959
+1993	"Female"	"Education"	33454
+1994	"Female"	"Education"	32722
+1995	"Female"	"Education"	31511
+1996	"Female"	"Education"	31337
+1997	"Female"	"Education"	31042
+1998	"Female"	"Education"	31284
+1999	"Female"	"Education"	31205
+2000	"Female"	"Education"	31305
+2001	"Female"	"Education"	30580
+2002	"Female"	"Education"	30798
+2003	"Female"	"Education"	31893
+2004	"Female"	"Education"	31675
+2005	"Female"	"Education"	31393
+2006	"Female"	"Education"	32320
+2007	"Female"	"Education"	31627
+2008	"Female"	"Education"	30961
+2009	"Female"	"Education"	32016
+2010	"Female"	"Education"	31474
+2011	"Female"	"Education"	31616
+1966	"Male"	"Education"	11976
+1967	"Male"	"Education"	12343
+1968	"Male"	"Education"	13538
+1969	"Male"	"Education"	15324
+1970	"Male"	"Education"	16859
+1971	"Male"	"Education"	19820
+1972	"Male"	"Education"	21400
+1973	"Male"	"Education"	22408
+1974	"Male"	"Education"	20895
+1975	"Male"	"Education"	19026
+1976	"Male"	"Education"	17691
+1977	"Male"	"Education"	16622
+1978	"Male"	"Education"	15500
+1979	"Male"	"Education"	14284
+1980	"Male"	"Education"	12926
+1981	"Male"	"Education"	11222
+1982	"Male"	"Education"	10150
+1983	"Male"	"Education"	9477
+1984	"Male"	"Education"	8858
+1985	"Male"	"Education"	8349
+1986	"Male"	"Education"	8299
+1987	"Male"	"Education"	7983
+1988	"Male"	"Education"	8191
+1989	"Male"	"Education"	8572
+1990	"Male"	"Education"	8982
+1991	"Male"	"Education"	9421
+1992	"Male"	"Education"	9632
+1993	"Male"	"Education"	10044
+1994	"Male"	"Education"	10656
+1995	"Male"	"Education"	11232
+1996	"Male"	"Education"	11506
+1997	"Male"	"Education"	11489
+1998	"Male"	"Education"	11656
+1999	"Male"	"Education"	11663
+2000	"Male"	"Education"	11791
+2001	"Male"	"Education"	10986
+2002	"Male"	"Education"	10857
+2003	"Male"	"Education"	10762
+2004	"Male"	"Education"	10855
+2005	"Male"	"Education"	10661
+2006	"Male"	"Education"	11235
+2007	"Male"	"Education"	11311
+2008	"Male"	"Education"	11487
+2009	"Male"	"Education"	11545
+2010	"Male"	"Education"	11126
+2011	"Male"	"Education"	10900
+1966	"Female"	"Engineering"	12
+1967	"Female"	"Engineering"	20
+1968	"Female"	"Engineering"	22
+1969	"Female"	"Engineering"	28
+1970	"Female"	"Engineering"	72
+1971	"Female"	"Engineering"	567
+1972	"Female"	"Engineering"	684
+1973	"Female"	"Engineering"	669
+1974	"Female"	"Engineering"	970
+1975	"Female"	"Engineering"	1155
+1976	"Female"	"Engineering"	1267
+1977	"Female"	"Engineering"	1299
+1978	"Female"	"Engineering"	1605
+1979	"Female"	"Engineering"	1617
+1980	"Female"	"Engineering"	1889
+1981	"Female"	"Engineering"	2059
+1982	"Female"	"Engineering"	2232
+1983	"Female"	"Engineering"	2998
+1984	"Female"	"Engineering"	3201
+1985	"Female"	"Engineering"	3414
+1986	"Female"	"Engineering"	3384
+1987	"Female"	"Engineering"	3384
+1988	"Female"	"Engineering"	3050
+1989	"Female"	"Engineering"	3020
+1990	"Female"	"Engineering"	2997
+1991	"Female"	"Engineering"	3128
+1992	"Female"	"Engineering"	2875
+1993	"Female"	"Engineering"	3222
+1994	"Female"	"Engineering"	3254
+1995	"Female"	"Engineering"	3674
+1996	"Female"	"Engineering"	3757
+1997	"Female"	"Engineering"	3853
+1998	"Female"	"Engineering"	3879
+1999	"Female"	"Engineering"	3820
+2000	"Female"	"Engineering"	4035
+2001	"Female"	"Engineering"	3913
+2002	"Female"	"Engineering"	3996
+2003	"Female"	"Engineering"	4161
+2004	"Female"	"Engineering"	4182
+2005	"Female"	"Engineering"	4301
+2006	"Female"	"Engineering"	4524
+2007	"Female"	"Engineering"	4462
+2008	"Female"	"Engineering"	4582
+2009	"Female"	"Engineering"	4804
+2010	"Female"	"Engineering"	4575
+2011	"Female"	"Engineering"	4889
+1966	"Male"	"Engineering"	3032
+1967	"Male"	"Engineering"	3315
+1968	"Male"	"Engineering"	3743
+1969	"Male"	"Engineering"	4549
+1970	"Male"	"Engineering"	5275
+1971	"Male"	"Engineering"	5972
+1972	"Male"	"Engineering"	6218
+1973	"Male"	"Engineering"	6705
+1974	"Male"	"Engineering"	6921
+1975	"Male"	"Engineering"	6641
+1976	"Male"	"Engineering"	6303
+1977	"Male"	"Engineering"	6694
+1978	"Male"	"Engineering"	7153
+1979	"Male"	"Engineering"	7768
+1980	"Male"	"Engineering"	8442
+1981	"Male"	"Engineering"	9186
+1982	"Male"	"Engineering"	10050
+1983	"Male"	"Engineering"	11519
+1984	"Male"	"Engineering"	12029
+1985	"Male"	"Engineering"	12446
+1986	"Male"	"Engineering"	12652
+1987	"Male"	"Engineering"	12548
+1988	"Male"	"Engineering"	12022
+1989	"Male"	"Engineering"	11917
+1990	"Male"	"Engineering"	11619
+1991	"Male"	"Engineering"	11028
+1992	"Male"	"Engineering"	11187
+1993	"Male"	"Engineering"	11324
+1994	"Male"	"Engineering"	11159
+1995	"Male"	"Engineering"	11389
+1996	"Male"	"Engineering"	11161
+1997	"Male"	"Engineering"	10730
+1998	"Male"	"Engineering"	10761
+1999	"Male"	"Engineering"	10241
+2000	"Male"	"Engineering"	9980
+2001	"Male"	"Engineering"	9910
+2002	"Male"	"Engineering"	10037
+2003	"Male"	"Engineering"	10298
+2004	"Male"	"Engineering"	10296
+2005	"Male"	"Engineering"	10769
+2006	"Male"	"Engineering"	11620
+2007	"Male"	"Engineering"	11651
+2008	"Male"	"Engineering"	12139
+2009	"Male"	"Engineering"	12793
+2010	"Male"	"Engineering"	13245
+2011	"Male"	"Engineering"	13501
+1966	"Female"	"English and Literature"	5201
+1967	"Female"	"English and Literature"	6227
+1968	"Female"	"English and Literature"	7548
+1969	"Female"	"English and Literature"	9220
+1970	"Female"	"English and Literature"	9786
+1971	"Female"	"English and Literature"	12225
+1972	"Female"	"English and Literature"	11943
+1973	"Female"	"English and Literature"	11451
+1974	"Female"	"English and Literature"	10059
+1975	"Female"	"English and Literature"	8282
+1976	"Female"	"English and Literature"	7149
+1977	"Female"	"English and Literature"	6024
+1978	"Female"	"English and Literature"	5713
+1979	"Female"	"English and Literature"	5307
+1980	"Female"	"English and Literature"	5066
+1981	"Female"	"English and Literature"	4899
+1982	"Female"	"English and Literature"	4803
+1983	"Female"	"English and Literature"	4392
+1984	"Female"	"English and Literature"	4426
+1985	"Female"	"English and Literature"	4500
+1986	"Female"	"English and Literature"	4711
+1987	"Female"	"English and Literature"	5028
+1988	"Female"	"English and Literature"	5351
+1989	"Female"	"English and Literature"	5801
+1990	"Female"	"English and Literature"	6643
+1991	"Female"	"English and Literature"	7443
+1992	"Female"	"English and Literature"	7919
+1993	"Female"	"English and Literature"	8213
+1994	"Female"	"English and Literature"	8153
+1995	"Female"	"English and Literature"	8044
+1996	"Female"	"English and Literature"	7836
+1997	"Female"	"English and Literature"	7648
+1998	"Female"	"English and Literature"	7819
+1999	"Female"	"English and Literature"	7964
+2000	"Female"	"English and Literature"	7899
+2001	"Female"	"English and Literature"	8168
+2002	"Female"	"English and Literature"	8734
+2003	"Female"	"English and Literature"	9030
+2004	"Female"	"English and Literature"	9186
+2005	"Female"	"English and Literature"	9233
+2006	"Female"	"English and Literature"	9811
+2007	"Female"	"English and Literature"	9697
+2008	"Female"	"English and Literature"	9460
+2009	"Female"	"English and Literature"	9438
+2010	"Female"	"English and Literature"	9289
+2011	"Female"	"English and Literature"	9162
+1966	"Male"	"English and Literature"	2143
+1967	"Male"	"English and Literature"	2550
+1968	"Male"	"English and Literature"	2979
+1969	"Male"	"English and Literature"	3287
+1970	"Male"	"English and Literature"	3835
+1971	"Male"	"English and Literature"	4791
+1972	"Male"	"English and Literature"	5258
+1973	"Male"	"English and Literature"	5312
+1974	"Male"	"English and Literature"	4881
+1975	"Male"	"English and Literature"	4245
+1976	"Male"	"English and Literature"	3990
+1977	"Male"	"English and Literature"	3209
+1978	"Male"	"English and Literature"	3132
+1979	"Male"	"English and Literature"	2839
+1980	"Male"	"English and Literature"	2558
+1981	"Male"	"English and Literature"	2390
+1982	"Male"	"English and Literature"	2371
+1983	"Male"	"English and Literature"	2082
+1984	"Male"	"English and Literature"	2178
+1985	"Male"	"English and Literature"	2252
+1986	"Male"	"English and Literature"	2370
+1987	"Male"	"English and Literature"	2479
+1988	"Male"	"English and Literature"	2584
+1989	"Male"	"English and Literature"	2687
+1990	"Male"	"English and Literature"	2973
+1991	"Male"	"English and Literature"	3411
+1992	"Male"	"English and Literature"	3506
+1993	"Male"	"English and Literature"	3801
+1994	"Male"	"English and Literature"	3815
+1995	"Male"	"English and Literature"	3692
+1996	"Male"	"English and Literature"	3822
+1997	"Male"	"English and Literature"	3604
+1998	"Male"	"English and Literature"	3671
+1999	"Male"	"English and Literature"	3523
+2000	"Male"	"English and Literature"	3550
+2001	"Male"	"English and Literature"	3500
+2002	"Male"	"English and Literature"	3696
+2003	"Male"	"English and Literature"	3719
+2004	"Male"	"English and Literature"	3840
+2005	"Male"	"English and Literature"	3981
+2006	"Male"	"English and Literature"	4009
+2007	"Male"	"English and Literature"	4142
+2008	"Male"	"English and Literature"	4083
+2009	"Male"	"English and Literature"	4378
+2010	"Male"	"English and Literature"	4286
+2011	"Male"	"English and Literature"	4194
+1966	"Female"	"Foreign Languages"	1527
+1967	"Female"	"Foreign Languages"	1972
+1968	"Female"	"Foreign Languages"	2423
+1969	"Female"	"Foreign Languages"	3069
+1970	"Female"	"Foreign Languages"	3062
+1971	"Female"	"Foreign Languages"	3208
+1972	"Female"	"Foreign Languages"	3276
+1973	"Female"	"Foreign Languages"	3409
+1974	"Female"	"Foreign Languages"	3373
+1975	"Female"	"Foreign Languages"	3053
+1976	"Female"	"Foreign Languages"	2622
+1977	"Female"	"Foreign Languages"	2348
+1978	"Female"	"Foreign Languages"	2149
+1979	"Female"	"Foreign Languages"	1856
+1980	"Female"	"Foreign Languages"	1647
+1981	"Female"	"Foreign Languages"	1543
+1982	"Female"	"Foreign Languages"	1379
+1983	"Female"	"Foreign Languages"	1189
+1984	"Female"	"Foreign Languages"	1149
+1985	"Female"	"Foreign Languages"	1185
+1986	"Female"	"Foreign Languages"	1161
+1987	"Female"	"Foreign Languages"	1147
+1988	"Female"	"Foreign Languages"	1074
+1989	"Female"	"Foreign Languages"	1225
+1990	"Female"	"Foreign Languages"	1322
+1991	"Female"	"Foreign Languages"	1432
+1992	"Female"	"Foreign Languages"	1517
+1993	"Female"	"Foreign Languages"	1645
+1994	"Female"	"Foreign Languages"	1658
+1995	"Female"	"Foreign Languages"	1704
+1996	"Female"	"Foreign Languages"	1739
+1997	"Female"	"Foreign Languages"	1710
+1998	"Female"	"Foreign Languages"	1836
+1999	"Female"	"Foreign Languages"	2017
+2000	"Female"	"Foreign Languages"	2015
+2001	"Female"	"Foreign Languages"	2064
+2002	"Female"	"Foreign Languages"	2130
+2003	"Female"	"Foreign Languages"	2171
+2004	"Female"	"Foreign Languages"	2191
+2005	"Female"	"Foreign Languages"	2414
+2006	"Female"	"Foreign Languages"	2475
+2007	"Female"	"Foreign Languages"	2544
+2008	"Female"	"Foreign Languages"	2630
+2009	"Female"	"Foreign Languages"	2646
+2010	"Female"	"Foreign Languages"	2658
+2011	"Female"	"Foreign Languages"	2618
+1966	"Male"	"Foreign Languages"	636
+1967	"Male"	"Foreign Languages"	785
+1968	"Male"	"Foreign Languages"	865
+1969	"Male"	"Foreign Languages"	1019
+1970	"Male"	"Foreign Languages"	996
+1971	"Male"	"Foreign Languages"	1092
+1972	"Male"	"Foreign Languages"	1026
+1973	"Male"	"Foreign Languages"	1037
+1974	"Male"	"Foreign Languages"	1108
+1975	"Male"	"Foreign Languages"	891
+1976	"Male"	"Foreign Languages"	768
+1977	"Male"	"Foreign Languages"	723
+1978	"Male"	"Foreign Languages"	682
+1979	"Male"	"Foreign Languages"	623
+1980	"Male"	"Foreign Languages"	538
+1981	"Male"	"Foreign Languages"	444
+1982	"Male"	"Foreign Languages"	416
+1983	"Male"	"Foreign Languages"	370
+1984	"Male"	"Foreign Languages"	429
+1985	"Male"	"Foreign Languages"	362
+1986	"Male"	"Foreign Languages"	411
+1987	"Male"	"Foreign Languages"	427
+1988	"Male"	"Foreign Languages"	384
+1989	"Male"	"Foreign Languages"	422
+1990	"Male"	"Foreign Languages"	447
+1991	"Male"	"Foreign Languages"	515
+1992	"Male"	"Foreign Languages"	515
+1993	"Male"	"Foreign Languages"	600
+1994	"Male"	"Foreign Languages"	598
+1995	"Male"	"Foreign Languages"	617
+1996	"Male"	"Foreign Languages"	635
+1997	"Male"	"Foreign Languages"	659
+1998	"Male"	"Foreign Languages"	661
+1999	"Male"	"Foreign Languages"	702
+2000	"Male"	"Foreign Languages"	697
+2001	"Male"	"Foreign Languages"	716
+2002	"Male"	"Foreign Languages"	715
+2003	"Male"	"Foreign Languages"	748
+2004	"Male"	"Foreign Languages"	770
+2005	"Male"	"Foreign Languages"	780
+2006	"Male"	"Foreign Languages"	857
+2007	"Male"	"Foreign Languages"	902
+2008	"Male"	"Foreign Languages"	890
+2009	"Male"	"Foreign Languages"	910
+2010	"Male"	"Foreign Languages"	972
+2011	"Male"	"Foreign Languages"	908
+1966	"Female"	"History"	1511
+1967	"Female"	"History"	1824
+1968	"Female"	"History"	2301
+1969	"Female"	"History"	2950
+1970	"Female"	"History"	3469
+1971	"Female"	"History"	3899
+1972	"Female"	"History"	4025
+1973	"Female"	"History"	3721
+1974	"Female"	"History"	3379
+1975	"Female"	"History"	2761
+1976	"Female"	"History"	2216
+1977	"Female"	"History"	2059
+1978	"Female"	"History"	1767
+1979	"Female"	"History"	1574
+1980	"Female"	"History"	1386
+1981	"Female"	"History"	1303
+1982	"Female"	"History"	1141
+1983	"Female"	"History"	1117
+1984	"Female"	"History"	1004
+1985	"Female"	"History"	939
+1986	"Female"	"History"	986
+1987	"Female"	"History"	1024
+1988	"Female"	"History"	1081
+1989	"Female"	"History"	1214
+1990	"Female"	"History"	1355
+1991	"Female"	"History"	1624
+1992	"Female"	"History"	1775
+1993	"Female"	"History"	1965
+1994	"Female"	"History"	2074
+1995	"Female"	"History"	2032
+1996	"Female"	"History"	2032
+1997	"Female"	"History"	2053
+1998	"Female"	"History"	2182
+1999	"Female"	"History"	2120
+2000	"Female"	"History"	2153
+2001	"Female"	"History"	2235
+2002	"Female"	"History"	2404
+2003	"Female"	"History"	2565
+2004	"Female"	"History"	2764
+2005	"Female"	"History"	2876
+2006	"Female"	"History"	3170
+2007	"Female"	"History"	3275
+2008	"Female"	"History"	3233
+2009	"Female"	"History"	3297
+2010	"Female"	"History"	3439
+2011	"Female"	"History"	3488
+1966	"Male"	"History"	3189
+1967	"Male"	"History"	3695
+1968	"Male"	"History"	4359
+1969	"Male"	"History"	5680
+1970	"Male"	"History"	6471
+1971	"Male"	"History"	7135
+1972	"Male"	"History"	7267
+1973	"Male"	"History"	6813
+1974	"Male"	"History"	6268
+1975	"Male"	"History"	5211
+1976	"Male"	"History"	4445
+1977	"Male"	"History"	3952
+1978	"Male"	"History"	3516
+1979	"Male"	"History"	3098
+1980	"Male"	"History"	2524
+1981	"Male"	"History"	2281
+1982	"Male"	"History"	2057
+1983	"Male"	"History"	1792
+1984	"Male"	"History"	1928
+1985	"Male"	"History"	1877
+1986	"Male"	"History"	1876
+1987	"Male"	"History"	1957
+1988	"Male"	"History"	2085
+1989	"Male"	"History"	2249
+1990	"Male"	"History"	2503
+1991	"Male"	"History"	2903
+1992	"Male"	"History"	3150
+1993	"Male"	"History"	3325
+1994	"Male"	"History"	3662
+1995	"Male"	"History"	3560
+1996	"Male"	"History"	3466
+1997	"Male"	"History"	3488
+1998	"Male"	"History"	3551
+1999	"Male"	"History"	3301
+2000	"Male"	"History"	3329
+2001	"Male"	"History"	3324
+2002	"Male"	"History"	3466
+2003	"Male"	"History"	3624
+2004	"Male"	"History"	3917
+2005	"Male"	"History"	4274
+2006	"Male"	"History"	4486
+2007	"Male"	"History"	4806
+2008	"Male"	"History"	4940
+2009	"Male"	"History"	5053
+2010	"Male"	"History"	5188
+2011	"Male"	"History"	5260
+1966	"Female"	"Humanities, Other"	87
+1967	"Female"	"Humanities, Other"	63
+1968	"Female"	"Humanities, Other"	95
+1969	"Female"	"Humanities, Other"	120
+1970	"Female"	"Humanities, Other"	128
+1971	"Female"	"Humanities, Other"	145
+1972	"Female"	"Humanities, Other"	185
+1973	"Female"	"Humanities, Other"	185
+1974	"Female"	"Humanities, Other"	213
+1975	"Female"	"Humanities, Other"	214
+1976	"Female"	"Humanities, Other"	156
+1977	"Female"	"Humanities, Other"	164
+1978	"Female"	"Humanities, Other"	172
+1979	"Female"	"Humanities, Other"	125
+1980	"Female"	"Humanities, Other"	148
+1981	"Female"	"Humanities, Other"	150
+1982	"Female"	"Humanities, Other"	122
+1983	"Female"	"Humanities, Other"	140
+1984	"Female"	"Humanities, Other"	137
+1985	"Female"	"Humanities, Other"	134
+1986	"Female"	"Humanities, Other"	151
+1987	"Female"	"Humanities, Other"	129
+1988	"Female"	"Humanities, Other"	121
+1989	"Female"	"Humanities, Other"	125
+1990	"Female"	"Humanities, Other"	166
+1991	"Female"	"Humanities, Other"	157
+1992	"Female"	"Humanities, Other"	190
+1993	"Female"	"Humanities, Other"	216
+1994	"Female"	"Humanities, Other"	202
+1995	"Female"	"Humanities, Other"	246
+1996	"Female"	"Humanities, Other"	221
+1997	"Female"	"Humanities, Other"	231
+1998	"Female"	"Humanities, Other"	255
+1999	"Female"	"Humanities, Other"	275
+2000	"Female"	"Humanities, Other"	256
+2001	"Female"	"Humanities, Other"	249
+2002	"Female"	"Humanities, Other"	322
+2003	"Female"	"Humanities, Other"	323
+2004	"Female"	"Humanities, Other"	307
+2005	"Female"	"Humanities, Other"	341
+2006	"Female"	"Humanities, Other"	353
+2007	"Female"	"Humanities, Other"	406
+2008	"Female"	"Humanities, Other"	391
+2009	"Female"	"Humanities, Other"	430
+2010	"Female"	"Humanities, Other"	413
+2011	"Female"	"Humanities, Other"	410
+1966	"Male"	"Humanities, Other"	181
+1967	"Male"	"Humanities, Other"	229
+1968	"Male"	"Humanities, Other"	295
+1969	"Male"	"Humanities, Other"	388
+1970	"Male"	"Humanities, Other"	430
+1971	"Male"	"Humanities, Other"	474
+1972	"Male"	"Humanities, Other"	536
+1973	"Male"	"Humanities, Other"	577
+1974	"Male"	"Humanities, Other"	572
+1975	"Male"	"Humanities, Other"	565
+1976	"Male"	"Humanities, Other"	434
+1977	"Male"	"Humanities, Other"	453
+1978	"Male"	"Humanities, Other"	387
+1979	"Male"	"Humanities, Other"	364
+1980	"Male"	"Humanities, Other"	300
+1981	"Male"	"Humanities, Other"	329
+1982	"Male"	"Humanities, Other"	304
+1983	"Male"	"Humanities, Other"	285
+1984	"Male"	"Humanities, Other"	275
+1985	"Male"	"Humanities, Other"	279
+1986	"Male"	"Humanities, Other"	244
+1987	"Male"	"Humanities, Other"	249
+1988	"Male"	"Humanities, Other"	260
+1989	"Male"	"Humanities, Other"	251
+1990	"Male"	"Humanities, Other"	319
+1991	"Male"	"Humanities, Other"	352
+1992	"Male"	"Humanities, Other"	414
+1993	"Male"	"Humanities, Other"	438
+1994	"Male"	"Humanities, Other"	449
+1995	"Male"	"Humanities, Other"	493
+1996	"Male"	"Humanities, Other"	482
+1997	"Male"	"Humanities, Other"	484
+1998	"Male"	"Humanities, Other"	531
+1999	"Male"	"Humanities, Other"	487
+2000	"Male"	"Humanities, Other"	529
+2001	"Male"	"Humanities, Other"	497
+2002	"Male"	"Humanities, Other"	596
+2003	"Male"	"Humanities, Other"	677
+2004	"Male"	"Humanities, Other"	720
+2005	"Male"	"Humanities, Other"	749
+2006	"Male"	"Humanities, Other"	754
+2007	"Male"	"Humanities, Other"	863
+2008	"Male"	"Humanities, Other"	887
+2009	"Male"	"Humanities, Other"	918
+2010	"Male"	"Humanities, Other"	960
+2011	"Male"	"Humanities, Other"	949
+1966	"Female"	"Life Sciences"	2303
+1967	"Female"	"Life Sciences"	2503
+1968	"Female"	"Life Sciences"	2986
+1969	"Female"	"Life Sciences"	3555
+1970	"Female"	"Life Sciences"	4020
+1971	"Female"	"Life Sciences"	4522
+1972	"Female"	"Life Sciences"	5289
+1973	"Female"	"Life Sciences"	6670
+1974	"Female"	"Life Sciences"	8260
+1975	"Female"	"Life Sciences"	9977
+1976	"Female"	"Life Sciences"	11011
+1977	"Female"	"Life Sciences"	11720
+1978	"Female"	"Life Sciences"	12609
+1979	"Female"	"Life Sciences"	13013
+1980	"Female"	"Life Sciences"	13343
+1981	"Female"	"Life Sciences"	13279
+1982	"Female"	"Life Sciences"	13693
+1983	"Female"	"Life Sciences"	12900
+1984	"Female"	"Life Sciences"	13050
+1985	"Female"	"Life Sciences"	13058
+1986	"Female"	"Life Sciences"	13601
+1987	"Female"	"Life Sciences"	13219
+1988	"Female"	"Life Sciences"	12948
+1989	"Female"	"Life Sciences"	13007
+1990	"Female"	"Life Sciences"	13137
+1991	"Female"	"Life Sciences"	13690
+1992	"Female"	"Life Sciences"	14962
+1993	"Female"	"Life Sciences"	16882
+1994	"Female"	"Life Sciences"	18661
+1995	"Female"	"Life Sciences"	20028
+1996	"Female"	"Life Sciences"	21204
+1997	"Female"	"Life Sciences"	21942
+1998	"Female"	"Life Sciences"	22330
+1999	"Female"	"Life Sciences"	22721
+2000	"Female"	"Life Sciences"	21878
+2001	"Female"	"Life Sciences"	20714
+2002	"Female"	"Life Sciences"	20390
+2003	"Female"	"Life Sciences"	20545
+2004	"Female"	"Life Sciences"	21582
+2005	"Female"	"Life Sciences"	23158
+2006	"Female"	"Life Sciences"	25367
+2007	"Female"	"Life Sciences"	27432
+2008	"Female"	"Life Sciences"	29443
+2009	"Female"	"Life Sciences"	31918
+2010	"Female"	"Life Sciences"	33822
+2011	"Female"	"Life Sciences"	36872
+1966	"Male"	"Life Sciences"	3518
+1967	"Male"	"Life Sciences"	3920
+1968	"Male"	"Life Sciences"	4458
+1969	"Male"	"Life Sciences"	5211
+1970	"Male"	"Life Sciences"	5756
+1971	"Male"	"Life Sciences"	5911
+1972	"Male"	"Life Sciences"	6258
+1973	"Male"	"Life Sciences"	7241
+1974	"Male"	"Life Sciences"	8082
+1975	"Male"	"Life Sciences"	8162
+1976	"Male"	"Life Sciences"	8062
+1977	"Male"	"Life Sciences"	7948
+1978	"Male"	"Life Sciences"	7622
+1979	"Male"	"Life Sciences"	6816
+1980	"Male"	"Life Sciences"	6242
+1981	"Male"	"Life Sciences"	5635
+1982	"Male"	"Life Sciences"	5285
+1983	"Male"	"Life Sciences"	4602
+1984	"Male"	"Life Sciences"	4640
+1985	"Male"	"Life Sciences"	4501
+1986	"Male"	"Life Sciences"	4657
+1987	"Male"	"Life Sciences"	4702
+1988	"Male"	"Life Sciences"	4339
+1989	"Male"	"Life Sciences"	4396
+1990	"Male"	"Life Sciences"	4554
+1991	"Male"	"Life Sciences"	4794
+1992	"Male"	"Life Sciences"	5441
+1993	"Male"	"Life Sciences"	6170
+1994	"Male"	"Life Sciences"	7067
+1995	"Male"	"Life Sciences"	7915
+1996	"Male"	"Life Sciences"	8426
+1997	"Male"	"Life Sciences"	8918
+1998	"Male"	"Life Sciences"	8779
+1999	"Male"	"Life Sciences"	8452
+2000	"Male"	"Life Sciences"	7962
+2001	"Male"	"Life Sciences"	7230
+2002	"Male"	"Life Sciences"	6766
+2003	"Male"	"Life Sciences"	6429
+2004	"Male"	"Life Sciences"	6382
+2005	"Male"	"Life Sciences"	6947
+2006	"Male"	"Life Sciences"	7616
+2007	"Male"	"Life Sciences"	8636
+2008	"Male"	"Life Sciences"	9663
+2009	"Male"	"Life Sciences"	10350
+2010	"Male"	"Life Sciences"	11679
+2011	"Male"	"Life Sciences"	12888
+1966	"Female"	"Math"	1536
+1967	"Female"	"Math"	1846
+1968	"Female"	"Math"	2325
+1969	"Female"	"Math"	2768
+1970	"Female"	"Math"	2843
+1971	"Female"	"Math"	2654
+1972	"Female"	"Math"	2609
+1973	"Female"	"Math"	2600
+1974	"Female"	"Math"	2534
+1975	"Female"	"Math"	2288
+1976	"Female"	"Math"	1870
+1977	"Female"	"Math"	1711
+1978	"Female"	"Math"	1414
+1979	"Female"	"Math"	1373
+1980	"Female"	"Math"	1212
+1981	"Female"	"Math"	1211
+1982	"Female"	"Math"	1230
+1983	"Female"	"Math"	1214
+1984	"Female"	"Math"	1377
+1985	"Female"	"Math"	1674
+1986	"Female"	"Math"	1817
+1987	"Female"	"Math"	1944
+1988	"Female"	"Math"	1689
+1989	"Female"	"Math"	1754
+1990	"Female"	"Math"	1742
+1991	"Female"	"Math"	1749
+1992	"Female"	"Math"	1822
+1993	"Female"	"Math"	1791
+1994	"Female"	"Math"	1803
+1995	"Female"	"Math"	1761
+1996	"Female"	"Math"	1561
+1997	"Female"	"Math"	1526
+1998	"Female"	"Math"	1486
+1999	"Female"	"Math"	1488
+2000	"Female"	"Math"	1479
+2001	"Female"	"Math"	1364
+2002	"Female"	"Math"	1466
+2003	"Female"	"Math"	1451
+2004	"Female"	"Math"	1473
+2005	"Female"	"Math"	1565
+2006	"Female"	"Math"	1759
+2007	"Female"	"Math"	1755
+2008	"Female"	"Math"	1741
+2009	"Female"	"Math"	1764
+2010	"Female"	"Math"	1853
+2011	"Female"	"Math"	1920
+1966	"Male"	"Math"	3427
+1967	"Male"	"Math"	3708
+1968	"Male"	"Math"	3996
+1969	"Male"	"Math"	4745
+1970	"Male"	"Math"	4919
+1971	"Male"	"Math"	4172
+1972	"Male"	"Math"	3901
+1973	"Male"	"Math"	3530
+1974	"Male"	"Math"	3341
+1975	"Male"	"Math"	2665
+1976	"Male"	"Math"	2386
+1977	"Male"	"Math"	2032
+1978	"Male"	"Math"	1745
+1979	"Male"	"Math"	1675
+1980	"Male"	"Math"	1496
+1981	"Male"	"Math"	1483
+1982	"Male"	"Math"	1432
+1983	"Male"	"Math"	1457
+1984	"Male"	"Math"	1624
+1985	"Male"	"Math"	1850
+1986	"Male"	"Math"	2005
+1987	"Male"	"Math"	1934
+1988	"Male"	"Math"	1971
+1989	"Male"	"Math"	1902
+1990	"Male"	"Math"	1733
+1991	"Male"	"Math"	1766
+1992	"Male"	"Math"	1834
+1993	"Male"	"Math"	1712
+1994	"Male"	"Math"	1803
+1995	"Male"	"Math"	1777
+1996	"Male"	"Math"	1701
+1997	"Male"	"Math"	1580
+1998	"Male"	"Math"	1558
+1999	"Male"	"Math"	1449
+2000	"Male"	"Math"	1327
+2001	"Male"	"Math"	1247
+2002	"Male"	"Math"	1435
+2003	"Male"	"Math"	1463
+2004	"Male"	"Math"	1504
+2005	"Male"	"Math"	1693
+2006	"Male"	"Math"	1727
+2007	"Male"	"Math"	1805
+2008	"Male"	"Math"	1867
+2009	"Male"	"Math"	1968
+2010	"Male"	"Math"	2110
+2011	"Male"	"Math"	2185
+1966	"Female"	"Other/Unknown"	236
+1967	"Female"	"Other/Unknown"	192
+1968	"Female"	"Other/Unknown"	185
+1969	"Female"	"Other/Unknown"	278
+1970	"Female"	"Other/Unknown"	290
+1971	"Female"	"Other/Unknown"	564
+1972	"Female"	"Other/Unknown"	712
+1973	"Female"	"Other/Unknown"	1037
+1974	"Female"	"Other/Unknown"	2100
+1975	"Female"	"Other/Unknown"	3630
+1976	"Female"	"Other/Unknown"	4519
+1977	"Female"	"Other/Unknown"	5316
+1978	"Female"	"Other/Unknown"	5359
+1979	"Female"	"Other/Unknown"	5498
+1980	"Female"	"Other/Unknown"	5771
+1981	"Female"	"Other/Unknown"	6034
+1982	"Female"	"Other/Unknown"	6169
+1983	"Female"	"Other/Unknown"	6036
+1984	"Female"	"Other/Unknown"	6118
+1985	"Female"	"Other/Unknown"	6338
+1986	"Female"	"Other/Unknown"	6551
+1987	"Female"	"Other/Unknown"	7005
+1988	"Female"	"Other/Unknown"	7471
+1989	"Female"	"Other/Unknown"	8098
+1990	"Female"	"Other/Unknown"	8675
+1991	"Female"	"Other/Unknown"	9804
+1992	"Female"	"Other/Unknown"	11099
+1993	"Female"	"Other/Unknown"	14439
+1994	"Female"	"Other/Unknown"	13637
+1995	"Female"	"Other/Unknown"	13437
+1996	"Female"	"Other/Unknown"	13617
+1997	"Female"	"Other/Unknown"	13828
+1998	"Female"	"Other/Unknown"	14224
+1999	"Female"	"Other/Unknown"	15169
+2000	"Female"	"Other/Unknown"	15642
+2001	"Female"	"Other/Unknown"	16313
+2002	"Female"	"Other/Unknown"	17432
+2003	"Female"	"Other/Unknown"	17479
+2004	"Female"	"Other/Unknown"	17491
+2005	"Female"	"Other/Unknown"	17923
+2006	"Female"	"Other/Unknown"	18621
+2007	"Female"	"Other/Unknown"	18865
+2008	"Female"	"Other/Unknown"	18652
+2009	"Female"	"Other/Unknown"	18540
+2010	"Female"	"Other/Unknown"	18280
+2011	"Female"	"Other/Unknown"	17561
+1966	"Male"	"Other/Unknown"	361
+1967	"Male"	"Other/Unknown"	525
+1968	"Male"	"Other/Unknown"	469
+1969	"Male"	"Other/Unknown"	456
+1970	"Male"	"Other/Unknown"	721
+1971	"Male"	"Other/Unknown"	1821
+1972	"Male"	"Other/Unknown"	2401
+1973	"Male"	"Other/Unknown"	2576
+1974	"Male"	"Other/Unknown"	4183
+1975	"Male"	"Other/Unknown"	4134
+1976	"Male"	"Other/Unknown"	5309
+1977	"Male"	"Other/Unknown"	5457
+1978	"Male"	"Other/Unknown"	5284
+1979	"Male"	"Other/Unknown"	4413
+1980	"Male"	"Other/Unknown"	4369
+1981	"Male"	"Other/Unknown"	4230
+1982	"Male"	"Other/Unknown"	4240
+1983	"Male"	"Other/Unknown"	4182
+1984	"Male"	"Other/Unknown"	4186
+1985	"Male"	"Other/Unknown"	4294
+1986	"Male"	"Other/Unknown"	4294
+1987	"Male"	"Other/Unknown"	4513
+1988	"Male"	"Other/Unknown"	4805
+1989	"Male"	"Other/Unknown"	5076
+1990	"Male"	"Other/Unknown"	5475
+1991	"Male"	"Other/Unknown"	5773
+1992	"Male"	"Other/Unknown"	6107
+1993	"Male"	"Other/Unknown"	7202
+1994	"Male"	"Other/Unknown"	6599
+1995	"Male"	"Other/Unknown"	6628
+1996	"Male"	"Other/Unknown"	6575
+1997	"Male"	"Other/Unknown"	6692
+1998	"Male"	"Other/Unknown"	6861
+1999	"Male"	"Other/Unknown"	6792
+2000	"Male"	"Other/Unknown"	6762
+2001	"Male"	"Other/Unknown"	6890
+2002	"Male"	"Other/Unknown"	7197
+2003	"Male"	"Other/Unknown"	7154
+2004	"Male"	"Other/Unknown"	7383
+2005	"Male"	"Other/Unknown"	7318
+2006	"Male"	"Other/Unknown"	7627
+2007	"Male"	"Other/Unknown"	7817
+2008	"Male"	"Other/Unknown"	8033
+2009	"Male"	"Other/Unknown"	8333
+2010	"Male"	"Other/Unknown"	8524
+2011	"Male"	"Other/Unknown"	8290
+1966	"Female"	"Physical Sciences"	570
+1967	"Female"	"Physical Sciences"	567
+1968	"Female"	"Physical Sciences"	808
+1969	"Female"	"Physical Sciences"	901
+1970	"Female"	"Physical Sciences"	950
+1971	"Female"	"Physical Sciences"	688
+1972	"Female"	"Physical Sciences"	780
+1973	"Female"	"Physical Sciences"	733
+1974	"Female"	"Physical Sciences"	862
+1975	"Female"	"Physical Sciences"	962
+1976	"Female"	"Physical Sciences"	977
+1977	"Female"	"Physical Sciences"	1132
+1978	"Female"	"Physical Sciences"	1232
+1979	"Female"	"Physical Sciences"	1212
+1980	"Female"	"Physical Sciences"	1238
+1981	"Female"	"Physical Sciences"	1324
+1982	"Female"	"Physical Sciences"	1417
+1983	"Female"	"Physical Sciences"	1475
+1984	"Female"	"Physical Sciences"	1501
+1985	"Female"	"Physical Sciences"	1478
+1986	"Female"	"Physical Sciences"	1421
+1987	"Female"	"Physical Sciences"	1340
+1988	"Female"	"Physical Sciences"	1287
+1989	"Female"	"Physical Sciences"	1256
+1990	"Female"	"Physical Sciences"	1286
+1991	"Female"	"Physical Sciences"	1308
+1992	"Female"	"Physical Sciences"	1262
+1993	"Female"	"Physical Sciences"	1400
+1994	"Female"	"Physical Sciences"	1509
+1995	"Female"	"Physical Sciences"	1611
+1996	"Female"	"Physical Sciences"	1690
+1997	"Female"	"Physical Sciences"	1825
+1998	"Female"	"Physical Sciences"	1846
+1999	"Female"	"Physical Sciences"	1769
+2000	"Female"	"Physical Sciences"	1898
+2001	"Female"	"Physical Sciences"	1726
+2002	"Female"	"Physical Sciences"	1897
+2003	"Female"	"Physical Sciences"	1908
+2004	"Female"	"Physical Sciences"	1911
+2005	"Female"	"Physical Sciences"	2112
+2006	"Female"	"Physical Sciences"	2300
+2007	"Female"	"Physical Sciences"	2303
+2008	"Female"	"Physical Sciences"	2546
+2009	"Female"	"Physical Sciences"	2457
+2010	"Female"	"Physical Sciences"	2679
+2011	"Female"	"Physical Sciences"	2885
+1966	"Male"	"Physical Sciences"	4310
+1967	"Male"	"Physical Sciences"	3942
+1968	"Male"	"Physical Sciences"	4092
+1969	"Male"	"Physical Sciences"	4746
+1970	"Male"	"Physical Sciences"	4831
+1971	"Male"	"Physical Sciences"	3785
+1972	"Male"	"Physical Sciences"	3871
+1973	"Male"	"Physical Sciences"	3854
+1974	"Male"	"Physical Sciences"	4068
+1975	"Male"	"Physical Sciences"	3803
+1976	"Male"	"Physical Sciences"	4011
+1977	"Male"	"Physical Sciences"	4117
+1978	"Male"	"Physical Sciences"	3960
+1979	"Male"	"Physical Sciences"	3842
+1980	"Male"	"Physical Sciences"	3707
+1981	"Male"	"Physical Sciences"	3805
+1982	"Male"	"Physical Sciences"	3845
+1983	"Male"	"Physical Sciences"	3966
+1984	"Male"	"Physical Sciences"	3881
+1985	"Male"	"Physical Sciences"	3809
+1986	"Male"	"Physical Sciences"	3574
+1987	"Male"	"Physical Sciences"	3393
+1988	"Male"	"Physical Sciences"	2899
+1989	"Male"	"Physical Sciences"	2739
+1990	"Male"	"Physical Sciences"	2601
+1991	"Male"	"Physical Sciences"	2628
+1992	"Male"	"Physical Sciences"	2570
+1993	"Male"	"Physical Sciences"	2695
+1994	"Male"	"Physical Sciences"	2981
+1995	"Male"	"Physical Sciences"	3062
+1996	"Male"	"Physical Sciences"	3090
+1997	"Male"	"Physical Sciences"	2995
+1998	"Male"	"Physical Sciences"	2848
+1999	"Male"	"Physical Sciences"	2660
+2000	"Male"	"Physical Sciences"	2561
+2001	"Male"	"Physical Sciences"	2375
+2002	"Male"	"Physical Sciences"	2361
+2003	"Male"	"Physical Sciences"	2265
+2004	"Male"	"Physical Sciences"	2325
+2005	"Male"	"Physical Sciences"	2378
+2006	"Male"	"Physical Sciences"	2671
+2007	"Male"	"Physical Sciences"	2776
+2008	"Male"	"Physical Sciences"	2863
+2009	"Male"	"Physical Sciences"	3016
+2010	"Male"	"Physical Sciences"	3239
+2011	"Male"	"Physical Sciences"	3409
+1966	"Female"	"Political Science and Public Administration"	348
+1967	"Female"	"Political Science and Public Administration"	482
+1968	"Female"	"Political Science and Public Administration"	559
+1969	"Female"	"Political Science and Public Administration"	641
+1970	"Female"	"Political Science and Public Administration"	689
+1971	"Female"	"Political Science and Public Administration"	944
+1972	"Female"	"Political Science and Public Administration"	950
+1973	"Female"	"Political Science and Public Administration"	1145
+1974	"Female"	"Political Science and Public Administration"	1164
+1975	"Female"	"Political Science and Public Administration"	1419
+1976	"Female"	"Political Science and Public Administration"	1411
+1977	"Female"	"Political Science and Public Administration"	1513
+1978	"Female"	"Political Science and Public Administration"	1590
+1979	"Female"	"Political Science and Public Administration"	1701
+1980	"Female"	"Political Science and Public Administration"	1958
+1981	"Female"	"Political Science and Public Administration"	1832
+1982	"Female"	"Political Science and Public Administration"	2059
+1983	"Female"	"Political Science and Public Administration"	2000
+1984	"Female"	"Political Science and Public Administration"	1888
+1985	"Female"	"Political Science and Public Administration"	1950
+1986	"Female"	"Political Science and Public Administration"	2165
+1987	"Female"	"Political Science and Public Administration"	2045
+1988	"Female"	"Political Science and Public Administration"	2065
+1989	"Female"	"Political Science and Public Administration"	2265
+1990	"Female"	"Political Science and Public Administration"	2573
+1991	"Female"	"Political Science and Public Administration"	2979
+1992	"Female"	"Political Science and Public Administration"	3138
+1993	"Female"	"Political Science and Public Administration"	3470
+1994	"Female"	"Political Science and Public Administration"	3470
+1995	"Female"	"Political Science and Public Administration"	3227
+1996	"Female"	"Political Science and Public Administration"	3238
+1997	"Female"	"Political Science and Public Administration"	2978
+1998	"Female"	"Political Science and Public Administration"	2879
+1999	"Female"	"Political Science and Public Administration"	2901
+2000	"Female"	"Political Science and Public Administration"	2852
+2001	"Female"	"Political Science and Public Administration"	2831
+2002	"Female"	"Political Science and Public Administration"	3055
+2003	"Female"	"Political Science and Public Administration"	3459
+2004	"Female"	"Political Science and Public Administration"	3885
+2005	"Female"	"Political Science and Public Administration"	4316
+2006	"Female"	"Political Science and Public Administration"	4482
+2007	"Female"	"Political Science and Public Administration"	4494
+2008	"Female"	"Political Science and Public Administration"	4549
+2009	"Female"	"Political Science and Public Administration"	4517
+2010	"Female"	"Political Science and Public Administration"	4686
+2011	"Female"	"Political Science and Public Administration"	4808
+1966	"Male"	"Political Science and Public Administration"	1674
+1967	"Male"	"Political Science and Public Administration"	2088
+1968	"Male"	"Political Science and Public Administration"	2651
+1969	"Male"	"Political Science and Public Administration"	3418
+1970	"Male"	"Political Science and Public Administration"	3899
+1971	"Male"	"Political Science and Public Administration"	4240
+1972	"Male"	"Political Science and Public Administration"	4849
+1973	"Male"	"Political Science and Public Administration"	5609
+1974	"Male"	"Political Science and Public Administration"	5867
+1975	"Male"	"Political Science and Public Administration"	5417
+1976	"Male"	"Political Science and Public Administration"	5356
+1977	"Male"	"Political Science and Public Administration"	4792
+1978	"Male"	"Political Science and Public Administration"	4540
+1979	"Male"	"Political Science and Public Administration"	4118
+1980	"Male"	"Political Science and Public Administration"	3971
+1981	"Male"	"Political Science and Public Administration"	3693
+1982	"Male"	"Political Science and Public Administration"	3583
+1983	"Male"	"Political Science and Public Administration"	3307
+1984	"Male"	"Political Science and Public Administration"	3282
+1985	"Male"	"Political Science and Public Administration"	3279
+1986	"Male"	"Political Science and Public Administration"	3348
+1987	"Male"	"Political Science and Public Administration"	3307
+1988	"Male"	"Political Science and Public Administration"	3295
+1989	"Male"	"Political Science and Public Administration"	3400
+1990	"Male"	"Political Science and Public Administration"	3711
+1991	"Male"	"Political Science and Public Administration"	3936
+1992	"Male"	"Political Science and Public Administration"	4379
+1993	"Male"	"Political Science and Public Administration"	4522
+1994	"Male"	"Political Science and Public Administration"	4440
+1995	"Male"	"Political Science and Public Administration"	4172
+1996	"Male"	"Political Science and Public Administration"	3953
+1997	"Male"	"Political Science and Public Administration"	3594
+1998	"Male"	"Political Science and Public Administration"	3389
+1999	"Male"	"Political Science and Public Administration"	3143
+2000	"Male"	"Political Science and Public Administration"	3014
+2001	"Male"	"Political Science and Public Administration"	2802
+2002	"Male"	"Political Science and Public Administration"	2953
+2003	"Male"	"Political Science and Public Administration"	3279
+2004	"Male"	"Political Science and Public Administration"	3576
+2005	"Male"	"Political Science and Public Administration"	3812
+2006	"Male"	"Political Science and Public Administration"	4155
+2007	"Male"	"Political Science and Public Administration"	4272
+2008	"Male"	"Political Science and Public Administration"	4439
+2009	"Male"	"Political Science and Public Administration"	4565
+2010	"Male"	"Political Science and Public Administration"	4707
+2011	"Male"	"Political Science and Public Administration"	5045
+1966	"Female"	"Psychology"	1083
+1967	"Female"	"Psychology"	1255
+1968	"Female"	"Psychology"	1732
+1969	"Female"	"Psychology"	2492
+1970	"Female"	"Psychology"	3145
+1971	"Female"	"Psychology"	3740
+1972	"Female"	"Psychology"	4547
+1973	"Female"	"Psychology"	5185
+1974	"Female"	"Psychology"	6244
+1975	"Female"	"Psychology"	6564
+1976	"Female"	"Psychology"	6949
+1977	"Female"	"Psychology"	7126
+1978	"Female"	"Psychology"	6986
+1979	"Female"	"Psychology"	6768
+1980	"Female"	"Psychology"	6885
+1981	"Female"	"Psychology"	6804
+1982	"Female"	"Psychology"	6998
+1983	"Female"	"Psychology"	6709
+1984	"Female"	"Psychology"	6630
+1985	"Female"	"Psychology"	6705
+1986	"Female"	"Psychology"	6913
+1987	"Female"	"Psychology"	6908
+1988	"Female"	"Psychology"	7366
+1989	"Female"	"Psychology"	7935
+1990	"Female"	"Psychology"	9223
+1991	"Female"	"Psychology"	10554
+1992	"Female"	"Psychology"	11871
+1993	"Female"	"Psychology"	12454
+1994	"Female"	"Psychology"	13654
+1995	"Female"	"Psychology"	13648
+1996	"Female"	"Psychology"	14019
+1997	"Female"	"Psychology"	14394
+1998	"Female"	"Psychology"	14457
+1999	"Female"	"Psychology"	14301
+2000	"Female"	"Psychology"	14280
+2001	"Female"	"Psychology"	14233
+2002	"Female"	"Psychology"	15091
+2003	"Female"	"Psychology"	15203
+2004	"Female"	"Psychology"	15636
+2005	"Female"	"Psychology"	16328
+2006	"Female"	"Psychology"	17122
+2007	"Female"	"Psychology"	17514
+2008	"Female"	"Psychology"	18163
+2009	"Female"	"Psychology"	18500
+2010	"Female"	"Psychology"	19136
+2011	"Female"	"Psychology"	20030
+1966	"Male"	"Psychology"	1611
+1967	"Male"	"Psychology"	1993
+1968	"Male"	"Psychology"	2483
+1969	"Male"	"Psychology"	3297
+1970	"Male"	"Psychology"	3952
+1971	"Male"	"Psychology"	4601
+1972	"Male"	"Psychology"	5136
+1973	"Male"	"Psychology"	5801
+1974	"Male"	"Psychology"	6324
+1975	"Male"	"Psychology"	6055
+1976	"Male"	"Psychology"	5820
+1977	"Male"	"Psychology"	5315
+1978	"Male"	"Psychology"	4821
+1979	"Male"	"Psychology"	4315
+1980	"Male"	"Psychology"	3873
+1981	"Male"	"Psychology"	3524
+1982	"Male"	"Psychology"	3297
+1983	"Male"	"Psychology"	3147
+1984	"Male"	"Psychology"	3060
+1985	"Male"	"Psychology"	2903
+1986	"Male"	"Psychology"	2906
+1987	"Male"	"Psychology"	2869
+1988	"Male"	"Psychology"	2893
+1989	"Male"	"Psychology"	3024
+1990	"Male"	"Psychology"	3338
+1991	"Male"	"Psychology"	3568
+1992	"Male"	"Psychology"	3910
+1993	"Male"	"Psychology"	4109
+1994	"Male"	"Psychology"	4553
+1995	"Male"	"Psychology"	4684
+1996	"Male"	"Psychology"	4724
+1997	"Male"	"Psychology"	4716
+1998	"Male"	"Psychology"	4749
+1999	"Male"	"Psychology"	4522
+2000	"Male"	"Psychology"	4041
+2001	"Male"	"Psychology"	3901
+2002	"Male"	"Psychology"	3985
+2003	"Male"	"Psychology"	3993
+2004	"Male"	"Psychology"	4013
+2005	"Male"	"Psychology"	4289
+2006	"Male"	"Psychology"	4460
+2007	"Male"	"Psychology"	4645
+2008	"Male"	"Psychology"	5020
+2009	"Male"	"Psychology"	5194
+2010	"Male"	"Psychology"	5304
+2011	"Male"	"Psychology"	5653
+1966	"Female"	"Religion"	0
+1967	"Female"	"Religion"	0
+1968	"Female"	"Religion"	0
+1969	"Female"	"Religion"	0
+1970	"Female"	"Religion"	0
+1971	"Female"	"Religion"	19
+1972	"Female"	"Religion"	4
+1973	"Female"	"Religion"	15
+1974	"Female"	"Religion"	28
+1975	"Female"	"Religion"	34
+1976	"Female"	"Religion"	34
+1977	"Female"	"Religion"	36
+1978	"Female"	"Religion"	34
+1979	"Female"	"Religion"	29
+1980	"Female"	"Religion"	25
+1981	"Female"	"Religion"	38
+1982	"Female"	"Religion"	35
+1983	"Female"	"Religion"	49
+1984	"Female"	"Religion"	43
+1985	"Female"	"Religion"	34
+1986	"Female"	"Religion"	33
+1987	"Female"	"Religion"	40
+1988	"Female"	"Religion"	28
+1989	"Female"	"Religion"	37
+1990	"Female"	"Religion"	32
+1991	"Female"	"Religion"	47
+1992	"Female"	"Religion"	41
+1993	"Female"	"Religion"	51
+1994	"Female"	"Religion"	41
+1995	"Female"	"Religion"	40
+1996	"Female"	"Religion"	64
+1997	"Female"	"Religion"	60
+1998	"Female"	"Religion"	74
+1999	"Female"	"Religion"	72
+2000	"Female"	"Religion"	69
+2001	"Female"	"Religion"	62
+2002	"Female"	"Religion"	80
+2003	"Female"	"Religion"	91
+2004	"Female"	"Religion"	105
+2005	"Female"	"Religion"	131
+2006	"Female"	"Religion"	117
+2007	"Female"	"Religion"	104
+2008	"Female"	"Religion"	122
+2009	"Female"	"Religion"	128
+2010	"Female"	"Religion"	136
+2011	"Female"	"Religion"	143
+1966	"Male"	"Religion"	0
+1967	"Male"	"Religion"	0
+1968	"Male"	"Religion"	0
+1969	"Male"	"Religion"	0
+1970	"Male"	"Religion"	0
+1971	"Male"	"Religion"	12
+1972	"Male"	"Religion"	20
+1973	"Male"	"Religion"	36
+1974	"Male"	"Religion"	64
+1975	"Male"	"Religion"	72
+1976	"Male"	"Religion"	74
+1977	"Male"	"Religion"	70
+1978	"Male"	"Religion"	64
+1979	"Male"	"Religion"	81
+1980	"Male"	"Religion"	66
+1981	"Male"	"Religion"	59
+1982	"Male"	"Religion"	54
+1983	"Male"	"Religion"	89
+1984	"Male"	"Religion"	53
+1985	"Male"	"Religion"	60
+1986	"Male"	"Religion"	45
+1987	"Male"	"Religion"	51
+1988	"Male"	"Religion"	25
+1989	"Male"	"Religion"	32
+1990	"Male"	"Religion"	45
+1991	"Male"	"Religion"	34
+1992	"Male"	"Religion"	49
+1993	"Male"	"Religion"	47
+1994	"Male"	"Religion"	48
+1995	"Male"	"Religion"	64
+1996	"Male"	"Religion"	49
+1997	"Male"	"Religion"	76
+1998	"Male"	"Religion"	60
+1999	"Male"	"Religion"	62
+2000	"Male"	"Religion"	69
+2001	"Male"	"Religion"	71
+2002	"Male"	"Religion"	100
+2003	"Male"	"Religion"	84
+2004	"Male"	"Religion"	114
+2005	"Male"	"Religion"	104
+2006	"Male"	"Religion"	150
+2007	"Male"	"Religion"	109
+2008	"Male"	"Religion"	101
+2009	"Male"	"Religion"	116
+2010	"Male"	"Religion"	138
+2011	"Male"	"Religion"	125
+1966	"Female"	"Social Sciences, Other"	2094
+1967	"Female"	"Social Sciences, Other"	2541
+1968	"Female"	"Social Sciences, Other"	2918
+1969	"Female"	"Social Sciences, Other"	3731
+1970	"Female"	"Social Sciences, Other"	4036
+1971	"Female"	"Social Sciences, Other"	4509
+1972	"Female"	"Social Sciences, Other"	4445
+1973	"Female"	"Social Sciences, Other"	4233
+1974	"Female"	"Social Sciences, Other"	3696
+1975	"Female"	"Social Sciences, Other"	3167
+1976	"Female"	"Social Sciences, Other"	2709
+1977	"Female"	"Social Sciences, Other"	2418
+1978	"Female"	"Social Sciences, Other"	2228
+1979	"Female"	"Social Sciences, Other"	2156
+1980	"Female"	"Social Sciences, Other"	2122
+1981	"Female"	"Social Sciences, Other"	1932
+1982	"Female"	"Social Sciences, Other"	1770
+1983	"Female"	"Social Sciences, Other"	1496
+1984	"Female"	"Social Sciences, Other"	1325
+1985	"Female"	"Social Sciences, Other"	1254
+1986	"Female"	"Social Sciences, Other"	1199
+1987	"Female"	"Social Sciences, Other"	1235
+1988	"Female"	"Social Sciences, Other"	1240
+1989	"Female"	"Social Sciences, Other"	1289
+1990	"Female"	"Social Sciences, Other"	1367
+1991	"Female"	"Social Sciences, Other"	1534
+1992	"Female"	"Social Sciences, Other"	1732
+1993	"Female"	"Social Sciences, Other"	1792
+1994	"Female"	"Social Sciences, Other"	1889
+1995	"Female"	"Social Sciences, Other"	1840
+1996	"Female"	"Social Sciences, Other"	1956
+1997	"Female"	"Social Sciences, Other"	2046
+1998	"Female"	"Social Sciences, Other"	2063
+1999	"Female"	"Social Sciences, Other"	2019
+2000	"Female"	"Social Sciences, Other"	2062
+2001	"Female"	"Social Sciences, Other"	2198
+2002	"Female"	"Social Sciences, Other"	2331
+2003	"Female"	"Social Sciences, Other"	2301
+2004	"Female"	"Social Sciences, Other"	2464
+2005	"Female"	"Social Sciences, Other"	2579
+2006	"Female"	"Social Sciences, Other"	2677
+2007	"Female"	"Social Sciences, Other"	2656
+2008	"Female"	"Social Sciences, Other"	2884
+2009	"Female"	"Social Sciences, Other"	2898
+2010	"Female"	"Social Sciences, Other"	2858
+2011	"Female"	"Social Sciences, Other"	2879
+1966	"Male"	"Social Sciences, Other"	4018
+1967	"Male"	"Social Sciences, Other"	4197
+1968	"Male"	"Social Sciences, Other"	4869
+1969	"Male"	"Social Sciences, Other"	5668
+1970	"Male"	"Social Sciences, Other"	6466
+1971	"Male"	"Social Sciences, Other"	6762
+1972	"Male"	"Social Sciences, Other"	7027
+1973	"Male"	"Social Sciences, Other"	6869
+1974	"Male"	"Social Sciences, Other"	5988
+1975	"Male"	"Social Sciences, Other"	5213
+1976	"Male"	"Social Sciences, Other"	4631
+1977	"Male"	"Social Sciences, Other"	4052
+1978	"Male"	"Social Sciences, Other"	3652
+1979	"Male"	"Social Sciences, Other"	3283
+1980	"Male"	"Social Sciences, Other"	2911
+1981	"Male"	"Social Sciences, Other"	2664
+1982	"Male"	"Social Sciences, Other"	2463
+1983	"Male"	"Social Sciences, Other"	1957
+1984	"Male"	"Social Sciences, Other"	1665
+1985	"Male"	"Social Sciences, Other"	1580
+1986	"Male"	"Social Sciences, Other"	1598
+1987	"Male"	"Social Sciences, Other"	1633
+1988	"Male"	"Social Sciences, Other"	1646
+1989	"Male"	"Social Sciences, Other"	1599
+1990	"Male"	"Social Sciences, Other"	1805
+1991	"Male"	"Social Sciences, Other"	1898
+1992	"Male"	"Social Sciences, Other"	2107
+1993	"Male"	"Social Sciences, Other"	2159
+1994	"Male"	"Social Sciences, Other"	2458
+1995	"Male"	"Social Sciences, Other"	2404
+1996	"Male"	"Social Sciences, Other"	2304
+1997	"Male"	"Social Sciences, Other"	2371
+1998	"Male"	"Social Sciences, Other"	2391
+1999	"Male"	"Social Sciences, Other"	2207
+2000	"Male"	"Social Sciences, Other"	2258
+2001	"Male"	"Social Sciences, Other"	2239
+2002	"Male"	"Social Sciences, Other"	2330
+2003	"Male"	"Social Sciences, Other"	2371
+2004	"Male"	"Social Sciences, Other"	2527
+2005	"Male"	"Social Sciences, Other"	2531
+2006	"Male"	"Social Sciences, Other"	2686
+2007	"Male"	"Social Sciences, Other"	2796
+2008	"Male"	"Social Sciences, Other"	2872
+2009	"Male"	"Social Sciences, Other"	3006
+2010	"Male"	"Social Sciences, Other"	3098
+2011	"Male"	"Social Sciences, Other"	3147
+1966	"Female"	"Social Service Professions"	371
+1967	"Female"	"Social Service Professions"	423
+1968	"Female"	"Social Service Professions"	580
+1969	"Female"	"Social Service Professions"	685
+1970	"Female"	"Social Service Professions"	795
+1971	"Female"	"Social Service Professions"	956
+1972	"Female"	"Social Service Professions"	1345
+1973	"Female"	"Social Service Professions"	1842
+1974	"Female"	"Social Service Professions"	2238
+1975	"Female"	"Social Service Professions"	2724
+1976	"Female"	"Social Service Professions"	2800
+1977	"Female"	"Social Service Professions"	3100
+1978	"Female"	"Social Service Professions"	3345
+1979	"Female"	"Social Service Professions"	3688
+1980	"Female"	"Social Service Professions"	3735
+1981	"Female"	"Social Service Professions"	3759
+1982	"Female"	"Social Service Professions"	3741
+1983	"Female"	"Social Service Professions"	3197
+1984	"Female"	"Social Service Professions"	2938
+1985	"Female"	"Social Service Professions"	2542
+1986	"Female"	"Social Service Professions"	2528
+1987	"Female"	"Social Service Professions"	2851
+1988	"Female"	"Social Service Professions"	2900
+1989	"Female"	"Social Service Professions"	3110
+1990	"Female"	"Social Service Professions"	3307
+1991	"Female"	"Social Service Professions"	3488
+1992	"Female"	"Social Service Professions"	3903
+1993	"Female"	"Social Service Professions"	4137
+1994	"Female"	"Social Service Professions"	4523
+1995	"Female"	"Social Service Professions"	4854
+1996	"Female"	"Social Service Professions"	5303
+1997	"Female"	"Social Service Professions"	5632
+1998	"Female"	"Social Service Professions"	5522
+1999	"Female"	"Social Service Professions"	5524
+2000	"Female"	"Social Service Professions"	5496
+2001	"Female"	"Social Service Professions"	5191
+2002	"Female"	"Social Service Professions"	4920
+2003	"Female"	"Social Service Professions"	4935
+2004	"Female"	"Social Service Professions"	4672
+2005	"Female"	"Social Service Professions"	4694
+2006	"Female"	"Social Service Professions"	4858
+2007	"Female"	"Social Service Professions"	5193
+2008	"Female"	"Social Service Professions"	5475
+2009	"Female"	"Social Service Professions"	5510
+2010	"Female"	"Social Service Professions"	5537
+2011	"Female"	"Social Service Professions"	5595
+1966	"Male"	"Social Service Professions"	164
+1967	"Male"	"Social Service Professions"	162
+1968	"Male"	"Social Service Professions"	263
+1969	"Male"	"Social Service Professions"	283
+1970	"Male"	"Social Service Professions"	351
+1971	"Male"	"Social Service Professions"	436
+1972	"Male"	"Social Service Professions"	592
+1973	"Male"	"Social Service Professions"	829
+1974	"Male"	"Social Service Professions"	1211
+1975	"Male"	"Social Service Professions"	1125
+1976	"Male"	"Social Service Professions"	1047
+1977	"Male"	"Social Service Professions"	1095
+1978	"Male"	"Social Service Professions"	1114
+1979	"Male"	"Social Service Professions"	991
+1980	"Male"	"Social Service Professions"	929
+1981	"Male"	"Social Service Professions"	835
+1982	"Male"	"Social Service Professions"	756
+1983	"Male"	"Social Service Professions"	578
+1984	"Male"	"Social Service Professions"	559
+1985	"Male"	"Social Service Professions"	423
+1986	"Male"	"Social Service Professions"	459
+1987	"Male"	"Social Service Professions"	490
+1988	"Male"	"Social Service Professions"	481
+1989	"Male"	"Social Service Professions"	513
+1990	"Male"	"Social Service Professions"	561
+1991	"Male"	"Social Service Professions"	560
+1992	"Male"	"Social Service Professions"	588
+1993	"Male"	"Social Service Professions"	659
+1994	"Male"	"Social Service Professions"	763
+1995	"Male"	"Social Service Professions"	794
+1996	"Male"	"Social Service Professions"	905
+1997	"Male"	"Social Service Professions"	972
+1998	"Male"	"Social Service Professions"	884
+1999	"Male"	"Social Service Professions"	845
+2000	"Male"	"Social Service Professions"	834
+2001	"Male"	"Social Service Professions"	772
+2002	"Male"	"Social Service Professions"	707
+2003	"Male"	"Social Service Professions"	680
+2004	"Male"	"Social Service Professions"	619
+2005	"Male"	"Social Service Professions"	640
+2006	"Male"	"Social Service Professions"	653
+2007	"Male"	"Social Service Professions"	705
+2008	"Male"	"Social Service Professions"	658
+2009	"Male"	"Social Service Professions"	682
+2010	"Male"	"Social Service Professions"	727
+2011	"Male"	"Social Service Professions"	754
+1966	"Female"	"Sociology"	1517
+1967	"Female"	"Sociology"	1999
+1968	"Female"	"Sociology"	2554
+1969	"Female"	"Sociology"	3499
+1970	"Female"	"Sociology"	4252
+1971	"Female"	"Sociology"	4761
+1972	"Female"	"Sociology"	5293
+1973	"Female"	"Sociology"	5641
+1974	"Female"	"Sociology"	5978
+1975	"Female"	"Sociology"	5411
+1976	"Female"	"Sociology"	4861
+1977	"Female"	"Sociology"	4575
+1978	"Female"	"Sociology"	4444
+1979	"Female"	"Sociology"	4007
+1980	"Female"	"Sociology"	3861
+1981	"Female"	"Sociology"	3759
+1982	"Female"	"Sociology"	3615
+1983	"Female"	"Sociology"	2982
+1984	"Female"	"Sociology"	2743
+1985	"Female"	"Sociology"	2436
+1986	"Female"	"Sociology"	2485
+1987	"Female"	"Sociology"	2404
+1988	"Female"	"Sociology"	2405
+1989	"Female"	"Sociology"	2561
+1990	"Female"	"Sociology"	2774
+1991	"Female"	"Sociology"	3253
+1992	"Female"	"Sociology"	3678
+1993	"Female"	"Sociology"	4120
+1994	"Female"	"Sociology"	4444
+1995	"Female"	"Sociology"	4513
+1996	"Female"	"Sociology"	4802
+1997	"Female"	"Sociology"	5037
+1998	"Female"	"Sociology"	5145
+1999	"Female"	"Sociology"	5342
+2000	"Female"	"Sociology"	5457
+2001	"Female"	"Sociology"	5456
+2002	"Female"	"Sociology"	5653
+2003	"Female"	"Sociology"	5660
+2004	"Female"	"Sociology"	5786
+2005	"Female"	"Sociology"	6091
+2006	"Female"	"Sociology"	5961
+2007	"Female"	"Sociology"	6244
+2008	"Female"	"Sociology"	6134
+2009	"Female"	"Sociology"	6321
+2010	"Female"	"Sociology"	6173
+2011	"Female"	"Sociology"	6461
+1966	"Male"	"Sociology"	1154
+1967	"Male"	"Sociology"	1473
+1968	"Male"	"Sociology"	1796
+1969	"Male"	"Sociology"	2453
+1970	"Male"	"Sociology"	3152
+1971	"Male"	"Sociology"	3448
+1972	"Male"	"Sociology"	3981
+1973	"Male"	"Sociology"	4454
+1974	"Male"	"Sociology"	4619
+1975	"Male"	"Sociology"	4195
+1976	"Male"	"Sociology"	3577
+1977	"Male"	"Sociology"	3086
+1978	"Male"	"Sociology"	2754
+1979	"Male"	"Sociology"	2319
+1980	"Male"	"Sociology"	2033
+1981	"Male"	"Sociology"	1703
+1982	"Male"	"Sociology"	1529
+1983	"Male"	"Sociology"	1281
+1984	"Male"	"Sociology"	1263
+1985	"Male"	"Sociology"	1041
+1986	"Male"	"Sociology"	1066
+1987	"Male"	"Sociology"	1104
+1988	"Male"	"Sociology"	1139
+1989	"Male"	"Sociology"	1167
+1990	"Male"	"Sociology"	1355
+1991	"Male"	"Sociology"	1385
+1992	"Male"	"Sociology"	1614
+1993	"Male"	"Sociology"	1835
+1994	"Male"	"Sociology"	2031
+1995	"Male"	"Sociology"	2145
+1996	"Male"	"Sociology"	2220
+1997	"Male"	"Sociology"	2334
+1998	"Male"	"Sociology"	2377
+1999	"Male"	"Sociology"	2178
+2000	"Male"	"Sociology"	2203
+2001	"Male"	"Sociology"	2156
+2002	"Male"	"Sociology"	2083
+2003	"Male"	"Sociology"	2034
+2004	"Male"	"Sociology"	2155
+2005	"Male"	"Sociology"	2234
+2006	"Male"	"Sociology"	2301
+2007	"Male"	"Sociology"	2327
+2008	"Male"	"Sociology"	2385
+2009	"Male"	"Sociology"	2406
+2010	"Male"	"Sociology"	2470
+2011	"Male"	"Sociology"	2425
+1966	"Female"	"Vocational Studies and Home Economics"	942
+1967	"Female"	"Vocational Studies and Home Economics"	1093
+1968	"Female"	"Vocational Studies and Home Economics"	1386
+1969	"Female"	"Vocational Studies and Home Economics"	1636
+1970	"Female"	"Vocational Studies and Home Economics"	1889
+1971	"Female"	"Vocational Studies and Home Economics"	2472
+1972	"Female"	"Vocational Studies and Home Economics"	2915
+1973	"Female"	"Vocational Studies and Home Economics"	3345
+1974	"Female"	"Vocational Studies and Home Economics"	4009
+1975	"Female"	"Vocational Studies and Home Economics"	4476
+1976	"Female"	"Vocational Studies and Home Economics"	5337
+1977	"Female"	"Vocational Studies and Home Economics"	5529
+1978	"Female"	"Vocational Studies and Home Economics"	5911
+1979	"Female"	"Vocational Studies and Home Economics"	6152
+1980	"Female"	"Vocational Studies and Home Economics"	6522
+1981	"Female"	"Vocational Studies and Home Economics"	6494
+1982	"Female"	"Vocational Studies and Home Economics"	6305
+1983	"Female"	"Vocational Studies and Home Economics"	5991
+1984	"Female"	"Vocational Studies and Home Economics"	5830
+1985	"Female"	"Vocational Studies and Home Economics"	5731
+1986	"Female"	"Vocational Studies and Home Economics"	5736
+1987	"Female"	"Vocational Studies and Home Economics"	5593
+1988	"Female"	"Vocational Studies and Home Economics"	5621
+1989	"Female"	"Vocational Studies and Home Economics"	5608
+1990	"Female"	"Vocational Studies and Home Economics"	5755
+1991	"Female"	"Vocational Studies and Home Economics"	6182
+1992	"Female"	"Vocational Studies and Home Economics"	6455
+1993	"Female"	"Vocational Studies and Home Economics"	6659
+1994	"Female"	"Vocational Studies and Home Economics"	7182
+1995	"Female"	"Vocational Studies and Home Economics"	7351
+1996	"Female"	"Vocational Studies and Home Economics"	7662
+1997	"Female"	"Vocational Studies and Home Economics"	7766
+1998	"Female"	"Vocational Studies and Home Economics"	7792
+1999	"Female"	"Vocational Studies and Home Economics"	7693
+2000	"Female"	"Vocational Studies and Home Economics"	8101
+2001	"Female"	"Vocational Studies and Home Economics"	8070
+2002	"Female"	"Vocational Studies and Home Economics"	8335
+2003	"Female"	"Vocational Studies and Home Economics"	8665
+2004	"Female"	"Vocational Studies and Home Economics"	9234
+2005	"Female"	"Vocational Studies and Home Economics"	9943
+2006	"Female"	"Vocational Studies and Home Economics"	10755
+2007	"Female"	"Vocational Studies and Home Economics"	11178
+2008	"Female"	"Vocational Studies and Home Economics"	11558
+2009	"Female"	"Vocational Studies and Home Economics"	11339
+2010	"Female"	"Vocational Studies and Home Economics"	11293
+2011	"Female"	"Vocational Studies and Home Economics"	11612
+1966	"Male"	"Vocational Studies and Home Economics"	8
+1967	"Male"	"Vocational Studies and Home Economics"	15
+1968	"Male"	"Vocational Studies and Home Economics"	15
+1969	"Male"	"Vocational Studies and Home Economics"	16
+1970	"Male"	"Vocational Studies and Home Economics"	32
+1971	"Male"	"Vocational Studies and Home Economics"	828
+1972	"Male"	"Vocational Studies and Home Economics"	1179
+1973	"Male"	"Vocational Studies and Home Economics"	1770
+1974	"Male"	"Vocational Studies and Home Economics"	3003
+1975	"Male"	"Vocational Studies and Home Economics"	3341
+1976	"Male"	"Vocational Studies and Home Economics"	4060
+1977	"Male"	"Vocational Studies and Home Economics"	4336
+1978	"Male"	"Vocational Studies and Home Economics"	4339
+1979	"Male"	"Vocational Studies and Home Economics"	4000
+1980	"Male"	"Vocational Studies and Home Economics"	3969
+1981	"Male"	"Vocational Studies and Home Economics"	3494
+1982	"Male"	"Vocational Studies and Home Economics"	3232
+1983	"Male"	"Vocational Studies and Home Economics"	3224
+1984	"Male"	"Vocational Studies and Home Economics"	3307
+1985	"Male"	"Vocational Studies and Home Economics"	3296
+1986	"Male"	"Vocational Studies and Home Economics"	3331
+1987	"Male"	"Vocational Studies and Home Economics"	3498
+1988	"Male"	"Vocational Studies and Home Economics"	3744
+1989	"Male"	"Vocational Studies and Home Economics"	4162
+1990	"Male"	"Vocational Studies and Home Economics"	4255
+1991	"Male"	"Vocational Studies and Home Economics"	4615
+1992	"Male"	"Vocational Studies and Home Economics"	5209
+1993	"Male"	"Vocational Studies and Home Economics"	5762
+1994	"Male"	"Vocational Studies and Home Economics"	6446
+1995	"Male"	"Vocational Studies and Home Economics"	6870
+1996	"Male"	"Vocational Studies and Home Economics"	6750
+1997	"Male"	"Vocational Studies and Home Economics"	6664
+1998	"Male"	"Vocational Studies and Home Economics"	6627
+1999	"Male"	"Vocational Studies and Home Economics"	6137
+2000	"Male"	"Vocational Studies and Home Economics"	6021
+2001	"Male"	"Vocational Studies and Home Economics"	5741
+2002	"Male"	"Vocational Studies and Home Economics"	5710
+2003	"Male"	"Vocational Studies and Home Economics"	5581
+2004	"Male"	"Vocational Studies and Home Economics"	5927
+2005	"Male"	"Vocational Studies and Home Economics"	6217
+2006	"Male"	"Vocational Studies and Home Economics"	6687
+2007	"Male"	"Vocational Studies and Home Economics"	7328
+2008	"Male"	"Vocational Studies and Home Economics"	7414
+2009	"Male"	"Vocational Studies and Home Economics"	7728
+2010	"Male"	"Vocational Studies and Home Economics"	7944
+2011	"Male"	"Vocational Studies and Home Economics"	8472
