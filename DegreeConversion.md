@@ -27,17 +27,11 @@ writeOutResults(table[table$level == "Bachelor's Degrees", ])
 ```
 
 ```
-## Associate of Arts/Two Year--private
+## Associate of Arts/Two Year--privateAssociate of Arts/Two Year--publicBaccalaureate/Liberal Arts II--privateBaccalaureate/Liberal Arts II--publicBaccalaureate/Liberal Arts I--privateBaccalaureate/Liberal Arts I--publicDoctoral II--privateDoctoral II--publicDoctoral I--privateDoctoral I--publicMaster's/Comprehensive II--privateMaster's/Comprehensive II--publicMaster's/Comprehensive I--privateMaster's/Comprehensive I--publicResearch II--privateResearch II--publicResearch I--privateResearch I--public
 ```
 
 ```
-## Warning: cannot open file
-## '/Library/WebServer/Documents/Allfields/tables/Associate of Arts.Two
-## Year--private.tsv': No such file or directory
-```
-
-```
-## Error: cannot open the connection
+## data frame with 0 columns and 0 rows
 ```
 
 
@@ -45,7 +39,7 @@ writeOutResults(table[table$level == "Bachelor's Degrees", ])
 Then, get the individual school counts. I'm just concatenating together a bunch of individual webcaspar school files for this.
 
 ```r
-schools = loadSchoolTable()
+schools = loadSchoolTable(c("rawdata/Schmidt.csv", "rawdata/Schools2.csv"))
 table = cleanupTable(schools)
 table = reformatDisciplines(table)
 ```
@@ -59,28 +53,16 @@ writeOutResults(table[table$level == "Bachelor's Degrees", ])
 ```
 
 ```
-## Babson College
+## Babson CollegeBates CollegeBoston CollegeBoston UniversityBowdoin CollegeBrandeis UniversityBrigham Young University, Main CampusBrown UniversityCalifornia State Polytechnic U-San Luis ObispoCalifornia State University-BakersfieldCalifornia State University-FresnoCalifornia State University-FullertonCalifornia State University-Los AngelesCity UniversityClark UniversityColby CollegeCollege of the Holy CrossColumbia University in the City of New YorkCornell University, All CampusesDartmouth CollegeDrexel UniversityEmory UniversityFisk UniversityFitchburg State CollegeGeorge Mason UniversityGeorgetown UniversityHarvard UniversityHaverford CollegeHofstra UniversityHoward UniversityLesley CollegeMassachusetts Institute of TechnologyMiami-Dade Community CollegeMichigan State UniversityMonmouth CollegeMonmouth UniversityNew York UniversityNortheastern UniversityNorthwestern UnivOhio State University, Main CampusPomona CollegePrinceton UniversityReed CollegeRensselaer Polytechnic InstituteRice UniversityRichard Stockton College of New JerseyRutgers the State Univ of NJ New BrunswickSalem State CollegeSmith CollegeSouthern Methodist UniversityStanford UniversityStevens Institute of TechnologySt Olaf CollegeTexas A&M University Main CampusTufts UniversityUniversity of AK Fairbanks, All CampusesUniversity of AlabamaUniversity of California-BerkeleyUniversity of California-DavisUniversity of California-IrvineUniversity of California-Los AngelesUniversity of ChicagoUniversity of Colorado at BoulderUniversity of Colorado at DenverUniversity of ConnecticutUniversity of Connecticut, All CampusesUniversity of GeorgiaUniversity of Illinois at ChicagoUniversity of Illinois at Urbana-ChampaignUniversity of IowaUniversity of MaineUniversity of Maryland at College ParkUniversity of Massachusetts at AmherstUniversity of Massachusetts at BostonUniversity of Massachusetts at DartmouthUniversity of Massachusetts LowellUniversity of Michigan at Ann ArborUniversity of Minnesota - DuluthUniversity of Minnesota - Twin CitiesUniversity of Nebraska at LincolnUniversity of PennsylvaniaUniversity of Rhode IslandUniversity of Southern CaliforniaUniversity of Southern MaineUniversity of Texas at ArlingtonUniversity of Texas at AustinUniversity of Texas at DallasUniversity of Texas at Permian BasinUniversity of VermontUniversity of Virginia, Main CampusUniversity of Washington - SeattleUniversity of Wisconsin-MadisonUniversity of Wisconsin-MilwaukeeValparaiso UniversityVanderbilt UniversityWashington and Lee UniversityWashington UniversityWellesley CollegeWesleyan UniversityWilliams CollegeWorcester Polytechnic InstituteYale University
 ```
 
 ```
-## Warning: cannot open file
-## '/Library/WebServer/Documents/Allfields/tables/Babson College.tsv': No
-## such file or directory
-```
-
-```
-## Error: cannot open the connection
+## data frame with 0 columns and 0 rows
 ```
 
 ```r
-cat(toJSON(unique(table$institution)))
-```
-
-```
-## ["Massachusetts Institute of Technology","University of Iowa","University of Illinois at Urbana-Champaign","University of California-Berkeley","University of California-Los Angeles","Boston College","Brown University","Cornell University, All Campuses","Emory University","Georgetown University","Harvard University","Michigan State University","New York University","Northwestern Univ","Rensselaer Polytechnic Institute","Rice University","Stanford University","Stevens Institute of Technology","University of Massachusetts at Amherst","University of Texas at Austin","University of Virginia, Main Campus","University of Washington - Seattle","Washington University","Yale University","University of Pennsylvania","University of Wisconsin-Madison","University of Chicago","Brandeis University","University of Georgia","University of Maryland at College Park","Boston University","Howard University","University of California-Davis","University of Connecticut, All Campuses","University of Illinois at Chicago","Clark University","Princeton University","Brigham Young University, Main Campus","Smith College","California State University-Los Angeles","Drexel University","Fisk University","Wellesley College","University of Rhode Island","Bowdoin College","California State Polytechnic U-San Luis Obispo","Southern Methodist University","California State University-Fresno","California State University-Fullerton","Dartmouth College","University of Wisconsin-Milwaukee","Tufts University","Fitchburg State College","Lesley College","Salem State College","University of Massachusetts at Boston","University of Massachusetts at Dartmouth","University of Massachusetts Lowell","Bates College","Colby College","St Olaf College","University of Texas at Arlington","University of California-Irvine","Miami-Dade Community College","College of the Holy Cross","Williams College","Haverford College","Babson College","University of Colorado at Boulder","University of Nebraska at Lincoln","Rutgers the State Univ of NJ New Brunswick","Ohio State University, Main Campus","University of Minnesota - Twin Cities","University of Maine","University of Minnesota - Duluth","George Mason University","University of Michigan at Ann Arbor","University of Southern Maine","California State University-Bakersfield","Texas A&M University Main Campus","University of Texas at Dallas","Richard Stockton College of New Jersey","University of Texas at Permian Basin","University of Connecticut","University of Colorado at Denver","City University"]
-```
-
-```r
+cat("schoolnames =", toJSON(c("", sort(unique(table$institution)))), "longdata", 
+    file = "listOfSchools.json")
 head(schools)
 ```
 
@@ -106,9 +88,8 @@ head(schools)
 ```r
 elitePublic = c("University of California-Berkeley", "University of California-Los Angeles", 
     "University of Colorado at Boulder", "University of Illinois at Urbana-Champaign", 
-    "University of Iowa", "University of Michigan at Ann Arbor", "University of Minnesota - Duluth", 
-    "University of Minnesota - Twin Cities", "University of Nebraska at Lincoln", 
-    "University of Texas at Austin", "University of Virginia, Main Campus", 
+    "University of Iowa", "University of Michigan at Ann Arbor", "University of Minnesota - Twin Cities", 
+    "University of Nebraska at Lincoln", "University of Texas at Austin", "University of Virginia, Main Campus", 
     "University of Washington - Seattle", "University of Wisconsin-Madison")
 
 Ivy = c("Harvard University", "Princeton University", "Yale University", "Dartmouth College", 
@@ -124,7 +105,7 @@ table(new$institution)
 ```
 ## 
 ##               Ivy League Selected State Flagships 
-##                    36723                   108999
+##                    36723                   105741
 ```
 
 ```r
@@ -132,174 +113,11 @@ writeOutResults(new[new$level == "Bachelor's Degrees", ])
 ```
 
 ```
-## Ivy League
+## Ivy LeagueSelected State Flagships
 ```
 
 ```
-## Warning: cannot open file
-## '/Library/WebServer/Documents/Allfields/tables/Ivy League.tsv': No such
-## file or directory
-```
-
-```
-## Error: cannot open the connection
-```
-
-
-
-
-```r
-
-table = read.table("DegreeData.csv", sep = ",", skip = 6, header = T, colClasses = c("character", 
-    "factor", "factor", "character", "character"), na.strings = c(".", "\".\"", 
-    "\"######\""))
-```
-
-```
-## Warning: cannot open file 'DegreeData.csv': No such file or directory
-```
-
-```
-## Error: cannot open the connection
-```
-
-```r
-
-names(table) = c("year", "institution", "discipline", "gender", "majors", "minors")
-# 
-
-if (FALSE) {
-    table = read.table("Schools.csv", sep = ",", skip = 0, header = T, colClasses = c("character", 
-        "factor", "factor", "character", "character"), na.strings = c(".", "\".\"", 
-        "\"######\""))
-    head(table)
-    names(table) = c("year", "gender", "degree", "discipline", "institution", 
-        "muck", "majors")
-    table = table[table$degree == "Bachelor's Degrees", ]
-    table$minors = 0
-}
-
-table = cleanupTable(table)
-```
-
-```
-## Warning: NAs introduced by coercion
-```
-
-```r
-
-table = reformatDisciplines(table)
-```
-
-```
-##   |                                                                         |                                                                 |   0%  |                                                                         |==                                                               |   4%  |                                                                         |=====                                                            |   7%  |                                                                         |=======                                                          |  11%  |                                                                         |==========                                                       |  15%  |                                                                         |============                                                     |  19%  |                                                                         |==============                                                   |  22%  |                                                                         |=================                                                |  26%  |                                                                         |===================                                              |  30%  |                                                                         |======================                                           |  33%  |                                                                         |========================                                         |  37%  |                                                                         |==========================                                       |  41%  |                                                                         |=============================                                    |  44%  |                                                                         |===============================                                  |  48%  |                                                                         |==================================                               |  52%  |                                                                         |====================================                             |  56%  |                                                                         |=======================================                          |  59%  |                                                                         |=========================================                        |  63%  |                                                                         |===========================================                      |  67%  |                                                                         |==============================================                   |  70%  |                                                                         |================================================                 |  74%  |                                                                         |===================================================              |  78%  |                                                                         |=====================================================            |  81%  |                                                                         |=======================================================          |  85%  |                                                                         |==========================================================       |  89%  |                                                                         |============================================================     |  93%  |                                                                         |===============================================================  |  96%  |                                                                         |=================================================================| 100%
-```
-
-```r
-head(table)
-```
-
-```
-##   year institution        discipline
-## 1 1966      Female Doctorate Degrees
-## 2 1966      Female Doctorate Degrees
-## 3 1966      Female Doctorate Degrees
-## 4 1966      Female Doctorate Degrees
-## 5 1966      Female Doctorate Degrees
-## 6 1966      Female Doctorate Degrees
-##                                       gender majors minors NA
-## 1      Massachusetts Institute of Technology      0      1  0
-## 2                         University of Iowa      0      1  0
-## 3 University of Illinois at Urbana-Champaign      0      1  0
-## 4          University of California-Berkeley      0      1  0
-## 5       University of California-Los Angeles      0      1  0
-## 6          University of California-Berkeley      0      1  0
-##                  NA             field
-## 1       Engineering Doctorate Degrees
-## 2       Engineering Doctorate Degrees
-## 3       Engineering Doctorate Degrees
-## 4       Engineering Doctorate Degrees
-## 5       Engineering Doctorate Degrees
-## 6 Physical Sciences Doctorate Degrees
-```
-
-```r
-require(reshape2)
-limited = melt(xtabs(majors ~ year + gender + field, table))
-names(limited) = c("year", "gender", "field", "count")
-totals = ddply(limited, .(year), function(row) {
-    data.frame(total = sum(row$count))
-})
-limited = merge(limited, totals)
-head(limited)
-```
-
-```
-##   year                                     gender               field
-## 1 1966                             Babson College Associate's Degrees
-## 2 1966       University of California-Los Angeles    Master's Degrees
-## 3 1966         Ohio State University, Main Campus   Doctorate Degrees
-## 4 1966           University of Texas at Arlington Associate's Degrees
-## 5 1966              Southern Methodist University   Doctorate Degrees
-## 6 1966 University of Illinois at Urbana-Champaign    Master's Degrees
-##   count total
-## 1     0     0
-## 2     0     0
-## 3     0     0
-## 4     0     0
-## 5     0     0
-## 6     0     0
-```
-
-```r
-write.table(limited, file = "/Library/WebServer/Documents/Allfields/data.tsv", 
-    sep = "\t", row.names = F)
-```
-
-```
-## Warning: cannot open file
-## '/Library/WebServer/Documents/Allfields/data.tsv': No such file or
-## directory
-```
-
-```
-## Error: cannot open the connection
-```
-
-```r
-
-ddply(table, .(institution), function(mytable) {
-    limited = melt(xtabs(majors ~ year + gender + field, mytable))
-    cat(as.character(mytable$institution[1]))
-    names(limited) = c("year", "gender", "field", "count")
-    totals = ddply(limited, .(year), function(row) {
-        data.frame(total = sum(row$count))
-    })
-    limited = merge(limited, totals)
-    head(limited)
-    write.table(limited, file = paste0("/Library/WebServer/Documents/Allfields/", 
-        gsub("/", ".", mytable$institution[1]), ".tsv"), sep = "\t", row.names = F)
-})
-```
-
-```
-## Female
-```
-
-```
-## Warning: cannot open file
-## '/Library/WebServer/Documents/Allfields/Female.tsv': No such file or
-## directory
-```
-
-```
-## Error: cannot open the connection
-```
-
-```r
-
-limited = melt(xtabs(majors ~ year + gender + field, table[table$institution == 
-    "Master's/Comprehensive II", ]))
+## data frame with 0 columns and 0 rows
 ```
 
 
@@ -731,7 +549,7 @@ newtotals = rbind(totals, ddply(previousOutput, .(year), function(frame) {
 ```
 
 ```
-## Error: object 'previousOutput' not found
+## Error: object 'totals' not found
 ```
 
 ```r
@@ -749,38 +567,38 @@ new[sample(1:nrow(new), 10), ]
 
 ```
 ##        year gender              level              institution
-## 113634 1980   Male  Doctorate Degrees Selected State Flagships
-## 109609 1980 Female   Master's Degrees Selected State Flagships
-## 282301 1997 Female Bachelor's Degrees Selected State Flagships
-## 52453  1973   Male Bachelor's Degrees               Ivy League
-## 286056 1997   Male   Master's Degrees               Ivy League
-## 77130  1976   Male   Master's Degrees Selected State Flagships
-## 285461 1997   Male  Doctorate Degrees               Ivy League
-## 252186 1994 Female Bachelor's Degrees Selected State Flagships
-## 25962  1970 Female Bachelor's Degrees Selected State Flagships
-## 279808 1997 Female  Doctorate Degrees Selected State Flagships
-##                                         discipline majors minors
-## 113634 Political Science and Public Administration     13      0
-## 109609                        Atmospheric Sciences      1      0
-## 282301                      Mechanical Engineering     15      0
-## 52453                          Biological Sciences    103      0
-## 286056                                   Astronomy      3      0
-## 77130                   Mathematics and Statistics     18      0
-## 285461                           Foreign Languages     13      0
-## 252186                              Arts and Music     55      0
-## 25962                               Arts and Music    229      0
-## 279808 Political Science and Public Administration      3      0
-##                                              field
-## 113634 Political Science and Public Administration
-## 109609                           Physical Sciences
-## 282301                                 Engineering
-## 52453                                Life Sciences
-## 286056                           Physical Sciences
-## 77130                                         Math
-## 285461                           Foreign Languages
-## 252186                            Art/Architecture
-## 25962                             Art/Architecture
-## 279808 Political Science and Public Administration
+## 327836 2001   Male  Doctorate Degrees               Ivy League
+## 173923 1986   Male   Master's Degrees Selected State Flagships
+## 321496 2000   Male Bachelor's Degrees               Ivy League
+## 44117  1972   Male Bachelor's Degrees Selected State Flagships
+## 57632  1974   Male  Doctorate Degrees Selected State Flagships
+## 23447  1969   Male Bachelor's Degrees Selected State Flagships
+## 61853  1974   Male Bachelor's Degrees Selected State Flagships
+## 57820  1974   Male  Doctorate Degrees               Ivy League
+## 167027 1986 Female  Doctorate Degrees Selected State Flagships
+## 408835 2008   Male Bachelor's Degrees Selected State Flagships
+##                                       discipline majors minors
+## 327836                          Medical Sciences     34      0
+## 173923                   Business and Management    206      0
+## 321496     Architecture and Environmental Design     13      0
+## 44117                 Mathematics and Statistics     31      0
+## 57632                       Chemical Engineering      6      0
+## 23447  Other Non-sciences or Unknown Disciplines     31      0
+## 61853                     English and Literature    133      0
+## 57820                                  Chemistry     16      0
+## 167027                     Other Social Sciences      2      0
+## 408835                    English and Literature    111      0
+##                         field
+## 327836          Life Sciences
+## 173923               Business
+## 321496       Art/Architecture
+## 44117                    Math
+## 57632             Engineering
+## 23447           Other/Unknown
+## 61853  English and Literature
+## 57820       Physical Sciences
+## 167027 Social Sciences, Other
+## 408835 English and Literature
 ```
 
 ```r

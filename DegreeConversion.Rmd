@@ -14,11 +14,11 @@ writeOutResults(table[table$level=="Bachelor's Degrees",])
 
 Then, get the individual school counts. I'm just concatenating together a bunch of individual webcaspar school files for this.
 ``` {r}
-schools = loadSchoolTable(c("rawdata/Schmidt.csv","rawdata/Schools2.csv"))
+schools = loadSchoolTable()
 table = cleanupTable(schools)
 table = reformatDisciplines(table)
 writeOutResults(table[table$level=="Bachelor's Degrees",])
-cat("schoolnames =",toJSON(c("",sort(unique(table$institution)))),"longdata",file="listOfSchools.json")
+cat("schoolnames =",toJSON(c("",sort(unique(table$institution)),"longdata")),file="listOfSchools.json")
 head(schools)
 ```
 
@@ -26,54 +26,20 @@ head(schools)
 elitePublic = c("University of California-Berkeley","University of California-Los Angeles","University of Colorado at Boulder","University of Illinois at Urbana-Champaign","University of Iowa","University of Michigan at Ann Arbor","University of Minnesota - Twin Cities","University of Nebraska at Lincoln","University of Texas at Austin","University of Virginia, Main Campus","University of Washington - Seattle","University of Wisconsin-Madison")
 
 Ivy = c("Harvard University","Princeton University","Yale University","Dartmouth College","University of Pennsylvania","Cornell University","Brown University","Columbia University")
-new  = table[table$institution %in% Ivy | table$institution %in% elitePublic,]
+
+bigTen = c("University of Illinois at Urbana-Champaign","University of Iowa","Indiana University at Bloomington","University of Michigan at Ann Arbor","Michigan State University","University of Minnesota - Twin Cities","University of Nebraska at Lincoln","Northwestern Univ","Ohio State University","Pennsylvania State Univerity","Purdue University","University of Wisconsin","Pennsylvania State U, All Campuses","Pennsylvania State U, Main Campus","Purdue University, All Campuses","Purdue University, Main Campus","University of Wisconsin-Madison","Ohio State University, Main Campus")
+
+new  = table[table$institution %in% c(elitePublic,Ivy,bigTen)]
 new$institution[new$institution %in% Ivy] = "Ivy League"
 new$institution[new$institution %in% elitePublic] = "Selected State Flagships"
 table(new$institution)
 writeOutResults(new[new$level=="Bachelor's Degrees",])
-```
 
+new  = table[table$institution %in% c(bigTen),]
+new$institution = "Big Ten"
+table(new$institution)
+writeOutResults(new[new$level=="Bachelor's Degrees",])
 
-```{r}
-
-table = read.table("DegreeData.csv",sep=",",skip = 6,header=T
-           ,colClasses = c("character","factor","factor","character","character"),na.strings=c(".",'"."','"######"'))
-
-names(table) = c("year","institution","discipline","gender","majors","minors")
-#
-
-if (FALSE) {
-table = read.table("Schools.csv",sep=",",skip = 0,header=T
-           ,colClasses = c("character","factor","factor","character","character"),na.strings=c(".",'"."','"######"'))
-head(table)
-names(table) = c("year","gender","degree","discipline","institution","muck","majors");
-table=table[table$degree=="Bachelor's Degrees",]
-table$minors = 0
-}
-
-table = cleanupTable(table)
-
-table = reformatDisciplines(table)
-head(table)
-require(reshape2)
-limited = melt(xtabs(majors~year+gender+field,table))
-names(limited) = c("year","gender","field","count")
-totals = ddply(limited,.(year),function(row){data.frame(total=sum(row$count))})
-limited = merge(limited,totals)
-head(limited)
-write.table(limited,file="/Library/WebServer/Documents/Allfields/data.tsv",sep="\t",row.names=F)
-
-ddply(table,.(institution),function(mytable){
-  limited = melt(xtabs(majors~year+gender+field,mytable))
-  cat(as.character(mytable$institution[1]))
-  names(limited) = c("year","gender","field","count")
-  totals = ddply(limited,.(year),function(row){data.frame(total=sum(row$count))})
-  limited = merge(limited,totals)
-  head(limited)
-  write.table(limited,file=paste0("/Library/WebServer/Documents/Allfields/",gsub("/",".",mytable$institution[1]),".tsv"),sep="\t",row.names=F)
-})
-
-limited = melt(xtabs(majors~year+gender+field,table[table$institution=="Master's/Comprehensive II",]))
 
 ```
 

@@ -1,0 +1,379 @@
+"year"	"gender"	"field"	"count"
+1966	"Female"	"Agriculture"	10
+1968	"Female"	"Agriculture"	0
+1969	"Female"	"Agriculture"	0
+1970	"Female"	"Agriculture"	0
+1971	"Female"	"Agriculture"	0
+1972	"Female"	"Agriculture"	0
+1973	"Female"	"Agriculture"	0
+1974	"Female"	"Agriculture"	0
+1975	"Female"	"Agriculture"	0
+1966	"Male"	"Agriculture"	176
+1968	"Male"	"Agriculture"	1
+1969	"Male"	"Agriculture"	1
+1970	"Male"	"Agriculture"	2
+1971	"Male"	"Agriculture"	1
+1972	"Male"	"Agriculture"	1
+1973	"Male"	"Agriculture"	2
+1974	"Male"	"Agriculture"	0
+1975	"Male"	"Agriculture"	0
+1966	"Female"	"Art/Architecture"	15
+1968	"Female"	"Art/Architecture"	1
+1969	"Female"	"Art/Architecture"	0
+1970	"Female"	"Art/Architecture"	3
+1971	"Female"	"Art/Architecture"	6
+1972	"Female"	"Art/Architecture"	2
+1973	"Female"	"Art/Architecture"	3
+1974	"Female"	"Art/Architecture"	1
+1975	"Female"	"Art/Architecture"	2
+1966	"Male"	"Art/Architecture"	8
+1968	"Male"	"Art/Architecture"	1
+1969	"Male"	"Art/Architecture"	2
+1970	"Male"	"Art/Architecture"	4
+1971	"Male"	"Art/Architecture"	0
+1972	"Male"	"Art/Architecture"	1
+1973	"Male"	"Art/Architecture"	0
+1974	"Male"	"Art/Architecture"	2
+1975	"Male"	"Art/Architecture"	1
+1966	"Female"	"Business"	0
+1968	"Female"	"Business"	0
+1969	"Female"	"Business"	0
+1970	"Female"	"Business"	0
+1971	"Female"	"Business"	0
+1972	"Female"	"Business"	0
+1973	"Female"	"Business"	0
+1974	"Female"	"Business"	0
+1975	"Female"	"Business"	1
+1966	"Male"	"Business"	210
+1968	"Male"	"Business"	2
+1969	"Male"	"Business"	0
+1970	"Male"	"Business"	1
+1971	"Male"	"Business"	40
+1972	"Male"	"Business"	43
+1973	"Male"	"Business"	19
+1974	"Male"	"Business"	13
+1975	"Male"	"Business"	20
+1966	"Female"	"Communication and Library Science"	7
+1968	"Female"	"Communication and Library Science"	0
+1969	"Female"	"Communication and Library Science"	1
+1970	"Female"	"Communication and Library Science"	0
+1971	"Female"	"Communication and Library Science"	0
+1972	"Female"	"Communication and Library Science"	0
+1973	"Female"	"Communication and Library Science"	0
+1974	"Female"	"Communication and Library Science"	0
+1975	"Female"	"Communication and Library Science"	0
+1966	"Male"	"Communication and Library Science"	3
+1968	"Male"	"Communication and Library Science"	1
+1969	"Male"	"Communication and Library Science"	0
+1970	"Male"	"Communication and Library Science"	0
+1971	"Male"	"Communication and Library Science"	0
+1972	"Male"	"Communication and Library Science"	0
+1973	"Male"	"Communication and Library Science"	0
+1974	"Male"	"Communication and Library Science"	1
+1975	"Male"	"Communication and Library Science"	0
+1966	"Female"	"Computer Science"	0
+1968	"Female"	"Computer Science"	0
+1969	"Female"	"Computer Science"	0
+1970	"Female"	"Computer Science"	0
+1971	"Female"	"Computer Science"	0
+1972	"Female"	"Computer Science"	0
+1973	"Female"	"Computer Science"	1
+1974	"Female"	"Computer Science"	1
+1975	"Female"	"Computer Science"	1
+1966	"Male"	"Computer Science"	0
+1968	"Male"	"Computer Science"	0
+1969	"Male"	"Computer Science"	1
+1970	"Male"	"Computer Science"	2
+1971	"Male"	"Computer Science"	9
+1972	"Male"	"Computer Science"	14
+1973	"Male"	"Computer Science"	1
+1974	"Male"	"Computer Science"	6
+1975	"Male"	"Computer Science"	7
+1966	"Female"	"Economics"	6
+1968	"Female"	"Economics"	0
+1969	"Female"	"Economics"	0
+1970	"Female"	"Economics"	0
+1971	"Female"	"Economics"	0
+1972	"Female"	"Economics"	0
+1973	"Female"	"Economics"	0
+1974	"Female"	"Economics"	0
+1975	"Female"	"Economics"	0
+1966	"Male"	"Economics"	202
+1968	"Male"	"Economics"	2
+1969	"Male"	"Economics"	3
+1970	"Male"	"Economics"	2
+1971	"Male"	"Economics"	4
+1972	"Male"	"Economics"	0
+1973	"Male"	"Economics"	0
+1974	"Male"	"Economics"	0
+1975	"Male"	"Economics"	0
+1966	"Female"	"Education"	266
+1968	"Female"	"Education"	0
+1969	"Female"	"Education"	0
+1970	"Female"	"Education"	0
+1971	"Female"	"Education"	1
+1972	"Female"	"Education"	1
+1973	"Female"	"Education"	0
+1974	"Female"	"Education"	0
+1975	"Female"	"Education"	0
+1966	"Male"	"Education"	206
+1968	"Male"	"Education"	1
+1969	"Male"	"Education"	1
+1970	"Male"	"Education"	1
+1971	"Male"	"Education"	2
+1972	"Male"	"Education"	0
+1973	"Male"	"Education"	0
+1974	"Male"	"Education"	0
+1975	"Male"	"Education"	0
+1966	"Female"	"Engineering"	5
+1968	"Female"	"Engineering"	0
+1969	"Female"	"Engineering"	2
+1970	"Female"	"Engineering"	0
+1971	"Female"	"Engineering"	1
+1972	"Female"	"Engineering"	0
+1973	"Female"	"Engineering"	2
+1974	"Female"	"Engineering"	2
+1975	"Female"	"Engineering"	1
+1966	"Male"	"Engineering"	940
+1968	"Male"	"Engineering"	42
+1969	"Male"	"Engineering"	80
+1970	"Male"	"Engineering"	130
+1971	"Male"	"Engineering"	78
+1972	"Male"	"Engineering"	91
+1973	"Male"	"Engineering"	34
+1974	"Male"	"Engineering"	45
+1975	"Male"	"Engineering"	45
+1966	"Female"	"English and Literature"	78
+1968	"Female"	"English and Literature"	2
+1969	"Female"	"English and Literature"	6
+1970	"Female"	"English and Literature"	4
+1971	"Female"	"English and Literature"	11
+1972	"Female"	"English and Literature"	11
+1973	"Female"	"English and Literature"	6
+1974	"Female"	"English and Literature"	2
+1975	"Female"	"English and Literature"	2
+1966	"Male"	"English and Literature"	14
+1968	"Male"	"English and Literature"	1
+1969	"Male"	"English and Literature"	6
+1970	"Male"	"English and Literature"	7
+1971	"Male"	"English and Literature"	4
+1972	"Male"	"English and Literature"	5
+1973	"Male"	"English and Literature"	4
+1974	"Male"	"English and Literature"	2
+1975	"Male"	"English and Literature"	2
+1966	"Female"	"Foreign Languages"	43
+1968	"Female"	"Foreign Languages"	1
+1969	"Female"	"Foreign Languages"	0
+1970	"Female"	"Foreign Languages"	0
+1971	"Female"	"Foreign Languages"	0
+1972	"Female"	"Foreign Languages"	0
+1973	"Female"	"Foreign Languages"	0
+1974	"Female"	"Foreign Languages"	1
+1975	"Female"	"Foreign Languages"	0
+1966	"Male"	"Foreign Languages"	5
+1968	"Male"	"Foreign Languages"	0
+1969	"Male"	"Foreign Languages"	0
+1970	"Male"	"Foreign Languages"	0
+1971	"Male"	"Foreign Languages"	0
+1972	"Male"	"Foreign Languages"	0
+1973	"Male"	"Foreign Languages"	0
+1974	"Male"	"Foreign Languages"	0
+1975	"Male"	"Foreign Languages"	0
+1966	"Female"	"History"	4
+1968	"Female"	"History"	0
+1969	"Female"	"History"	0
+1970	"Female"	"History"	0
+1971	"Female"	"History"	0
+1972	"Female"	"History"	1
+1973	"Female"	"History"	0
+1974	"Female"	"History"	0
+1975	"Female"	"History"	0
+1966	"Male"	"History"	12
+1968	"Male"	"History"	1
+1969	"Male"	"History"	1
+1970	"Male"	"History"	0
+1971	"Male"	"History"	1
+1972	"Male"	"History"	1
+1973	"Male"	"History"	1
+1974	"Male"	"History"	0
+1975	"Male"	"History"	0
+1966	"Female"	"Humanities, Other"	2
+1968	"Female"	"Humanities, Other"	0
+1969	"Female"	"Humanities, Other"	0
+1970	"Female"	"Humanities, Other"	0
+1971	"Female"	"Humanities, Other"	0
+1972	"Female"	"Humanities, Other"	0
+1973	"Female"	"Humanities, Other"	0
+1974	"Female"	"Humanities, Other"	0
+1975	"Female"	"Humanities, Other"	0
+1966	"Male"	"Humanities, Other"	5
+1968	"Male"	"Humanities, Other"	0
+1969	"Male"	"Humanities, Other"	0
+1970	"Male"	"Humanities, Other"	0
+1971	"Male"	"Humanities, Other"	2
+1972	"Male"	"Humanities, Other"	2
+1973	"Male"	"Humanities, Other"	2
+1974	"Male"	"Humanities, Other"	2
+1975	"Male"	"Humanities, Other"	6
+1966	"Female"	"Life Sciences"	73
+1968	"Female"	"Life Sciences"	0
+1969	"Female"	"Life Sciences"	0
+1970	"Female"	"Life Sciences"	2
+1971	"Female"	"Life Sciences"	2
+1972	"Female"	"Life Sciences"	1
+1973	"Female"	"Life Sciences"	2
+1974	"Female"	"Life Sciences"	2
+1975	"Female"	"Life Sciences"	11
+1966	"Male"	"Life Sciences"	178
+1968	"Male"	"Life Sciences"	0
+1969	"Male"	"Life Sciences"	5
+1970	"Male"	"Life Sciences"	5
+1971	"Male"	"Life Sciences"	5
+1972	"Male"	"Life Sciences"	4
+1973	"Male"	"Life Sciences"	4
+1974	"Male"	"Life Sciences"	2
+1975	"Male"	"Life Sciences"	6
+1966	"Female"	"Math"	39
+1968	"Female"	"Math"	3
+1969	"Female"	"Math"	1
+1970	"Female"	"Math"	3
+1971	"Female"	"Math"	4
+1972	"Female"	"Math"	6
+1973	"Female"	"Math"	5
+1974	"Female"	"Math"	2
+1975	"Female"	"Math"	4
+1966	"Male"	"Math"	62
+1968	"Male"	"Math"	3
+1969	"Male"	"Math"	2
+1970	"Male"	"Math"	8
+1971	"Male"	"Math"	17
+1972	"Male"	"Math"	10
+1973	"Male"	"Math"	9
+1974	"Male"	"Math"	5
+1975	"Male"	"Math"	9
+1966	"Female"	"Other/Unknown"	0
+1968	"Female"	"Other/Unknown"	0
+1969	"Female"	"Other/Unknown"	0
+1970	"Female"	"Other/Unknown"	0
+1971	"Female"	"Other/Unknown"	2
+1972	"Female"	"Other/Unknown"	0
+1973	"Female"	"Other/Unknown"	0
+1974	"Female"	"Other/Unknown"	0
+1975	"Female"	"Other/Unknown"	0
+1966	"Male"	"Other/Unknown"	0
+1968	"Male"	"Other/Unknown"	0
+1969	"Male"	"Other/Unknown"	0
+1970	"Male"	"Other/Unknown"	0
+1971	"Male"	"Other/Unknown"	0
+1972	"Male"	"Other/Unknown"	0
+1973	"Male"	"Other/Unknown"	0
+1974	"Male"	"Other/Unknown"	0
+1975	"Male"	"Other/Unknown"	0
+1966	"Female"	"Physical Sciences"	10
+1968	"Female"	"Physical Sciences"	0
+1969	"Female"	"Physical Sciences"	0
+1970	"Female"	"Physical Sciences"	2
+1971	"Female"	"Physical Sciences"	0
+1972	"Female"	"Physical Sciences"	0
+1973	"Female"	"Physical Sciences"	2
+1974	"Female"	"Physical Sciences"	0
+1975	"Female"	"Physical Sciences"	3
+1966	"Male"	"Physical Sciences"	74
+1968	"Male"	"Physical Sciences"	8
+1969	"Male"	"Physical Sciences"	10
+1970	"Male"	"Physical Sciences"	13
+1971	"Male"	"Physical Sciences"	16
+1972	"Male"	"Physical Sciences"	26
+1973	"Male"	"Physical Sciences"	6
+1974	"Male"	"Physical Sciences"	8
+1975	"Male"	"Physical Sciences"	2
+1966	"Female"	"Political Science and Public Administration"	15
+1968	"Female"	"Political Science and Public Administration"	0
+1969	"Female"	"Political Science and Public Administration"	0
+1970	"Female"	"Political Science and Public Administration"	0
+1971	"Female"	"Political Science and Public Administration"	1
+1972	"Female"	"Political Science and Public Administration"	0
+1973	"Female"	"Political Science and Public Administration"	0
+1974	"Female"	"Political Science and Public Administration"	0
+1975	"Female"	"Political Science and Public Administration"	0
+1966	"Male"	"Political Science and Public Administration"	34
+1968	"Male"	"Political Science and Public Administration"	0
+1969	"Male"	"Political Science and Public Administration"	2
+1970	"Male"	"Political Science and Public Administration"	0
+1971	"Male"	"Political Science and Public Administration"	0
+1972	"Male"	"Political Science and Public Administration"	1
+1973	"Male"	"Political Science and Public Administration"	0
+1974	"Male"	"Political Science and Public Administration"	0
+1975	"Male"	"Political Science and Public Administration"	0
+1966	"Female"	"Psychology"	21
+1968	"Female"	"Psychology"	1
+1969	"Female"	"Psychology"	8
+1970	"Female"	"Psychology"	11
+1971	"Female"	"Psychology"	9
+1972	"Female"	"Psychology"	9
+1973	"Female"	"Psychology"	9
+1974	"Female"	"Psychology"	12
+1975	"Female"	"Psychology"	5
+1966	"Male"	"Psychology"	26
+1968	"Male"	"Psychology"	6
+1969	"Male"	"Psychology"	11
+1970	"Male"	"Psychology"	18
+1971	"Male"	"Psychology"	15
+1972	"Male"	"Psychology"	20
+1973	"Male"	"Psychology"	3
+1974	"Male"	"Psychology"	8
+1975	"Male"	"Psychology"	8
+1966	"Female"	"Social Sciences, Other"	33
+1968	"Female"	"Social Sciences, Other"	0
+1969	"Female"	"Social Sciences, Other"	1
+1970	"Female"	"Social Sciences, Other"	4
+1971	"Female"	"Social Sciences, Other"	3
+1972	"Female"	"Social Sciences, Other"	3
+1973	"Female"	"Social Sciences, Other"	0
+1974	"Female"	"Social Sciences, Other"	0
+1975	"Female"	"Social Sciences, Other"	0
+1966	"Male"	"Social Sciences, Other"	38
+1968	"Male"	"Social Sciences, Other"	1
+1969	"Male"	"Social Sciences, Other"	1
+1970	"Male"	"Social Sciences, Other"	4
+1971	"Male"	"Social Sciences, Other"	8
+1972	"Male"	"Social Sciences, Other"	4
+1973	"Male"	"Social Sciences, Other"	0
+1974	"Male"	"Social Sciences, Other"	0
+1975	"Male"	"Social Sciences, Other"	0
+1966	"Female"	"Sociology"	28
+1968	"Female"	"Sociology"	1
+1969	"Female"	"Sociology"	0
+1970	"Female"	"Sociology"	2
+1971	"Female"	"Sociology"	1
+1972	"Female"	"Sociology"	0
+1973	"Female"	"Sociology"	0
+1974	"Female"	"Sociology"	1
+1975	"Female"	"Sociology"	0
+1966	"Male"	"Sociology"	7
+1968	"Male"	"Sociology"	0
+1969	"Male"	"Sociology"	0
+1970	"Male"	"Sociology"	1
+1971	"Male"	"Sociology"	1
+1972	"Male"	"Sociology"	0
+1973	"Male"	"Sociology"	0
+1974	"Male"	"Sociology"	0
+1975	"Male"	"Sociology"	0
+1966	"Female"	"Vocational Studies and Home Economics"	64
+1968	"Female"	"Vocational Studies and Home Economics"	0
+1969	"Female"	"Vocational Studies and Home Economics"	0
+1970	"Female"	"Vocational Studies and Home Economics"	0
+1971	"Female"	"Vocational Studies and Home Economics"	2
+1972	"Female"	"Vocational Studies and Home Economics"	0
+1973	"Female"	"Vocational Studies and Home Economics"	1
+1974	"Female"	"Vocational Studies and Home Economics"	0
+1975	"Female"	"Vocational Studies and Home Economics"	0
+1966	"Male"	"Vocational Studies and Home Economics"	9
+1968	"Male"	"Vocational Studies and Home Economics"	0
+1969	"Male"	"Vocational Studies and Home Economics"	0
+1970	"Male"	"Vocational Studies and Home Economics"	0
+1971	"Male"	"Vocational Studies and Home Economics"	0
+1972	"Male"	"Vocational Studies and Home Economics"	0
+1973	"Male"	"Vocational Studies and Home Economics"	0
+1974	"Male"	"Vocational Studies and Home Economics"	0
+1975	"Male"	"Vocational Studies and Home Economics"	0

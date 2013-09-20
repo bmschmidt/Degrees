@@ -46,7 +46,7 @@ path {
     </head>
 
 <body>
-  <div id = "header">     <h1 font-style="sans-serif">Explore American College Majors</h1>
+  <div id = "header">  <h1 font-style="sans-serif"> How are college majors changing? </h1>
   </div>
   
     <div id="chart"></div>
@@ -60,7 +60,7 @@ path {
     <div id="back" style="width:5%;float:left"><text id="backButton" style="font-size:78px" class="navigation"><</text></div>
     <div id="storyboard" style="width:70%;float:left;height:10px">
     <text id="WhereTheTextForStoriesGoes" class="story">
-    This is an interactive chart showing bachelor's degrees in the United States. Change the options to see the story in your discipline or university, and change the y-axis to suit the ratio you think is most important. Or see some example stories: <br>
+    This is an interactive chart showing bachelor's degrees in the United States. Change the options to see the story in your discipline or university, and change the y-axis to suit the ratio you think is most important. Or walk through some example stories: <br>
 <a href="#Business" style="font-size:12pt">Why Business majors aren't increasing;</a>
     <a href="#CS" style="font-size:12pt">Computer Science's Gender Problem;</a>
 <a href="#HumRatio" style="font-size:12pt">Why the humanities aren't in "crisis"</a>
@@ -71,28 +71,35 @@ path {
 
 <br>
     </div>
+
+
 <div id=source>
-Source: <br>NCES HEGIS and IPEDS surveys, via <a href=http://webcaspar.nsf.gov>NSF's WebCASPAR</a>. I've grouped up their degree categories a bit: but remember that divisions between the sciences, social sciences, etc. are fundamentally arbitrary and historically contingent.
+<br>
+<br>
+<br>
+Made by <a href=http://benschmidt.org>Ben Schmidt</a>, 2013 using <a href=http://d3js.org>D3</a>
+<br>
+For some write up on what these trends might show in aggregate, <a href=http://sappingattention.blogspot.com/2013/06/crisis-in-humanities-or-just-women-in.html>read some of my blog posts about the importance of gender in changing majors.</a>
+<br>
+Source: <br>NCES HEGIS and IPEDS surveys, via <a href=http://webcaspar.nsf.gov>NSF's WebCASPAR</a>. I've grouped up their degree categories a bit in the sciences in particular. Remember that divisions between the sciences, social sciences, etc. are fundamentally arbitrary and historically contingent.
     <br>
-Made by <a href=http://benschmidt.org>Ben Schmidt</a>, 2013.
 </source>
     <script src="./d3.v3.js"></script>
     <script src="./Stories.js"></script>
 
 
     <script>
-//Tracking Code
 var margin = {top: 20, right: 420, bottom: 30, left: 120},
 width = window.innerWidth - margin.left - margin.right,
 height = d3.max([window.innerHeight-290 - margin.top - margin.bottom,270]);
-schoolnames = ["","Babson College","Bates College","Boston College","Boston University","Bowdoin College","Brandeis University","Brigham Young University, Main Campus","Brown University","California State Polytechnic U-San Luis Obispo","California State University-Bakersfield","California State University-Fresno","California State University-Fullerton","California State University-Los Angeles","City University","Clark University","Colby College","College of the Holy Cross","Columbia University in the City of New York","Cornell University, All Campuses","Dartmouth College","Drexel University","Emory University","Fisk University","Fitchburg State College","George Mason University","Georgetown University","Harvard University","Haverford College","Hofstra University","Howard University","Lesley College","Massachusetts Institute of Technology","Miami-Dade Community College","Michigan State University","Monmouth College","Monmouth University","New York University","Northeastern University","Northwestern Univ","Ohio State University, Main Campus","Pomona College","Princeton University","Reed College","Rensselaer Polytechnic Institute","Rice University","Richard Stockton College of New Jersey","Rutgers the State Univ of NJ New Brunswick","Salem State College","Smith College","Southern Methodist University","St Olaf College","Stanford University","Stevens Institute of Technology","Texas A&M University Main Campus","Tufts University","University of AK Fairbanks, All Campuses","University of Alabama","University of California-Berkeley","University of California-Davis","University of California-Irvine","University of California-Los Angeles","University of Chicago","University of Colorado at Boulder","University of Colorado at Denver","University of Connecticut","University of Connecticut, All Campuses","University of Georgia","University of Illinois at Chicago","University of Illinois at Urbana-Champaign","University of Iowa","University of Maine","University of Maryland at College Park","University of Massachusetts Lowell","University of Massachusetts at Amherst","University of Massachusetts at Boston","University of Massachusetts at Dartmouth","University of Michigan at Ann Arbor","University of Minnesota - Duluth","University of Minnesota - Twin Cities","University of Nebraska at Lincoln","University of Pennsylvania","University of Rhode Island","University of Southern California","University of Southern Maine","University of Texas at Arlington","University of Texas at Austin","University of Texas at Dallas","University of Texas at Permian Basin","University of Vermont","University of Virginia, Main Campus","University of Washington - Seattle","University of Wisconsin-Madison","University of Wisconsin-Milwaukee","Valparaiso University","Vanderbilt University","Washington University","Washington and Lee University","Wellesley College","Wesleyan University","Williams College","Worcester Polytechnic Institute","Yale University"]
+schoolnames = ["","Babson College","Bates College","Boston College","Boston University","Bowdoin College","Brandeis University","Brigham Young University, Main Campus","Brown University","California State Polytechnic U-San Luis Obispo","California State University-Bakersfield","California State University-Fresno","California State University-Fullerton","California State University-Los Angeles","City University","Clark University","Colby College","College of the Holy Cross","Columbia University in the City of New York","Cornell University, All Campuses","Dartmouth College","Drexel University","Emory University","Fisk University","Fitchburg State College","George Mason University","Georgetown University","Harvard University","Haverford College","Hofstra University","Howard University","Indiana University at Bloomington","Lesley College","Massachusetts Institute of Technology","Miami-Dade Community College","Michigan State University","Monmouth College","Monmouth University","New York University","Northeastern University","Northwestern Univ","Ohio State University, Main Campus","Pennsylvania State U, All Campuses","Pennsylvania State U, Main Campus","Pomona College","Princeton University","Purdue University, All Campuses","Purdue University, Main Campus","Reed College","Rensselaer Polytechnic Institute","Rice University","Richard Stockton College of New Jersey","Rutgers the State Univ of NJ New Brunswick","Salem State College","Smith College","Southern Methodist University","St Olaf College","Stanford University","Stevens Institute of Technology","Texas A&M University Main Campus","Tufts University","University of AK Fairbanks, All Campuses","University of Alabama","University of California-Berkeley","University of California-Davis","University of California-Irvine","University of California-Los Angeles","University of Chicago","University of Colorado at Boulder","University of Colorado at Denver","University of Connecticut","University of Connecticut, All Campuses","University of Georgia","University of Illinois at Chicago","University of Illinois at Urbana-Champaign","University of Iowa","University of Maine","University of Maryland at College Park","University of Massachusetts Lowell","University of Massachusetts at Amherst","University of Massachusetts at Boston","University of Massachusetts at Dartmouth","University of Michigan at Ann Arbor","University of Minnesota - Duluth","University of Minnesota - Twin Cities","University of Nebraska at Lincoln","University of Pennsylvania","University of Rhode Island","University of Southern California","University of Southern Maine","University of Texas at Arlington","University of Texas at Austin","University of Texas at Dallas","University of Texas at Permian Basin","University of Vermont","University of Virginia, Main Campus","University of Washington - Seattle","University of Wisconsin-Madison","University of Wisconsin-Milwaukee","Valparaiso University","Vanderbilt University","Washington University","Washington and Lee University","Wellesley College","Wesleyan University","Williams College","Worcester Polytechnic Institute","Yale University","longdata"]
 
-schooltypes = ["","Associate of Arts.Two Year--private.tsv","Associate of Arts.Two Year--public.tsv","Baccalaureate.Liberal Arts I--private.tsv","Baccalaureate.Liberal Arts I--public.tsv","Baccalaureate.Liberal Arts II--private.tsv","Baccalaureate.Liberal Arts II--public.tsv","Doctoral I--private.tsv","Doctoral I--public.tsv","Doctoral II--private.tsv","Doctoral II--public.tsv","Master's.Comprehensive I--private.tsv","Master's.Comprehensive I--public.tsv","Master's.Comprehensive II--private.tsv","Master's.Comprehensive II--public.tsv","Research I--private.tsv","Research I--public.tsv","Research II--private.tsv","Research II--public.tsv","Ivy League", "Selected State Flagships"]
+schooltypes = ["","Associate of Arts.Two Year--private.tsv","Associate of Arts.Two Year--public.tsv","Baccalaureate.Liberal Arts I--private.tsv","Baccalaureate.Liberal Arts I--public.tsv","Baccalaureate.Liberal Arts II--private.tsv","Baccalaureate.Liberal Arts II--public.tsv","Doctoral I--private.tsv","Doctoral I--public.tsv","Doctoral II--private.tsv","Doctoral II--public.tsv","Master's.Comprehensive I--private.tsv","Master's.Comprehensive I--public.tsv","Master's.Comprehensive II--private.tsv","Master's.Comprehensive II--public.tsv","Research I--private.tsv","Research I--public.tsv","Research II--private.tsv","Research II--public.tsv","Ivy League", "Selected State Flagships","Big Ten"]
 
 schools = d3.select("#schools");
 schools.append("text").text("Limit by specific institution: ")
 .append("text").on("click",function() {
-alert("No particular reason: these are just the universities that popped into my head as potentially interesting. Too many of the schools are of the super-prestigious variety, but I tried to get a little bit of range, although I'm sure I'm missing some whole sectors. You can see the biases: in addition to the Ivy slant, they tend to be in Massachusetts, New Jersey, or Maine, because that's where I've spend time. NCES only lets you download about 20 at a time. Shoot me an e-mail if you want your school added, and I'll put it in the next update.")
+alert("No particular reason: these are just the universities that popped into my head as potentially interesting. Many of the schools are of the super-prestigious variety, but I tried to get a little bit of range, although I'm sure I'm missing some whole sectors. Please don't go taking offense. You can see the biases: in addition to the Ivy slant, they tend to be in Massachusetts, New Jersey, or Maine, because that's where I've spent time. NCES only lets you download about 20 at a time. Shoot me an e-mail if you want your school added, and I'll put it in the next update.")
 }).text("(Why these schools?)").style("color","blue").append("br");
 
 options = schools
@@ -127,7 +134,7 @@ nullify(id);}
 
 schools.append("br");
 schools.append("text").text("Limit by institution type: ").append("text").on("click",function() {
-alert("Most of these are the NSF default Carnegie classification, which I have split by public/private. They seem to be the old 1995 classes, which includes the now-obsolete 'Research I' designation. Many of these bins are extremely small, so be sure to change the y-axis to see how big the numbers are--associate's colleges don't give out many bachelor's degrees, by definition. The 'Ivy League' is what you'd think. Just as the Ivies are some but not all of the best private schools, 'Selected State Flagships' is a group of some of the best public schools that I picked somewhat at random: Berkeley, UCLA, Boulder, UIUC, Iowa, Michigan, Minnesota, Nebraska, Austin, UVA, Washington, and Madison.")
+alert("Most of these are the NSF default Carnegie classification, which I have split by public/private. They seem to be the old 1995 classes, which includes the now-obsolete 'Research I' designation. Many of these bins are extremely small, so be sure to change the y-axis to see how big the numbers are--associate's colleges don't give out many bachelor's degrees, by definition. The 'Ivy League' is what you'd think, as is the Big Ten. 'Selected State Flagships' is a group of some of the best public schools that I picked somewhat at random: Berkeley, UCLA, Boulder, UIUC, Iowa, Michigan, Minnesota, Nebraska, Austin, UVA, Washington-Seattle, and Madison.")
 }).text("(What are these categories?)").style("color","blue").append("br");
 
 
@@ -140,7 +147,10 @@ d3.select("#typeChoice")
         changeFile(value);
     }
        );
-
+d3.select("#schools").append("br")
+d3.select("#schools").append("button").text("Save or Share chart").attr("class","selector highlit").on("click",function () {
+  window.prompt ("To show others the chart you've created, copy and share this link", "http://benschmidt.org/" + "Degrees/#" + encodeURIComponent(JSON.stringify(state)))
+})
 
 years = d3.select("#years")
     .append("select").attr("id","startYearChoice").selectAll("option").data(d3.range(1946,2012)).style("position","relative").style("left","1000px")
@@ -359,18 +369,18 @@ subtotal = function(data) {
 
 
 changeFile = function(filename) {
-	d3.selectAll(".area").transition().attr("opacity",0).remove()
-   d3.selectAll(".datafile.selector").each(function(x) {
+    d3.selectAll(".area").transition().attr("opacity",0).remove()
+    d3.selectAll(".datafile.selector").each(function(x) {
         nullify(d3.select(this).attr("id"),filename)
-	})
+    })
 	
-    if (filename==="") {//makes dropdown menus prettier
-        filename = "data"
+	if (filename==="") {//makes dropdown menus prettier
+            filename = "data"
 	}
 	if (!RegExp(".tsv").test(filename)) {
-	filename = filename + ".tsv"
+	    filename = filename + ".tsv"
 	}
-	
+    
     d3.tsv("tables/" + filename, function(error, data) {
         totals['total'] = subtotal(data);
         totals['male'] = subtotal(data.filter(function(m) {return m.gender=="Male"}));
@@ -383,8 +393,10 @@ changeFile = function(filename) {
 			totals[key][key2] = defaultTotals[key][key2]
 		    })
 	    })
-
+	
         dataPoints = data;
+	state.file = filename;
+	previousFile = filename;
         update()
     })
 }
@@ -417,10 +429,10 @@ firstLoad = function() {
         state.displayOrder = ["field","gender"]
 
         genders = ["Male","Female"]
-        genderscale = d3.scale.ordinal().domain(["Male","Female"]).range([-40,-110])
+        genderscale = d3.scale.ordinal().domain(["Male","Female"]).range([-50,-135])
         genderselects = svg.selectAll(".gender.selector").data(genders).enter().append("text").attr("class","gender selector").attr("x",function(d) {console.log(width+genderscale(d)); return(width+ genderscale(d))}).attr("y",0).text(function(d) {return(d)})
 
-        svg.append("text").text("Displaying Gender:").attr("y",0).attr("x",width-285).classed("selector",true).style("opacity",1)
+        svg.append("text").text("Displaying Gender:").attr("y",0).attr("x",width-325).classed("selector",true).style("opacity",1)
 
         d3.selectAll(".gender.selector").on("click",function(d){
             me = d3.select(this);
@@ -482,7 +494,7 @@ function parseHashString() {
 	tellAStory(hashString);
 	return true;
     }
-    else if (schoolnames.has(hashString)) {
+    else if (schoolnames.has(hashString) | schooltypes.has(hashString)) {
 	changeFile(hashString);
 	return true;
     } else {
@@ -501,6 +513,7 @@ var lastElements,currentElements,test,d1,n1; //debugging
 var stack = d3.layout.stack().values(function(d) {return d.values});
 var previousOrder = [];
 var previousFile;
+
 var update = function(transtime) {
     
     if (state.file!=previousFile) {

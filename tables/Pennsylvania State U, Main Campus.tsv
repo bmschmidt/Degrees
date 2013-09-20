@@ -1,133 +1,2201 @@
-"year"	"gender"	"field"	"count"	"total"
-"1966"	"Female"	"6965"	0	0
-"1966"	"Gender"	"6965"	0	0
-"1966"	"Male"	"6965"	0	0
-"1967"	"Female"	"6965"	0	0
-"1967"	"Gender"	"6965"	0	0
-"1967"	"Male"	"6965"	0	0
-"1970"	"Female"	"6965"	0	0
-"1970"	"Gender"	"6965"	0	0
-"1970"	"Male"	"6965"	0	0
-"1971"	"Female"	"6965"	0	0
-"1971"	"Gender"	"6965"	0	0
-"1971"	"Male"	"6965"	0	0
-"1972"	"Male"	"6965"	0	0
-"1972"	"Female"	"6965"	0	0
-"1972"	"Gender"	"6965"	0	0
-"1973"	"Male"	"6965"	0	0
-"1973"	"Female"	"6965"	0	0
-"1973"	"Gender"	"6965"	0	0
-"1974"	"Female"	"6965"	0	0
-"1974"	"Gender"	"6965"	0	0
-"1974"	"Male"	"6965"	0	0
-"1975"	"Female"	"6965"	0	0
-"1975"	"Gender"	"6965"	0	0
-"1975"	"Male"	"6965"	0	0
-"1976"	"Male"	"6965"	0	0
-"1976"	"Gender"	"6965"	0	0
-"1976"	"Female"	"6965"	0	0
-"1977"	"Male"	"6965"	0	0
-"1977"	"Gender"	"6965"	0	0
-"1977"	"Female"	"6965"	0	0
-"1978"	"Female"	"6965"	0	0
-"1978"	"Male"	"6965"	0	0
-"1978"	"Gender"	"6965"	0	0
-"1979"	"Gender"	"6965"	0	0
-"1979"	"Female"	"6965"	0	0
-"1979"	"Male"	"6965"	0	0
-"1980"	"Gender"	"6965"	0	0
-"1980"	"Male"	"6965"	0	0
-"1980"	"Female"	"6965"	0	0
-"1981"	"Male"	"6965"	0	0
-"1981"	"Female"	"6965"	0	0
-"1981"	"Gender"	"6965"	0	0
-"1982"	"Male"	"6965"	0	0
-"1982"	"Female"	"6965"	0	0
-"1982"	"Gender"	"6965"	0	0
-"1983"	"Female"	"6965"	0	0
-"1983"	"Gender"	"6965"	0	0
-"1983"	"Male"	"6965"	0	0
-"1984"	"Gender"	"6965"	0	0
-"1984"	"Male"	"6965"	0	0
-"1984"	"Female"	"6965"	0	0
-"1985"	"Gender"	"6965"	0	0
-"1985"	"Male"	"6965"	0	0
-"1985"	"Female"	"6965"	0	0
-"1986"	"Male"	"6965"	0	0
-"1986"	"Female"	"6965"	0	0
-"1986"	"Gender"	"6965"	0	0
-"1987"	"Female"	"6965"	0	0
-"1987"	"Male"	"6965"	0	0
-"1987"	"Gender"	"6965"	0	0
-"1988"	"Gender"	"6965"	0	0
-"1988"	"Female"	"6965"	0	0
-"1988"	"Male"	"6965"	0	0
-"1989"	"Male"	"6965"	0	0
-"1989"	"Gender"	"6965"	0	0
-"1989"	"Female"	"6965"	0	0
-"1990"	"Male"	"6965"	0	0
-"1990"	"Gender"	"6965"	0	0
-"1990"	"Female"	"6965"	0	0
-"1991"	"Female"	"6965"	0	0
-"1991"	"Male"	"6965"	0	0
-"1991"	"Gender"	"6965"	0	0
-"1992"	"Gender"	"6965"	0	0
-"1992"	"Female"	"6965"	0	0
-"1992"	"Male"	"6965"	0	0
-"1993"	"Gender"	"6965"	0	0
-"1993"	"Male"	"6965"	0	0
-"1993"	"Female"	"6965"	0	0
-"1994"	"Male"	"6965"	0	0
-"1994"	"Female"	"6965"	0	0
-"1994"	"Gender"	"6965"	0	0
-"1995"	"Male"	"6965"	0	0
-"1995"	"Female"	"6965"	0	0
-"1995"	"Gender"	"6965"	0	0
-"1996"	"Female"	"6965"	0	0
-"1996"	"Gender"	"6965"	0	0
-"1996"	"Male"	"6965"	0	0
-"1997"	"Gender"	"6965"	0	0
-"1997"	"Male"	"6965"	0	0
-"1997"	"Female"	"6965"	0	0
-"1998"	"Gender"	"6965"	0	0
-"1998"	"Male"	"6965"	0	0
-"1998"	"Female"	"6965"	0	0
-"1999"	"Male"	"6965"	0	0
-"1999"	"Female"	"6965"	0	0
-"1999"	"Gender"	"6965"	0	0
-"2000"	"Female"	"6965"	0	0
-"2000"	"Male"	"6965"	0	0
-"2000"	"Gender"	"6965"	0	0
-"2001"	"Gender"	"6965"	0	0
-"2001"	"Female"	"6965"	0	0
-"2001"	"Male"	"6965"	0	0
-"2002"	"Male"	"6965"	0	0
-"2002"	"Gender"	"6965"	0	0
-"2002"	"Female"	"6965"	0	0
-"2003"	"Male"	"6965"	0	0
-"2003"	"Gender"	"6965"	0	0
-"2003"	"Female"	"6965"	0	0
-"2004"	"Female"	"6965"	0	0
-"2004"	"Gender"	"6965"	0	0
-"2004"	"Male"	"6965"	0	0
-"2005"	"Female"	"6965"	0	0
-"2005"	"Gender"	"6965"	0	0
-"2005"	"Male"	"6965"	0	0
-"2006"	"Gender"	"6965"	0	0
-"2006"	"Male"	"6965"	0	0
-"2006"	"Female"	"6965"	0	0
-"2007"	"Gender"	"6965"	0	0
-"2007"	"Male"	"6965"	0	0
-"2007"	"Female"	"6965"	0	0
-"2008"	"Female"	"6965"	0	0
-"2008"	"Gender"	"6965"	0	0
-"2008"	"Male"	"6965"	0	0
-"2009"	"Female"	"6965"	0	0
-"2009"	"Gender"	"6965"	0	0
-"2009"	"Male"	"6965"	0	0
-"2010"	"Female"	"6965"	0	0
-"2010"	"Gender"	"6965"	0	0
-"2010"	"Male"	"6965"	0	0
-"2011"	"Female"	"6965"	0	0
-"2011"	"Gender"	"6965"	0	0
-"2011"	"Male"	"6965"	0	0
+"year"	"gender"	"field"	"count"
+1966	"Female"	"Agriculture"	4
+1967	"Female"	"Agriculture"	10
+1970	"Female"	"Agriculture"	9
+1971	"Female"	"Agriculture"	10
+1972	"Female"	"Agriculture"	10
+1973	"Female"	"Agriculture"	21
+1974	"Female"	"Agriculture"	39
+1975	"Female"	"Agriculture"	53
+1976	"Female"	"Agriculture"	67
+1977	"Female"	"Agriculture"	85
+1978	"Female"	"Agriculture"	118
+1979	"Female"	"Agriculture"	179
+1980	"Female"	"Agriculture"	162
+1981	"Female"	"Agriculture"	151
+1982	"Female"	"Agriculture"	172
+1983	"Female"	"Agriculture"	186
+1984	"Female"	"Agriculture"	162
+1985	"Female"	"Agriculture"	114
+1986	"Female"	"Agriculture"	119
+1987	"Female"	"Agriculture"	81
+1988	"Female"	"Agriculture"	102
+1989	"Female"	"Agriculture"	106
+1990	"Female"	"Agriculture"	97
+1991	"Female"	"Agriculture"	89
+1992	"Female"	"Agriculture"	90
+1993	"Female"	"Agriculture"	102
+1994	"Female"	"Agriculture"	107
+1995	"Female"	"Agriculture"	147
+1996	"Female"	"Agriculture"	171
+1997	"Female"	"Agriculture"	164
+1998	"Female"	"Agriculture"	161
+1999	"Female"	"Agriculture"	165
+2000	"Female"	"Agriculture"	147
+2001	"Female"	"Agriculture"	162
+2002	"Female"	"Agriculture"	158
+2003	"Female"	"Agriculture"	162
+2004	"Female"	"Agriculture"	146
+2005	"Female"	"Agriculture"	151
+2006	"Female"	"Agriculture"	130
+2007	"Female"	"Agriculture"	137
+2008	"Female"	"Agriculture"	134
+2009	"Female"	"Agriculture"	148
+2010	"Female"	"Agriculture"	136
+2011	"Female"	"Agriculture"	166
+1966	"Male"	"Agriculture"	121
+1967	"Male"	"Agriculture"	142
+1970	"Male"	"Agriculture"	169
+1971	"Male"	"Agriculture"	160
+1972	"Male"	"Agriculture"	175
+1973	"Male"	"Agriculture"	209
+1974	"Male"	"Agriculture"	241
+1975	"Male"	"Agriculture"	317
+1976	"Male"	"Agriculture"	341
+1977	"Male"	"Agriculture"	444
+1978	"Male"	"Agriculture"	403
+1979	"Male"	"Agriculture"	367
+1980	"Male"	"Agriculture"	388
+1981	"Male"	"Agriculture"	287
+1982	"Male"	"Agriculture"	328
+1983	"Male"	"Agriculture"	283
+1984	"Male"	"Agriculture"	241
+1985	"Male"	"Agriculture"	182
+1986	"Male"	"Agriculture"	196
+1987	"Male"	"Agriculture"	173
+1988	"Male"	"Agriculture"	171
+1989	"Male"	"Agriculture"	131
+1990	"Male"	"Agriculture"	155
+1991	"Male"	"Agriculture"	141
+1992	"Male"	"Agriculture"	149
+1993	"Male"	"Agriculture"	160
+1994	"Male"	"Agriculture"	195
+1995	"Male"	"Agriculture"	212
+1996	"Male"	"Agriculture"	210
+1997	"Male"	"Agriculture"	241
+1998	"Male"	"Agriculture"	195
+1999	"Male"	"Agriculture"	190
+2000	"Male"	"Agriculture"	213
+2001	"Male"	"Agriculture"	173
+2002	"Male"	"Agriculture"	157
+2003	"Male"	"Agriculture"	156
+2004	"Male"	"Agriculture"	137
+2005	"Male"	"Agriculture"	135
+2006	"Male"	"Agriculture"	134
+2007	"Male"	"Agriculture"	128
+2008	"Male"	"Agriculture"	101
+2009	"Male"	"Agriculture"	108
+2010	"Male"	"Agriculture"	133
+2011	"Male"	"Agriculture"	146
+1966	"Female"	"Anthropology"	8
+1967	"Female"	"Anthropology"	2
+1970	"Female"	"Anthropology"	10
+1971	"Female"	"Anthropology"	18
+1972	"Female"	"Anthropology"	23
+1973	"Female"	"Anthropology"	19
+1974	"Female"	"Anthropology"	24
+1975	"Female"	"Anthropology"	25
+1976	"Female"	"Anthropology"	23
+1977	"Female"	"Anthropology"	23
+1978	"Female"	"Anthropology"	18
+1979	"Female"	"Anthropology"	21
+1980	"Female"	"Anthropology"	8
+1981	"Female"	"Anthropology"	13
+1982	"Female"	"Anthropology"	12
+1983	"Female"	"Anthropology"	6
+1984	"Female"	"Anthropology"	5
+1985	"Female"	"Anthropology"	11
+1986	"Female"	"Anthropology"	13
+1987	"Female"	"Anthropology"	13
+1988	"Female"	"Anthropology"	11
+1989	"Female"	"Anthropology"	12
+1990	"Female"	"Anthropology"	9
+1991	"Female"	"Anthropology"	8
+1992	"Female"	"Anthropology"	12
+1993	"Female"	"Anthropology"	18
+1994	"Female"	"Anthropology"	11
+1995	"Female"	"Anthropology"	11
+1996	"Female"	"Anthropology"	15
+1997	"Female"	"Anthropology"	22
+1998	"Female"	"Anthropology"	17
+1999	"Female"	"Anthropology"	26
+2000	"Female"	"Anthropology"	18
+2001	"Female"	"Anthropology"	13
+2002	"Female"	"Anthropology"	9
+2003	"Female"	"Anthropology"	24
+2004	"Female"	"Anthropology"	21
+2005	"Female"	"Anthropology"	25
+2006	"Female"	"Anthropology"	27
+2007	"Female"	"Anthropology"	31
+2008	"Female"	"Anthropology"	22
+2009	"Female"	"Anthropology"	31
+2010	"Female"	"Anthropology"	18
+2011	"Female"	"Anthropology"	29
+1966	"Male"	"Anthropology"	5
+1967	"Male"	"Anthropology"	5
+1970	"Male"	"Anthropology"	18
+1971	"Male"	"Anthropology"	15
+1972	"Male"	"Anthropology"	17
+1973	"Male"	"Anthropology"	24
+1974	"Male"	"Anthropology"	17
+1975	"Male"	"Anthropology"	12
+1976	"Male"	"Anthropology"	17
+1977	"Male"	"Anthropology"	20
+1978	"Male"	"Anthropology"	19
+1979	"Male"	"Anthropology"	13
+1980	"Male"	"Anthropology"	5
+1981	"Male"	"Anthropology"	10
+1982	"Male"	"Anthropology"	7
+1983	"Male"	"Anthropology"	5
+1984	"Male"	"Anthropology"	6
+1985	"Male"	"Anthropology"	6
+1986	"Male"	"Anthropology"	2
+1987	"Male"	"Anthropology"	4
+1988	"Male"	"Anthropology"	2
+1989	"Male"	"Anthropology"	13
+1990	"Male"	"Anthropology"	5
+1991	"Male"	"Anthropology"	5
+1992	"Male"	"Anthropology"	8
+1993	"Male"	"Anthropology"	5
+1994	"Male"	"Anthropology"	5
+1995	"Male"	"Anthropology"	12
+1996	"Male"	"Anthropology"	14
+1997	"Male"	"Anthropology"	10
+1998	"Male"	"Anthropology"	20
+1999	"Male"	"Anthropology"	12
+2000	"Male"	"Anthropology"	18
+2001	"Male"	"Anthropology"	12
+2002	"Male"	"Anthropology"	10
+2003	"Male"	"Anthropology"	10
+2004	"Male"	"Anthropology"	10
+2005	"Male"	"Anthropology"	9
+2006	"Male"	"Anthropology"	7
+2007	"Male"	"Anthropology"	13
+2008	"Male"	"Anthropology"	14
+2009	"Male"	"Anthropology"	25
+2010	"Male"	"Anthropology"	7
+2011	"Male"	"Anthropology"	18
+1966	"Female"	"Area and Ethnic Studies"	2
+1967	"Female"	"Area and Ethnic Studies"	1
+1970	"Female"	"Area and Ethnic Studies"	6
+1971	"Female"	"Area and Ethnic Studies"	14
+1972	"Female"	"Area and Ethnic Studies"	5
+1973	"Female"	"Area and Ethnic Studies"	2
+1974	"Female"	"Area and Ethnic Studies"	9
+1975	"Female"	"Area and Ethnic Studies"	8
+1976	"Female"	"Area and Ethnic Studies"	4
+1977	"Female"	"Area and Ethnic Studies"	6
+1978	"Female"	"Area and Ethnic Studies"	11
+1979	"Female"	"Area and Ethnic Studies"	10
+1980	"Female"	"Area and Ethnic Studies"	3
+1981	"Female"	"Area and Ethnic Studies"	1
+1982	"Female"	"Area and Ethnic Studies"	4
+1983	"Female"	"Area and Ethnic Studies"	11
+1984	"Female"	"Area and Ethnic Studies"	4
+1985	"Female"	"Area and Ethnic Studies"	2
+1986	"Female"	"Area and Ethnic Studies"	5
+1987	"Female"	"Area and Ethnic Studies"	6
+1988	"Female"	"Area and Ethnic Studies"	5
+1989	"Female"	"Area and Ethnic Studies"	5
+1990	"Female"	"Area and Ethnic Studies"	8
+1991	"Female"	"Area and Ethnic Studies"	12
+1992	"Female"	"Area and Ethnic Studies"	11
+1993	"Female"	"Area and Ethnic Studies"	12
+1994	"Female"	"Area and Ethnic Studies"	8
+1995	"Female"	"Area and Ethnic Studies"	7
+1996	"Female"	"Area and Ethnic Studies"	7
+1997	"Female"	"Area and Ethnic Studies"	12
+1998	"Female"	"Area and Ethnic Studies"	14
+1999	"Female"	"Area and Ethnic Studies"	13
+2000	"Female"	"Area and Ethnic Studies"	9
+2001	"Female"	"Area and Ethnic Studies"	12
+2002	"Female"	"Area and Ethnic Studies"	15
+2003	"Female"	"Area and Ethnic Studies"	6
+2004	"Female"	"Area and Ethnic Studies"	17
+2005	"Female"	"Area and Ethnic Studies"	20
+2006	"Female"	"Area and Ethnic Studies"	19
+2007	"Female"	"Area and Ethnic Studies"	15
+2008	"Female"	"Area and Ethnic Studies"	14
+2009	"Female"	"Area and Ethnic Studies"	9
+2010	"Female"	"Area and Ethnic Studies"	11
+2011	"Female"	"Area and Ethnic Studies"	8
+1966	"Male"	"Area and Ethnic Studies"	0
+1967	"Male"	"Area and Ethnic Studies"	1
+1970	"Male"	"Area and Ethnic Studies"	6
+1971	"Male"	"Area and Ethnic Studies"	7
+1972	"Male"	"Area and Ethnic Studies"	4
+1973	"Male"	"Area and Ethnic Studies"	12
+1974	"Male"	"Area and Ethnic Studies"	7
+1975	"Male"	"Area and Ethnic Studies"	7
+1976	"Male"	"Area and Ethnic Studies"	10
+1977	"Male"	"Area and Ethnic Studies"	9
+1978	"Male"	"Area and Ethnic Studies"	6
+1979	"Male"	"Area and Ethnic Studies"	5
+1980	"Male"	"Area and Ethnic Studies"	4
+1981	"Male"	"Area and Ethnic Studies"	1
+1982	"Male"	"Area and Ethnic Studies"	5
+1983	"Male"	"Area and Ethnic Studies"	1
+1984	"Male"	"Area and Ethnic Studies"	4
+1985	"Male"	"Area and Ethnic Studies"	0
+1986	"Male"	"Area and Ethnic Studies"	5
+1987	"Male"	"Area and Ethnic Studies"	4
+1988	"Male"	"Area and Ethnic Studies"	4
+1989	"Male"	"Area and Ethnic Studies"	8
+1990	"Male"	"Area and Ethnic Studies"	4
+1991	"Male"	"Area and Ethnic Studies"	6
+1992	"Male"	"Area and Ethnic Studies"	5
+1993	"Male"	"Area and Ethnic Studies"	3
+1994	"Male"	"Area and Ethnic Studies"	3
+1995	"Male"	"Area and Ethnic Studies"	6
+1996	"Male"	"Area and Ethnic Studies"	10
+1997	"Male"	"Area and Ethnic Studies"	19
+1998	"Male"	"Area and Ethnic Studies"	9
+1999	"Male"	"Area and Ethnic Studies"	17
+2000	"Male"	"Area and Ethnic Studies"	17
+2001	"Male"	"Area and Ethnic Studies"	7
+2002	"Male"	"Area and Ethnic Studies"	6
+2003	"Male"	"Area and Ethnic Studies"	6
+2004	"Male"	"Area and Ethnic Studies"	10
+2005	"Male"	"Area and Ethnic Studies"	15
+2006	"Male"	"Area and Ethnic Studies"	12
+2007	"Male"	"Area and Ethnic Studies"	16
+2008	"Male"	"Area and Ethnic Studies"	11
+2009	"Male"	"Area and Ethnic Studies"	9
+2010	"Male"	"Area and Ethnic Studies"	7
+2011	"Male"	"Area and Ethnic Studies"	9
+1966	"Female"	"Art/Architecture"	43
+1967	"Female"	"Art/Architecture"	50
+1970	"Female"	"Art/Architecture"	85
+1971	"Female"	"Art/Architecture"	72
+1972	"Female"	"Art/Architecture"	72
+1973	"Female"	"Art/Architecture"	83
+1974	"Female"	"Art/Architecture"	80
+1975	"Female"	"Art/Architecture"	96
+1976	"Female"	"Art/Architecture"	114
+1977	"Female"	"Art/Architecture"	152
+1978	"Female"	"Art/Architecture"	146
+1979	"Female"	"Art/Architecture"	121
+1980	"Female"	"Art/Architecture"	130
+1981	"Female"	"Art/Architecture"	129
+1982	"Female"	"Art/Architecture"	107
+1983	"Female"	"Art/Architecture"	138
+1984	"Female"	"Art/Architecture"	120
+1985	"Female"	"Art/Architecture"	117
+1986	"Female"	"Art/Architecture"	105
+1987	"Female"	"Art/Architecture"	96
+1988	"Female"	"Art/Architecture"	94
+1989	"Female"	"Art/Architecture"	96
+1990	"Female"	"Art/Architecture"	102
+1991	"Female"	"Art/Architecture"	133
+1992	"Female"	"Art/Architecture"	148
+1993	"Female"	"Art/Architecture"	141
+1994	"Female"	"Art/Architecture"	148
+1995	"Female"	"Art/Architecture"	154
+1996	"Female"	"Art/Architecture"	115
+1997	"Female"	"Art/Architecture"	148
+1998	"Female"	"Art/Architecture"	165
+1999	"Female"	"Art/Architecture"	132
+2000	"Female"	"Art/Architecture"	165
+2001	"Female"	"Art/Architecture"	167
+2002	"Female"	"Art/Architecture"	170
+2003	"Female"	"Art/Architecture"	186
+2004	"Female"	"Art/Architecture"	210
+2005	"Female"	"Art/Architecture"	216
+2006	"Female"	"Art/Architecture"	207
+2007	"Female"	"Art/Architecture"	225
+2008	"Female"	"Art/Architecture"	198
+2009	"Female"	"Art/Architecture"	215
+2010	"Female"	"Art/Architecture"	225
+2011	"Female"	"Art/Architecture"	206
+1966	"Male"	"Art/Architecture"	103
+1967	"Male"	"Art/Architecture"	89
+1970	"Male"	"Art/Architecture"	163
+1971	"Male"	"Art/Architecture"	163
+1972	"Male"	"Art/Architecture"	128
+1973	"Male"	"Art/Architecture"	162
+1974	"Male"	"Art/Architecture"	176
+1975	"Male"	"Art/Architecture"	133
+1976	"Male"	"Art/Architecture"	205
+1977	"Male"	"Art/Architecture"	170
+1978	"Male"	"Art/Architecture"	142
+1979	"Male"	"Art/Architecture"	152
+1980	"Male"	"Art/Architecture"	127
+1981	"Male"	"Art/Architecture"	124
+1982	"Male"	"Art/Architecture"	133
+1983	"Male"	"Art/Architecture"	166
+1984	"Male"	"Art/Architecture"	134
+1985	"Male"	"Art/Architecture"	105
+1986	"Male"	"Art/Architecture"	109
+1987	"Male"	"Art/Architecture"	129
+1988	"Male"	"Art/Architecture"	131
+1989	"Male"	"Art/Architecture"	124
+1990	"Male"	"Art/Architecture"	160
+1991	"Male"	"Art/Architecture"	187
+1992	"Male"	"Art/Architecture"	137
+1993	"Male"	"Art/Architecture"	152
+1994	"Male"	"Art/Architecture"	166
+1995	"Male"	"Art/Architecture"	172
+1996	"Male"	"Art/Architecture"	136
+1997	"Male"	"Art/Architecture"	158
+1998	"Male"	"Art/Architecture"	139
+1999	"Male"	"Art/Architecture"	176
+2000	"Male"	"Art/Architecture"	181
+2001	"Male"	"Art/Architecture"	161
+2002	"Male"	"Art/Architecture"	172
+2003	"Male"	"Art/Architecture"	196
+2004	"Male"	"Art/Architecture"	183
+2005	"Male"	"Art/Architecture"	174
+2006	"Male"	"Art/Architecture"	179
+2007	"Male"	"Art/Architecture"	172
+2008	"Male"	"Art/Architecture"	167
+2009	"Male"	"Art/Architecture"	168
+2010	"Male"	"Art/Architecture"	198
+2011	"Male"	"Art/Architecture"	165
+1966	"Female"	"Business"	23
+1967	"Female"	"Business"	20
+1970	"Female"	"Business"	25
+1971	"Female"	"Business"	29
+1972	"Female"	"Business"	41
+1973	"Female"	"Business"	45
+1974	"Female"	"Business"	70
+1975	"Female"	"Business"	104
+1976	"Female"	"Business"	201
+1977	"Female"	"Business"	271
+1978	"Female"	"Business"	284
+1979	"Female"	"Business"	398
+1980	"Female"	"Business"	470
+1981	"Female"	"Business"	425
+1982	"Female"	"Business"	512
+1983	"Female"	"Business"	750
+1984	"Female"	"Business"	730
+1985	"Female"	"Business"	846
+1986	"Female"	"Business"	861
+1987	"Female"	"Business"	836
+1988	"Female"	"Business"	827
+1989	"Female"	"Business"	817
+1990	"Female"	"Business"	767
+1991	"Female"	"Business"	803
+1992	"Female"	"Business"	708
+1993	"Female"	"Business"	739
+1994	"Female"	"Business"	614
+1995	"Female"	"Business"	557
+1996	"Female"	"Business"	494
+1997	"Female"	"Business"	549
+1998	"Female"	"Business"	598
+1999	"Female"	"Business"	711
+2000	"Female"	"Business"	805
+2001	"Female"	"Business"	842
+2002	"Female"	"Business"	829
+2003	"Female"	"Business"	789
+2004	"Female"	"Business"	790
+2005	"Female"	"Business"	793
+2006	"Female"	"Business"	686
+2007	"Female"	"Business"	658
+2008	"Female"	"Business"	668
+2009	"Female"	"Business"	689
+2010	"Female"	"Business"	849
+2011	"Female"	"Business"	753
+1966	"Male"	"Business"	555
+1967	"Male"	"Business"	600
+1970	"Male"	"Business"	918
+1971	"Male"	"Business"	787
+1972	"Male"	"Business"	831
+1973	"Male"	"Business"	851
+1974	"Male"	"Business"	776
+1975	"Male"	"Business"	850
+1976	"Male"	"Business"	951
+1977	"Male"	"Business"	937
+1978	"Male"	"Business"	927
+1979	"Male"	"Business"	1010
+1980	"Male"	"Business"	986
+1981	"Male"	"Business"	774
+1982	"Male"	"Business"	851
+1983	"Male"	"Business"	1204
+1984	"Male"	"Business"	1008
+1985	"Male"	"Business"	1118
+1986	"Male"	"Business"	1082
+1987	"Male"	"Business"	1018
+1988	"Male"	"Business"	1129
+1989	"Male"	"Business"	1132
+1990	"Male"	"Business"	1011
+1991	"Male"	"Business"	1163
+1992	"Male"	"Business"	1087
+1993	"Male"	"Business"	1100
+1994	"Male"	"Business"	1062
+1995	"Male"	"Business"	1011
+1996	"Male"	"Business"	945
+1997	"Male"	"Business"	981
+1998	"Male"	"Business"	992
+1999	"Male"	"Business"	1288
+2000	"Male"	"Business"	1357
+2001	"Male"	"Business"	1363
+2002	"Male"	"Business"	1306
+2003	"Male"	"Business"	1268
+2004	"Male"	"Business"	1152
+2005	"Male"	"Business"	1324
+2006	"Male"	"Business"	1123
+2007	"Male"	"Business"	1000
+2008	"Male"	"Business"	1045
+2009	"Male"	"Business"	1105
+2010	"Male"	"Business"	1407
+2011	"Male"	"Business"	1200
+1966	"Female"	"Communication and Library Science"	18
+1967	"Female"	"Communication and Library Science"	27
+1970	"Female"	"Communication and Library Science"	30
+1971	"Female"	"Communication and Library Science"	41
+1972	"Female"	"Communication and Library Science"	50
+1973	"Female"	"Communication and Library Science"	43
+1974	"Female"	"Communication and Library Science"	60
+1975	"Female"	"Communication and Library Science"	73
+1976	"Female"	"Communication and Library Science"	82
+1977	"Female"	"Communication and Library Science"	83
+1978	"Female"	"Communication and Library Science"	94
+1979	"Female"	"Communication and Library Science"	104
+1980	"Female"	"Communication and Library Science"	148
+1981	"Female"	"Communication and Library Science"	167
+1982	"Female"	"Communication and Library Science"	188
+1983	"Female"	"Communication and Library Science"	188
+1984	"Female"	"Communication and Library Science"	128
+1985	"Female"	"Communication and Library Science"	181
+1986	"Female"	"Communication and Library Science"	143
+1987	"Female"	"Communication and Library Science"	202
+1988	"Female"	"Communication and Library Science"	175
+1989	"Female"	"Communication and Library Science"	157
+1990	"Female"	"Communication and Library Science"	237
+1991	"Female"	"Communication and Library Science"	246
+1992	"Female"	"Communication and Library Science"	178
+1993	"Female"	"Communication and Library Science"	184
+1994	"Female"	"Communication and Library Science"	178
+1995	"Female"	"Communication and Library Science"	178
+1996	"Female"	"Communication and Library Science"	220
+1997	"Female"	"Communication and Library Science"	218
+1998	"Female"	"Communication and Library Science"	272
+1999	"Female"	"Communication and Library Science"	297
+2000	"Female"	"Communication and Library Science"	316
+2001	"Female"	"Communication and Library Science"	351
+2002	"Female"	"Communication and Library Science"	393
+2003	"Female"	"Communication and Library Science"	476
+2004	"Female"	"Communication and Library Science"	554
+2005	"Female"	"Communication and Library Science"	599
+2006	"Female"	"Communication and Library Science"	595
+2007	"Female"	"Communication and Library Science"	556
+2008	"Female"	"Communication and Library Science"	531
+2009	"Female"	"Communication and Library Science"	549
+2010	"Female"	"Communication and Library Science"	667
+2011	"Female"	"Communication and Library Science"	620
+1966	"Male"	"Communication and Library Science"	39
+1967	"Male"	"Communication and Library Science"	39
+1970	"Male"	"Communication and Library Science"	32
+1971	"Male"	"Communication and Library Science"	54
+1972	"Male"	"Communication and Library Science"	84
+1973	"Male"	"Communication and Library Science"	79
+1974	"Male"	"Communication and Library Science"	83
+1975	"Male"	"Communication and Library Science"	111
+1976	"Male"	"Communication and Library Science"	93
+1977	"Male"	"Communication and Library Science"	89
+1978	"Male"	"Communication and Library Science"	97
+1979	"Male"	"Communication and Library Science"	100
+1980	"Male"	"Communication and Library Science"	110
+1981	"Male"	"Communication and Library Science"	100
+1982	"Male"	"Communication and Library Science"	105
+1983	"Male"	"Communication and Library Science"	88
+1984	"Male"	"Communication and Library Science"	68
+1985	"Male"	"Communication and Library Science"	103
+1986	"Male"	"Communication and Library Science"	93
+1987	"Male"	"Communication and Library Science"	111
+1988	"Male"	"Communication and Library Science"	84
+1989	"Male"	"Communication and Library Science"	107
+1990	"Male"	"Communication and Library Science"	163
+1991	"Male"	"Communication and Library Science"	171
+1992	"Male"	"Communication and Library Science"	153
+1993	"Male"	"Communication and Library Science"	147
+1994	"Male"	"Communication and Library Science"	142
+1995	"Male"	"Communication and Library Science"	121
+1996	"Male"	"Communication and Library Science"	152
+1997	"Male"	"Communication and Library Science"	179
+1998	"Male"	"Communication and Library Science"	176
+1999	"Male"	"Communication and Library Science"	229
+2000	"Male"	"Communication and Library Science"	242
+2001	"Male"	"Communication and Library Science"	231
+2002	"Male"	"Communication and Library Science"	258
+2003	"Male"	"Communication and Library Science"	306
+2004	"Male"	"Communication and Library Science"	300
+2005	"Male"	"Communication and Library Science"	340
+2006	"Male"	"Communication and Library Science"	340
+2007	"Male"	"Communication and Library Science"	307
+2008	"Male"	"Communication and Library Science"	286
+2009	"Male"	"Communication and Library Science"	339
+2010	"Male"	"Communication and Library Science"	376
+2011	"Male"	"Communication and Library Science"	376
+1966	"Female"	"Computer Science"	0
+1967	"Female"	"Computer Science"	0
+1970	"Female"	"Computer Science"	11
+1971	"Female"	"Computer Science"	11
+1972	"Female"	"Computer Science"	13
+1973	"Female"	"Computer Science"	16
+1974	"Female"	"Computer Science"	15
+1975	"Female"	"Computer Science"	13
+1976	"Female"	"Computer Science"	17
+1977	"Female"	"Computer Science"	19
+1978	"Female"	"Computer Science"	27
+1979	"Female"	"Computer Science"	41
+1980	"Female"	"Computer Science"	34
+1981	"Female"	"Computer Science"	31
+1982	"Female"	"Computer Science"	41
+1983	"Female"	"Computer Science"	77
+1984	"Female"	"Computer Science"	73
+1985	"Female"	"Computer Science"	52
+1986	"Female"	"Computer Science"	60
+1987	"Female"	"Computer Science"	51
+1988	"Female"	"Computer Science"	29
+1989	"Female"	"Computer Science"	18
+1990	"Female"	"Computer Science"	15
+1991	"Female"	"Computer Science"	12
+1992	"Female"	"Computer Science"	11
+1993	"Female"	"Computer Science"	11
+1994	"Female"	"Computer Science"	17
+1995	"Female"	"Computer Science"	13
+1996	"Female"	"Computer Science"	18
+1997	"Female"	"Computer Science"	13
+1998	"Female"	"Computer Science"	5
+1999	"Female"	"Computer Science"	9
+2000	"Female"	"Computer Science"	11
+2001	"Female"	"Computer Science"	20
+2002	"Female"	"Computer Science"	16
+2003	"Female"	"Computer Science"	54
+2004	"Female"	"Computer Science"	69
+2005	"Female"	"Computer Science"	84
+2006	"Female"	"Computer Science"	103
+2007	"Female"	"Computer Science"	94
+2008	"Female"	"Computer Science"	113
+2009	"Female"	"Computer Science"	136
+2010	"Female"	"Computer Science"	145
+2011	"Female"	"Computer Science"	170
+1966	"Male"	"Computer Science"	0
+1967	"Male"	"Computer Science"	0
+1970	"Male"	"Computer Science"	88
+1971	"Male"	"Computer Science"	90
+1972	"Male"	"Computer Science"	75
+1973	"Male"	"Computer Science"	93
+1974	"Male"	"Computer Science"	101
+1975	"Male"	"Computer Science"	80
+1976	"Male"	"Computer Science"	76
+1977	"Male"	"Computer Science"	95
+1978	"Male"	"Computer Science"	79
+1979	"Male"	"Computer Science"	81
+1980	"Male"	"Computer Science"	86
+1981	"Male"	"Computer Science"	87
+1982	"Male"	"Computer Science"	138
+1983	"Male"	"Computer Science"	143
+1984	"Male"	"Computer Science"	154
+1985	"Male"	"Computer Science"	151
+1986	"Male"	"Computer Science"	155
+1987	"Male"	"Computer Science"	129
+1988	"Male"	"Computer Science"	91
+1989	"Male"	"Computer Science"	53
+1990	"Male"	"Computer Science"	71
+1991	"Male"	"Computer Science"	70
+1992	"Male"	"Computer Science"	71
+1993	"Male"	"Computer Science"	71
+1994	"Male"	"Computer Science"	63
+1995	"Male"	"Computer Science"	48
+1996	"Male"	"Computer Science"	66
+1997	"Male"	"Computer Science"	64
+1998	"Male"	"Computer Science"	55
+1999	"Male"	"Computer Science"	59
+2000	"Male"	"Computer Science"	73
+2001	"Male"	"Computer Science"	84
+2002	"Male"	"Computer Science"	91
+2003	"Male"	"Computer Science"	207
+2004	"Male"	"Computer Science"	257
+2005	"Male"	"Computer Science"	359
+2006	"Male"	"Computer Science"	365
+2007	"Male"	"Computer Science"	392
+2008	"Male"	"Computer Science"	360
+2009	"Male"	"Computer Science"	516
+2010	"Male"	"Computer Science"	673
+2011	"Male"	"Computer Science"	643
+1966	"Female"	"Economics"	7
+1967	"Female"	"Economics"	4
+1970	"Female"	"Economics"	10
+1971	"Female"	"Economics"	4
+1972	"Female"	"Economics"	6
+1973	"Female"	"Economics"	4
+1974	"Female"	"Economics"	4
+1975	"Female"	"Economics"	5
+1976	"Female"	"Economics"	7
+1977	"Female"	"Economics"	12
+1978	"Female"	"Economics"	12
+1979	"Female"	"Economics"	19
+1980	"Female"	"Economics"	26
+1981	"Female"	"Economics"	32
+1982	"Female"	"Economics"	24
+1983	"Female"	"Economics"	30
+1984	"Female"	"Economics"	31
+1985	"Female"	"Economics"	29
+1986	"Female"	"Economics"	25
+1987	"Female"	"Economics"	19
+1988	"Female"	"Economics"	28
+1989	"Female"	"Economics"	35
+1990	"Female"	"Economics"	53
+1991	"Female"	"Economics"	54
+1992	"Female"	"Economics"	44
+1993	"Female"	"Economics"	44
+1994	"Female"	"Economics"	19
+1995	"Female"	"Economics"	20
+1996	"Female"	"Economics"	17
+1997	"Female"	"Economics"	20
+1998	"Female"	"Economics"	15
+1999	"Female"	"Economics"	16
+2000	"Female"	"Economics"	17
+2001	"Female"	"Economics"	19
+2002	"Female"	"Economics"	16
+2003	"Female"	"Economics"	25
+2004	"Female"	"Economics"	29
+2005	"Female"	"Economics"	27
+2006	"Female"	"Economics"	33
+2007	"Female"	"Economics"	31
+2008	"Female"	"Economics"	38
+2009	"Female"	"Economics"	41
+2010	"Female"	"Economics"	59
+2011	"Female"	"Economics"	65
+1966	"Male"	"Economics"	19
+1967	"Male"	"Economics"	47
+1970	"Male"	"Economics"	84
+1971	"Male"	"Economics"	32
+1972	"Male"	"Economics"	43
+1973	"Male"	"Economics"	47
+1974	"Male"	"Economics"	30
+1975	"Male"	"Economics"	32
+1976	"Male"	"Economics"	34
+1977	"Male"	"Economics"	39
+1978	"Male"	"Economics"	42
+1979	"Male"	"Economics"	35
+1980	"Male"	"Economics"	47
+1981	"Male"	"Economics"	51
+1982	"Male"	"Economics"	50
+1983	"Male"	"Economics"	88
+1984	"Male"	"Economics"	67
+1985	"Male"	"Economics"	50
+1986	"Male"	"Economics"	59
+1987	"Male"	"Economics"	76
+1988	"Male"	"Economics"	70
+1989	"Male"	"Economics"	114
+1990	"Male"	"Economics"	180
+1991	"Male"	"Economics"	155
+1992	"Male"	"Economics"	165
+1993	"Male"	"Economics"	142
+1994	"Male"	"Economics"	101
+1995	"Male"	"Economics"	59
+1996	"Male"	"Economics"	64
+1997	"Male"	"Economics"	53
+1998	"Male"	"Economics"	50
+1999	"Male"	"Economics"	56
+2000	"Male"	"Economics"	54
+2001	"Male"	"Economics"	45
+2002	"Male"	"Economics"	59
+2003	"Male"	"Economics"	65
+2004	"Male"	"Economics"	94
+2005	"Male"	"Economics"	103
+2006	"Male"	"Economics"	133
+2007	"Male"	"Economics"	130
+2008	"Male"	"Economics"	131
+2009	"Male"	"Economics"	163
+2010	"Male"	"Economics"	157
+2011	"Male"	"Economics"	211
+1966	"Female"	"Education"	441
+1967	"Female"	"Education"	470
+1970	"Female"	"Education"	534
+1971	"Female"	"Education"	516
+1972	"Female"	"Education"	681
+1973	"Female"	"Education"	824
+1974	"Female"	"Education"	752
+1975	"Female"	"Education"	761
+1976	"Female"	"Education"	805
+1977	"Female"	"Education"	722
+1978	"Female"	"Education"	587
+1979	"Female"	"Education"	577
+1980	"Female"	"Education"	449
+1981	"Female"	"Education"	409
+1982	"Female"	"Education"	425
+1983	"Female"	"Education"	422
+1984	"Female"	"Education"	353
+1985	"Female"	"Education"	341
+1986	"Female"	"Education"	362
+1987	"Female"	"Education"	347
+1988	"Female"	"Education"	345
+1989	"Female"	"Education"	399
+1990	"Female"	"Education"	465
+1991	"Female"	"Education"	524
+1992	"Female"	"Education"	577
+1993	"Female"	"Education"	589
+1994	"Female"	"Education"	646
+1995	"Female"	"Education"	514
+1996	"Female"	"Education"	423
+1997	"Female"	"Education"	404
+1998	"Female"	"Education"	431
+1999	"Female"	"Education"	401
+2000	"Female"	"Education"	524
+2001	"Female"	"Education"	564
+2002	"Female"	"Education"	504
+2003	"Female"	"Education"	509
+2004	"Female"	"Education"	450
+2005	"Female"	"Education"	490
+2006	"Female"	"Education"	435
+2007	"Female"	"Education"	451
+2008	"Female"	"Education"	431
+2009	"Female"	"Education"	373
+2010	"Female"	"Education"	437
+2011	"Female"	"Education"	466
+1966	"Male"	"Education"	122
+1967	"Male"	"Education"	105
+1970	"Male"	"Education"	240
+1971	"Male"	"Education"	218
+1972	"Male"	"Education"	243
+1973	"Male"	"Education"	272
+1974	"Male"	"Education"	297
+1975	"Male"	"Education"	266
+1976	"Male"	"Education"	262
+1977	"Male"	"Education"	261
+1978	"Male"	"Education"	244
+1979	"Male"	"Education"	188
+1980	"Male"	"Education"	210
+1981	"Male"	"Education"	140
+1982	"Male"	"Education"	121
+1983	"Male"	"Education"	116
+1984	"Male"	"Education"	121
+1985	"Male"	"Education"	86
+1986	"Male"	"Education"	91
+1987	"Male"	"Education"	84
+1988	"Male"	"Education"	83
+1989	"Male"	"Education"	87
+1990	"Male"	"Education"	129
+1991	"Male"	"Education"	114
+1992	"Male"	"Education"	164
+1993	"Male"	"Education"	180
+1994	"Male"	"Education"	147
+1995	"Male"	"Education"	176
+1996	"Male"	"Education"	123
+1997	"Male"	"Education"	163
+1998	"Male"	"Education"	134
+1999	"Male"	"Education"	123
+2000	"Male"	"Education"	197
+2001	"Male"	"Education"	178
+2002	"Male"	"Education"	165
+2003	"Male"	"Education"	161
+2004	"Male"	"Education"	150
+2005	"Male"	"Education"	135
+2006	"Male"	"Education"	119
+2007	"Male"	"Education"	111
+2008	"Male"	"Education"	118
+2009	"Male"	"Education"	134
+2010	"Male"	"Education"	152
+2011	"Male"	"Education"	109
+1966	"Female"	"Engineering"	3
+1967	"Female"	"Engineering"	6
+1970	"Female"	"Engineering"	4
+1971	"Female"	"Engineering"	33
+1972	"Female"	"Engineering"	35
+1973	"Female"	"Engineering"	48
+1974	"Female"	"Engineering"	58
+1975	"Female"	"Engineering"	67
+1976	"Female"	"Engineering"	105
+1977	"Female"	"Engineering"	101
+1978	"Female"	"Engineering"	105
+1979	"Female"	"Engineering"	139
+1980	"Female"	"Engineering"	126
+1981	"Female"	"Engineering"	171
+1982	"Female"	"Engineering"	179
+1983	"Female"	"Engineering"	215
+1984	"Female"	"Engineering"	229
+1985	"Female"	"Engineering"	251
+1986	"Female"	"Engineering"	259
+1987	"Female"	"Engineering"	238
+1988	"Female"	"Engineering"	170
+1989	"Female"	"Engineering"	168
+1990	"Female"	"Engineering"	162
+1991	"Female"	"Engineering"	147
+1992	"Female"	"Engineering"	147
+1993	"Female"	"Engineering"	175
+1994	"Female"	"Engineering"	153
+1995	"Female"	"Engineering"	171
+1996	"Female"	"Engineering"	181
+1997	"Female"	"Engineering"	191
+1998	"Female"	"Engineering"	189
+1999	"Female"	"Engineering"	216
+2000	"Female"	"Engineering"	222
+2001	"Female"	"Engineering"	235
+2002	"Female"	"Engineering"	227
+2003	"Female"	"Engineering"	258
+2004	"Female"	"Engineering"	256
+2005	"Female"	"Engineering"	302
+2006	"Female"	"Engineering"	259
+2007	"Female"	"Engineering"	271
+2008	"Female"	"Engineering"	250
+2009	"Female"	"Engineering"	231
+2010	"Female"	"Engineering"	285
+2011	"Female"	"Engineering"	272
+1966	"Male"	"Engineering"	603
+1967	"Male"	"Engineering"	602
+1970	"Male"	"Engineering"	710
+1971	"Male"	"Engineering"	644
+1972	"Male"	"Engineering"	677
+1973	"Male"	"Engineering"	715
+1974	"Male"	"Engineering"	708
+1975	"Male"	"Engineering"	626
+1976	"Male"	"Engineering"	642
+1977	"Male"	"Engineering"	740
+1978	"Male"	"Engineering"	865
+1979	"Male"	"Engineering"	995
+1980	"Male"	"Engineering"	1033
+1981	"Male"	"Engineering"	1172
+1982	"Male"	"Engineering"	1218
+1983	"Male"	"Engineering"	1460
+1984	"Male"	"Engineering"	1306
+1985	"Male"	"Engineering"	1443
+1986	"Male"	"Engineering"	1384
+1987	"Male"	"Engineering"	1272
+1988	"Male"	"Engineering"	1065
+1989	"Male"	"Engineering"	928
+1990	"Male"	"Engineering"	1021
+1991	"Male"	"Engineering"	1032
+1992	"Male"	"Engineering"	1086
+1993	"Male"	"Engineering"	993
+1994	"Male"	"Engineering"	1042
+1995	"Male"	"Engineering"	1005
+1996	"Male"	"Engineering"	940
+1997	"Male"	"Engineering"	930
+1998	"Male"	"Engineering"	952
+1999	"Male"	"Engineering"	979
+2000	"Male"	"Engineering"	972
+2001	"Male"	"Engineering"	1004
+2002	"Male"	"Engineering"	932
+2003	"Male"	"Engineering"	999
+2004	"Male"	"Engineering"	976
+2005	"Male"	"Engineering"	1044
+2006	"Male"	"Engineering"	1072
+2007	"Male"	"Engineering"	1083
+2008	"Male"	"Engineering"	1081
+2009	"Male"	"Engineering"	1032
+2010	"Male"	"Engineering"	1122
+2011	"Male"	"Engineering"	1243
+1966	"Female"	"English and Literature"	180
+1967	"Female"	"English and Literature"	215
+1970	"Female"	"English and Literature"	225
+1971	"Female"	"English and Literature"	240
+1972	"Female"	"English and Literature"	236
+1973	"Female"	"English and Literature"	194
+1974	"Female"	"English and Literature"	135
+1975	"Female"	"English and Literature"	135
+1976	"Female"	"English and Literature"	127
+1977	"Female"	"English and Literature"	128
+1978	"Female"	"English and Literature"	108
+1979	"Female"	"English and Literature"	159
+1980	"Female"	"English and Literature"	141
+1981	"Female"	"English and Literature"	145
+1982	"Female"	"English and Literature"	136
+1983	"Female"	"English and Literature"	163
+1984	"Female"	"English and Literature"	163
+1985	"Female"	"English and Literature"	153
+1986	"Female"	"English and Literature"	126
+1987	"Female"	"English and Literature"	123
+1988	"Female"	"English and Literature"	128
+1989	"Female"	"English and Literature"	144
+1990	"Female"	"English and Literature"	184
+1991	"Female"	"English and Literature"	264
+1992	"Female"	"English and Literature"	289
+1993	"Female"	"English and Literature"	238
+1994	"Female"	"English and Literature"	210
+1995	"Female"	"English and Literature"	159
+1996	"Female"	"English and Literature"	149
+1997	"Female"	"English and Literature"	114
+1998	"Female"	"English and Literature"	120
+1999	"Female"	"English and Literature"	145
+2000	"Female"	"English and Literature"	147
+2001	"Female"	"English and Literature"	126
+2002	"Female"	"English and Literature"	133
+2003	"Female"	"English and Literature"	161
+2004	"Female"	"English and Literature"	120
+2005	"Female"	"English and Literature"	137
+2006	"Female"	"English and Literature"	110
+2007	"Female"	"English and Literature"	124
+2008	"Female"	"English and Literature"	102
+2009	"Female"	"English and Literature"	104
+2010	"Female"	"English and Literature"	113
+2011	"Female"	"English and Literature"	91
+1966	"Male"	"English and Literature"	65
+1967	"Male"	"English and Literature"	58
+1970	"Male"	"English and Literature"	132
+1971	"Male"	"English and Literature"	190
+1972	"Male"	"English and Literature"	147
+1973	"Male"	"English and Literature"	167
+1974	"Male"	"English and Literature"	134
+1975	"Male"	"English and Literature"	113
+1976	"Male"	"English and Literature"	111
+1977	"Male"	"English and Literature"	103
+1978	"Male"	"English and Literature"	82
+1979	"Male"	"English and Literature"	122
+1980	"Male"	"English and Literature"	107
+1981	"Male"	"English and Literature"	102
+1982	"Male"	"English and Literature"	115
+1983	"Male"	"English and Literature"	147
+1984	"Male"	"English and Literature"	102
+1985	"Male"	"English and Literature"	85
+1986	"Male"	"English and Literature"	50
+1987	"Male"	"English and Literature"	71
+1988	"Male"	"English and Literature"	61
+1989	"Male"	"English and Literature"	77
+1990	"Male"	"English and Literature"	80
+1991	"Male"	"English and Literature"	130
+1992	"Male"	"English and Literature"	146
+1993	"Male"	"English and Literature"	136
+1994	"Male"	"English and Literature"	98
+1995	"Male"	"English and Literature"	78
+1996	"Male"	"English and Literature"	94
+1997	"Male"	"English and Literature"	85
+1998	"Male"	"English and Literature"	86
+1999	"Male"	"English and Literature"	98
+2000	"Male"	"English and Literature"	76
+2001	"Male"	"English and Literature"	96
+2002	"Male"	"English and Literature"	92
+2003	"Male"	"English and Literature"	82
+2004	"Male"	"English and Literature"	76
+2005	"Male"	"English and Literature"	82
+2006	"Male"	"English and Literature"	86
+2007	"Male"	"English and Literature"	91
+2008	"Male"	"English and Literature"	65
+2009	"Male"	"English and Literature"	71
+2010	"Male"	"English and Literature"	80
+2011	"Male"	"English and Literature"	63
+1966	"Female"	"Foreign Languages"	84
+1967	"Female"	"Foreign Languages"	105
+1970	"Female"	"Foreign Languages"	95
+1971	"Female"	"Foreign Languages"	100
+1972	"Female"	"Foreign Languages"	91
+1973	"Female"	"Foreign Languages"	92
+1974	"Female"	"Foreign Languages"	87
+1975	"Female"	"Foreign Languages"	79
+1976	"Female"	"Foreign Languages"	85
+1977	"Female"	"Foreign Languages"	85
+1978	"Female"	"Foreign Languages"	69
+1979	"Female"	"Foreign Languages"	47
+1980	"Female"	"Foreign Languages"	64
+1981	"Female"	"Foreign Languages"	46
+1982	"Female"	"Foreign Languages"	54
+1983	"Female"	"Foreign Languages"	63
+1984	"Female"	"Foreign Languages"	38
+1985	"Female"	"Foreign Languages"	59
+1986	"Female"	"Foreign Languages"	60
+1987	"Female"	"Foreign Languages"	49
+1988	"Female"	"Foreign Languages"	54
+1989	"Female"	"Foreign Languages"	66
+1990	"Female"	"Foreign Languages"	57
+1991	"Female"	"Foreign Languages"	68
+1992	"Female"	"Foreign Languages"	84
+1993	"Female"	"Foreign Languages"	90
+1994	"Female"	"Foreign Languages"	65
+1995	"Female"	"Foreign Languages"	67
+1996	"Female"	"Foreign Languages"	61
+1997	"Female"	"Foreign Languages"	65
+1998	"Female"	"Foreign Languages"	58
+1999	"Female"	"Foreign Languages"	64
+2000	"Female"	"Foreign Languages"	52
+2001	"Female"	"Foreign Languages"	40
+2002	"Female"	"Foreign Languages"	56
+2003	"Female"	"Foreign Languages"	47
+2004	"Female"	"Foreign Languages"	68
+2005	"Female"	"Foreign Languages"	111
+2006	"Female"	"Foreign Languages"	99
+2007	"Female"	"Foreign Languages"	113
+2008	"Female"	"Foreign Languages"	117
+2009	"Female"	"Foreign Languages"	96
+2010	"Female"	"Foreign Languages"	166
+2011	"Female"	"Foreign Languages"	136
+1966	"Male"	"Foreign Languages"	9
+1967	"Male"	"Foreign Languages"	26
+1970	"Male"	"Foreign Languages"	32
+1971	"Male"	"Foreign Languages"	33
+1972	"Male"	"Foreign Languages"	11
+1973	"Male"	"Foreign Languages"	34
+1974	"Male"	"Foreign Languages"	18
+1975	"Male"	"Foreign Languages"	21
+1976	"Male"	"Foreign Languages"	20
+1977	"Male"	"Foreign Languages"	22
+1978	"Male"	"Foreign Languages"	17
+1979	"Male"	"Foreign Languages"	12
+1980	"Male"	"Foreign Languages"	17
+1981	"Male"	"Foreign Languages"	22
+1982	"Male"	"Foreign Languages"	15
+1983	"Male"	"Foreign Languages"	26
+1984	"Male"	"Foreign Languages"	10
+1985	"Male"	"Foreign Languages"	21
+1986	"Male"	"Foreign Languages"	18
+1987	"Male"	"Foreign Languages"	23
+1988	"Male"	"Foreign Languages"	18
+1989	"Male"	"Foreign Languages"	10
+1990	"Male"	"Foreign Languages"	23
+1991	"Male"	"Foreign Languages"	25
+1992	"Male"	"Foreign Languages"	23
+1993	"Male"	"Foreign Languages"	23
+1994	"Male"	"Foreign Languages"	29
+1995	"Male"	"Foreign Languages"	22
+1996	"Male"	"Foreign Languages"	24
+1997	"Male"	"Foreign Languages"	14
+1998	"Male"	"Foreign Languages"	23
+1999	"Male"	"Foreign Languages"	23
+2000	"Male"	"Foreign Languages"	17
+2001	"Male"	"Foreign Languages"	27
+2002	"Male"	"Foreign Languages"	12
+2003	"Male"	"Foreign Languages"	17
+2004	"Male"	"Foreign Languages"	32
+2005	"Male"	"Foreign Languages"	44
+2006	"Male"	"Foreign Languages"	50
+2007	"Male"	"Foreign Languages"	46
+2008	"Male"	"Foreign Languages"	46
+2009	"Male"	"Foreign Languages"	47
+2010	"Male"	"Foreign Languages"	59
+2011	"Male"	"Foreign Languages"	75
+1966	"Female"	"History"	29
+1967	"Female"	"History"	44
+1970	"Female"	"History"	38
+1971	"Female"	"History"	41
+1972	"Female"	"History"	33
+1973	"Female"	"History"	35
+1974	"Female"	"History"	32
+1975	"Female"	"History"	26
+1976	"Female"	"History"	27
+1977	"Female"	"History"	22
+1978	"Female"	"History"	30
+1979	"Female"	"History"	18
+1980	"Female"	"History"	17
+1981	"Female"	"History"	11
+1982	"Female"	"History"	17
+1983	"Female"	"History"	12
+1984	"Female"	"History"	7
+1985	"Female"	"History"	11
+1986	"Female"	"History"	11
+1987	"Female"	"History"	5
+1988	"Female"	"History"	15
+1989	"Female"	"History"	20
+1990	"Female"	"History"	12
+1991	"Female"	"History"	17
+1992	"Female"	"History"	19
+1993	"Female"	"History"	33
+1994	"Female"	"History"	34
+1995	"Female"	"History"	31
+1996	"Female"	"History"	18
+1997	"Female"	"History"	26
+1998	"Female"	"History"	28
+1999	"Female"	"History"	25
+2000	"Female"	"History"	31
+2001	"Female"	"History"	30
+2002	"Female"	"History"	23
+2003	"Female"	"History"	32
+2004	"Female"	"History"	35
+2005	"Female"	"History"	43
+2006	"Female"	"History"	45
+2007	"Female"	"History"	52
+2008	"Female"	"History"	37
+2009	"Female"	"History"	38
+2010	"Female"	"History"	33
+2011	"Female"	"History"	49
+1966	"Male"	"History"	42
+1967	"Male"	"History"	48
+1970	"Male"	"History"	91
+1971	"Male"	"History"	95
+1972	"Male"	"History"	98
+1973	"Male"	"History"	95
+1974	"Male"	"History"	78
+1975	"Male"	"History"	78
+1976	"Male"	"History"	65
+1977	"Male"	"History"	51
+1978	"Male"	"History"	46
+1979	"Male"	"History"	37
+1980	"Male"	"History"	42
+1981	"Male"	"History"	30
+1982	"Male"	"History"	29
+1983	"Male"	"History"	29
+1984	"Male"	"History"	29
+1985	"Male"	"History"	27
+1986	"Male"	"History"	30
+1987	"Male"	"History"	28
+1988	"Male"	"History"	22
+1989	"Male"	"History"	44
+1990	"Male"	"History"	54
+1991	"Male"	"History"	45
+1992	"Male"	"History"	70
+1993	"Male"	"History"	70
+1994	"Male"	"History"	77
+1995	"Male"	"History"	65
+1996	"Male"	"History"	80
+1997	"Male"	"History"	59
+1998	"Male"	"History"	74
+1999	"Male"	"History"	69
+2000	"Male"	"History"	70
+2001	"Male"	"History"	69
+2002	"Male"	"History"	81
+2003	"Male"	"History"	77
+2004	"Male"	"History"	71
+2005	"Male"	"History"	93
+2006	"Male"	"History"	103
+2007	"Male"	"History"	115
+2008	"Male"	"History"	100
+2009	"Male"	"History"	88
+2010	"Male"	"History"	114
+2011	"Male"	"History"	107
+1966	"Female"	"Humanities, Other"	6
+1967	"Female"	"Humanities, Other"	3
+1970	"Female"	"Humanities, Other"	5
+1971	"Female"	"Humanities, Other"	7
+1972	"Female"	"Humanities, Other"	5
+1973	"Female"	"Humanities, Other"	8
+1974	"Female"	"Humanities, Other"	11
+1975	"Female"	"Humanities, Other"	7
+1976	"Female"	"Humanities, Other"	6
+1977	"Female"	"Humanities, Other"	2
+1978	"Female"	"Humanities, Other"	10
+1979	"Female"	"Humanities, Other"	10
+1980	"Female"	"Humanities, Other"	0
+1981	"Female"	"Humanities, Other"	4
+1982	"Female"	"Humanities, Other"	3
+1983	"Female"	"Humanities, Other"	5
+1984	"Female"	"Humanities, Other"	2
+1985	"Female"	"Humanities, Other"	2
+1986	"Female"	"Humanities, Other"	0
+1987	"Female"	"Humanities, Other"	2
+1988	"Female"	"Humanities, Other"	2
+1989	"Female"	"Humanities, Other"	1
+1990	"Female"	"Humanities, Other"	2
+1991	"Female"	"Humanities, Other"	9
+1992	"Female"	"Humanities, Other"	4
+1993	"Female"	"Humanities, Other"	2
+1994	"Female"	"Humanities, Other"	4
+1995	"Female"	"Humanities, Other"	2
+1996	"Female"	"Humanities, Other"	2
+1997	"Female"	"Humanities, Other"	4
+1998	"Female"	"Humanities, Other"	2
+1999	"Female"	"Humanities, Other"	4
+2000	"Female"	"Humanities, Other"	4
+2001	"Female"	"Humanities, Other"	10
+2002	"Female"	"Humanities, Other"	6
+2003	"Female"	"Humanities, Other"	3
+2004	"Female"	"Humanities, Other"	16
+2005	"Female"	"Humanities, Other"	11
+2006	"Female"	"Humanities, Other"	14
+2007	"Female"	"Humanities, Other"	18
+2008	"Female"	"Humanities, Other"	17
+2009	"Female"	"Humanities, Other"	11
+2010	"Female"	"Humanities, Other"	14
+2011	"Female"	"Humanities, Other"	14
+1966	"Male"	"Humanities, Other"	7
+1967	"Male"	"Humanities, Other"	14
+1970	"Male"	"Humanities, Other"	23
+1971	"Male"	"Humanities, Other"	10
+1972	"Male"	"Humanities, Other"	33
+1973	"Male"	"Humanities, Other"	27
+1974	"Male"	"Humanities, Other"	26
+1975	"Male"	"Humanities, Other"	20
+1976	"Male"	"Humanities, Other"	15
+1977	"Male"	"Humanities, Other"	8
+1978	"Male"	"Humanities, Other"	8
+1979	"Male"	"Humanities, Other"	12
+1980	"Male"	"Humanities, Other"	9
+1981	"Male"	"Humanities, Other"	10
+1982	"Male"	"Humanities, Other"	11
+1983	"Male"	"Humanities, Other"	7
+1984	"Male"	"Humanities, Other"	7
+1985	"Male"	"Humanities, Other"	5
+1986	"Male"	"Humanities, Other"	6
+1987	"Male"	"Humanities, Other"	3
+1988	"Male"	"Humanities, Other"	4
+1989	"Male"	"Humanities, Other"	7
+1990	"Male"	"Humanities, Other"	8
+1991	"Male"	"Humanities, Other"	10
+1992	"Male"	"Humanities, Other"	6
+1993	"Male"	"Humanities, Other"	10
+1994	"Male"	"Humanities, Other"	15
+1995	"Male"	"Humanities, Other"	12
+1996	"Male"	"Humanities, Other"	15
+1997	"Male"	"Humanities, Other"	9
+1998	"Male"	"Humanities, Other"	19
+1999	"Male"	"Humanities, Other"	8
+2000	"Male"	"Humanities, Other"	14
+2001	"Male"	"Humanities, Other"	10
+2002	"Male"	"Humanities, Other"	19
+2003	"Male"	"Humanities, Other"	16
+2004	"Male"	"Humanities, Other"	30
+2005	"Male"	"Humanities, Other"	39
+2006	"Male"	"Humanities, Other"	27
+2007	"Male"	"Humanities, Other"	43
+2008	"Male"	"Humanities, Other"	34
+2009	"Male"	"Humanities, Other"	27
+2010	"Male"	"Humanities, Other"	22
+2011	"Male"	"Humanities, Other"	34
+1966	"Female"	"Life Sciences"	72
+1967	"Female"	"Life Sciences"	63
+1970	"Female"	"Life Sciences"	152
+1971	"Female"	"Life Sciences"	191
+1972	"Female"	"Life Sciences"	172
+1973	"Female"	"Life Sciences"	209
+1974	"Female"	"Life Sciences"	256
+1975	"Female"	"Life Sciences"	367
+1976	"Female"	"Life Sciences"	426
+1977	"Female"	"Life Sciences"	457
+1978	"Female"	"Life Sciences"	353
+1979	"Female"	"Life Sciences"	381
+1980	"Female"	"Life Sciences"	415
+1981	"Female"	"Life Sciences"	419
+1982	"Female"	"Life Sciences"	441
+1983	"Female"	"Life Sciences"	478
+1984	"Female"	"Life Sciences"	430
+1985	"Female"	"Life Sciences"	446
+1986	"Female"	"Life Sciences"	509
+1987	"Female"	"Life Sciences"	490
+1988	"Female"	"Life Sciences"	436
+1989	"Female"	"Life Sciences"	415
+1990	"Female"	"Life Sciences"	445
+1991	"Female"	"Life Sciences"	463
+1992	"Female"	"Life Sciences"	572
+1993	"Female"	"Life Sciences"	500
+1994	"Female"	"Life Sciences"	463
+1995	"Female"	"Life Sciences"	597
+1996	"Female"	"Life Sciences"	572
+1997	"Female"	"Life Sciences"	544
+1998	"Female"	"Life Sciences"	607
+1999	"Female"	"Life Sciences"	674
+2000	"Female"	"Life Sciences"	628
+2001	"Female"	"Life Sciences"	601
+2002	"Female"	"Life Sciences"	561
+2003	"Female"	"Life Sciences"	515
+2004	"Female"	"Life Sciences"	661
+2005	"Female"	"Life Sciences"	689
+2006	"Female"	"Life Sciences"	753
+2007	"Female"	"Life Sciences"	718
+2008	"Female"	"Life Sciences"	750
+2009	"Female"	"Life Sciences"	731
+2010	"Female"	"Life Sciences"	876
+2011	"Female"	"Life Sciences"	975
+1966	"Male"	"Life Sciences"	137
+1967	"Male"	"Life Sciences"	131
+1970	"Male"	"Life Sciences"	155
+1971	"Male"	"Life Sciences"	183
+1972	"Male"	"Life Sciences"	215
+1973	"Male"	"Life Sciences"	233
+1974	"Male"	"Life Sciences"	289
+1975	"Male"	"Life Sciences"	323
+1976	"Male"	"Life Sciences"	352
+1977	"Male"	"Life Sciences"	345
+1978	"Male"	"Life Sciences"	312
+1979	"Male"	"Life Sciences"	322
+1980	"Male"	"Life Sciences"	277
+1981	"Male"	"Life Sciences"	264
+1982	"Male"	"Life Sciences"	240
+1983	"Male"	"Life Sciences"	260
+1984	"Male"	"Life Sciences"	209
+1985	"Male"	"Life Sciences"	235
+1986	"Male"	"Life Sciences"	186
+1987	"Male"	"Life Sciences"	207
+1988	"Male"	"Life Sciences"	170
+1989	"Male"	"Life Sciences"	181
+1990	"Male"	"Life Sciences"	228
+1991	"Male"	"Life Sciences"	231
+1992	"Male"	"Life Sciences"	248
+1993	"Male"	"Life Sciences"	262
+1994	"Male"	"Life Sciences"	243
+1995	"Male"	"Life Sciences"	293
+1996	"Male"	"Life Sciences"	269
+1997	"Male"	"Life Sciences"	270
+1998	"Male"	"Life Sciences"	274
+1999	"Male"	"Life Sciences"	305
+2000	"Male"	"Life Sciences"	262
+2001	"Male"	"Life Sciences"	244
+2002	"Male"	"Life Sciences"	205
+2003	"Male"	"Life Sciences"	207
+2004	"Male"	"Life Sciences"	291
+2005	"Male"	"Life Sciences"	286
+2006	"Male"	"Life Sciences"	302
+2007	"Male"	"Life Sciences"	333
+2008	"Male"	"Life Sciences"	326
+2009	"Male"	"Life Sciences"	389
+2010	"Male"	"Life Sciences"	451
+2011	"Male"	"Life Sciences"	412
+1966	"Female"	"Math"	54
+1967	"Female"	"Math"	37
+1970	"Female"	"Math"	35
+1971	"Female"	"Math"	53
+1972	"Female"	"Math"	63
+1973	"Female"	"Math"	66
+1974	"Female"	"Math"	43
+1975	"Female"	"Math"	43
+1976	"Female"	"Math"	41
+1977	"Female"	"Math"	48
+1978	"Female"	"Math"	34
+1979	"Female"	"Math"	30
+1980	"Female"	"Math"	17
+1981	"Female"	"Math"	17
+1982	"Female"	"Math"	18
+1983	"Female"	"Math"	23
+1984	"Female"	"Math"	32
+1985	"Female"	"Math"	64
+1986	"Female"	"Math"	96
+1987	"Female"	"Math"	83
+1988	"Female"	"Math"	108
+1989	"Female"	"Math"	89
+1990	"Female"	"Math"	70
+1991	"Female"	"Math"	82
+1992	"Female"	"Math"	77
+1993	"Female"	"Math"	57
+1994	"Female"	"Math"	56
+1995	"Female"	"Math"	52
+1996	"Female"	"Math"	52
+1997	"Female"	"Math"	40
+1998	"Female"	"Math"	44
+1999	"Female"	"Math"	74
+2000	"Female"	"Math"	28
+2001	"Female"	"Math"	39
+2002	"Female"	"Math"	53
+2003	"Female"	"Math"	35
+2004	"Female"	"Math"	46
+2005	"Female"	"Math"	46
+2006	"Female"	"Math"	49
+2007	"Female"	"Math"	62
+2008	"Female"	"Math"	52
+2009	"Female"	"Math"	64
+2010	"Female"	"Math"	63
+2011	"Female"	"Math"	46
+1966	"Male"	"Math"	74
+1967	"Male"	"Math"	61
+1970	"Male"	"Math"	72
+1971	"Male"	"Math"	75
+1972	"Male"	"Math"	74
+1973	"Male"	"Math"	77
+1974	"Male"	"Math"	80
+1975	"Male"	"Math"	52
+1976	"Male"	"Math"	61
+1977	"Male"	"Math"	37
+1978	"Male"	"Math"	32
+1979	"Male"	"Math"	25
+1980	"Male"	"Math"	33
+1981	"Male"	"Math"	23
+1982	"Male"	"Math"	21
+1983	"Male"	"Math"	26
+1984	"Male"	"Math"	36
+1985	"Male"	"Math"	56
+1986	"Male"	"Math"	100
+1987	"Male"	"Math"	99
+1988	"Male"	"Math"	87
+1989	"Male"	"Math"	89
+1990	"Male"	"Math"	81
+1991	"Male"	"Math"	88
+1992	"Male"	"Math"	84
+1993	"Male"	"Math"	70
+1994	"Male"	"Math"	72
+1995	"Male"	"Math"	66
+1996	"Male"	"Math"	61
+1997	"Male"	"Math"	71
+1998	"Male"	"Math"	58
+1999	"Male"	"Math"	71
+2000	"Male"	"Math"	50
+2001	"Male"	"Math"	58
+2002	"Male"	"Math"	49
+2003	"Male"	"Math"	49
+2004	"Male"	"Math"	70
+2005	"Male"	"Math"	72
+2006	"Male"	"Math"	91
+2007	"Male"	"Math"	84
+2008	"Male"	"Math"	91
+2009	"Male"	"Math"	97
+2010	"Male"	"Math"	110
+2011	"Male"	"Math"	112
+1966	"Female"	"Other/Unknown"	1
+1967	"Female"	"Other/Unknown"	2
+1970	"Female"	"Other/Unknown"	13
+1971	"Female"	"Other/Unknown"	127
+1972	"Female"	"Other/Unknown"	13
+1973	"Female"	"Other/Unknown"	74
+1974	"Female"	"Other/Unknown"	85
+1975	"Female"	"Other/Unknown"	130
+1976	"Female"	"Other/Unknown"	201
+1977	"Female"	"Other/Unknown"	182
+1978	"Female"	"Other/Unknown"	210
+1979	"Female"	"Other/Unknown"	198
+1980	"Female"	"Other/Unknown"	204
+1981	"Female"	"Other/Unknown"	178
+1982	"Female"	"Other/Unknown"	236
+1983	"Female"	"Other/Unknown"	128
+1984	"Female"	"Other/Unknown"	124
+1985	"Female"	"Other/Unknown"	127
+1986	"Female"	"Other/Unknown"	135
+1987	"Female"	"Other/Unknown"	179
+1988	"Female"	"Other/Unknown"	209
+1989	"Female"	"Other/Unknown"	284
+1990	"Female"	"Other/Unknown"	329
+1991	"Female"	"Other/Unknown"	283
+1992	"Female"	"Other/Unknown"	229
+1993	"Female"	"Other/Unknown"	216
+1994	"Female"	"Other/Unknown"	241
+1995	"Female"	"Other/Unknown"	239
+1996	"Female"	"Other/Unknown"	235
+1997	"Female"	"Other/Unknown"	228
+1998	"Female"	"Other/Unknown"	222
+1999	"Female"	"Other/Unknown"	254
+2000	"Female"	"Other/Unknown"	217
+2001	"Female"	"Other/Unknown"	220
+2002	"Female"	"Other/Unknown"	204
+2003	"Female"	"Other/Unknown"	194
+2004	"Female"	"Other/Unknown"	54
+2005	"Female"	"Other/Unknown"	56
+2006	"Female"	"Other/Unknown"	61
+2007	"Female"	"Other/Unknown"	54
+2008	"Female"	"Other/Unknown"	46
+2009	"Female"	"Other/Unknown"	65
+2010	"Female"	"Other/Unknown"	77
+2011	"Female"	"Other/Unknown"	64
+1966	"Male"	"Other/Unknown"	41
+1967	"Male"	"Other/Unknown"	32
+1970	"Male"	"Other/Unknown"	55
+1971	"Male"	"Other/Unknown"	311
+1972	"Male"	"Other/Unknown"	130
+1973	"Male"	"Other/Unknown"	307
+1974	"Male"	"Other/Unknown"	299
+1975	"Male"	"Other/Unknown"	315
+1976	"Male"	"Other/Unknown"	344
+1977	"Male"	"Other/Unknown"	328
+1978	"Male"	"Other/Unknown"	322
+1979	"Male"	"Other/Unknown"	261
+1980	"Male"	"Other/Unknown"	249
+1981	"Male"	"Other/Unknown"	222
+1982	"Male"	"Other/Unknown"	244
+1983	"Male"	"Other/Unknown"	108
+1984	"Male"	"Other/Unknown"	136
+1985	"Male"	"Other/Unknown"	103
+1986	"Male"	"Other/Unknown"	155
+1987	"Male"	"Other/Unknown"	164
+1988	"Male"	"Other/Unknown"	197
+1989	"Male"	"Other/Unknown"	265
+1990	"Male"	"Other/Unknown"	266
+1991	"Male"	"Other/Unknown"	269
+1992	"Male"	"Other/Unknown"	245
+1993	"Male"	"Other/Unknown"	236
+1994	"Male"	"Other/Unknown"	235
+1995	"Male"	"Other/Unknown"	207
+1996	"Male"	"Other/Unknown"	243
+1997	"Male"	"Other/Unknown"	273
+1998	"Male"	"Other/Unknown"	286
+1999	"Male"	"Other/Unknown"	262
+2000	"Male"	"Other/Unknown"	256
+2001	"Male"	"Other/Unknown"	252
+2002	"Male"	"Other/Unknown"	229
+2003	"Male"	"Other/Unknown"	225
+2004	"Male"	"Other/Unknown"	99
+2005	"Male"	"Other/Unknown"	105
+2006	"Male"	"Other/Unknown"	124
+2007	"Male"	"Other/Unknown"	110
+2008	"Male"	"Other/Unknown"	102
+2009	"Male"	"Other/Unknown"	117
+2010	"Male"	"Other/Unknown"	138
+2011	"Male"	"Other/Unknown"	123
+1966	"Female"	"Physical Sciences"	97
+1967	"Female"	"Physical Sciences"	88
+1970	"Female"	"Physical Sciences"	149
+1971	"Female"	"Physical Sciences"	31
+1972	"Female"	"Physical Sciences"	130
+1973	"Female"	"Physical Sciences"	39
+1974	"Female"	"Physical Sciences"	48
+1975	"Female"	"Physical Sciences"	45
+1976	"Female"	"Physical Sciences"	50
+1977	"Female"	"Physical Sciences"	65
+1978	"Female"	"Physical Sciences"	64
+1979	"Female"	"Physical Sciences"	71
+1980	"Female"	"Physical Sciences"	58
+1981	"Female"	"Physical Sciences"	90
+1982	"Female"	"Physical Sciences"	83
+1983	"Female"	"Physical Sciences"	69
+1984	"Female"	"Physical Sciences"	75
+1985	"Female"	"Physical Sciences"	78
+1986	"Female"	"Physical Sciences"	69
+1987	"Female"	"Physical Sciences"	62
+1988	"Female"	"Physical Sciences"	58
+1989	"Female"	"Physical Sciences"	63
+1990	"Female"	"Physical Sciences"	71
+1991	"Female"	"Physical Sciences"	70
+1992	"Female"	"Physical Sciences"	93
+1993	"Female"	"Physical Sciences"	77
+1994	"Female"	"Physical Sciences"	97
+1995	"Female"	"Physical Sciences"	93
+1996	"Female"	"Physical Sciences"	115
+1997	"Female"	"Physical Sciences"	105
+1998	"Female"	"Physical Sciences"	103
+1999	"Female"	"Physical Sciences"	99
+2000	"Female"	"Physical Sciences"	103
+2001	"Female"	"Physical Sciences"	113
+2002	"Female"	"Physical Sciences"	120
+2003	"Female"	"Physical Sciences"	128
+2004	"Female"	"Physical Sciences"	143
+2005	"Female"	"Physical Sciences"	152
+2006	"Female"	"Physical Sciences"	135
+2007	"Female"	"Physical Sciences"	166
+2008	"Female"	"Physical Sciences"	163
+2009	"Female"	"Physical Sciences"	144
+2010	"Female"	"Physical Sciences"	149
+2011	"Female"	"Physical Sciences"	165
+1966	"Male"	"Physical Sciences"	285
+1967	"Male"	"Physical Sciences"	346
+1970	"Male"	"Physical Sciences"	495
+1971	"Male"	"Physical Sciences"	289
+1972	"Male"	"Physical Sciences"	527
+1973	"Male"	"Physical Sciences"	329
+1974	"Male"	"Physical Sciences"	298
+1975	"Male"	"Physical Sciences"	313
+1976	"Male"	"Physical Sciences"	289
+1977	"Male"	"Physical Sciences"	320
+1978	"Male"	"Physical Sciences"	299
+1979	"Male"	"Physical Sciences"	250
+1980	"Male"	"Physical Sciences"	270
+1981	"Male"	"Physical Sciences"	310
+1982	"Male"	"Physical Sciences"	277
+1983	"Male"	"Physical Sciences"	252
+1984	"Male"	"Physical Sciences"	206
+1985	"Male"	"Physical Sciences"	255
+1986	"Male"	"Physical Sciences"	200
+1987	"Male"	"Physical Sciences"	161
+1988	"Male"	"Physical Sciences"	187
+1989	"Male"	"Physical Sciences"	163
+1990	"Male"	"Physical Sciences"	177
+1991	"Male"	"Physical Sciences"	205
+1992	"Male"	"Physical Sciences"	204
+1993	"Male"	"Physical Sciences"	217
+1994	"Male"	"Physical Sciences"	202
+1995	"Male"	"Physical Sciences"	205
+1996	"Male"	"Physical Sciences"	213
+1997	"Male"	"Physical Sciences"	203
+1998	"Male"	"Physical Sciences"	230
+1999	"Male"	"Physical Sciences"	210
+2000	"Male"	"Physical Sciences"	183
+2001	"Male"	"Physical Sciences"	202
+2002	"Male"	"Physical Sciences"	150
+2003	"Male"	"Physical Sciences"	162
+2004	"Male"	"Physical Sciences"	162
+2005	"Male"	"Physical Sciences"	165
+2006	"Male"	"Physical Sciences"	196
+2007	"Male"	"Physical Sciences"	212
+2008	"Male"	"Physical Sciences"	225
+2009	"Male"	"Physical Sciences"	214
+2010	"Male"	"Physical Sciences"	281
+2011	"Male"	"Physical Sciences"	328
+1966	"Female"	"Political Science and Public Administration"	38
+1967	"Female"	"Political Science and Public Administration"	27
+1970	"Female"	"Political Science and Public Administration"	25
+1971	"Female"	"Political Science and Public Administration"	38
+1972	"Female"	"Political Science and Public Administration"	26
+1973	"Female"	"Political Science and Public Administration"	118
+1974	"Female"	"Political Science and Public Administration"	119
+1975	"Female"	"Political Science and Public Administration"	106
+1976	"Female"	"Political Science and Public Administration"	97
+1977	"Female"	"Political Science and Public Administration"	98
+1978	"Female"	"Political Science and Public Administration"	128
+1979	"Female"	"Political Science and Public Administration"	91
+1980	"Female"	"Political Science and Public Administration"	74
+1981	"Female"	"Political Science and Public Administration"	81
+1982	"Female"	"Political Science and Public Administration"	77
+1983	"Female"	"Political Science and Public Administration"	101
+1984	"Female"	"Political Science and Public Administration"	72
+1985	"Female"	"Political Science and Public Administration"	92
+1986	"Female"	"Political Science and Public Administration"	67
+1987	"Female"	"Political Science and Public Administration"	78
+1988	"Female"	"Political Science and Public Administration"	75
+1989	"Female"	"Political Science and Public Administration"	69
+1990	"Female"	"Political Science and Public Administration"	88
+1991	"Female"	"Political Science and Public Administration"	106
+1992	"Female"	"Political Science and Public Administration"	109
+1993	"Female"	"Political Science and Public Administration"	119
+1994	"Female"	"Political Science and Public Administration"	99
+1995	"Female"	"Political Science and Public Administration"	71
+1996	"Female"	"Political Science and Public Administration"	67
+1997	"Female"	"Political Science and Public Administration"	56
+1998	"Female"	"Political Science and Public Administration"	70
+1999	"Female"	"Political Science and Public Administration"	76
+2000	"Female"	"Political Science and Public Administration"	90
+2001	"Female"	"Political Science and Public Administration"	83
+2002	"Female"	"Political Science and Public Administration"	83
+2003	"Female"	"Political Science and Public Administration"	73
+2004	"Female"	"Political Science and Public Administration"	118
+2005	"Female"	"Political Science and Public Administration"	127
+2006	"Female"	"Political Science and Public Administration"	147
+2007	"Female"	"Political Science and Public Administration"	126
+2008	"Female"	"Political Science and Public Administration"	167
+2009	"Female"	"Political Science and Public Administration"	167
+2010	"Female"	"Political Science and Public Administration"	200
+2011	"Female"	"Political Science and Public Administration"	198
+1966	"Male"	"Political Science and Public Administration"	56
+1967	"Male"	"Political Science and Public Administration"	83
+1970	"Male"	"Political Science and Public Administration"	109
+1971	"Male"	"Political Science and Public Administration"	137
+1972	"Male"	"Political Science and Public Administration"	139
+1973	"Male"	"Political Science and Public Administration"	185
+1974	"Male"	"Political Science and Public Administration"	150
+1975	"Male"	"Political Science and Public Administration"	133
+1976	"Male"	"Political Science and Public Administration"	148
+1977	"Male"	"Political Science and Public Administration"	128
+1978	"Male"	"Political Science and Public Administration"	123
+1979	"Male"	"Political Science and Public Administration"	111
+1980	"Male"	"Political Science and Public Administration"	119
+1981	"Male"	"Political Science and Public Administration"	87
+1982	"Male"	"Political Science and Public Administration"	85
+1983	"Male"	"Political Science and Public Administration"	118
+1984	"Male"	"Political Science and Public Administration"	103
+1985	"Male"	"Political Science and Public Administration"	97
+1986	"Male"	"Political Science and Public Administration"	92
+1987	"Male"	"Political Science and Public Administration"	96
+1988	"Male"	"Political Science and Public Administration"	82
+1989	"Male"	"Political Science and Public Administration"	103
+1990	"Male"	"Political Science and Public Administration"	130
+1991	"Male"	"Political Science and Public Administration"	126
+1992	"Male"	"Political Science and Public Administration"	134
+1993	"Male"	"Political Science and Public Administration"	129
+1994	"Male"	"Political Science and Public Administration"	124
+1995	"Male"	"Political Science and Public Administration"	114
+1996	"Male"	"Political Science and Public Administration"	99
+1997	"Male"	"Political Science and Public Administration"	98
+1998	"Male"	"Political Science and Public Administration"	90
+1999	"Male"	"Political Science and Public Administration"	99
+2000	"Male"	"Political Science and Public Administration"	107
+2001	"Male"	"Political Science and Public Administration"	94
+2002	"Male"	"Political Science and Public Administration"	108
+2003	"Male"	"Political Science and Public Administration"	116
+2004	"Male"	"Political Science and Public Administration"	130
+2005	"Male"	"Political Science and Public Administration"	130
+2006	"Male"	"Political Science and Public Administration"	153
+2007	"Male"	"Political Science and Public Administration"	147
+2008	"Male"	"Political Science and Public Administration"	200
+2009	"Male"	"Political Science and Public Administration"	167
+2010	"Male"	"Political Science and Public Administration"	182
+2011	"Male"	"Political Science and Public Administration"	190
+1966	"Female"	"Psychology"	50
+1967	"Female"	"Psychology"	61
+1970	"Female"	"Psychology"	90
+1971	"Female"	"Psychology"	112
+1972	"Female"	"Psychology"	102
+1973	"Female"	"Psychology"	102
+1974	"Female"	"Psychology"	105
+1975	"Female"	"Psychology"	88
+1976	"Female"	"Psychology"	115
+1977	"Female"	"Psychology"	98
+1978	"Female"	"Psychology"	75
+1979	"Female"	"Psychology"	87
+1980	"Female"	"Psychology"	72
+1981	"Female"	"Psychology"	98
+1982	"Female"	"Psychology"	106
+1983	"Female"	"Psychology"	84
+1984	"Female"	"Psychology"	66
+1985	"Female"	"Psychology"	86
+1986	"Female"	"Psychology"	90
+1987	"Female"	"Psychology"	95
+1988	"Female"	"Psychology"	78
+1989	"Female"	"Psychology"	130
+1990	"Female"	"Psychology"	135
+1991	"Female"	"Psychology"	150
+1992	"Female"	"Psychology"	173
+1993	"Female"	"Psychology"	190
+1994	"Female"	"Psychology"	193
+1995	"Female"	"Psychology"	209
+1996	"Female"	"Psychology"	219
+1997	"Female"	"Psychology"	248
+1998	"Female"	"Psychology"	213
+1999	"Female"	"Psychology"	223
+2000	"Female"	"Psychology"	256
+2001	"Female"	"Psychology"	277
+2002	"Female"	"Psychology"	317
+2003	"Female"	"Psychology"	280
+2004	"Female"	"Psychology"	338
+2005	"Female"	"Psychology"	311
+2006	"Female"	"Psychology"	325
+2007	"Female"	"Psychology"	330
+2008	"Female"	"Psychology"	283
+2009	"Female"	"Psychology"	251
+2010	"Female"	"Psychology"	340
+2011	"Female"	"Psychology"	329
+1966	"Male"	"Psychology"	79
+1967	"Male"	"Psychology"	100
+1970	"Male"	"Psychology"	126
+1971	"Male"	"Psychology"	170
+1972	"Male"	"Psychology"	143
+1973	"Male"	"Psychology"	138
+1974	"Male"	"Psychology"	121
+1975	"Male"	"Psychology"	139
+1976	"Male"	"Psychology"	94
+1977	"Male"	"Psychology"	83
+1978	"Male"	"Psychology"	65
+1979	"Male"	"Psychology"	65
+1980	"Male"	"Psychology"	50
+1981	"Male"	"Psychology"	64
+1982	"Male"	"Psychology"	55
+1983	"Male"	"Psychology"	59
+1984	"Male"	"Psychology"	45
+1985	"Male"	"Psychology"	53
+1986	"Male"	"Psychology"	51
+1987	"Male"	"Psychology"	58
+1988	"Male"	"Psychology"	66
+1989	"Male"	"Psychology"	61
+1990	"Male"	"Psychology"	76
+1991	"Male"	"Psychology"	89
+1992	"Male"	"Psychology"	84
+1993	"Male"	"Psychology"	100
+1994	"Male"	"Psychology"	89
+1995	"Male"	"Psychology"	91
+1996	"Male"	"Psychology"	113
+1997	"Male"	"Psychology"	108
+1998	"Male"	"Psychology"	111
+1999	"Male"	"Psychology"	105
+2000	"Male"	"Psychology"	100
+2001	"Male"	"Psychology"	101
+2002	"Male"	"Psychology"	120
+2003	"Male"	"Psychology"	124
+2004	"Male"	"Psychology"	135
+2005	"Male"	"Psychology"	135
+2006	"Male"	"Psychology"	150
+2007	"Male"	"Psychology"	162
+2008	"Male"	"Psychology"	135
+2009	"Male"	"Psychology"	111
+2010	"Male"	"Psychology"	124
+2011	"Male"	"Psychology"	133
+1966	"Female"	"Religion"	0
+1967	"Female"	"Religion"	0
+1970	"Female"	"Religion"	0
+1971	"Female"	"Religion"	3
+1972	"Female"	"Religion"	0
+1973	"Female"	"Religion"	5
+1974	"Female"	"Religion"	4
+1975	"Female"	"Religion"	6
+1976	"Female"	"Religion"	2
+1977	"Female"	"Religion"	0
+1978	"Female"	"Religion"	2
+1979	"Female"	"Religion"	5
+1980	"Female"	"Religion"	1
+1981	"Female"	"Religion"	1
+1982	"Female"	"Religion"	1
+1983	"Female"	"Religion"	1
+1984	"Female"	"Religion"	0
+1985	"Female"	"Religion"	0
+1986	"Female"	"Religion"	1
+1987	"Female"	"Religion"	0
+1988	"Female"	"Religion"	0
+1989	"Female"	"Religion"	0
+1990	"Female"	"Religion"	0
+1991	"Female"	"Religion"	1
+1992	"Female"	"Religion"	0
+1993	"Female"	"Religion"	0
+1994	"Female"	"Religion"	0
+1995	"Female"	"Religion"	1
+1996	"Female"	"Religion"	2
+1997	"Female"	"Religion"	2
+1998	"Female"	"Religion"	0
+1999	"Female"	"Religion"	2
+2000	"Female"	"Religion"	2
+2001	"Female"	"Religion"	1
+2002	"Female"	"Religion"	5
+2003	"Female"	"Religion"	2
+2004	"Female"	"Religion"	6
+2005	"Female"	"Religion"	5
+2006	"Female"	"Religion"	5
+2007	"Female"	"Religion"	12
+2008	"Female"	"Religion"	5
+2009	"Female"	"Religion"	5
+2010	"Female"	"Religion"	4
+2011	"Female"	"Religion"	6
+1966	"Male"	"Religion"	0
+1967	"Male"	"Religion"	0
+1970	"Male"	"Religion"	0
+1971	"Male"	"Religion"	10
+1972	"Male"	"Religion"	10
+1973	"Male"	"Religion"	13
+1974	"Male"	"Religion"	6
+1975	"Male"	"Religion"	5
+1976	"Male"	"Religion"	6
+1977	"Male"	"Religion"	6
+1978	"Male"	"Religion"	5
+1979	"Male"	"Religion"	4
+1980	"Male"	"Religion"	4
+1981	"Male"	"Religion"	0
+1982	"Male"	"Religion"	2
+1983	"Male"	"Religion"	4
+1984	"Male"	"Religion"	4
+1985	"Male"	"Religion"	1
+1986	"Male"	"Religion"	1
+1987	"Male"	"Religion"	1
+1988	"Male"	"Religion"	0
+1989	"Male"	"Religion"	0
+1990	"Male"	"Religion"	1
+1991	"Male"	"Religion"	0
+1992	"Male"	"Religion"	2
+1993	"Male"	"Religion"	2
+1994	"Male"	"Religion"	2
+1995	"Male"	"Religion"	1
+1996	"Male"	"Religion"	8
+1997	"Male"	"Religion"	3
+1998	"Male"	"Religion"	3
+1999	"Male"	"Religion"	1
+2000	"Male"	"Religion"	1
+2001	"Male"	"Religion"	3
+2002	"Male"	"Religion"	3
+2003	"Male"	"Religion"	6
+2004	"Male"	"Religion"	8
+2005	"Male"	"Religion"	12
+2006	"Male"	"Religion"	6
+2007	"Male"	"Religion"	10
+2008	"Male"	"Religion"	12
+2009	"Male"	"Religion"	5
+2010	"Male"	"Religion"	11
+2011	"Male"	"Religion"	6
+1966	"Female"	"Social Sciences, Other"	22
+1967	"Female"	"Social Sciences, Other"	19
+1970	"Female"	"Social Sciences, Other"	35
+1971	"Female"	"Social Sciences, Other"	36
+1972	"Female"	"Social Sciences, Other"	51
+1973	"Female"	"Social Sciences, Other"	47
+1974	"Female"	"Social Sciences, Other"	29
+1975	"Female"	"Social Sciences, Other"	26
+1976	"Female"	"Social Sciences, Other"	27
+1977	"Female"	"Social Sciences, Other"	23
+1978	"Female"	"Social Sciences, Other"	19
+1979	"Female"	"Social Sciences, Other"	19
+1980	"Female"	"Social Sciences, Other"	16
+1981	"Female"	"Social Sciences, Other"	20
+1982	"Female"	"Social Sciences, Other"	18
+1983	"Female"	"Social Sciences, Other"	19
+1984	"Female"	"Social Sciences, Other"	17
+1985	"Female"	"Social Sciences, Other"	11
+1986	"Female"	"Social Sciences, Other"	15
+1987	"Female"	"Social Sciences, Other"	15
+1988	"Female"	"Social Sciences, Other"	11
+1989	"Female"	"Social Sciences, Other"	11
+1990	"Female"	"Social Sciences, Other"	11
+1991	"Female"	"Social Sciences, Other"	8
+1992	"Female"	"Social Sciences, Other"	12
+1993	"Female"	"Social Sciences, Other"	14
+1994	"Female"	"Social Sciences, Other"	15
+1995	"Female"	"Social Sciences, Other"	11
+1996	"Female"	"Social Sciences, Other"	11
+1997	"Female"	"Social Sciences, Other"	10
+1998	"Female"	"Social Sciences, Other"	17
+1999	"Female"	"Social Sciences, Other"	17
+2000	"Female"	"Social Sciences, Other"	20
+2001	"Female"	"Social Sciences, Other"	13
+2002	"Female"	"Social Sciences, Other"	13
+2003	"Female"	"Social Sciences, Other"	11
+2004	"Female"	"Social Sciences, Other"	16
+2005	"Female"	"Social Sciences, Other"	13
+2006	"Female"	"Social Sciences, Other"	14
+2007	"Female"	"Social Sciences, Other"	19
+2008	"Female"	"Social Sciences, Other"	13
+2009	"Female"	"Social Sciences, Other"	22
+2010	"Female"	"Social Sciences, Other"	21
+2011	"Female"	"Social Sciences, Other"	5
+1966	"Male"	"Social Sciences, Other"	50
+1967	"Male"	"Social Sciences, Other"	66
+1970	"Male"	"Social Sciences, Other"	134
+1971	"Male"	"Social Sciences, Other"	127
+1972	"Male"	"Social Sciences, Other"	103
+1973	"Male"	"Social Sciences, Other"	109
+1974	"Male"	"Social Sciences, Other"	55
+1975	"Male"	"Social Sciences, Other"	49
+1976	"Male"	"Social Sciences, Other"	46
+1977	"Male"	"Social Sciences, Other"	61
+1978	"Male"	"Social Sciences, Other"	57
+1979	"Male"	"Social Sciences, Other"	42
+1980	"Male"	"Social Sciences, Other"	40
+1981	"Male"	"Social Sciences, Other"	40
+1982	"Male"	"Social Sciences, Other"	49
+1983	"Male"	"Social Sciences, Other"	30
+1984	"Male"	"Social Sciences, Other"	24
+1985	"Male"	"Social Sciences, Other"	24
+1986	"Male"	"Social Sciences, Other"	32
+1987	"Male"	"Social Sciences, Other"	33
+1988	"Male"	"Social Sciences, Other"	24
+1989	"Male"	"Social Sciences, Other"	42
+1990	"Male"	"Social Sciences, Other"	43
+1991	"Male"	"Social Sciences, Other"	27
+1992	"Male"	"Social Sciences, Other"	33
+1993	"Male"	"Social Sciences, Other"	43
+1994	"Male"	"Social Sciences, Other"	37
+1995	"Male"	"Social Sciences, Other"	40
+1996	"Male"	"Social Sciences, Other"	31
+1997	"Male"	"Social Sciences, Other"	31
+1998	"Male"	"Social Sciences, Other"	42
+1999	"Male"	"Social Sciences, Other"	29
+2000	"Male"	"Social Sciences, Other"	39
+2001	"Male"	"Social Sciences, Other"	38
+2002	"Male"	"Social Sciences, Other"	39
+2003	"Male"	"Social Sciences, Other"	31
+2004	"Male"	"Social Sciences, Other"	44
+2005	"Male"	"Social Sciences, Other"	43
+2006	"Male"	"Social Sciences, Other"	39
+2007	"Male"	"Social Sciences, Other"	35
+2008	"Male"	"Social Sciences, Other"	34
+2009	"Male"	"Social Sciences, Other"	32
+2010	"Male"	"Social Sciences, Other"	40
+2011	"Male"	"Social Sciences, Other"	29
+1966	"Female"	"Social Service Professions"	37
+1967	"Female"	"Social Service Professions"	57
+1970	"Female"	"Social Service Professions"	68
+1971	"Female"	"Social Service Professions"	81
+1972	"Female"	"Social Service Professions"	117
+1973	"Female"	"Social Service Professions"	143
+1974	"Female"	"Social Service Professions"	101
+1975	"Female"	"Social Service Professions"	136
+1976	"Female"	"Social Service Professions"	155
+1977	"Female"	"Social Service Professions"	120
+1978	"Female"	"Social Service Professions"	130
+1979	"Female"	"Social Service Professions"	103
+1980	"Female"	"Social Service Professions"	102
+1981	"Female"	"Social Service Professions"	69
+1982	"Female"	"Social Service Professions"	69
+1983	"Female"	"Social Service Professions"	36
+1984	"Female"	"Social Service Professions"	18
+1985	"Female"	"Social Service Professions"	15
+1986	"Female"	"Social Service Professions"	32
+1987	"Female"	"Social Service Professions"	27
+1988	"Female"	"Social Service Professions"	27
+1989	"Female"	"Social Service Professions"	19
+1990	"Female"	"Social Service Professions"	18
+1991	"Female"	"Social Service Professions"	13
+1992	"Female"	"Social Service Professions"	14
+1993	"Female"	"Social Service Professions"	12
+1994	"Female"	"Social Service Professions"	15
+1995	"Female"	"Social Service Professions"	2
+1996	"Female"	"Social Service Professions"	0
+1997	"Female"	"Social Service Professions"	0
+1998	"Female"	"Social Service Professions"	0
+1999	"Female"	"Social Service Professions"	0
+2000	"Female"	"Social Service Professions"	0
+2001	"Female"	"Social Service Professions"	0
+2002	"Female"	"Social Service Professions"	0
+2003	"Female"	"Social Service Professions"	0
+2004	"Female"	"Social Service Professions"	0
+2005	"Female"	"Social Service Professions"	0
+2006	"Female"	"Social Service Professions"	0
+2007	"Female"	"Social Service Professions"	0
+2008	"Female"	"Social Service Professions"	0
+2009	"Female"	"Social Service Professions"	0
+2010	"Female"	"Social Service Professions"	0
+2011	"Female"	"Social Service Professions"	0
+1966	"Male"	"Social Service Professions"	6
+1967	"Male"	"Social Service Professions"	1
+1970	"Male"	"Social Service Professions"	8
+1971	"Male"	"Social Service Professions"	14
+1972	"Male"	"Social Service Professions"	42
+1973	"Male"	"Social Service Professions"	90
+1974	"Male"	"Social Service Professions"	90
+1975	"Male"	"Social Service Professions"	84
+1976	"Male"	"Social Service Professions"	65
+1977	"Male"	"Social Service Professions"	57
+1978	"Male"	"Social Service Professions"	52
+1979	"Male"	"Social Service Professions"	57
+1980	"Male"	"Social Service Professions"	40
+1981	"Male"	"Social Service Professions"	39
+1982	"Male"	"Social Service Professions"	36
+1983	"Male"	"Social Service Professions"	3
+1984	"Male"	"Social Service Professions"	3
+1985	"Male"	"Social Service Professions"	5
+1986	"Male"	"Social Service Professions"	14
+1987	"Male"	"Social Service Professions"	12
+1988	"Male"	"Social Service Professions"	9
+1989	"Male"	"Social Service Professions"	4
+1990	"Male"	"Social Service Professions"	0
+1991	"Male"	"Social Service Professions"	1
+1992	"Male"	"Social Service Professions"	2
+1993	"Male"	"Social Service Professions"	4
+1994	"Male"	"Social Service Professions"	2
+1995	"Male"	"Social Service Professions"	0
+1996	"Male"	"Social Service Professions"	0
+1997	"Male"	"Social Service Professions"	0
+1998	"Male"	"Social Service Professions"	0
+1999	"Male"	"Social Service Professions"	0
+2000	"Male"	"Social Service Professions"	0
+2001	"Male"	"Social Service Professions"	0
+2002	"Male"	"Social Service Professions"	0
+2003	"Male"	"Social Service Professions"	0
+2004	"Male"	"Social Service Professions"	0
+2005	"Male"	"Social Service Professions"	0
+2006	"Male"	"Social Service Professions"	0
+2007	"Male"	"Social Service Professions"	0
+2008	"Male"	"Social Service Professions"	0
+2009	"Male"	"Social Service Professions"	0
+2010	"Male"	"Social Service Professions"	0
+2011	"Male"	"Social Service Professions"	0
+1966	"Female"	"Sociology"	12
+1967	"Female"	"Sociology"	12
+1970	"Female"	"Sociology"	27
+1971	"Female"	"Sociology"	33
+1972	"Female"	"Sociology"	37
+1973	"Female"	"Sociology"	41
+1974	"Female"	"Sociology"	28
+1975	"Female"	"Sociology"	32
+1976	"Female"	"Sociology"	20
+1977	"Female"	"Sociology"	17
+1978	"Female"	"Sociology"	17
+1979	"Female"	"Sociology"	25
+1980	"Female"	"Sociology"	19
+1981	"Female"	"Sociology"	20
+1982	"Female"	"Sociology"	20
+1983	"Female"	"Sociology"	16
+1984	"Female"	"Sociology"	6
+1985	"Female"	"Sociology"	9
+1986	"Female"	"Sociology"	16
+1987	"Female"	"Sociology"	5
+1988	"Female"	"Sociology"	8
+1989	"Female"	"Sociology"	7
+1990	"Female"	"Sociology"	12
+1991	"Female"	"Sociology"	24
+1992	"Female"	"Sociology"	24
+1993	"Female"	"Sociology"	21
+1994	"Female"	"Sociology"	25
+1995	"Female"	"Sociology"	24
+1996	"Female"	"Sociology"	33
+1997	"Female"	"Sociology"	29
+1998	"Female"	"Sociology"	32
+1999	"Female"	"Sociology"	37
+2000	"Female"	"Sociology"	37
+2001	"Female"	"Sociology"	32
+2002	"Female"	"Sociology"	31
+2003	"Female"	"Sociology"	33
+2004	"Female"	"Sociology"	35
+2005	"Female"	"Sociology"	45
+2006	"Female"	"Sociology"	31
+2007	"Female"	"Sociology"	40
+2008	"Female"	"Sociology"	36
+2009	"Female"	"Sociology"	41
+2010	"Female"	"Sociology"	43
+2011	"Female"	"Sociology"	45
+1966	"Male"	"Sociology"	13
+1967	"Male"	"Sociology"	13
+1970	"Male"	"Sociology"	16
+1971	"Male"	"Sociology"	26
+1972	"Male"	"Sociology"	32
+1973	"Male"	"Sociology"	38
+1974	"Male"	"Sociology"	40
+1975	"Male"	"Sociology"	33
+1976	"Male"	"Sociology"	25
+1977	"Male"	"Sociology"	14
+1978	"Male"	"Sociology"	20
+1979	"Male"	"Sociology"	12
+1980	"Male"	"Sociology"	13
+1981	"Male"	"Sociology"	10
+1982	"Male"	"Sociology"	4
+1983	"Male"	"Sociology"	11
+1984	"Male"	"Sociology"	3
+1985	"Male"	"Sociology"	4
+1986	"Male"	"Sociology"	2
+1987	"Male"	"Sociology"	6
+1988	"Male"	"Sociology"	2
+1989	"Male"	"Sociology"	7
+1990	"Male"	"Sociology"	11
+1991	"Male"	"Sociology"	4
+1992	"Male"	"Sociology"	10
+1993	"Male"	"Sociology"	11
+1994	"Male"	"Sociology"	11
+1995	"Male"	"Sociology"	11
+1996	"Male"	"Sociology"	10
+1997	"Male"	"Sociology"	20
+1998	"Male"	"Sociology"	16
+1999	"Male"	"Sociology"	21
+2000	"Male"	"Sociology"	18
+2001	"Male"	"Sociology"	16
+2002	"Male"	"Sociology"	9
+2003	"Male"	"Sociology"	15
+2004	"Male"	"Sociology"	17
+2005	"Male"	"Sociology"	16
+2006	"Male"	"Sociology"	22
+2007	"Male"	"Sociology"	20
+2008	"Male"	"Sociology"	21
+2009	"Male"	"Sociology"	26
+2010	"Male"	"Sociology"	19
+2011	"Male"	"Sociology"	13
+1966	"Female"	"Vocational Studies and Home Economics"	81
+1967	"Female"	"Vocational Studies and Home Economics"	112
+1970	"Female"	"Vocational Studies and Home Economics"	182
+1971	"Female"	"Vocational Studies and Home Economics"	236
+1972	"Female"	"Vocational Studies and Home Economics"	236
+1973	"Female"	"Vocational Studies and Home Economics"	237
+1974	"Female"	"Vocational Studies and Home Economics"	254
+1975	"Female"	"Vocational Studies and Home Economics"	277
+1976	"Female"	"Vocational Studies and Home Economics"	231
+1977	"Female"	"Vocational Studies and Home Economics"	291
+1978	"Female"	"Vocational Studies and Home Economics"	379
+1979	"Female"	"Vocational Studies and Home Economics"	389
+1980	"Female"	"Vocational Studies and Home Economics"	405
+1981	"Female"	"Vocational Studies and Home Economics"	431
+1982	"Female"	"Vocational Studies and Home Economics"	419
+1983	"Female"	"Vocational Studies and Home Economics"	317
+1984	"Female"	"Vocational Studies and Home Economics"	255
+1985	"Female"	"Vocational Studies and Home Economics"	223
+1986	"Female"	"Vocational Studies and Home Economics"	226
+1987	"Female"	"Vocational Studies and Home Economics"	210
+1988	"Female"	"Vocational Studies and Home Economics"	204
+1989	"Female"	"Vocational Studies and Home Economics"	219
+1990	"Female"	"Vocational Studies and Home Economics"	226
+1991	"Female"	"Vocational Studies and Home Economics"	246
+1992	"Female"	"Vocational Studies and Home Economics"	266
+1993	"Female"	"Vocational Studies and Home Economics"	253
+1994	"Female"	"Vocational Studies and Home Economics"	272
+1995	"Female"	"Vocational Studies and Home Economics"	327
+1996	"Female"	"Vocational Studies and Home Economics"	335
+1997	"Female"	"Vocational Studies and Home Economics"	403
+1998	"Female"	"Vocational Studies and Home Economics"	402
+1999	"Female"	"Vocational Studies and Home Economics"	456
+2000	"Female"	"Vocational Studies and Home Economics"	417
+2001	"Female"	"Vocational Studies and Home Economics"	382
+2002	"Female"	"Vocational Studies and Home Economics"	357
+2003	"Female"	"Vocational Studies and Home Economics"	338
+2004	"Female"	"Vocational Studies and Home Economics"	349
+2005	"Female"	"Vocational Studies and Home Economics"	358
+2006	"Female"	"Vocational Studies and Home Economics"	353
+2007	"Female"	"Vocational Studies and Home Economics"	353
+2008	"Female"	"Vocational Studies and Home Economics"	363
+2009	"Female"	"Vocational Studies and Home Economics"	318
+2010	"Female"	"Vocational Studies and Home Economics"	430
+2011	"Female"	"Vocational Studies and Home Economics"	454
+1966	"Male"	"Vocational Studies and Home Economics"	31
+1967	"Male"	"Vocational Studies and Home Economics"	29
+1970	"Male"	"Vocational Studies and Home Economics"	56
+1971	"Male"	"Vocational Studies and Home Economics"	122
+1972	"Male"	"Vocational Studies and Home Economics"	160
+1973	"Male"	"Vocational Studies and Home Economics"	268
+1974	"Male"	"Vocational Studies and Home Economics"	274
+1975	"Male"	"Vocational Studies and Home Economics"	299
+1976	"Male"	"Vocational Studies and Home Economics"	255
+1977	"Male"	"Vocational Studies and Home Economics"	221
+1978	"Male"	"Vocational Studies and Home Economics"	251
+1979	"Male"	"Vocational Studies and Home Economics"	282
+1980	"Male"	"Vocational Studies and Home Economics"	228
+1981	"Male"	"Vocational Studies and Home Economics"	209
+1982	"Male"	"Vocational Studies and Home Economics"	225
+1983	"Male"	"Vocational Studies and Home Economics"	116
+1984	"Male"	"Vocational Studies and Home Economics"	129
+1985	"Male"	"Vocational Studies and Home Economics"	127
+1986	"Male"	"Vocational Studies and Home Economics"	123
+1987	"Male"	"Vocational Studies and Home Economics"	141
+1988	"Male"	"Vocational Studies and Home Economics"	128
+1989	"Male"	"Vocational Studies and Home Economics"	134
+1990	"Male"	"Vocational Studies and Home Economics"	131
+1991	"Male"	"Vocational Studies and Home Economics"	167
+1992	"Male"	"Vocational Studies and Home Economics"	154
+1993	"Male"	"Vocational Studies and Home Economics"	204
+1994	"Male"	"Vocational Studies and Home Economics"	188
+1995	"Male"	"Vocational Studies and Home Economics"	200
+1996	"Male"	"Vocational Studies and Home Economics"	209
+1997	"Male"	"Vocational Studies and Home Economics"	264
+1998	"Male"	"Vocational Studies and Home Economics"	204
+1999	"Male"	"Vocational Studies and Home Economics"	235
+2000	"Male"	"Vocational Studies and Home Economics"	198
+2001	"Male"	"Vocational Studies and Home Economics"	168
+2002	"Male"	"Vocational Studies and Home Economics"	161
+2003	"Male"	"Vocational Studies and Home Economics"	172
+2004	"Male"	"Vocational Studies and Home Economics"	153
+2005	"Male"	"Vocational Studies and Home Economics"	169
+2006	"Male"	"Vocational Studies and Home Economics"	181
+2007	"Male"	"Vocational Studies and Home Economics"	188
+2008	"Male"	"Vocational Studies and Home Economics"	187
+2009	"Male"	"Vocational Studies and Home Economics"	223
+2010	"Male"	"Vocational Studies and Home Economics"	272
+2011	"Male"	"Vocational Studies and Home Economics"	361

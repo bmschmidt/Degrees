@@ -70,14 +70,14 @@ stories["CS"] =
              "gender":["Male","Female"],
              "field":["Computer Science"]},
       "Narrative":
-      "Computer Science is one of those 'practical' degrees lazy writers always trot out as an explanation of where college students have been majoring lately. But while the overall trend for CS has been upwards, the real story is a lot more interesting."
+      "Computer Science is one of those 'practical' degrees writers often trot out as an explanation of where college students have been majoring lately. But while the overall trend for CS has been upwards, the real story is a lot more interesting."
      },
      {
          "plotOptions":{
              "startyear":1980,"endyear":1998,
              "gender":["Male","Female"],
              "field":["Computer Science"]},
-         "Narrative": "Although computer science has risen, the story is really dominated by two massive peaks.Degrees rose and fell dramatically between 1980 and 1990, leveled off through the 1990s..."},
+         "Narrative": "Although computer science has risen, the story is really dominated by two massive peaks. Degrees rose and fell dramatically between 1980 and 1990, leveled off through the 1990s..."},
      {"plotOptions":{
              "gender":["Male","Female"],
              "field":["Computer Science"]
@@ -93,7 +93,7 @@ stories["CS"] =
              "startyear":1984,"endyear":2011
          },
       "Narrative":
-      "America has a lower percentage of computer science majors now than it did when the Apple Macintosh was first introduced. So college students aren't necessarily getting more vocational in their career choices."
+      "America has a lower percentage of computer science majors now than it did when the Apple Macintosh was first introduced. So college students aren't really flocking to CS as the job market tightens. (As if getting a job was ever easy)."
      },
      {"plotOptions":{
              "gender":["Male"],

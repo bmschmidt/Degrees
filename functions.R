@@ -15,7 +15,7 @@ loadCarnegieTable = function() {
   return(degrees[,c("year","gender","level","institution","discipline","majors")])
 }
 
-loadSchoolTable = function(files = c("rawdata/Schools2.csv")) {
+loadSchoolTable = function(files = list.files("rawdata/schoolCounts/",full.names=T)) {
   raw = lapply(files, function(name) {
     degrees = read.table(name,sep=",",skip = 0,header=T
                          ,colClasses = c("character","factor","factor","factor","character","character"),na.strings=c(".",'"."','"######"'))
