@@ -63,6 +63,6 @@ writeOutResults = function(table) {
     #totals = ddply(limited,.(year),function(row){data.frame(total=sum(row$count))})
     #limited = merge(limited,totals)
     #head(limited)
-    write.table(limited,file=paste0("/var/www/Degrees/tables/",gsub("/",".",mytable$institution[1]),".tsv"),sep="\t",row.names=F)
+    write.table(limited,file=paste0("tables/",gsub("/",".",mytable$institution[1]),".tsv"),sep="\t",row.names=F)
   })
 }
