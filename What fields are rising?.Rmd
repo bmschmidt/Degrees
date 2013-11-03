@@ -1,0 +1,45 @@
+Which fields are rising?
+========================
+
+Load in data:
+```{r}
+source("functions.R")
+carnegies = loadCarnegieTable()
+table = cleanupTable(carnegies)
+table = reformatDisciplines(table)
+#writeOutResults(table[table$level=="Bachelor's Degrees",])
+```
+
+
+```{r}
+head(table)
+
+table$field = table$discipline
+table = table[table$field %in% names(sort(-xtabs(majors~field,table)))[1:50],]
+
+change = ddply(table,.(year),function(frame) {
+    counts = ddply(frame,.(field),function(disc) {
+    data.frame(count = sum(disc$majors,na.rm=T))
+  })
+  counts$percent = counts$count/sum(counts$count)
+  return(counts)
+})
+
+relativeChanges = ddply(change,.(field),function(disc,startyear = 1985) {
+    disc$predicted = (predict(loess(percent~year,span=.1,disc)))
+    current = disc$current = disc$percent[disc$year==max(disc$year)]
+    disc$relative = disc$predicted/current
+    disc
+    })
+relativeChanges$changeSince = 100*(round((relativeChanges$current-relativeChanges$percent)/relativeChanges$percent,3))
+neworder = names(sort(predict(prcomp(xtabs(log(relative)~field+year,relativeChanges)))[,1]))
+ggplot(relativeChanges) + geom_tile(aes(x=year,y=factor(field,levels=neworder),fill=relative)) + scale_fill_gradient2(midpoint=1,low="blue",high="red")
+ggplot(relativeChanges[relativeChanges$year>1970,],aes(x=year,y=factor(field,levels=neworder),fill=relative,label=changeSince)) + geom_tile() + scale_fill_gradient2(midpoint=1,low="blue",high="red") + geom_text(size=3) + labs(title="Relative status of past years as a baseline for present degrees in 50 fields:\ncolors how how large past percentages of all degrees were,\nand numbers in cells show the percentage change from that year to 2011 in the field")
+
+
+theBiggestChangeEachYear=ddply(relativeChanges,.(year),function(loc){
+  loc = loc[order(loc$changeSince),]
+  loc[,c("changeSince","field")][1,]
+})
+
+```

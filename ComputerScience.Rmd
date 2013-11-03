@@ -1,0 +1,47 @@
+Computer Science
+========================================================
+
+Loading in data:
+```{r}
+source("functions.R")
+schools = loadSchoolTable()
+table = cleanupTable(schools)
+table = reformatDisciplines(table)
+library(data.table)
+library(dplyr)
+majors = data.table(table[table$level=="Bachelor's Degrees",],key="year,gender,institution,field")
+
+tbl = tbl_dt(majors)
+a = group_by(tbl,institution,gender,year)
+a = mutate(a, total=sum(majors))
+a$percent = a$majors/a$total
+majors = a
+
+```
+
+
+```{r fig.width=7, fig.height=6}
+majors = data.frame(majors)
+head(majors)
+library(plyr)
+values = ddply(majors[majors$field=="Computer Science",],.(institution,year),function(frame) {
+  data.frame(ratio = sum(frame$percent[frame$gender=="Female"])/sum(frame$percent[frame$gender=="Male"]),count=sum(frame$majors))
+},.progress="text")
+ggplot(values[values$count>10,],aes(x=year,y=ratio)) + geom_line() + scale_y_continuous(trans="log10") + facet_wrap(~institution)
+
+a = xtabs(percent~institution+year+gender,majors[(majors$field=="Computer Science"),])
+a = as.data.frame(a)
+f = melt(a)
+levels(f$institution) = gsub("[, -]","_",f$institution)
+f = f[,c("institution","year","gender","value")]
+ddply()
+m = dcast(institution~gender,f)
+
+colnames(a) = paste("in",colnames(a),sep=".")
+a$label=rownames(a)
+colnames(a)
+library(ggplot2)
+ggplot(a,aes(label=label,y=in.1984,x=in.2010,color=gender)) + geom_text()
+
+```
+
